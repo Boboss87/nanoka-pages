@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1331001",
+    "name": "Nitro-Fuel Sharing Pack",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact009.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Artifact009.webp",
+        "localPath": "gallery/zzz/Artifact009.webp",
+        "sha256": "1f288c05282fb5ecd677d378674877d5ff81f04adac6b2f9df40701d9f98d743",
+        "etag": "\"dld8rfnxuz4e-7qe\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnxuz4e-7qe\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10022|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10022,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact009.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Artifact009.webp",
+        "localPath": "gallery/zzz/Artifact009.webp",
+        "sha256": "1f288c05282fb5ecd677d378674877d5ff81f04adac6b2f9df40701d9f98d743",
+        "etag": "\"dld8rfnxuz4e-7qe\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnxuz4e-7qe\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10022|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10022,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact009.png",
+      "rank": 4,
+      "class": 81,
+      "name": "Nitro-Fuel Sharing Pack"
+    },
+    "detail": {
+      "id": 1331001,
+      "name": "Nitro-Fuel Sharing Pack",
+      "desc": "Agents <color=#CF4029>take 20% increased DMG</color>, but no longer consume <color=#FFFFFF>Assist Points</color> when activating <color=#FFFFFF>Defensive Assist</color> and <color=#FFFFFF>Evasive Assist</color>.",
+      "desc2": "",
+      "class": {
+        "81": "HOLLOW ONLY"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact009.png"
+    }
+  }
+}

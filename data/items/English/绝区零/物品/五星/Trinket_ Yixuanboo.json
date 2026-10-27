@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4360127",
+    "name": "Trinket: Yixuanboo",
+    "rarity": "五星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 5,
+      "class": 130,
+      "name": "Trinket: Yixuanboo"
+    },
+    "detail": {
+      "id": 4360127,
+      "name": "Trinket: Yixuanboo",
+      "desc": "Another special creation from a certain Yunkui Summit fan, merging Grandmaster Yixuan's figure with a Bangboo's. In chibi form, Yixuan Shifu looks way friendlier and cuter. But come on, no such Bangboo exists!",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": ""
+    }
+  }
+}

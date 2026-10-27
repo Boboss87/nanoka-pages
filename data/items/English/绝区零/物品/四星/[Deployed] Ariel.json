@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1044023",
+    "name": "[Deployed] Ariel",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooAngelboo.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBangbooAngelboo.webp",
+        "localPath": "gallery/zzz/CardBangbooAngelboo.webp",
+        "sha256": "2b686ce2a2fb7edfd1f7ddff84b14ce816aa9c1011e754e2c47fd20c960989ef",
+        "etag": "\"dld8rfq0volu-b4w\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq0volu-b4w\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14432|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14432,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooAngelboo.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBangbooAngelboo.webp",
+        "localPath": "gallery/zzz/CardBangbooAngelboo.webp",
+        "sha256": "2b686ce2a2fb7edfd1f7ddff84b14ce816aa9c1011e754e2c47fd20c960989ef",
+        "etag": "\"dld8rfq0volu-b4w\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq0volu-b4w\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14432|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14432,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooAngelboo.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Deployed] Ariel"
+    },
+    "detail": {
+      "id": 1044023,
+      "name": "[Deployed] Ariel",
+      "desc": "Active Skill: Flies high into the air, then blinks to the target's vicinity, attacking and pulling in enemies across a large area. After a short time, a Prismatic Cross is generated that deals <color=#FE437E>Ether DMG</color>. Once the pull ends, gain 1/2/3 random buffs based on the number of enemies pulled (the same buff cannot be gained more than once): Buff 1: Restore the Agent's HP. Buff 2: Restore the Agent's Energy. Buff 3: Increase Prismatic Cross DMG.",
+      "desc2": "<color=#FFFFFF>Bangboo Chain Attack: Glides through the air and throws a Dazzling Nebula at the target, dealing massive <color=#FE437E>Ether DMG</color>.</color>",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooAngelboo.png"
+    }
+  }
+}

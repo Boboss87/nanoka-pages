@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4241001",
+    "name": "Bootopia Special Collectible Box",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovGiftGeneralS_1.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovGiftGeneralS_1.webp",
+        "localPath": "gallery/zzz/BangkovGiftGeneralS_1.webp",
+        "sha256": "b0c469eda89f76ff93c56cba006a302b2023583293bacb881056f508343d7310",
+        "etag": "\"dld8rfpj0noj-5y0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpj0noj-5y0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7704|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7704,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovGiftGeneralS_1.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovGiftGeneralS_1.webp",
+        "localPath": "gallery/zzz/BangkovGiftGeneralS_1.webp",
+        "sha256": "b0c469eda89f76ff93c56cba006a302b2023583293bacb881056f508343d7310",
+        "etag": "\"dld8rfpj0noj-5y0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpj0noj-5y0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7704|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7704,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovGiftGeneralS_1.png",
+      "rank": 4,
+      "class": 124,
+      "name": "Bootopia Special Collectible Box"
+    },
+    "detail": {
+      "id": 4241001,
+      "name": "Bootopia Special Collectible Box",
+      "desc": "Describes source, usage, and other gameplay info",
+      "desc2": "BKItem_4241001_Story",
+      "class": {
+        "124": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovGiftGeneralS_1.png"
+    }
+  }
+}

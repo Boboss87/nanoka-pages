@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "2090006",
+    "name": "\"Peerless Player\" Exclusive Controller",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ChickenGamepad.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ChickenGamepad.webp",
+        "localPath": "gallery/zzz/ChickenGamepad.webp",
+        "sha256": "aa808a3c217338284075a0994754110ddcb4bc556da81eab2b8ce12c13806a51",
+        "etag": "\"dld8rfr9j8x2-5js\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr9j8x2-5js\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7192|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7192,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ChickenGamepad.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ChickenGamepad.webp",
+        "localPath": "gallery/zzz/ChickenGamepad.webp",
+        "sha256": "aa808a3c217338284075a0994754110ddcb4bc556da81eab2b8ce12c13806a51",
+        "etag": "\"dld8rfr9j8x2-5js\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr9j8x2-5js\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7192|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7192,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ChickenGamepad.png",
+      "rank": 3,
+      "class": 51,
+      "name": "\"Peerless Player\" Exclusive Controller"
+    },
+    "detail": {
+      "id": 2090006,
+      "name": "\"Peerless Player\" Exclusive Controller",
+      "desc": "The \"GameSir × Zenless Zone Zero\" collaboration event exclusive reward; grants 60 Battery Charge upon use.",
+      "desc2": "This custom-made controller for the Hollow Deep Dive System comes with a fully charged battery and works perfectly in environments like the Godfinger Arcade and the Marcel Maze. According to Fairy's calculations, a fully charged controller can support Eous through an entire day of dungeon runs in the Marcel Maze.",
+      "class": {
+        "51": "GIFT"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ChickenGamepad.png"
+    }
+  }
+}

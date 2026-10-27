@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1141",
+    "name": "Lycaon",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece18.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece18.webp",
+        "localPath": "gallery/zzz/IconRolePiece18.webp",
+        "sha256": "2aecefbba93f50a5aae7050a4788e33dfc82125967f5d3da9f3f214c5a15652b",
+        "etag": "\"dld8rgde66yv-8sg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgde66yv-8sg\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11392|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11392,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece18.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece18.webp",
+        "localPath": "gallery/zzz/IconRolePiece18.webp",
+        "sha256": "2aecefbba93f50a5aae7050a4788e33dfc82125967f5d3da9f3f214c5a15652b",
+        "etag": "\"dld8rgde66yv-8sg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgde66yv-8sg\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11392|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11392,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece18.png",
+      "rank": 4,
+      "class": 3,
+      "name": "Lycaon"
+    },
+    "detail": {
+      "id": 1141,
+      "name": "Lycaon",
+      "desc": "Use it to obtain the Agent or unlock the Agent's Mindscapes.",
+      "desc2": "Snapshots from Lycaon's daily life and from in combat, recording important moments before and after he became an Agent.\nThese images also provide insights into his fighting style and favorite weapons, helping to better understand his strengths.\n\nAttached are the contact details for Victoria Housekeeping; the elegantly embossed silver signature on the card reveals the unmistakable hand behind it.",
+      "class": {
+        "3": "AGENT"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece18.png"
+    }
+  }
+}

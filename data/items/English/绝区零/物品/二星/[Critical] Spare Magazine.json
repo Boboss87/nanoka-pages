@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000309",
+    "name": "[Critical] Spare Magazine",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGun03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardGun03.webp",
+        "localPath": "gallery/zzz/CardGun03.webp",
+        "sha256": "0897825b837e9d9f3303ac8d067d6eb5459614d0e6cfa7b53d23e0a814379128",
+        "etag": "\"dld8rfqop1u8-chs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqop1u8-chs\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16192|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16192,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGun03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardGun03.webp",
+        "localPath": "gallery/zzz/CardGun03.webp",
+        "sha256": "0897825b837e9d9f3303ac8d067d6eb5459614d0e6cfa7b53d23e0a814379128",
+        "etag": "\"dld8rfqop1u8-chs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqop1u8-chs\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16192|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16192,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGun03.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[Critical] Spare Magazine"
+    },
+    "detail": {
+      "id": 1000309,
+      "name": "[Critical] Spare Magazine",
+      "desc": "Landing a critical hit on an enemy reduces the target's ATK by <color=#2BAD00>15%</color> for 10s.",
+      "desc2": "Better prepare for the next enemy early.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGun03.png"
+    }
+  }
+}

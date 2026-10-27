@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "2090005",
+    "name": "Investigator Gift: Commemorative Edition",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Appleenergy.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Appleenergy.webp",
+        "localPath": "gallery/zzz/Appleenergy.webp",
+        "sha256": "5aa325910b7c587561ca5510b2f415459e0efa5e362ef32d5e308def8bdf54df",
+        "etag": "\"dld8rfnx9jho-6q4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnx9jho-6q4\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8716|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8716,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Appleenergy.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Appleenergy.webp",
+        "localPath": "gallery/zzz/Appleenergy.webp",
+        "sha256": "5aa325910b7c587561ca5510b2f415459e0efa5e362ef32d5e308def8bdf54df",
+        "etag": "\"dld8rfnx9jho-6q4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnx9jho-6q4\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8716|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8716,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Appleenergy.png",
+      "rank": 3,
+      "class": 20,
+      "name": "Investigator Gift: Commemorative Edition"
+    },
+    "detail": {
+      "id": 2090005,
+      "name": "Investigator Gift: Commemorative Edition",
+      "desc": "A gift prepared for the Proxy upon completing special investigation missions, holding significant commemorative value.",
+      "desc2": "A message from HAND is attached to the gift: As Section 6's most favored independent investigator, may you always emerge victorious and unstoppable in your battles against the Hollows!",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Appleenergy.png"
+    }
+  }
+}

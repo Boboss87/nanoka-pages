@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "306003",
+    "name": "Photo of Six People",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CommemorativeCoins.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CommemorativeCoins.webp",
+        "localPath": "gallery/zzz/CommemorativeCoins.webp",
+        "sha256": "be9f6fd6f6bd0e89d381a514a2d2f1275922065ae5cd67f8ac51bf321b9af400",
+        "etag": "\"dld8rfrd3upb-93k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrd3upb-93k\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=11792|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11792,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CommemorativeCoins.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CommemorativeCoins.webp",
+        "localPath": "gallery/zzz/CommemorativeCoins.webp",
+        "sha256": "be9f6fd6f6bd0e89d381a514a2d2f1275922065ae5cd67f8ac51bf321b9af400",
+        "etag": "\"dld8rfrd3upb-93k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrd3upb-93k\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=11792|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11792,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CommemorativeCoins.png",
+      "rank": 2,
+      "class": 22,
+      "name": "Photo of Six People"
+    },
+    "detail": {
+      "id": 306003,
+      "name": "Photo of Six People",
+      "desc": "A group photo from Nekomata.",
+      "desc2": "It was taken at a buffet restaurant after the Vision demolition crisis was taken care of. Just as Nekomata claims, it's a very good picture.\nLooking at it brings back memories of a delicious meal, relaxed spirits, and slight whiplash at the sight of the bill.",
+      "class": {
+        "22": "CLUE ITEM"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CommemorativeCoins.png"
+    }
+  }
+}

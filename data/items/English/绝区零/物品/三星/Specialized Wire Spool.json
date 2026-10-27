@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4300321",
+    "name": "Specialized Wire Spool",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Material_011.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Material_011.webp",
+        "localPath": "gallery/zzz/Zenkov_Material_011.webp",
+        "sha256": "19d42fbe5d779ba11cb5b547ec3b04f6812057142d04cd8fe8ec768a950852d5",
+        "etag": "\"dld8rgr8ilz2-6iu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr8ilz2-6iu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8454|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8454,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Material_011.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Material_011.webp",
+        "localPath": "gallery/zzz/Zenkov_Material_011.webp",
+        "sha256": "19d42fbe5d779ba11cb5b547ec3b04f6812057142d04cd8fe8ec768a950852d5",
+        "etag": "\"dld8rgr8ilz2-6iu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr8ilz2-6iu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8454|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8454,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Material_011.png",
+      "rank": 3,
+      "class": 130,
+      "name": "Specialized Wire Spool"
+    },
+    "detail": {
+      "id": 4300321,
+      "name": "Specialized Wire Spool",
+      "desc": "Used for plan development and crafting Squad Equipment.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Material_011.png"
+    }
+  }
+}

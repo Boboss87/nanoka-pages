@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "305040",
+    "name": "ClueName_305040",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0024.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconQuestItem_Abyss_0024.webp",
+        "localPath": "gallery/zzz/IconQuestItem_Abyss_0024.webp",
+        "sha256": "258fda9532d367a45227848459c8c6168c3b810e63ec81c5ac1246dfb814354a",
+        "etag": "\"dld8rg7tivdm-6bi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7tivdm-6bi\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=8190|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8190,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0024.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconQuestItem_Abyss_0024.webp",
+        "localPath": "gallery/zzz/IconQuestItem_Abyss_0024.webp",
+        "sha256": "258fda9532d367a45227848459c8c6168c3b810e63ec81c5ac1246dfb814354a",
+        "etag": "\"dld8rg7tivdm-6bi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7tivdm-6bi\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=8190|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8190,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0024.png",
+      "rank": 2,
+      "class": 22,
+      "name": "ClueName_305040"
+    },
+    "detail": {
+      "id": 305040,
+      "name": "ClueName_305040",
+      "desc": "An old item found by chance in Hollow Zero. Find all the related items to unlock a story lost in the Hollow.",
+      "desc2": "\"Things can be lost, but stories live on forever. As long as our neurotransmitters can still transmit information, stories will come to life once again.\"",
+      "class": {
+        "22": "CLUE ITEM"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0024.png"
+    }
+  }
+}

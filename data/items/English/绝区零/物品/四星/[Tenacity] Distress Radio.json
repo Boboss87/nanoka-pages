@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1012402",
+    "name": "[Tenacity] Distress Radio",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTenacity13.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardTenacity13.webp",
+        "localPath": "gallery/zzz/CardTenacity13.webp",
+        "sha256": "e040afd12e4304c71bc2faab69a2387492a04c97596de8bc2dfdd83d7c6266fc",
+        "etag": "\"dld8rfr5d7i3-dxw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr5d7i3-dxw\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=18068|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 18068,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTenacity13.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardTenacity13.webp",
+        "localPath": "gallery/zzz/CardTenacity13.webp",
+        "sha256": "e040afd12e4304c71bc2faab69a2387492a04c97596de8bc2dfdd83d7c6266fc",
+        "etag": "\"dld8rfr5d7i3-dxw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr5d7i3-dxw\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=18068|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 18068,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTenacity13.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Tenacity] Distress Radio"
+    },
+    "detail": {
+      "id": 1012402,
+      "name": "[Tenacity] Distress Radio",
+      "desc": "Increases the stack limit of Instinct from 5 to <color=#2BAD00>10</color>, with each stack increasing the Daze caused by the Agent by <color=#2BAD00>4%</color>. The threshold for the [Compass] Resonium not losing HP is increased to <color=#2BAD00>30%</color>.",
+      "desc2": "Even if all that's received is static, it's still a comfort. As long as there's power, there's hope.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTenacity13.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1312201",
+    "name": "Astra Yao - Perfect Save",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardAstra01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardAstra01.webp",
+        "localPath": "gallery/zzz/CardAstra01.webp",
+        "sha256": "bc6e6f6923b960899ddd709c427a13209a8335bae2be0ba60d2b3229fe7a5068",
+        "etag": "\"dld8rfpyhy2z-beq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpyhy2z-beq\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14786|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14786,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardAstra01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardAstra01.webp",
+        "localPath": "gallery/zzz/CardAstra01.webp",
+        "sha256": "bc6e6f6923b960899ddd709c427a13209a8335bae2be0ba60d2b3229fe7a5068",
+        "etag": "\"dld8rfpyhy2z-beq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpyhy2z-beq\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14786|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14786,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardAstra01.png",
+      "rank": 3,
+      "class": 80,
+      "name": "Astra Yao - Perfect Save"
+    },
+    "detail": {
+      "id": 1312201,
+      "name": "Astra Yao - Perfect Save",
+      "desc": "DMG dealt by <color=#FFFFFF>Basic Attack: Radiant Moment</color> will be <color=#2BAD00>considered as <color=#FFFFFF>EX Special Attack</color> DMG</color>. During this skill, <color=#2BAD00>all squad members' Crit Rate is increased by 18%</color>.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardAstra01.png"
+    }
+  }
+}

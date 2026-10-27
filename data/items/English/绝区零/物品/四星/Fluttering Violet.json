@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3113310",
+    "name": "Fluttering Violet",
+    "rarity": "四星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 4,
+      "class": 63,
+      "name": "Fluttering Violet"
+    },
+    "detail": {
+      "id": 3113310,
+      "name": "Fluttering Violet",
+      "desc": "Vivian's Outfit.",
+      "desc2": "Maintain your elegance, Miss Vivian, from the point of your parasol, right down to your flowing skirt. Maintain your courage, Miss Vivian, be it last night's lonely walk, or here today at my side.",
+      "class": {
+        "63": "DRESS"
+      },
+      "rarity": 4,
+      "icon_path": ""
+    }
+  }
+}

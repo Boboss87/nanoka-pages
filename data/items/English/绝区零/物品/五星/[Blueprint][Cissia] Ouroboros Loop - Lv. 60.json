@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4350515",
+    "name": "[Blueprint][Cissia] Ouroboros Loop - Lv. 60",
+    "rarity": "五星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_013_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_013_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_013_Blueprint.webp",
+        "sha256": "f7e34e97337fee96407465105751686796c39753deb8c676651f5cb4720b2b69",
+        "etag": "\"dld8rgrf2dwv-8zs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrf2dwv-8zs\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11656|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11656,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_013_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_013_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_013_Blueprint.webp",
+        "sha256": "f7e34e97337fee96407465105751686796c39753deb8c676651f5cb4720b2b69",
+        "etag": "\"dld8rgrf2dwv-8zs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrf2dwv-8zs\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11656|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11656,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_013_Blueprint.png",
+      "rank": 5,
+      "class": 130,
+      "name": "[Blueprint][Cissia] Ouroboros Loop - Lv. 60"
+    },
+    "detail": {
+      "id": 4350515,
+      "name": "[Blueprint][Cissia] Ouroboros Loop - Lv. 60",
+      "desc": "This blueprint can be used to unlock the crafting of Cissia's exclusive Tactical Prism at the Smart Workshop. Purchase them from Boojee's Store - Season Limited.\nItem Effect: When using Etheric Phantom to enter Stealth, Stealth duration is extended by 3s.\nAfter using <color=#FFFFFF>EX Special Attack</color>, gains the <color=#FFFFFF>Viper Strike</color> effect: When any Non-<color=#FFFFFF>Corrode Bone</color> attack hits an enemy, it <color=#2BAD00>triggers a free special <color=#FFFFFF>Corrode Bone</color></color> that cannot inflict Daze. This effect can be triggered once every 1s and lasts for 6s.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_013_Blueprint.png"
+    }
+  }
+}

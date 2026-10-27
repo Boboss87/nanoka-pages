@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1357528",
+    "name": "[2] Daze Inflatable Hammer",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBlunt13.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBlunt13.webp",
+        "localPath": "gallery/zzz/CardBlunt13.webp",
+        "sha256": "fe5615bcef441b0eb94fee1fd944ba5c2f423a8f19cd3fd66326fd69a6a33146",
+        "etag": "\"dld8rfq51q0s-ddo\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq51q0s-ddo\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17340|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17340,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBlunt13.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBlunt13.webp",
+        "localPath": "gallery/zzz/CardBlunt13.webp",
+        "sha256": "fe5615bcef441b0eb94fee1fd944ba5c2f423a8f19cd3fd66326fd69a6a33146",
+        "etag": "\"dld8rfq51q0s-ddo\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq51q0s-ddo\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17340|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17340,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBlunt13.png",
+      "rank": 4,
+      "class": 106,
+      "name": "[2] Daze Inflatable Hammer"
+    },
+    "detail": {
+      "id": 1357528,
+      "name": "[2] Daze Inflatable Hammer",
+      "desc": "All squad members' <color=#FFAF2C>Daze</color> inflicted increases by 12%, and <color=#FFAF2C>Anomaly Proficiency</color> increases by 40. When Stunning or inflicting Attribute Anomaly on enemies, <color=#FFAF2C>triggers an additional strike</color>, dealing DMG equal to 1,100% of the Agent's ATK to the target and the surrounding enemies.",
+      "desc2": "",
+      "class": {
+        "106": "TAROT CARD"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBlunt13.png"
+    }
+  }
+}

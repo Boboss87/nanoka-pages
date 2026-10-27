@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1200010",
+    "name": "Ether Fuel Cells",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EtherFuel.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/EtherFuel.webp",
+        "localPath": "gallery/zzz/EtherFuel.webp",
+        "sha256": "43cca0efab5a3ed3e19bd82e0eaced624a05f8f492b9f32b9eeae6ff3fd07491",
+        "etag": "\"dld8rfrhvbr0-7v4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrhvbr0-7v4\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10192|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10192,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EtherFuel.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/EtherFuel.webp",
+        "localPath": "gallery/zzz/EtherFuel.webp",
+        "sha256": "43cca0efab5a3ed3e19bd82e0eaced624a05f8f492b9f32b9eeae6ff3fd07491",
+        "etag": "\"dld8rfrhvbr0-7v4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrhvbr0-7v4\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10192|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10192,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EtherFuel.png",
+      "rank": 3,
+      "class": 37,
+      "name": "Ether Fuel Cells"
+    },
+    "detail": {
+      "id": 1200010,
+      "name": "Ether Fuel Cells",
+      "desc": "Canned fuel that can power generators.",
+      "desc2": "",
+      "class": {
+        "37": "HOLLOW ONLY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EtherFuel.png"
+    }
+  }
+}

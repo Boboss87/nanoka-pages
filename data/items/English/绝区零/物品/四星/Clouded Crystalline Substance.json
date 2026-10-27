@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "110008",
+    "name": "Clouded Crystalline Substance",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "ExBigBoss008",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ExBigBoss008.webp",
+        "localPath": "gallery/zzz/ExBigBoss008.webp",
+        "sha256": "6f96e57779a4659179021861ac18d56860c182acb5579a4c2e18a6c634a93dba",
+        "etag": "\"dld8rfusy5wy-in4a\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfusy5wy-in4a\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=869770|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 869770,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "ExBigBoss008",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ExBigBoss008.webp",
+        "localPath": "gallery/zzz/ExBigBoss008.webp",
+        "sha256": "6f96e57779a4659179021861ac18d56860c182acb5579a4c2e18a6c634a93dba",
+        "etag": "\"dld8rfusy5wy-in4a\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfusy5wy-in4a\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=869770|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 869770,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "ExBigBoss008",
+      "rank": 4,
+      "class": 10,
+      "name": "Clouded Crystalline Substance",
+      "boss": true
+    },
+    "detail": {
+      "id": 110008,
+      "name": "Clouded Crystalline Substance",
+      "desc": "An important item required to upgrade your Agent's advanced Core Skills.",
+      "desc2": "An etheric coagulum preserved in a rare form, taken from the giant beast \"Sobek\" controlled by The Thrall. An indescribable crystalline substance, with tainted patterns clinging to its surface that seem to whisper tales of the abyss to whoever possesses it.",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 4,
+      "icon_path": "ExBigBoss008",
+      "boss": true
+    }
+  }
+}

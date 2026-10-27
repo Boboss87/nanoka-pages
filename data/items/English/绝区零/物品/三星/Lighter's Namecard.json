@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3311161",
+    "name": "Lighter's Namecard",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "Lighter's Namecard"
+    },
+    "detail": {
+      "id": 3311161,
+      "name": "Lighter's Namecard",
+      "desc": "Get by unlocking Lighter's Mindscape: Mercenary Leader",
+      "desc2": "A card with the image of Leaps and Bounds Logistics Company's Hollow affairs consultant printed on it.\nThe edges of the card are charred and burned but luckily don't cover the prices. \"Any fighting is guaranteed to be a good show,\" is also written on it... Is this really proper Hollow consulting?",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

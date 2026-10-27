@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "135",
+    "name": "Contribution Points",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/SocialCurrency.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SocialCurrency.webp",
+        "localPath": "gallery/zzz/SocialCurrency.webp",
+        "sha256": "bf2c6b273774151d220a2f15737a76af389ae323787c5689faae6c2c7fb2e42c",
+        "etag": "\"dld8rgodihu8-7oy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgodihu8-7oy\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9970|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9970,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/SocialCurrency.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SocialCurrency.webp",
+        "localPath": "gallery/zzz/SocialCurrency.webp",
+        "sha256": "bf2c6b273774151d220a2f15737a76af389ae323787c5689faae6c2c7fb2e42c",
+        "etag": "\"dld8rgodihu8-7oy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgodihu8-7oy\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9970|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9970,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/SocialCurrency.png",
+      "rank": 3,
+      "class": 1,
+      "name": "Contribution Points"
+    },
+    "detail": {
+      "id": 135,
+      "name": "Contribution Points",
+      "desc": "Used to buy various items in \"Points Exchange\"",
+      "desc2": "Just like carrots come in all sizes, Proxies come in all types. Whether posting or accepting commissions, any contribution to Inter-Knot's reputation will earn you respect from your peers.\nAnd then... take a trip to \"Points Exchange\" to see how your fellow Proxies' respect translates into real rewards.",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/SocialCurrency.png"
+    }
+  }
+}

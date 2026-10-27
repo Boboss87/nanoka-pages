@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3201018",
+    "name": "Focus on This!",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1018.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemProfile1018.webp",
+        "localPath": "gallery/zzz/ItemProfile1018.webp",
+        "sha256": "8c5907cb4741db14777bb4349d42e631e820efa64b9691b54fe1810749573381",
+        "etag": "\"dld8rgei2a8g-8ws\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgei2a8g-8ws\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11548|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11548,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1018.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemProfile1018.webp",
+        "localPath": "gallery/zzz/ItemProfile1018.webp",
+        "sha256": "8c5907cb4741db14777bb4349d42e631e820efa64b9691b54fe1810749573381",
+        "etag": "\"dld8rgei2a8g-8ws\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgei2a8g-8ws\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11548|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11548,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1018.png",
+      "rank": 4,
+      "class": 64,
+      "name": "Focus on This!"
+    },
+    "detail": {
+      "id": 3201018,
+      "name": "Focus on This!",
+      "desc": "A commemorative avatar for the New Eridu City Fund: Growth Plan.",
+      "desc2": "Mysteries pile up, and fate weaves us together in ways we can't unravel.\nBut at least, on this journey to seek the truth, we'll walk side by side, always and forever.",
+      "class": {
+        "64": "PROFILE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1018.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "101",
+    "name": "Monochrome",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconCurrency02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconCurrency02.webp",
+        "localPath": "gallery/zzz/IconCurrency02.webp",
+        "sha256": "bdaeaf45ff404b684f8c5108bd15253b394b737c0aa1faf5d408d00b7a2930e7",
+        "etag": "\"dld8rg7jzxa9-c8g\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7jzxa9-c8g\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=15856|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15856,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconCurrency02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconCurrency02.webp",
+        "localPath": "gallery/zzz/IconCurrency02.webp",
+        "sha256": "bdaeaf45ff404b684f8c5108bd15253b394b737c0aa1faf5d408d00b7a2930e7",
+        "etag": "\"dld8rg7jzxa9-c8g\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7jzxa9-c8g\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=15856|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15856,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconCurrency02.png",
+      "rank": 4,
+      "class": 1,
+      "name": "Monochrome"
+    },
+    "detail": {
+      "id": 101,
+      "name": "Monochrome",
+      "desc": "Commonly used in antique cameras, this photographic film will reveal an image after being developed. ",
+      "desc2": "Given its potential to have captured a picture of the old civilization before the Hollow disasters, it holds significant value for some collectors.",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconCurrency02.png"
+    }
+  }
+}

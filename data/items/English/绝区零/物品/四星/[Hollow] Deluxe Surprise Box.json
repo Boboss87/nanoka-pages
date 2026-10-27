@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1001026",
+    "name": "[Hollow] Deluxe Surprise Box",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard21.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard21.webp",
+        "localPath": "gallery/zzz/CardChessboard21.webp",
+        "sha256": "3f05dfe99b1e2e43999b793e48884d866b748f0d75091cb770e2d6cbc425bdd8",
+        "etag": "\"dld8rfq97rfr-ae8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq97rfr-ae8\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=13472|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13472,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard21.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard21.webp",
+        "localPath": "gallery/zzz/CardChessboard21.webp",
+        "sha256": "3f05dfe99b1e2e43999b793e48884d866b748f0d75091cb770e2d6cbc425bdd8",
+        "etag": "\"dld8rfq97rfr-ae8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq97rfr-ae8\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=13472|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13472,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard21.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Hollow] Deluxe Surprise Box"
+    },
+    "detail": {
+      "id": 1001026,
+      "name": "[Hollow] Deluxe Surprise Box",
+      "desc": "When obtaining Resonia from Gacha machines, there's a <color=#2BAD00>5%</color> chance to get an S-Rank Resonium.",
+      "desc2": "Where are the blind boxes? All I want is a blind box!",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard21.png"
+    }
+  }
+}

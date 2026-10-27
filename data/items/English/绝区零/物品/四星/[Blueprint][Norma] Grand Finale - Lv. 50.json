@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4350312",
+    "name": "[Blueprint][Norma] Grand Finale - Lv. 50",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_017_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_017_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_017_Blueprint.webp",
+        "sha256": "3aa9d584039177cc95179cf3b074aae59c38d505e1fd1e0323ab82020c53bd8c",
+        "etag": "\"dld8rgrf2dwv-8i6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrf2dwv-8i6\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11022|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11022,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_017_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_017_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_017_Blueprint.webp",
+        "sha256": "3aa9d584039177cc95179cf3b074aae59c38d505e1fd1e0323ab82020c53bd8c",
+        "etag": "\"dld8rgrf2dwv-8i6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrf2dwv-8i6\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11022|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11022,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_017_Blueprint.png",
+      "rank": 4,
+      "class": 130,
+      "name": "[Blueprint][Norma] Grand Finale - Lv. 50"
+    },
+    "detail": {
+      "id": 4350312,
+      "name": "[Blueprint][Norma] Grand Finale - Lv. 50",
+      "desc": "This blueprint can be used to unlock the crafting of Norma's exclusive Tactical Prism at the Smart Workshop. Obtained through investigations or purchased from Boojee's Store - Permanent Store - Blueprint Direct Sale.\nItem Effect: Etheric Phantom: Scorpse deals 50% more DMG.\nWhen another squad member uses an <color=#FFFFFF>Ultimate</color>, Norma <color=#2BAD00>immediately gains 100% Preheated Chamber</color>. This effect can trigger once every 40s.\nWhen any Agent uses a <color=#FFFFFF>Chain Attack</color>, that Agent's <color=#2BAD00>Decibel Generation Rate increases by 25%</color> for 15s. Repeated triggers reset the duration.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_017_Blueprint.png"
+    }
+  }
+}

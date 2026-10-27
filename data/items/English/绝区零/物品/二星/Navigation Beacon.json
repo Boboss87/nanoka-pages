@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "400022",
+    "name": "Navigation Beacon",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill19.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivePropsSkill19.webp",
+        "localPath": "gallery/zzz/ActivePropsSkill19.webp",
+        "sha256": "ee88f2cfe02cf619e385d5d7cea437ba3926fefc8fd71ed0c607e0832f6bdcf6",
+        "etag": "\"dld8rfnvh8lj-44y\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnvh8lj-44y\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=5362|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5362,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill19.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivePropsSkill19.webp",
+        "localPath": "gallery/zzz/ActivePropsSkill19.webp",
+        "sha256": "ee88f2cfe02cf619e385d5d7cea437ba3926fefc8fd71ed0c607e0832f6bdcf6",
+        "etag": "\"dld8rfnvh8lj-44y\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnvh8lj-44y\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=5362|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5362,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill19.png",
+      "rank": 2,
+      "class": 15,
+      "name": "Navigation Beacon"
+    },
+    "detail": {
+      "id": 400022,
+      "name": "Navigation Beacon",
+      "desc": "<color=#2BAD00>Retains</color> the current event tile and carries it over <color=#2BAD00>to the next Hollow level</color>.",
+      "desc2": "Able to maintain a signal position synchronized with a Bangboo within a certain range, allowing for easy pathing to said position.",
+      "class": {
+        "15": "HOLLOW ITEM"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill19.png"
+    }
+  }
+}

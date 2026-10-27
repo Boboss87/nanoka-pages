@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3301027",
+    "name": "Countless Nychthemerons",
+    "rarity": "四星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 4,
+      "class": 65,
+      "name": "Countless Nychthemerons"
+    },
+    "detail": {
+      "id": 3301027,
+      "name": "Countless Nychthemerons",
+      "desc": "Commemorative namecard for the limited-time event \"Filmgoer Thank-You Gift.\"",
+      "desc2": "The wind weaves through winding streets as we wander beneath the endless sky.\nWe'll share midnight conversations with the stars, travel alongside the wandering sunlight, awaken the tranquil dawn, and herald the resounding fall of the moon.\nThe ever-turning cycle of day and night will remember our journey, and the stories we leave for tomorrow will ride the wind, becoming something eternal beyond the reach of time.",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 4,
+      "icon_path": ""
+    }
+  }
+}

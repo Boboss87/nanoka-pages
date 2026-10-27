@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "102020",
+    "name": "Energy Transfer Fluid",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BangbooBreakthrough02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangbooBreakthrough02.webp",
+        "localPath": "gallery/zzz/BangbooBreakthrough02.webp",
+        "sha256": "12d4f6ae13672d6f06cdb085a8442bd25cdffd6e53522d70559dfab134156882",
+        "etag": "\"dld8rfop8y51-6fu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfop8y51-6fu\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8346|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8346,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BangbooBreakthrough02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangbooBreakthrough02.webp",
+        "localPath": "gallery/zzz/BangbooBreakthrough02.webp",
+        "sha256": "12d4f6ae13672d6f06cdb085a8442bd25cdffd6e53522d70559dfab134156882",
+        "etag": "\"dld8rfop8y51-6fu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfop8y51-6fu\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8346|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8346,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BangbooBreakthrough02.png",
+      "rank": 2,
+      "class": 10,
+      "name": "Energy Transfer Fluid"
+    },
+    "detail": {
+      "id": 102020,
+      "name": "Energy Transfer Fluid",
+      "desc": "Increases a Bangboo's level cap to 40.",
+      "desc2": "A special energy transfer fluid for Bangboo. It can effectively reduce energy dissipation and improve the energy efficiency of Bangboo.",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BangbooBreakthrough02.png"
+    }
+  }
+}

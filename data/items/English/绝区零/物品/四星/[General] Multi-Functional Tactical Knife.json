@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000921",
+    "name": "[General] Multi-Functional Tactical Knife",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse27.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse27.webp",
+        "localPath": "gallery/zzz/CardDailyUse27.webp",
+        "sha256": "5ed2622fa8923e2420426eda7ecb3467b7f03dcea880fb57095ae187b04c3d9b",
+        "etag": "\"dld8rfqiqpj4-aay\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqiqpj4-aay\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=13354|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13354,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse27.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse27.webp",
+        "localPath": "gallery/zzz/CardDailyUse27.webp",
+        "sha256": "5ed2622fa8923e2420426eda7ecb3467b7f03dcea880fb57095ae187b04c3d9b",
+        "etag": "\"dld8rfqiqpj4-aay\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqiqpj4-aay\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=13354|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13354,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse27.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[General] Multi-Functional Tactical Knife"
+    },
+    "detail": {
+      "id": 1000921,
+      "name": "[General] Multi-Functional Tactical Knife",
+      "desc": "Attacks deal additional DMG equivalent to <color=#2BAD00>3%</color> of the target's Max HP. This effect can trigger once every 0.1s.",
+      "desc2": "Sure, spring-assisted blades look cooler than regular ones, but whether it will actually be useful is a whole different matter.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse27.png"
+    }
+  }
+}

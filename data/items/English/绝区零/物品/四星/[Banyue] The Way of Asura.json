@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1350172",
+    "name": "[Banyue] The Way of Asura",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic054.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic054.webp",
+        "localPath": "gallery/zzz/Relic054.webp",
+        "sha256": "a576c12c00621a08074fa58006ade8ed267b8ce4ec4bc1c92d8f4cf1ae3e5f17",
+        "etag": "\"dld8rgo2sohg-3a0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo2sohg-3a0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4248|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4248,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic054.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic054.webp",
+        "localPath": "gallery/zzz/Relic054.webp",
+        "sha256": "a576c12c00621a08074fa58006ade8ed267b8ce4ec4bc1c92d8f4cf1ae3e5f17",
+        "etag": "\"dld8rgo2sohg-3a0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo2sohg-3a0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4248|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4248,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic054.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Banyue] The Way of Asura"
+    },
+    "detail": {
+      "id": 1350172,
+      "name": "[Banyue] The Way of Asura",
+      "desc": "When Banyue uses <color=#FFFFFF>[EX Special Attack]</color>, he gains a shield <color=#2BAD00>equal to 35% of his Max HP</color>, lasting 30s. This effect can trigger once every 30s. While shielded, Banyue's <color=#2BAD00>Anti-Interrupt Level increases</color> and <color=#FF5521>Fire DMG</color> <color=#2BAD00>increases by 15%</color>.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic054.png"
+    }
+  }
+}

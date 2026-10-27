@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1002305",
+    "name": "[Affinity] Defense Tactical Exchange",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardAvatarType05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardAvatarType05.webp",
+        "localPath": "gallery/zzz/CardAvatarType05.webp",
+        "sha256": "9109710e87101ac9c96c5a20c238b5d33c0f8c5655e4e4a31b613ab7a996fb21",
+        "etag": "\"dld8rfq0volu-acg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq0volu-acg\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=13408|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13408,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardAvatarType05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardAvatarType05.webp",
+        "localPath": "gallery/zzz/CardAvatarType05.webp",
+        "sha256": "9109710e87101ac9c96c5a20c238b5d33c0f8c5655e4e4a31b613ab7a996fb21",
+        "etag": "\"dld8rfq0volu-acg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq0volu-acg\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=13408|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13408,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardAvatarType05.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Affinity] Defense Tactical Exchange"
+    },
+    "detail": {
+      "id": 1002305,
+      "name": "[Affinity] Defense Tactical Exchange",
+      "desc": "Defense specialty Agents take <color=#2BAD00>15%</color> less DMG.",
+      "desc2": "Using the break as an opportunity, everyone shared their combat experience, with the members good at Defense tactics becoming the focal point of the discussion.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardAvatarType05.png"
+    }
+  }
+}

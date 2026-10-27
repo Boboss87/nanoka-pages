@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "211",
+    "name": "Daily Performance",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemCoin_AwakenShop.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemCoin_AwakenShop.webp",
+        "localPath": "gallery/zzz/ItemCoin_AwakenShop.webp",
+        "sha256": "5f898eb58b6662e5a4da7c3bb79df0270a7ab7c99c5cd0b5fb78f18ba13e39bf",
+        "etag": "\"dld8rgeg9zcb-72s\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgeg9zcb-72s\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9172|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9172,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemCoin_AwakenShop.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemCoin_AwakenShop.webp",
+        "localPath": "gallery/zzz/ItemCoin_AwakenShop.webp",
+        "sha256": "5f898eb58b6662e5a4da7c3bb79df0270a7ab7c99c5cd0b5fb78f18ba13e39bf",
+        "etag": "\"dld8rgeg9zcb-72s\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgeg9zcb-72s\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9172|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9172,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemCoin_AwakenShop.png",
+      "rank": 4,
+      "class": 1,
+      "name": "Daily Performance"
+    },
+    "detail": {
+      "id": 211,
+      "name": "Daily Performance",
+      "desc": "Can be exchanged for valuable items in the Potential Archive store, primarily obtained through Ridu Weekly.",
+      "desc2": "The everyday isn't a dull routine — it''s a sea of ideas quietly gathering change. In those tiny miracles we repeat day after day, maybe there's a spark of power waiting to unlock our \"potential.\"",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemCoin_AwakenShop.png"
+    }
+  }
+}

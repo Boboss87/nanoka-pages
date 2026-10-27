@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "307004",
+    "name": "Cerulean Echoes",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponStar_A_Common_19.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/WeaponStar_A_Common_19.webp",
+        "localPath": "gallery/zzz/WeaponStar_A_Common_19.webp",
+        "sha256": "423371af24fa70412124a139208efdc4ac20157609853cbc729a66705f00feee",
+        "etag": "\"dld8rgozjk6i-5lm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgozjk6i-5lm\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7258|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7258,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponStar_A_Common_19.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/WeaponStar_A_Common_19.webp",
+        "localPath": "gallery/zzz/WeaponStar_A_Common_19.webp",
+        "sha256": "423371af24fa70412124a139208efdc4ac20157609853cbc729a66705f00feee",
+        "etag": "\"dld8rgozjk6i-5lm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgozjk6i-5lm\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7258|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7258,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponStar_A_Common_19.png",
+      "rank": 3,
+      "class": 23,
+      "name": "Cerulean Echoes"
+    },
+    "detail": {
+      "id": 307004,
+      "name": "Cerulean Echoes",
+      "desc": "Used to upgrade the Cauldron of Clarity W-Engine.",
+      "desc2": "A special engine component obtained from the Qingming Realm, capable of enhancing the Ether Resonance performance of the Cauldron of Clarity W-Engine. Countless waves of Sword Will, like echoes of the heart, resonating within this small stretch of sky.",
+      "class": {
+        "23": "SPECIAL W-ENGINE CORE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponStar_A_Common_19.png"
+    }
+  }
+}

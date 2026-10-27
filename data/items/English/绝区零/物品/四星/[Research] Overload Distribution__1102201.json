@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1102201",
+    "name": "[Research] Overload Distribution",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardResearch01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardResearch01.webp",
+        "localPath": "gallery/zzz/CardResearch01.webp",
+        "sha256": "5f300486e17e99c0039b13697741e18ad2a4b986c0f2ffb95da09eecf962e44c",
+        "etag": "\"dld8rfqy7zxk-duq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqy7zxk-duq\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17954|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17954,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardResearch01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardResearch01.webp",
+        "localPath": "gallery/zzz/CardResearch01.webp",
+        "sha256": "5f300486e17e99c0039b13697741e18ad2a4b986c0f2ffb95da09eecf962e44c",
+        "etag": "\"dld8rfqy7zxk-duq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqy7zxk-duq\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17954|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17954,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardResearch01.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Research] Overload Distribution"
+    },
+    "detail": {
+      "id": 1102201,
+      "name": "[Research] Overload Distribution",
+      "desc": "Each Pressure Overload restores <color=#2BAD00>5%</color> of Max HP and increases all squad members' DMG by <color=#2BAD00>5%</color>. (Current Bonus: {CReplaceCardParam:StressOverloadCount,0.01,2}%. Maximum: 50%.) In addition, grants <color=#FFAF2C>Pressure Management</color>.",
+      "desc2": "An exquisitely designed badge.\nA special Resonium issued by the White Star Institute to investigators of Hollow Zero, for research on overload-related matters.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardResearch01.png"
+    }
+  }
+}

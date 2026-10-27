@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4311002",
+    "name": "Restoration Medicine",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Consumables_003.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Consumables_003.webp",
+        "localPath": "gallery/zzz/Zenkov_Consumables_003.webp",
+        "sha256": "1f410e7350cb830d3589812da5935e60eec4f8a119fb3a460e0517af9470e575",
+        "etag": "\"dld8rgr4ckk2-5qk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr4ckk2-5qk\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7436|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7436,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Consumables_003.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Consumables_003.webp",
+        "localPath": "gallery/zzz/Zenkov_Consumables_003.webp",
+        "sha256": "1f410e7350cb830d3589812da5935e60eec4f8a119fb3a460e0517af9470e575",
+        "etag": "\"dld8rgr4ckk2-5qk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr4ckk2-5qk\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7436|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7436,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Consumables_003.png",
+      "rank": 3,
+      "class": 131,
+      "name": "Restoration Medicine"
+    },
+    "detail": {
+      "id": 4311002,
+      "name": "Restoration Medicine",
+      "desc": "When used, restores <color=#2BAD00>35%</color> of the current Agent's Max HP over <color=#2BAD00>10</color>s. Taking a hit interrupts this effect. It also negates one instance of DMG within <color=#2BAD00>30</color>s. Reusing this item resets the HP recovery and damage immunity durations.",
+      "desc2": "",
+      "class": {
+        "131": "LABYRINTH"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Consumables_003.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3300016",
+    "name": "Between White Doves and Fireworks",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard37.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard37.webp",
+        "localPath": "gallery/zzz/Callingcard37.webp",
+        "sha256": "60324cb2147ea0ad7bbad2b590d9b4b80ab3ed050f3e3ff93dff5a4fdbe269ad",
+        "etag": "\"dld8rfprcqih-81a\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfprcqih-81a\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10414|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10414,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard37.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard37.webp",
+        "localPath": "gallery/zzz/Callingcard37.webp",
+        "sha256": "60324cb2147ea0ad7bbad2b590d9b4b80ab3ed050f3e3ff93dff5a4fdbe269ad",
+        "etag": "\"dld8rfprcqih-81a\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfprcqih-81a\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10414|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10414,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard37.png",
+      "rank": 4,
+      "class": 65,
+      "name": "Between White Doves and Fireworks"
+    },
+    "detail": {
+      "id": 3300016,
+      "name": "Between White Doves and Fireworks",
+      "desc": "A commemorative namecard for the New Eridu City Fund: Growth Plan.",
+      "desc2": "An amateur magician claims their top hat is bottomless, big enough to hold every miracle in the world. Maybe white doves bursting into flight, maybe fireworks waiting to be lit...\nOr maybe you, smiling and waving at me.\n\n\"This... doesn't even count as magic, does it?\"\n\"Really? The person who once tucked me under her hat as a kid didn't see it that way.\"",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard37.png"
+    }
+  }
+}

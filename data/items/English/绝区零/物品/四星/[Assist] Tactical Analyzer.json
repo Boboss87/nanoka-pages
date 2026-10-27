@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1011602",
+    "name": "[Assist] Tactical Analyzer",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMagic13.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardMagic13.webp",
+        "localPath": "gallery/zzz/CardMagic13.webp",
+        "sha256": "feaf299264ce154ab52e2965047843fa2cd2fab02378782ee7c67f046ad4d5e4",
+        "etag": "\"dld8rfqu1yil-dfo\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqu1yil-dfo\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17412|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17412,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMagic13.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardMagic13.webp",
+        "localPath": "gallery/zzz/CardMagic13.webp",
+        "sha256": "feaf299264ce154ab52e2965047843fa2cd2fab02378782ee7c67f046ad4d5e4",
+        "etag": "\"dld8rfqu1yil-dfo\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqu1yil-dfo\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17412|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17412,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMagic13.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Assist] Tactical Analyzer"
+    },
+    "detail": {
+      "id": 1011602,
+      "name": "[Assist] Tactical Analyzer",
+      "desc": "Triggering Perfect Dodge or Chain Attack additionally restores <color=#2BAD00>1</color> Assist Point and increases the Agent's DMG by <color=#2BAD00>45%</color> for 12s.",
+      "desc2": "This support tool was once installed on Bangboo merchants and could search and analyze the surrounding Ethereals, providing the user with tactical advice. It was abandoned, however, due to repeatedly providing the Bangboo combat advice such as \"We have the advantage, go all out!\" during combat.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMagic13.png"
+    }
+  }
+}

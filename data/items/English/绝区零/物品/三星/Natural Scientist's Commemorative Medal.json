@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4390000",
+    "name": "Natural Scientist's Commemorative Medal",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconDigibooLKX.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconDigibooLKX.webp",
+        "localPath": "gallery/zzz/IconDigibooLKX.webp",
+        "sha256": "4d3f48d2c5e77020a3fb2a675a8d4677d664a2315805900fb0d58e684789ad3d",
+        "etag": "\"dld8rg7klcwz-6pu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7klcwz-6pu\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=8706|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8706,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconDigibooLKX.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconDigibooLKX.webp",
+        "localPath": "gallery/zzz/IconDigibooLKX.webp",
+        "sha256": "4d3f48d2c5e77020a3fb2a675a8d4677d664a2315805900fb0d58e684789ad3d",
+        "etag": "\"dld8rg7klcwz-6pu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7klcwz-6pu\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=8706|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8706,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconDigibooLKX.png",
+      "rank": 3,
+      "class": 144,
+      "name": "Natural Scientist's Commemorative Medal"
+    },
+    "detail": {
+      "id": 4390000,
+      "name": "Natural Scientist's Commemorative Medal",
+      "desc": "A special gift from the Natural Scientist.",
+      "desc2": "Rather inarticulate, the Natural Scientist will pour their heart into crafting a medal, then quietly leave it on the table...\n\"A wish? Hmm... I hope Master is happy every day,\" they say.",
+      "class": {
+        "144": "Pet Badge"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconDigibooLKX.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "2090028",
+    "name": "Custom-Made Flower Gift",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/PlayerBirthdayCake_3rd.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/PlayerBirthdayCake_3rd.webp",
+        "localPath": "gallery/zzz/PlayerBirthdayCake_3rd.webp",
+        "sha256": "e8579ac784655cae3382510f24eac78caeb750c117d3aabe8f3f5e2b9e3dcf20",
+        "etag": "\"dld8rgnvngwx-7je\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnvngwx-7je\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9770|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9770,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/PlayerBirthdayCake_3rd.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/PlayerBirthdayCake_3rd.webp",
+        "localPath": "gallery/zzz/PlayerBirthdayCake_3rd.webp",
+        "sha256": "e8579ac784655cae3382510f24eac78caeb750c117d3aabe8f3f5e2b9e3dcf20",
+        "etag": "\"dld8rgnvngwx-7je\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnvngwx-7je\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9770|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9770,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/PlayerBirthdayCake_3rd.png",
+      "rank": 3,
+      "class": 51,
+      "name": "Custom-Made Flower Gift"
+    },
+    "detail": {
+      "id": 2090028,
+      "name": "Custom-Made Flower Gift",
+      "desc": "A birthday gift box presented by Aurelia Academy. Use it to obtain Ether Battery ×1 and a Custom-Made Commemorative Card ×1.",
+      "desc2": "A birthday gift box specially prepared by Aurelia Academy for its students, customized according to each person's preferences.\nIn Roscaelifer, where gentle breezes embrace the clouds, flowers are a rare and precious gift. Yet on special days worth remembering, their beauty always arrives right on time.",
+      "class": {
+        "51": "GIFT"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/PlayerBirthdayCake_3rd.png"
+    }
+  }
+}

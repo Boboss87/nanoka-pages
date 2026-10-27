@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3311301",
+    "name": "Orphie & Magus' Namecard",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "Orphie & Magus' Namecard"
+    },
+    "detail": {
+      "id": 3311301,
+      "name": "Orphie & Magus' Namecard",
+      "desc": "Get by unlocking Orphie & Magus' Mindscape: \"Tactics Manual\"",
+      "desc2": "A name card printed with the image of the gun-type Intelligent Construct Magus and her wielder, Orphie.\nName, rank, squad affiliation, contact details, all neatly laid out on this card. The precise formatting and carefully chosen content reflect the owner's serious personality.\nBut flip it over, and on the back... there's a red T. rex breathing fire, drawn in permanent marker?",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

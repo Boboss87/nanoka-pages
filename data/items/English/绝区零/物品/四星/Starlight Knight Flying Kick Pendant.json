@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1359018",
+    "name": "Starlight Knight Flying Kick Pendant",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconPendantPiece08.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconPendantPiece08.webp",
+        "localPath": "gallery/zzz/IconPendantPiece08.webp",
+        "sha256": "f4fae7193f830ce72787963540be28864096a7ef6e9e89fd001b915451b4f1e8",
+        "etag": "\"dld8rg7r54us-7d0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7r54us-7d0\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9540|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9540,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconPendantPiece08.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconPendantPiece08.webp",
+        "localPath": "gallery/zzz/IconPendantPiece08.webp",
+        "sha256": "f4fae7193f830ce72787963540be28864096a7ef6e9e89fd001b915451b4f1e8",
+        "etag": "\"dld8rg7r54us-7d0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7r54us-7d0\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9540|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9540,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconPendantPiece08.png",
+      "rank": 4,
+      "class": 110,
+      "name": "Starlight Knight Flying Kick Pendant"
+    },
+    "detail": {
+      "id": 1359018,
+      "name": "Starlight Knight Flying Kick Pendant",
+      "desc": "\"New Eridu City Fund: Premium Plan\" commemorative pendant. Once obtained, it can be equipped and displayed in the Function Menu.",
+      "desc2": "The starlit hero will take out enemies with the most impressive moves!",
+      "class": {
+        "110": "PENDANT"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconPendantPiece08.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1228206031",
+    "name": "Anton Ivanov",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1111.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1111.webp",
+        "localPath": "gallery/zzz/CardDailyUse1111.webp",
+        "sha256": "5bce4162482733ba87461ae1d1b49fd404aff15f3b861e63971146b518dec02b",
+        "etag": "\"dld8rfqeko45-cd4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqeko45-cd4\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16024|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16024,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1111.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1111.webp",
+        "localPath": "gallery/zzz/CardDailyUse1111.webp",
+        "sha256": "5bce4162482733ba87461ae1d1b49fd404aff15f3b861e63971146b518dec02b",
+        "etag": "\"dld8rfqeko45-cd4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqeko45-cd4\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16024|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16024,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1111.png",
+      "rank": 4,
+      "class": 31,
+      "name": "Anton Ivanov"
+    },
+    "detail": {
+      "id": 1228206031,
+      "name": "Anton Ivanov",
+      "desc": "<color=#FFAF2C>Anton</color>\n<color=#2BAD00>ATK: 10, HP: 28</color>\n<color=#FFAF2C>Anton will continue attacking even after his HP drops to 0</color>, each attack thereafter will cause him to lose <color=#CF4029>1</color> ATK.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1111.png"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3311351",
+    "name": "Pulchra's Namecard",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "Pulchra's Namecard"
+    },
+    "detail": {
+      "id": 3311351,
+      "name": "Pulchra's Namecard",
+      "desc": "Get by unlocking Pulchra's Mindscape: Territorial",
+      "desc2": "A card featuring an image of the former Outer Ring mercenary now working for Leaps and Bounds logistics company.\nIt's the standard business card used by employees of Leaps and Bounds, but on the back, there's a line of text: \"Private services available.\" Apparently, while others' got their cards slow, this one was printed twice in the first month.",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

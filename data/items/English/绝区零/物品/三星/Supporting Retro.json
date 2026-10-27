@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1342083",
+    "name": "Supporting Retro",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/RiduBoo/RiduBooItemIcon/UnPacker/RidubooPart_008_Body.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RidubooPart_008_Body.webp",
+        "localPath": "gallery/zzz/RidubooPart_008_Body.webp",
+        "sha256": "c19922a55d9a5e7553edc8e9acfe4bb0a3119c13a73aeb06048be7d587afac5d",
+        "etag": "\"dld8rgo6da9p-4v6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo6da9p-4v6\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6306|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6306,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/RiduBoo/RiduBooItemIcon/UnPacker/RidubooPart_008_Body.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RidubooPart_008_Body.webp",
+        "localPath": "gallery/zzz/RidubooPart_008_Body.webp",
+        "sha256": "c19922a55d9a5e7553edc8e9acfe4bb0a3119c13a73aeb06048be7d587afac5d",
+        "etag": "\"dld8rgo6da9p-4v6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo6da9p-4v6\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6306|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6306,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/RiduBoo/RiduBooItemIcon/UnPacker/RidubooPart_008_Body.png",
+      "rank": 3,
+      "class": 84,
+      "name": "Supporting Retro"
+    },
+    "detail": {
+      "id": 1342083,
+      "name": "Supporting Retro",
+      "desc": "\"Eous Eous, what happens if you don't have clothes?\"\n\"En-nah! (You'll get arrested by Public Security!)\"\n\"That probably won't happen... Well, it would for me, but not to you.\"",
+      "desc2": "",
+      "class": {
+        "84": "BANGBOO EXTRAS"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/RiduBoo/RiduBooItemIcon/UnPacker/RidubooPart_008_Body.png"
+    }
+  }
+}

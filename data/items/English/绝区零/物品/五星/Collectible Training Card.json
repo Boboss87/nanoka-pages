@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "304041",
+    "name": "Collectible Training Card",
+    "rarity": "五星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MonsterCardSuper.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/MonsterCardSuper.webp",
+        "localPath": "gallery/zzz/MonsterCardSuper.webp",
+        "sha256": "aaa5053177f7110c65b23dfebfd2804dcdd0261e1cca5763b953ce10aea1f37c",
+        "etag": "\"dld8rgkwhbd5-7qo\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgkwhbd5-7qo\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10032|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10032,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MonsterCardSuper.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/MonsterCardSuper.webp",
+        "localPath": "gallery/zzz/MonsterCardSuper.webp",
+        "sha256": "aaa5053177f7110c65b23dfebfd2804dcdd0261e1cca5763b953ce10aea1f37c",
+        "etag": "\"dld8rgkwhbd5-7qo\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgkwhbd5-7qo\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10032|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10032,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MonsterCardSuper.png",
+      "rank": 5,
+      "class": 20,
+      "name": "Collectible Training Card"
+    },
+    "detail": {
+      "id": 304041,
+      "name": "Collectible Training Card",
+      "desc": "Open to obtain 1 Boss Enemy Card.",
+      "desc2": "Beyond theory, beyond recognition! Immortal legends above common sense that exist only in the space of fantasy! Encounter them, challenge them, conquer them!",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 5,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MonsterCardSuper.png"
+    }
+  }
+}

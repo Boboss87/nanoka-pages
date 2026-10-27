@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3031551",
+    "name": "Belle and Pyrois' Namecard",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "Belle and Pyrois' Namecard"
+    },
+    "detail": {
+      "id": 3031551,
+      "name": "Belle and Pyrois' Namecard",
+      "desc": "Obtained after unlocking Pyrois' Mindscape: Chains of Fate.",
+      "desc2": "The namecard of Pyrois, Phaethon's new companion.\nFairy made this namecard specially to welcome the newest member of Random Play. That said, actually handing it out in a social setting would still take a fair amount of courage.",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

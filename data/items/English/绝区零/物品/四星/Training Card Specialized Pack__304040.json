@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "304040",
+    "name": "Training Card Specialized Pack",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MonsterCardDiamonds.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/MonsterCardDiamonds.webp",
+        "localPath": "gallery/zzz/MonsterCardDiamonds.webp",
+        "sha256": "4cc5f51eb1d39161cdadedaf277b0164f65acb2f37144471b0e46637b064be08",
+        "etag": "\"dld8rgkvvvqf-7u0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgkvvvqf-7u0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10152|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10152,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MonsterCardDiamonds.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/MonsterCardDiamonds.webp",
+        "localPath": "gallery/zzz/MonsterCardDiamonds.webp",
+        "sha256": "4cc5f51eb1d39161cdadedaf277b0164f65acb2f37144471b0e46637b064be08",
+        "etag": "\"dld8rgkvvvqf-7u0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgkvvvqf-7u0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10152|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10152,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MonsterCardDiamonds.png",
+      "rank": 4,
+      "class": 20,
+      "name": "Training Card Specialized Pack"
+    },
+    "detail": {
+      "id": 304040,
+      "name": "Training Card Specialized Pack",
+      "desc": "Open to obtain 3-5 Enemy Cards, including at least 1 Elite Enemy Card.",
+      "desc2": "Stunning and vibrant card faces are a feast for the eyes, and the exhilarating challenge objectives ignite a wave of excitement. The neighborhood kids will cry out in envy, and the neighborhood investigators, too.",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MonsterCardDiamonds.png"
+    }
+  }
+}

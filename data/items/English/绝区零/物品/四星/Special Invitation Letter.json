@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "215",
+    "name": "Special Invitation Letter",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemCoin_AvatarShop.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemCoin_AvatarShop.webp",
+        "localPath": "gallery/zzz/ItemCoin_AvatarShop.webp",
+        "sha256": "7e013c2c076f4c797d16d9f0f3341e2946a8c9bccd2fcd1ae4cf054673592660",
+        "etag": "\"dld8rgeg9zcb-79o\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgeg9zcb-79o\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9420|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9420,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemCoin_AvatarShop.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemCoin_AvatarShop.webp",
+        "localPath": "gallery/zzz/ItemCoin_AvatarShop.webp",
+        "sha256": "7e013c2c076f4c797d16d9f0f3341e2946a8c9bccd2fcd1ae4cf054673592660",
+        "etag": "\"dld8rgeg9zcb-79o\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgeg9zcb-79o\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9420|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9420,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemCoin_AvatarShop.png",
+      "rank": 4,
+      "class": 1,
+      "name": "Special Invitation Letter"
+    },
+    "detail": {
+      "id": 215,
+      "name": "Special Invitation Letter",
+      "desc": "When an S-Rank Agent's Mindscape reaches the max level, you will receive 1 \"Special Invitation Letter\" when obtaining that Agent again, which can be exchanged for valuable items in the \"Collectible Exchange\" Store under \"Agent Exchange\".",
+      "desc2": "A high-tech invitation card. What kind of magic does this tiny screen possess to make so many exceptional Agents eagerly accept? —More often than not, the name \"Phaethon\" inspires far more trust than Dennies.",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemCoin_AvatarShop.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "307005",
+    "name": "Blazing Chili",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponStar_A_Common_20.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/WeaponStar_A_Common_20.webp",
+        "localPath": "gallery/zzz/WeaponStar_A_Common_20.webp",
+        "sha256": "064eb077a82b72365e93b1135024b450f34312f51b6fcc997761c757c7177278",
+        "etag": "\"dld8rgozjk6i-5km\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgozjk6i-5km\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7222|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7222,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponStar_A_Common_20.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/WeaponStar_A_Common_20.webp",
+        "localPath": "gallery/zzz/WeaponStar_A_Common_20.webp",
+        "sha256": "064eb077a82b72365e93b1135024b450f34312f51b6fcc997761c757c7177278",
+        "etag": "\"dld8rgozjk6i-5km\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgozjk6i-5km\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7222|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7222,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponStar_A_Common_20.png",
+      "rank": 3,
+      "class": 23,
+      "name": "Blazing Chili"
+    },
+    "detail": {
+      "id": 307005,
+      "name": "Blazing Chili",
+      "desc": "Used to upgrade The Simmering Pot W-Engine.",
+      "desc2": "A special W-Engine Component infused with searing Fire Energy, used to enhance the Resonance performance of The Simmering Pot W-Engine. Not spicy enough? Then crank up the heat!",
+      "class": {
+        "23": "SPECIAL W-ENGINE CORE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponStar_A_Common_20.png"
+    }
+  }
+}

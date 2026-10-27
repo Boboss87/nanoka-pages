@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3311331",
+    "name": "Vivian's Namecard",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "Vivian's Namecard"
+    },
+    "detail": {
+      "id": 3311331,
+      "name": "Vivian's Namecard",
+      "desc": "Get by unlocking Vivian's Mindscape: \"Another and the Same\"",
+      "desc2": "A namecard printed with a photo of Mockingbird's versatile assistant, Vivian.\nMockingbird's business cards have never circulated publicly — if one were placed in a private auction, collectors would surely bid fiercely for it.\nThere's no contact information on this card, yet it's said that anyone who holds it won't have to wait long before the graceful and mysterious assistant finds them — through a method they'd never anticipate.",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

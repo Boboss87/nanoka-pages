@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1359022",
+    "name": "\"Princess on Holiday\" Pendant",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconPendantPiece10.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconPendantPiece10.webp",
+        "localPath": "gallery/zzz/IconPendantPiece10.webp",
+        "sha256": "1438da0c2928efdee5ba30b4f5d0f0545fb2b079930150bded8d0bb586c4d17f",
+        "etag": "\"dld8rg7r54us-7d8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7r54us-7d8\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9548|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9548,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconPendantPiece10.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconPendantPiece10.webp",
+        "localPath": "gallery/zzz/IconPendantPiece10.webp",
+        "sha256": "1438da0c2928efdee5ba30b4f5d0f0545fb2b079930150bded8d0bb586c4d17f",
+        "etag": "\"dld8rg7r54us-7d8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7r54us-7d8\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9548|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9548,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconPendantPiece10.png",
+      "rank": 4,
+      "class": 110,
+      "name": "\"Princess on Holiday\" Pendant"
+    },
+    "detail": {
+      "id": 1359022,
+      "name": "\"Princess on Holiday\" Pendant",
+      "desc": "\"New Eridu City Fund: Premium Plan\" commemorative pendant. Once obtained, it can be equipped and displayed in the Function Menu.",
+      "desc2": "Wherever the Princess goes becomes her domain, whether it's a barren wasteland or a sandy beach.\n\"Grassy, Woody, Bricky—vacation combat mode, activate!\"",
+      "class": {
+        "110": "PENDANT"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconPendantPiece10.png"
+    }
+  }
+}

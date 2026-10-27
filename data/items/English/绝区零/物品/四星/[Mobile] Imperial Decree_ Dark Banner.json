@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1321001",
+    "name": "[Mobile] Imperial Decree: Dark Banner",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic033.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic033.webp",
+        "localPath": "gallery/zzz/Relic033.webp",
+        "sha256": "86dca1bba4bdeed68d28ee99bed4586ebd551360a81c3fbd1a828882cd7cc45b",
+        "etag": "\"dld8rgo0exym-3lu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo0exym-3lu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4674|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4674,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.desc.IconMap.Icon_Switch",
+        "kind": "icon_map",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "<IconMap:Icon_Switch>",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Icon_Switch.webp",
+        "localPath": "gallery/zzz/Icon_Switch.webp",
+        "sha256": "430a995c8f045c4ab04f346ee22514add6e6cf7464f19fc04c07ab45a0ef3777",
+        "etag": "\"dld8rgefojpl-104\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgefojpl-104\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=1300|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 1300,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic033.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic033.webp",
+        "localPath": "gallery/zzz/Relic033.webp",
+        "sha256": "86dca1bba4bdeed68d28ee99bed4586ebd551360a81c3fbd1a828882cd7cc45b",
+        "etag": "\"dld8rgo0exym-3lu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo0exym-3lu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4674|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4674,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic033.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Mobile] Imperial Decree: Dark Banner"
+    },
+    "detail": {
+      "id": 1321001,
+      "name": "[Mobile] Imperial Decree: Dark Banner",
+      "desc": "When the active character lands a heavy attack with <color=#FFFFFF>Assist Follow-Up</color>, <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Ultimate</color>, or triggers <color=#FFFFFF>Perfect Dodge</color>, it will trigger <color=#FFFFFF>Tag Assist</color> for the next character. Press <IconMap:Icon_Switch> at this moment, and the next character will perform a <color=#FFFFFF>Quick Assist</color> centered on the enemy. <color=#FFFFFF>Tag Assist</color> won't switch the current active character, and the damage dealt is considered <color=#FFFFFF>Aftershock</color> DMG. When a character performs a <color=#FFFFFF>Tag Assist</color>, it provides 1 stack of <color=#FFFFFF>Comrade</color> to the whole squad, stacking up to 5 times and lasting 20s. Repeated triggers reset the duration. Each stack of <color=#FFFFFF>Comrade</color> increases <color=#2BAD00>Anomaly Proficiency by 20</color> and <color=#2BAD00>Anomaly Buildup Rate by 10%</color> for <color=#FFFFFF>Anomaly</color> specialty Agents; increases <color=#2BAD00>Impact by 4%</color> for Stun specialty Agents; increases <color=#2BAD00>CRIT Rate by 5%</color> and <color=#2BAD00>CRIT DMG by 10%</color> for Attack specialty Agents; increases <color=#2BAD00>Energy Generation Rate by 7.5%</color> for Support specialty Agents; increases <color=#2BAD00>shield efficiency by 10%</color> for Defense specialty Agents; and increases <color=#2BAD00>Sheer DMG by 7%</color> for Rupture specialty Agents.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic033.png"
+    }
+  }
+}

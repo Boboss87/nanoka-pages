@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "32841",
+    "name": "Astral Voice [1]",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitAstralVoice_S.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitAstralVoice_S.webp",
+        "localPath": "gallery/zzz/ItemSuitAstralVoice_S.webp",
+        "sha256": "b4d922fc0e5ad7e2d04e9e811fb7d17626377aff61f160d7bfb3cabae0e54b2a",
+        "etag": "\"dld8rgekg0ra-880\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgekg0ra-880\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10656|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10656,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitAstralVoice_S.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitAstralVoice_S.webp",
+        "localPath": "gallery/zzz/ItemSuitAstralVoice_S.webp",
+        "sha256": "b4d922fc0e5ad7e2d04e9e811fb7d17626377aff61f160d7bfb3cabae0e54b2a",
+        "etag": "\"dld8rgekg0ra-880\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgekg0ra-880\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10656|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10656,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitAstralVoice_S.png",
+      "rank": 4,
+      "class": 7,
+      "name": "Astral Voice [1]"
+    },
+    "detail": {
+      "id": 32841,
+      "name": "Astral Voice [1]",
+      "desc": "Equip to increase Agents' combat capabilities",
+      "desc2": "\"A symptom of staying in Hollows for too long, it's damaged your hearing.\" The doctor has given a strict warning that if I don't want to go deaf, I had better never go into a Hollow again. Welp... no can do. While my Proxy career is important, but having enough hearing to listen to Astra Yao's new song is more important.",
+      "class": {
+        "7": "DISK"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitAstralVoice_S.png"
+    }
+  }
+}

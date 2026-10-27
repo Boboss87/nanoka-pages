@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "5121",
+    "name": "Agent Focus: Ben",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece16.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece16.webp",
+        "localPath": "gallery/zzz/IconRolePiece16.webp",
+        "sha256": "a276dab3a87a156cfdadf8c73ba1637b6e46ff61882da8e4f1949b84c4ce1151",
+        "etag": "\"dld8rgdczbpg-7io\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgdczbpg-7io\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9744|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9744,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece16.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece16.webp",
+        "localPath": "gallery/zzz/IconRolePiece16.webp",
+        "sha256": "a276dab3a87a156cfdadf8c73ba1637b6e46ff61882da8e4f1949b84c4ce1151",
+        "etag": "\"dld8rgdczbpg-7io\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgdczbpg-7io\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9744|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9744,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece16.png",
+      "rank": 3,
+      "class": 4,
+      "name": "Agent Focus: Ben"
+    },
+    "detail": {
+      "id": 5121,
+      "name": "Agent Focus: Ben",
+      "desc": "Used to unlock Agent's Mindscape Cinema",
+      "desc2": "Snapshots from Ben's daily life and from in combat, recording important moments before and after he became an Agent.\nThese images also provide insights into his fighting style and favorite weapons, helping to better understand his strengths.\n\nThere are faint traces of sketches on the back, but Ben's erased them all. Hmm... it's really difficult to make out the exact cost of the equipment.",
+      "class": {
+        "4": "AGENT ARCHIVE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece16.png"
+    }
+  }
+}

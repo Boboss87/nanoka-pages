@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1350282",
+    "name": "[Pyrois] Ironclad Honor",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic096.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic096.webp",
+        "localPath": "gallery/zzz/Relic096.webp",
+        "sha256": "1ec9acaa35159de931fb30ba71854f83722434d072d29ab4d775c9e60e9eb4e6",
+        "etag": "\"dld8rgo4kzdk-30k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo4kzdk-30k\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=3908|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 3908,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic096.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic096.webp",
+        "localPath": "gallery/zzz/Relic096.webp",
+        "sha256": "1ec9acaa35159de931fb30ba71854f83722434d072d29ab4d775c9e60e9eb4e6",
+        "etag": "\"dld8rgo4kzdk-30k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo4kzdk-30k\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=3908|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 3908,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic096.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Pyrois] Ironclad Honor"
+    },
+    "detail": {
+      "id": 1350282,
+      "name": "[Pyrois] Ironclad Honor",
+      "desc": "Pyrois's <color=#FFFFFF>Ultimate</color> <color=#2BAD00>DMG is increased by 20%</color>. Unleashing <color=#FFFFFF>Ultimate: Total Annihilation</color> immediately <color=#2BAD00>grants Pyrois 1,500 Decibels</color>. This effect can trigger once every 30s.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic096.png"
+    }
+  }
+}

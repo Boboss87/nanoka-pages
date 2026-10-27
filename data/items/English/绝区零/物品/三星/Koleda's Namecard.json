@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3311101",
+    "name": "Koleda's Namecard",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "Koleda's Namecard"
+    },
+    "detail": {
+      "id": 3311101,
+      "name": "Koleda's Namecard",
+      "desc": "Get by unlocking Koleda's Mindscape: \"Mind Your Own!\"",
+      "desc2": "A card with the president of Belobog Heavy Industries printed on it.\nA professional namecard is a must for any president — but not this one, which is for friends only. However, due to the president's busy schedule, the chance of getting through to her \"friend hotline\" is vanishingly slim.",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

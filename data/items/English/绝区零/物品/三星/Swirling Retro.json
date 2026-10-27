@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1342082",
+    "name": "Swirling Retro",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/RiduBoo/RiduBooItemIcon/UnPacker/RidubooPart_008_Scarf.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RidubooPart_008_Scarf.webp",
+        "localPath": "gallery/zzz/RidubooPart_008_Scarf.webp",
+        "sha256": "1f797cfc4e0fd0cfe8078ae9539bf842bd0f3f2b1810e30b7eaf7f7cb256403f",
+        "etag": "\"dld8rgo6da9p-3v6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo6da9p-3v6\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5010|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5010,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/RiduBoo/RiduBooItemIcon/UnPacker/RidubooPart_008_Scarf.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RidubooPart_008_Scarf.webp",
+        "localPath": "gallery/zzz/RidubooPart_008_Scarf.webp",
+        "sha256": "1f797cfc4e0fd0cfe8078ae9539bf842bd0f3f2b1810e30b7eaf7f7cb256403f",
+        "etag": "\"dld8rgo6da9p-3v6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo6da9p-3v6\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5010|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5010,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/RiduBoo/RiduBooItemIcon/UnPacker/RidubooPart_008_Scarf.png",
+      "rank": 3,
+      "class": 84,
+      "name": "Swirling Retro"
+    },
+    "detail": {
+      "id": 1342082,
+      "name": "Swirling Retro",
+      "desc": "\"Eous, Eous, what happens if you don't have a scarf?\"\n\"En-nah... (It'll expose the water hole...)\"\n\"Sorry, I'll polish it for you again...\"",
+      "desc2": "",
+      "class": {
+        "84": "BANGBOO EXTRAS"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/RiduBoo/RiduBooItemIcon/UnPacker/RidubooPart_008_Scarf.png"
+    }
+  }
+}

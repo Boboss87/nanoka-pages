@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "303001",
+    "name": "Bangboo Software Patch",
+    "rarity": "一星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BangbooUpgrade01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangbooUpgrade01.webp",
+        "localPath": "gallery/zzz/BangbooUpgrade01.webp",
+        "sha256": "3dfb8a801b26cd5b5922f2a766882ab9183b953878515096cb77a82e9ae30e12",
+        "etag": "\"dld8rfph8cse-7qg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfph8cse-7qg\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10024|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10024,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BangbooUpgrade01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangbooUpgrade01.webp",
+        "localPath": "gallery/zzz/BangbooUpgrade01.webp",
+        "sha256": "3dfb8a801b26cd5b5922f2a766882ab9183b953878515096cb77a82e9ae30e12",
+        "etag": "\"dld8rfph8cse-7qg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfph8cse-7qg\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10024|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10024,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BangbooUpgrade01.png",
+      "rank": 1,
+      "class": 17,
+      "name": "Bangboo Software Patch"
+    },
+    "detail": {
+      "id": 303001,
+      "name": "Bangboo Software Patch",
+      "desc": "Provides 100 EXP for a Bangboo.",
+      "desc2": "A software patch storing a large amount of behavioral data. It can initially train a Bangboo's logic core and improve its computational capability.",
+      "class": {
+        "17": "BANGBOO EXP"
+      },
+      "rarity": 1,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BangbooUpgrade01.png"
+    }
+  }
+}

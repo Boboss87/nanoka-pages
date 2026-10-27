@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "400007",
+    "name": "Short Distance Collection",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill09.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivePropsSkill09.webp",
+        "localPath": "gallery/zzz/ActivePropsSkill09.webp",
+        "sha256": "dff4287f8a5bbf0e4d850195f96868131bb5869eddf337dd344e9d5406c972a0",
+        "etag": "\"dld8rfnuvsyu-3ge\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnuvsyu-3ge\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=4478|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4478,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill09.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivePropsSkill09.webp",
+        "localPath": "gallery/zzz/ActivePropsSkill09.webp",
+        "sha256": "dff4287f8a5bbf0e4d850195f96868131bb5869eddf337dd344e9d5406c972a0",
+        "etag": "\"dld8rfnuvsyu-3ge\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnuvsyu-3ge\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=4478|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4478,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill09.png",
+      "rank": 2,
+      "class": 15,
+      "name": "Short Distance Collection"
+    },
+    "detail": {
+      "id": 400007,
+      "name": "Short Distance Collection",
+      "desc": "Spin the wheel once. You may get: Gear Coins, a deadly trap, restorative medicine, or a Resonium.",
+      "desc2": "Release an auto-collection device to explore in a random direction, with a chance to bring back anything found on the way, which may include trouble.",
+      "class": {
+        "15": "HOLLOW ITEM"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill09.png"
+    }
+  }
+}

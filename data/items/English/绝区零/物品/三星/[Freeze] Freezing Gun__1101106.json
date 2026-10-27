@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1101106",
+    "name": "[Freeze] Freezing Gun",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardFrozen07.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardFrozen07.webp",
+        "localPath": "gallery/zzz/CardFrozen07.webp",
+        "sha256": "42a07f02d0d32a1d3bd1272df40613faee27f863c3402e1b1658c3a854473f8f",
+        "etag": "\"dld8rfqni6ks-c4i\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqni6ks-c4i\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15714|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15714,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardFrozen07.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardFrozen07.webp",
+        "localPath": "gallery/zzz/CardFrozen07.webp",
+        "sha256": "42a07f02d0d32a1d3bd1272df40613faee27f863c3402e1b1658c3a854473f8f",
+        "etag": "\"dld8rfqni6ks-c4i\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqni6ks-c4i\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15714|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15714,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardFrozen07.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Freeze] Freezing Gun"
+    },
+    "detail": {
+      "id": 1101106,
+      "name": "[Freeze] Freezing Gun",
+      "desc": "Upon triggering <color=#98EFF0>Shatter</color>, the Agent inflicts additional Daze equal to <color=#2BAD00>200%</color> of their initial Impact on the target, if the target is not Stunned.",
+      "desc2": "This deadly weapon can produce shards of ice and shoot at great distances. Think twice before using it, even in the summer.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardFrozen07.png"
+    }
+  }
+}

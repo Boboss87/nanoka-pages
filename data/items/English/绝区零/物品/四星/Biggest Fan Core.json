@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "540100",
+    "name": "Biggest Fan Core",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece39.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconBangbooPiece39.webp",
+        "localPath": "gallery/zzz/IconBangbooPiece39.webp",
+        "sha256": "31508ba82ecf7920d75d4f747f374f070266ccac411907e5b7cc1a1be0548640",
+        "etag": "\"dld8rg7e1kz6-8vq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7e1kz6-8vq\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11510|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11510,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece39.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconBangbooPiece39.webp",
+        "localPath": "gallery/zzz/IconBangbooPiece39.webp",
+        "sha256": "31508ba82ecf7920d75d4f747f374f070266ccac411907e5b7cc1a1be0548640",
+        "etag": "\"dld8rg7e1kz6-8vq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7e1kz6-8vq\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11510|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11510,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece39.png",
+      "rank": 4,
+      "class": 9,
+      "name": "Biggest Fan Core"
+    },
+    "detail": {
+      "id": 540100,
+      "name": "Biggest Fan Core",
+      "desc": "Obtain this Bangboo model or authorization to perform the Bangboo's core update.",
+      "desc2": "An Angels of Delusion superfan for life!",
+      "class": {
+        "9": "BANGBOO CORE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece39.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1090005",
+    "name": "Shock Resonium Supply",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardLootBoxElectro.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardLootBoxElectro.webp",
+        "localPath": "gallery/zzz/CardLootBoxElectro.webp",
+        "sha256": "1ca9e997f93b57d9ade52215f9a27c0654df45f655a8f19b7f1fbd2db064df40",
+        "etag": "\"dld8rfqro7zr-cvk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqro7zr-cvk\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16688|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16688,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardLootBoxElectro.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardLootBoxElectro.webp",
+        "localPath": "gallery/zzz/CardLootBoxElectro.webp",
+        "sha256": "1ca9e997f93b57d9ade52215f9a27c0654df45f655a8f19b7f1fbd2db064df40",
+        "etag": "\"dld8rfqro7zr-cvk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqro7zr-cvk\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16688|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16688,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardLootBoxElectro.png",
+      "rank": 4,
+      "class": 38,
+      "name": "Shock Resonium Supply"
+    },
+    "detail": {
+      "id": 1090005,
+      "name": "Shock Resonium Supply",
+      "desc": "Contains 3 random Catalyzed [Shock] Resonia",
+      "desc2": "Resonium supplies specially distributed by the Defense Force to squads carrying out blitz operations. Please don't blame the logistics personnel who packed the supplies for having poor eyesight. He was just a bit rushed... Perhaps it will bring a surprise?",
+      "class": {
+        "38": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardLootBoxElectro.png"
+    }
+  }
+}

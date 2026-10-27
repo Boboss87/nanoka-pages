@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3321161",
+    "name": "\"Black Boxing Gloves\"",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "\"Black Boxing Gloves\""
+    },
+    "detail": {
+      "id": 3321161,
+      "name": "\"Black Boxing Gloves\"",
+      "desc": "Get by unlocking Lighter's Mindscape: Survivor",
+      "desc2": "A card with Lighter's photo printed on it.\n\"If you need any help that you'd rather your more... 'honest' friends not find out about, just hit me up.\"\n\"I'll deal with it and make sure no one gets away to continue harassing you.\"",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

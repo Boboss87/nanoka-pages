@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3201003",
+    "name": "Hidden Ending",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1003.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemProfile1003.webp",
+        "localPath": "gallery/zzz/ItemProfile1003.webp",
+        "sha256": "fef74ef6638101be843c9f1d70c1e664c469fc645b2dec582489089d89fdbe30",
+        "etag": "\"dld8rgehgulq-8ak\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgehgulq-8ak\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10748|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10748,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1003.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemProfile1003.webp",
+        "localPath": "gallery/zzz/ItemProfile1003.webp",
+        "sha256": "fef74ef6638101be843c9f1d70c1e664c469fc645b2dec582489089d89fdbe30",
+        "etag": "\"dld8rgehgulq-8ak\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgehgulq-8ak\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10748|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10748,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1003.png",
+      "rank": 4,
+      "class": 64,
+      "name": "Hidden Ending"
+    },
+    "detail": {
+      "id": 3201003,
+      "name": "Hidden Ending",
+      "desc": "A commemorative avatar for the New Eridu City Fund: Premium Plan.",
+      "desc2": "Almost no one noticed that a regular social service Bangboo left its post, except for its cat.\nWas the ability to trace the data logs due to a glitch in the system, or was it love?",
+      "class": {
+        "64": "PROFILE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1003.png"
+    }
+  }
+}

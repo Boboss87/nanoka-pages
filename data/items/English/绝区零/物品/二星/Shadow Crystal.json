@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "150104",
+    "name": "Shadow Crystal",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AbyssWitheredMaterial05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AbyssWitheredMaterial05.webp",
+        "localPath": "gallery/zzz/AbyssWitheredMaterial05.webp",
+        "sha256": "6df951cdaa5e7f8fb75cf1d24660fa29c1f62fc11ffc07cfa9fb86b5494af27a",
+        "etag": "\"dld8rfnuvsyu-6po\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnuvsyu-6po\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8700|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8700,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AbyssWitheredMaterial05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AbyssWitheredMaterial05.webp",
+        "localPath": "gallery/zzz/AbyssWitheredMaterial05.webp",
+        "sha256": "6df951cdaa5e7f8fb75cf1d24660fa29c1f62fc11ffc07cfa9fb86b5494af27a",
+        "etag": "\"dld8rfnuvsyu-6po\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnuvsyu-6po\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8700|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8700,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AbyssWitheredMaterial05.png",
+      "rank": 2,
+      "class": 10,
+      "name": "Shadow Crystal"
+    },
+    "detail": {
+      "id": 150104,
+      "name": "Shadow Crystal",
+      "desc": "An abnormal Ether crystal found in Hollow Zero, can be used to upgrade an Agent's combat potential.",
+      "desc2": "A special Ether crystal found in Hollows that seems to resonate with a certain shadow deep inside the Hollow. Use it on equipment to unleash your Agent's combat potential.",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AbyssWitheredMaterial05.png"
+    }
+  }
+}

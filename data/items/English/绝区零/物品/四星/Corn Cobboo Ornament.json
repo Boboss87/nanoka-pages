@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4360030",
+    "name": "Corn Cobboo Ornament",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_033.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_033.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_033.webp",
+        "sha256": "6f05d16b3c433da12ea532445c7f5f40780627dfa8d3c4ebb6f7537466ab9dfd",
+        "etag": "\"dld8rgr2k9ny-6ic\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr2k9ny-6ic\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8436|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8436,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_033.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_033.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_033.webp",
+        "sha256": "6f05d16b3c433da12ea532445c7f5f40780627dfa8d3c4ebb6f7537466ab9dfd",
+        "etag": "\"dld8rgr2k9ny-6ic\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr2k9ny-6ic\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8436|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8436,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_033.png",
+      "rank": 4,
+      "class": 130,
+      "name": "Corn Cobboo Ornament"
+    },
+    "detail": {
+      "id": 4360030,
+      "name": "Corn Cobboo Ornament",
+      "desc": "A Bangboo figurine from Sān-Z STUDIO. Rumor has it that holding it over an open flame might turn it into Popcornboo.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_033.png"
+    }
+  }
+}

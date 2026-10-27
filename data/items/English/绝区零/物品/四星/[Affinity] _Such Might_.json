@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000977",
+    "name": "[Affinity] \"Such Might\"",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1391.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1391.webp",
+        "localPath": "gallery/zzz/CardDailyUse1391.webp",
+        "sha256": "6ff1818f77b2e81d4cbf9b23334befeacf3a27cedaa7dc0daef4c012c220d032",
+        "etag": "\"dld8rfqfrjdk-cpo\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqfrjdk-cpo\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16476|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16476,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1391.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1391.webp",
+        "localPath": "gallery/zzz/CardDailyUse1391.webp",
+        "sha256": "6ff1818f77b2e81d4cbf9b23334befeacf3a27cedaa7dc0daef4c012c220d032",
+        "etag": "\"dld8rfqfrjdk-cpo\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqfrjdk-cpo\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16476|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16476,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1391.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Affinity] \"Such Might\""
+    },
+    "detail": {
+      "id": 1000977,
+      "name": "[Affinity] \"Such Might\"",
+      "desc": "Ju Fufu has evoked the Mindscape: <color=#FFAF2C>[Super Scary Little Tiger]</color>.\n[Super Scary Little Tiger]: Upon entering combat, Ju Fufu's CRIT Rate increases by 12%, and she immediately gains 100 <color=#FFFFFF>Might</color>. When Ju Fufu's <color=#FFFFFF>Chain Attack</color> hits an enemy, when the target is Stunned, the target's Stun DMG Multiplier increases by 35%, lasting for 30s.",
+      "desc2": "According to your dear senior Fufu herself, tiger Thirens naturally possess a protective aura called Might during battle.\nAlthough it can't be explained by either science or sorcery, Fufu's fighting spirit is definitely all fired up.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1391.png"
+    }
+  }
+}

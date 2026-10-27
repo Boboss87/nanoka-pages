@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3301023",
+    "name": "Pursuit of the Paranormal",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard43.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard43.webp",
+        "localPath": "gallery/zzz/Callingcard43.webp",
+        "sha256": "19bc17405ad66f3c740a0a3f88206c1c9ccc79ecb765c0620109c374466b1ad1",
+        "etag": "\"dld8rfprcqih-7es\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfprcqih-7es\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9604|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9604,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard43.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard43.webp",
+        "localPath": "gallery/zzz/Callingcard43.webp",
+        "sha256": "19bc17405ad66f3c740a0a3f88206c1c9ccc79ecb765c0620109c374466b1ad1",
+        "etag": "\"dld8rfprcqih-7es\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfprcqih-7es\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9604|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9604,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard43.png",
+      "rank": 3,
+      "class": 65,
+      "name": "Pursuit of the Paranormal"
+    },
+    "detail": {
+      "id": 3301023,
+      "name": "Pursuit of the Paranormal",
+      "desc": "A namecard reward for the limited-time event \"A Look Into Ridu's Legends.\"\nLimited-time reward.",
+      "desc2": "All the coordinates on the Ridu urban legend tour map have been woven together into one web address used only for urban legends.\n\"To those who came chasing urban legends, welcome to Spook Shack!\" This is the first greeting every visitor sees after opening the link.",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard43.png"
+    }
+  }
+}

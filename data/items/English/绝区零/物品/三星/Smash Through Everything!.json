@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3302007",
+    "name": "Smash Through Everything!",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard41.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard41.webp",
+        "localPath": "gallery/zzz/Callingcard41.webp",
+        "sha256": "ea98d1ddff1c66bcaca05894dee74c17e63c6b41f1cefe8b2aaf1ee6acf21683",
+        "etag": "\"dld8rfprcqih-7xs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfprcqih-7xs\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10288|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10288,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard41.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard41.webp",
+        "localPath": "gallery/zzz/Callingcard41.webp",
+        "sha256": "ea98d1ddff1c66bcaca05894dee74c17e63c6b41f1cefe8b2aaf1ee6acf21683",
+        "etag": "\"dld8rfprcqih-7xs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfprcqih-7xs\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10288|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10288,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard41.png",
+      "rank": 3,
+      "class": 65,
+      "name": "Smash Through Everything!"
+    },
+    "detail": {
+      "id": 3302007,
+      "name": "Smash Through Everything!",
+      "desc": "Commemorative namecard for specific scores in \"Battle Trial: Tidal Wave.\"",
+      "desc2": "Whether treasure or enemies lie behind the wall doesn't matter. Just grab the weapon in your hand and smash everything to pieces!\nBreak through every obstacle, climb to the top of the tower, and soak in the cheers of victory!",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard41.png"
+    }
+  }
+}

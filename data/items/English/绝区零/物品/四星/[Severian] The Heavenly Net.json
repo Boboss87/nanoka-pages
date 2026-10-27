@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1350332",
+    "name": "[Severian] The Heavenly Net",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic114.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic114.webp",
+        "localPath": "gallery/zzz/Relic114.webp",
+        "sha256": "7fa59e724356ea7c062c973e396cb164269a7f19ad2f50ea7ed70ddb55453b41",
+        "etag": "\"dlizwhitzhak-3hg\"",
+        "lastModified": "Sat, 19 Sep 2026 04:07:21 GMT",
+        "remoteKey": "etag=\"dlizwhitzhak-3hg\"|lastModified=Sat, 19 Sep 2026 04:07:21 GMT|bytes=4516|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4516,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic114.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic114.webp",
+        "localPath": "gallery/zzz/Relic114.webp",
+        "sha256": "7fa59e724356ea7c062c973e396cb164269a7f19ad2f50ea7ed70ddb55453b41",
+        "etag": "\"dlizwhitzhak-3hg\"",
+        "lastModified": "Sat, 19 Sep 2026 04:07:21 GMT",
+        "remoteKey": "etag=\"dlizwhitzhak-3hg\"|lastModified=Sat, 19 Sep 2026 04:07:21 GMT|bytes=4516|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4516,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic114.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Severian] The Heavenly Net"
+    },
+    "detail": {
+      "id": 1350332,
+      "name": "[Severian] The Heavenly Net",
+      "desc": "Every time other squad members consume 1 Energy or Adrenaline, Severian recovers 0.4 <color=#FFFFFF>Flow</color>.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic114.png"
+    }
+  }
+}

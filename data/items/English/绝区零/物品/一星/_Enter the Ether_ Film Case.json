@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "701005",
+    "name": "\"Enter the Ether\" Film Case",
+    "rarity": "一星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/VideotapeBox04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/VideotapeBox04.webp",
+        "localPath": "gallery/zzz/VideotapeBox04.webp",
+        "sha256": "189adc9c230c036b75f7597eef9454d0841a1c4dd0ccb751da00076859e12125",
+        "etag": "\"dld8rgovyye8-7lq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgovyye8-7lq\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9854|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9854,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/VideotapeBox04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/VideotapeBox04.webp",
+        "localPath": "gallery/zzz/VideotapeBox04.webp",
+        "sha256": "189adc9c230c036b75f7597eef9454d0841a1c4dd0ccb751da00076859e12125",
+        "etag": "\"dld8rgovyye8-7lq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgovyye8-7lq\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9854|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9854,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/VideotapeBox04.png",
+      "rank": 1,
+      "class": 19,
+      "name": "\"Enter the Ether\" Film Case"
+    },
+    "detail": {
+      "id": 701005,
+      "name": "\"Enter the Ether\" Film Case",
+      "desc": "A film case containing the \"Enter the Ether\" videotape",
+      "desc2": "",
+      "class": {
+        "19": "VIDEOTAPE"
+      },
+      "rarity": 1,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/VideotapeBox04.png"
+    }
+  }
+}

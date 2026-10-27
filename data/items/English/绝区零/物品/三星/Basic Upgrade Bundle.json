@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "2100021",
+    "name": "Basic Upgrade Bundle",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/NAPGPPLAYPOINT01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/NAPGPPLAYPOINT01.webp",
+        "localPath": "gallery/zzz/NAPGPPLAYPOINT01.webp",
+        "sha256": "64c21ae9ea0b9c8f920ebc1778d0eb39c0dfcc57014e0d43ffd8e807bc3965eb",
+        "etag": "\"dld8rgntv60t-6ki\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgntv60t-6ki\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8514|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8514,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/NAPGPPLAYPOINT01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/NAPGPPLAYPOINT01.webp",
+        "localPath": "gallery/zzz/NAPGPPLAYPOINT01.webp",
+        "sha256": "64c21ae9ea0b9c8f920ebc1778d0eb39c0dfcc57014e0d43ffd8e807bc3965eb",
+        "etag": "\"dld8rgntv60t-6ki\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgntv60t-6ki\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8514|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8514,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/NAPGPPLAYPOINT01.png",
+      "rank": 3,
+      "class": 51,
+      "name": "Basic Upgrade Bundle"
+    },
+    "detail": {
+      "id": 2100021,
+      "name": "Basic Upgrade Bundle",
+      "desc": "Redeem for 3 Senior Investigator Logs, 2 Ether Plating Agents, 2 Bangboo Algorithm Modules, and 3,000 Dennies.",
+      "desc2": "",
+      "class": {
+        "51": "GIFT"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/NAPGPPLAYPOINT01.png"
+    }
+  }
+}

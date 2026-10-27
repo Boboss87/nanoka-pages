@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4150076",
+    "name": "[Refined] Revitalizing Elixir",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianRemedyProduct04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianRemedyProduct04.webp",
+        "localPath": "gallery/zzz/SuibianRemedyProduct04.webp",
+        "sha256": "d2d9affbd706fd60521bd6778a82a7e3ab10848468a16abf904c7cac31dcde4a",
+        "etag": "\"dld8rgoh33mh-6as\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoh33mh-6as\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8164|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8164,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianRemedyProduct04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianRemedyProduct04.webp",
+        "localPath": "gallery/zzz/SuibianRemedyProduct04.webp",
+        "sha256": "d2d9affbd706fd60521bd6778a82a7e3ab10848468a16abf904c7cac31dcde4a",
+        "etag": "\"dld8rgoh33mh-6as\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoh33mh-6as\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8164|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8164,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianRemedyProduct04.png",
+      "rank": 4,
+      "class": 89,
+      "name": "[Refined] Revitalizing Elixir"
+    },
+    "detail": {
+      "id": 4150076,
+      "name": "[Refined] Revitalizing Elixir",
+      "desc": "Special herbal remedy refined at Suibian Temple.",
+      "desc2": "Traditional pills from Yunkui Summit that ease emotional knots, restore clarity, and accelerate healing.",
+      "class": {
+        "89": "Product"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianRemedyProduct04.png"
+    }
+  }
+}

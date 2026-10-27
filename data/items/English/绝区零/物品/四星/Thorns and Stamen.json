@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3650009",
+    "name": "Thorns and Stamen",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/PhotowallDecoration2.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/PhotowallDecoration2.webp",
+        "localPath": "gallery/zzz/PhotowallDecoration2.webp",
+        "sha256": "86cae20d62d4c2a80a49e878f08479abfb1cedb83410e89161c72a387cbc7aa3",
+        "etag": "\"dld8rgnuglni-9qu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnuglni-9qu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=12630|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12630,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/PhotowallDecoration2.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/PhotowallDecoration2.webp",
+        "localPath": "gallery/zzz/PhotowallDecoration2.webp",
+        "sha256": "86cae20d62d4c2a80a49e878f08479abfb1cedb83410e89161c72a387cbc7aa3",
+        "etag": "\"dld8rgnuglni-9qu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnuglni-9qu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=12630|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12630,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/PhotowallDecoration2.png",
+      "rank": 4,
+      "class": 68,
+      "name": "Thorns and Stamen"
+    },
+    "detail": {
+      "id": 3650009,
+      "name": "Thorns and Stamen",
+      "desc": "A memorable moment worth commemorating. Can be used to decorate your room.",
+      "desc2": "After resolving the crisis in the Converging Lands, Orchidea sent a thank-you gift. Delicate flower stamens and stubborn thorns convey a friendship from the wild; beneath the seamless \"Silent Riddle\" lies a thrilling adventure.",
+      "class": {
+        "68": "PHOTOWALL ITEM"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/PhotowallDecoration2.png"
+    }
+  }
+}

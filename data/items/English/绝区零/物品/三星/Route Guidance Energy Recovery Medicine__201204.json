@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "201204",
+    "name": "Route Guidance Energy Recovery Medicine",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "placeholder",
+        "placeholder": true,
+        "originalValue": "Assets/NapResources/UI/Sprite/ItemIcon/Analeptic.png",
+        "remoteUrl": null,
+        "localPath": "gallery/_placeholder/unknown.svg",
+        "sha256": "25fe1ba8bf237af8dc0157859efb518fa04c23b8e55ca4c05ec8292eebc2122e",
+        "etag": null,
+        "lastModified": null,
+        "remoteKey": null,
+        "contentType": "image/svg+xml",
+        "bytes": 520,
+        "retryable": false,
+        "retryOnNextRun": true,
+        "placeholderReason": "remote_missing",
+        "failedCandidateCount": 2,
+        "error": "missing: 404 unknown content-type; missing: 404 unknown content-type"
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "placeholder",
+        "placeholder": true,
+        "originalValue": "Assets/NapResources/UI/Sprite/ItemIcon/Analeptic.png",
+        "remoteUrl": null,
+        "localPath": "gallery/_placeholder/unknown.svg",
+        "sha256": "25fe1ba8bf237af8dc0157859efb518fa04c23b8e55ca4c05ec8292eebc2122e",
+        "etag": null,
+        "lastModified": null,
+        "remoteKey": null,
+        "contentType": "image/svg+xml",
+        "bytes": 520,
+        "retryable": false,
+        "retryOnNextRun": true,
+        "placeholderReason": "remote_missing",
+        "failedCandidateCount": 2,
+        "error": "missing: 404 unknown content-type; missing: 404 unknown content-type"
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/ItemIcon/Analeptic.png",
+      "rank": 3,
+      "class": 11,
+      "name": "Route Guidance Energy Recovery Medicine"
+    },
+    "detail": {
+      "id": 201204,
+      "name": "Route Guidance Energy Recovery Medicine",
+      "desc": "",
+      "desc2": "",
+      "class": {
+        "11": "BATTLE RESOURCE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/ItemIcon/Analeptic.png"
+    }
+  }
+}

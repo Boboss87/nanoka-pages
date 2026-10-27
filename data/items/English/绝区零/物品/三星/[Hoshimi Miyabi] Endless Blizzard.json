@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1310501",
+    "name": "[Hoshimi Miyabi] Endless Blizzard",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardMiyabi01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardMiyabi01.webp",
+        "localPath": "gallery/zzz/CardMiyabi01.webp",
+        "sha256": "573d6fe981c7b36c3bbb519c319dce54c82e3da82a1a2b2feddbe7b7f77c533a",
+        "etag": "\"dld8rfqvu9eq-bvk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqvu9eq-bvk\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15392|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15392,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardMiyabi01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardMiyabi01.webp",
+        "localPath": "gallery/zzz/CardMiyabi01.webp",
+        "sha256": "573d6fe981c7b36c3bbb519c319dce54c82e3da82a1a2b2feddbe7b7f77c533a",
+        "etag": "\"dld8rfqvu9eq-bvk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqvu9eq-bvk\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15392|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15392,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardMiyabi01.png",
+      "rank": 3,
+      "class": 80,
+      "name": "[Hoshimi Miyabi] Endless Blizzard"
+    },
+    "detail": {
+      "id": 1310501,
+      "name": "[Hoshimi Miyabi] Endless Blizzard",
+      "desc": "After triggering <color=#FFFFFF>Frostburn - Break</color>, Hoshimi Miyabi's next <color=#FFFFFF>EX Special Attack</color> will not consume energy and <color=#2BAD00>deals 50% increased DMG</color> to enemies with an Attribute Anomaly. This effect can trigger once every 30s.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardMiyabi01.png"
+    }
+  }
+}

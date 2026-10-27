@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "equipment",
+    "pageFolder": "驱动盘",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/equipment.json",
+    "sourcePath": "3.3.12+19634983/equipment.json",
+    "sourceLocale": null,
+    "localeMode": "embedded",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/equipment/33300.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "33300",
+    "name": "Dawn's Bloom",
+    "rarity": "未分类",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitDawnsBloom.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitDawnsBloom.webp",
+        "localPath": "gallery/zzz/SuitDawnsBloom.webp",
+        "sha256": "3f436e88e3d7a97debbc8243d3a4ebc6be2f24dcc376a30b1519f4465ae02ae3",
+        "etag": "\"dld8rgon1fxl-6xe\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgon1fxl-6xe\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8978|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8978,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitDawnsBloom.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitDawnsBloom.webp",
+        "localPath": "gallery/zzz/SuitDawnsBloom.webp",
+        "sha256": "3f436e88e3d7a97debbc8243d3a4ebc6be2f24dcc376a30b1519f4465ae02ae3",
+        "etag": "\"dld8rgon1fxl-6xe\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgon1fxl-6xe\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8978|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8978,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon2",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitDawnsBloom.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitDawnsBloom.webp",
+        "localPath": "gallery/zzz/SuitDawnsBloom.webp",
+        "sha256": "3f436e88e3d7a97debbc8243d3a4ebc6be2f24dcc376a30b1519f4465ae02ae3",
+        "etag": "\"dld8rgon1fxl-6xe\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgon1fxl-6xe\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8978|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8978,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitDawnsBloom.png",
+      "en": {
+        "name": "Dawn's Bloom",
+        "desc2": "Increases <color=#FFFFFF>Basic Attack</color> DMG by 15%.",
+        "desc4": "Increases <color=#FFFFFF>Basic Attack</color> DMG by 20%. When equipped by an Attack character, using an <color=#FFFFFF>EX Special Attack</color> or <color=#FFFFFF>Ultimate</color> will further increase <color=#FFFFFF>Basic Attack</color> DMG by 20% for 25s. Repeated triggers reset the duration."
+      },
+      "ko": {
+        "name": "여명의 꽃",
+        "desc2": "<color=#FFFFFF>[일반 공격]</color>으로 주는 피해+15%",
+        "desc4": "<color=#FFFFFF>[일반 공격]</color>으로 주는 피해가 20% 증가하며, 착용자가 [강공] 캐릭터일 시 <color=#FFFFFF>[강화 특수 스킬]</color> 혹은 <color=#FFFFFF>[궁극기]</color>를 시전하면 <color=#FFFFFF>[일반 공격]</color>으로 주는 피해가 추가로 20% 증가한다. 지속 시간: 25초, 중복 발동 시 지속 시간이 갱신된다."
+      },
+      "zh": {
+        "name": "拂晓生花",
+        "desc2": "<color=#FFFFFF>[普通攻击]</color>造成的伤害提升15%。",
+        "desc4": "<color=#FFFFFF>[普通攻击]</color>造成的伤害提升20%，装备者为[强攻]角色时，发动<color=#FFFFFF>[强化特殊技]</color>或<color=#FFFFFF>[终结技]</color>会使<color=#FFFFFF>[普通攻击]</color>造成的伤害额外提升20%，持续25秒，重复触发时刷新持续时间。"
+      },
+      "ja": {
+        "name": "暁に咲く花",
+        "desc2": "<color=#FFFFFF>『通常攻撃』</color>の与ダメージ+15%。",
+        "desc4": "<color=#FFFFFF>『通常攻撃』</color>の与ダメージ+20%。装備者が[強攻]メンバーの場合、<color=#FFFFFF>『強化特殊スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動すると、<color=#FFFFFF>『通常攻撃』</color>の与ダメージが追加で+20%、継続時間25秒、重複して発動すると継続時間が更新される。"
+      }
+    },
+    "detail": {
+      "id": 33300,
+      "name": "Dawn's Bloom",
+      "desc2": "Increases <color=#FFFFFF>Basic Attack</color> DMG by 15%.",
+      "desc4": "Increases <color=#FFFFFF>Basic Attack</color> DMG by 20%. When equipped by an Attack character, using an <color=#FFFFFF>EX Special Attack</color> or <color=#FFFFFF>Ultimate</color> will further increase <color=#FFFFFF>Basic Attack</color> DMG by 20% for 25s. Repeated triggers reset the duration.",
+      "story": "Years after the fall of the old capital, an aging singer who had long since put down the pen released this album. According to the artist, its inspiration came from a hazy, childlike lullaby heard while hiding in the ruins during that catastrophe — on the verge of breaking down.",
+      "icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitDawnsBloom.png",
+      "icon2": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitDawnsBloom.png"
+    }
+  }
+}

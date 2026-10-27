@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "412011346",
+    "name": "The Time is Neigh",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Head_Headgear_11.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Wise_Head_Headgear_11.webp",
+        "localPath": "gallery/zzz/icon_Wise_Head_Headgear_11.webp",
+        "sha256": "31c7f55d6dfb80a7a1afecca79fe505b48c77e6b04ef4612f5a3419d0de78f6e",
+        "etag": "\"dld8rgrolc07-8d0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrolc07-8d0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10836|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10836,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Head_Headgear_11.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Wise_Head_Headgear_11.webp",
+        "localPath": "gallery/zzz/icon_Wise_Head_Headgear_11.webp",
+        "sha256": "31c7f55d6dfb80a7a1afecca79fe505b48c77e6b04ef4612f5a3419d0de78f6e",
+        "etag": "\"dld8rgrolc07-8d0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrolc07-8d0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10836|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10836,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Head_Headgear_11.png",
+      "rank": 3,
+      "class": 95,
+      "name": "The Time is Neigh"
+    },
+    "detail": {
+      "id": 412011346,
+      "name": "The Time is Neigh",
+      "desc": "A Proxy accessory that can be worn with some of Wise's Proxy outfits.",
+      "desc2": "The ultimate proof that you are a warrior of the Divine Maze. Demons and monsters, the time is neigh!",
+      "class": {
+        "95": "OUTFIT ACCESSORIES"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Head_Headgear_11.png"
+    }
+  }
+}

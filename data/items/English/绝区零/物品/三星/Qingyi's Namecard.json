@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3311251",
+    "name": "Qingyi's Namecard",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "Qingyi's Namecard"
+    },
+    "detail": {
+      "id": 3311251,
+      "name": "Qingyi's Namecard",
+      "desc": "Get by unlocking Qingyi's Mindscape: Drink Hot Water",
+      "desc2": "A card with an outstanding officer from the Criminal Investigation Special Response Team printed on it.\nHard currency within the NEPS. Possession of this namecard is equivalent to owning your own support force you can drop in at any minute, equally competent at evidence inspection or case analysis.",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

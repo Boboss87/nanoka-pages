@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1350011",
+    "name": "[Billy] Execution Order",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic018.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic018.webp",
+        "localPath": "gallery/zzz/Relic018.webp",
+        "sha256": "0a6506c6a392c6971d5e2847eaf3090081cf64cc031351345e6e6f9501f4742b",
+        "etag": "\"dld8rgnztibw-3ww\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnztibw-3ww\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5072|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5072,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic018.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic018.webp",
+        "localPath": "gallery/zzz/Relic018.webp",
+        "sha256": "0a6506c6a392c6971d5e2847eaf3090081cf64cc031351345e6e6f9501f4742b",
+        "etag": "\"dld8rgnztibw-3ww\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnztibw-3ww\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5072|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5072,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic018.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Billy] Execution Order"
+    },
+    "detail": {
+      "id": 1350011,
+      "name": "[Billy] Execution Order",
+      "desc": "Replaces <color=#FFFFFF>Basic Attack: Full Firepower</color> with <color=#FFFFFF>Basic Attack: Full Firepower - Modified</color>. This <color=#2BAD00>decreases the rate of fire to increase bullet power</color>. Upon activating this skill, Billy will <color=#2BAD00>directly enter Crouching Shot</color>, triggering <color=#FFFFFF>Core Passive: Steady Shot</color> and <color=#2BAD00>increasing his DMG dealt by an additional 100%</color>. The buff will end when he moves, returns to idle, or is knocked back or launched.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic018.png"
+    }
+  }
+}

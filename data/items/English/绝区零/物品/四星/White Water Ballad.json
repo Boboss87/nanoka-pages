@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "833540",
+    "name": "White Water Ballad",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitWhiteWaterBallad_S.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitWhiteWaterBallad_S.webp",
+        "localPath": "gallery/zzz/ItemSuitWhiteWaterBallad_S.webp",
+        "sha256": "b134a83f74bd2ff540c6445c71bf5b4f8fe682abdafb1985195928b4baff96ca",
+        "etag": "\"dld8rgezbvj1-7zw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgezbvj1-7zw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10364|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10364,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitWhiteWaterBallad_S.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitWhiteWaterBallad_S.webp",
+        "localPath": "gallery/zzz/ItemSuitWhiteWaterBallad_S.webp",
+        "sha256": "b134a83f74bd2ff540c6445c71bf5b4f8fe682abdafb1985195928b4baff96ca",
+        "etag": "\"dld8rgezbvj1-7zw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgezbvj1-7zw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10364|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10364,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitWhiteWaterBallad_S.png",
+      "rank": 4,
+      "class": 28,
+      "name": "White Water Ballad"
+    },
+    "detail": {
+      "id": 833540,
+      "name": "White Water Ballad",
+      "desc": "",
+      "desc2": "Written on paper turned yellow with age and tucked inside the Qingming Sword Manual for years, no one knows who composed this melody — most likely a Qingming Sword Keeper long since lost to history.",
+      "class": {
+        "28": "DISK"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitWhiteWaterBallad_S.png"
+    }
+  }
+}

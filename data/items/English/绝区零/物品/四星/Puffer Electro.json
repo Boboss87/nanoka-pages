@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "831140",
+    "name": "Puffer Electro",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitPufferElectro_S.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitPufferElectro_S.webp",
+        "localPath": "gallery/zzz/ItemSuitPufferElectro_S.webp",
+        "sha256": "0b0781b801ac41d416548ddb92c80b745bbf46c7c6e95bbded90cd6858ae97e8",
+        "etag": "\"dld8rgetyyun-7ag\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgetyyun-7ag\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9448|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9448,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitPufferElectro_S.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitPufferElectro_S.webp",
+        "localPath": "gallery/zzz/ItemSuitPufferElectro_S.webp",
+        "sha256": "0b0781b801ac41d416548ddb92c80b745bbf46c7c6e95bbded90cd6858ae97e8",
+        "etag": "\"dld8rgetyyun-7ag\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgetyyun-7ag\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9448|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9448,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitPufferElectro_S.png",
+      "rank": 4,
+      "class": 28,
+      "name": "Puffer Electro"
+    },
+    "detail": {
+      "id": 831140,
+      "name": "Puffer Electro",
+      "desc": "",
+      "desc2": "This reliable Drive Disc series is favored by Hollow explorers due to its consistent performance. Don't underestimate its effectiveness, pufferfish are poisonous, after all.",
+      "class": {
+        "28": "DISK"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitPufferElectro_S.png"
+    }
+  }
+}

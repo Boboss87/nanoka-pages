@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "110505",
+    "name": "Higher Dimensional Data: Destructive Advance",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "ExSmallBoss005",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ExSmallBoss005.webp",
+        "localPath": "gallery/zzz/ExSmallBoss005.webp",
+        "sha256": "9aac4aa0c0977ecd26cd01f48e48d0c9122b388f3412ed549e3cb7dba6b9b0b0",
+        "etag": "\"dld8rg0xu8yc-j3sy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg0xu8yc-j3sy\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=891394|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 891394,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "ExSmallBoss005",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ExSmallBoss005.webp",
+        "localPath": "gallery/zzz/ExSmallBoss005.webp",
+        "sha256": "9aac4aa0c0977ecd26cd01f48e48d0c9122b388f3412ed549e3cb7dba6b9b0b0",
+        "etag": "\"dld8rg0xu8yc-j3sy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg0xu8yc-j3sy\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=891394|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 891394,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "ExSmallBoss005",
+      "rank": 3,
+      "class": 10,
+      "name": "Higher Dimensional Data: Destructive Advance",
+      "boss": true
+    },
+    "detail": {
+      "id": 110505,
+      "name": "Higher Dimensional Data: Destructive Advance",
+      "desc": "An item required to increase your Agent's Core Skill level.",
+      "desc2": "A data model built on the combat records of numerous investigators versus Typhon Slugger, including the most penetrating impressions of it by the investigators. It's enough data to see it \"born and alive\" inside a VR system.",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 3,
+      "icon_path": "ExSmallBoss005",
+      "boss": true
+    }
+  }
+}

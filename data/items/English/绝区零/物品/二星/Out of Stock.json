@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000003",
+    "name": "Out of Stock",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/Icon_Empty.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Icon_Empty.webp",
+        "localPath": "gallery/zzz/Icon_Empty.webp",
+        "sha256": "aae9a12f350ab7cb8e34c8844081e4f60d614b0942f630d21dda0d5abfafe069",
+        "etag": "\"dld8rgefojpl-30k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgefojpl-30k\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=3908|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 3908,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/Icon_Empty.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Icon_Empty.webp",
+        "localPath": "gallery/zzz/Icon_Empty.webp",
+        "sha256": "aae9a12f350ab7cb8e34c8844081e4f60d614b0942f630d21dda0d5abfafe069",
+        "etag": "\"dld8rgefojpl-30k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgefojpl-30k\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=3908|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 3908,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/Icon_Empty.png",
+      "rank": 2,
+      "class": 34,
+      "name": "Out of Stock"
+    },
+    "detail": {
+      "id": 1000003,
+      "name": "Out of Stock",
+      "desc": "All items have been sold out...",
+      "desc2": "No matter how well-stocked the Resonium Store, it will eventually sell out.",
+      "class": {
+        "34": "PLACEHOLDER"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/Icon_Empty.png"
+    }
+  }
+}

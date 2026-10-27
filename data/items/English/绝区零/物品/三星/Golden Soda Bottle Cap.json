@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "140",
+    "name": "Golden Soda Bottle Cap",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ActivityGoldenBottleCap.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivityGoldenBottleCap.webp",
+        "localPath": "gallery/zzz/ActivityGoldenBottleCap.webp",
+        "sha256": "523ec1c099d5e56a7aeac72f78c7ea709e8e97160b02b599336f80063d45eb44",
+        "etag": "\"dld8rfnwo3uy-74g\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnwo3uy-74g\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9232|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9232,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ActivityGoldenBottleCap.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivityGoldenBottleCap.webp",
+        "localPath": "gallery/zzz/ActivityGoldenBottleCap.webp",
+        "sha256": "523ec1c099d5e56a7aeac72f78c7ea709e8e97160b02b599336f80063d45eb44",
+        "etag": "\"dld8rfnwo3uy-74g\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnwo3uy-74g\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9232|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9232,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ActivityGoldenBottleCap.png",
+      "rank": 3,
+      "class": 1,
+      "name": "Golden Soda Bottle Cap"
+    },
+    "detail": {
+      "id": 140,
+      "name": "Golden Soda Bottle Cap",
+      "desc": "Obtained after consuming any amount of Battery Charge for the first time each day. Visit the Bangboo Merch stall and open a surprise box to receive the corresponding rewards.",
+      "desc2": "A limited-edition soda cap from some boutique beverage brand. Bangboo go crazy over its golden look, but it's really just another ordinary product for the industry.",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ActivityGoldenBottleCap.png"
+    }
+  }
+}

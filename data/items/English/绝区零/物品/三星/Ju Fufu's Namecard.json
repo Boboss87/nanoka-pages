@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3311391",
+    "name": "Ju Fufu's Namecard",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "Ju Fufu's Namecard"
+    },
+    "detail": {
+      "id": 3311391,
+      "name": "Ju Fufu's Namecard",
+      "desc": "Get by unlocking Ju Fufu's Mindscape: Righteous Young Hero",
+      "desc2": "A card imprinted with the image of Yunkui Summit's most senior disciple.\nInstead of dialing her number, the sect's exclusive voice-transmission technique calls a disciple in an instant. So beyond the contact details, it even includes the incantation to call the \"super scary big tiger\":\nSenior, Shifu has been kidnapped by Ethereals!",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

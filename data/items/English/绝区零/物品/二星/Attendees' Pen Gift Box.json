@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "305028",
+    "name": "Attendees' Pen Gift Box",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0015.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconQuestItem_Abyss_0015.webp",
+        "localPath": "gallery/zzz/IconQuestItem_Abyss_0015.webp",
+        "sha256": "6b47d81232e9607581d784e2e79b77d6b7cd5a5e160c5e05a571aa3450e06f14",
+        "etag": "\"dld8rg7sxfqx-4bs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7sxfqx-4bs\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=5608|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5608,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0015.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconQuestItem_Abyss_0015.webp",
+        "localPath": "gallery/zzz/IconQuestItem_Abyss_0015.webp",
+        "sha256": "6b47d81232e9607581d784e2e79b77d6b7cd5a5e160c5e05a571aa3450e06f14",
+        "etag": "\"dld8rg7sxfqx-4bs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7sxfqx-4bs\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=5608|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5608,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0015.png",
+      "rank": 2,
+      "class": 22,
+      "name": "Attendees' Pen Gift Box"
+    },
+    "detail": {
+      "id": 305028,
+      "name": "Attendees' Pen Gift Box",
+      "desc": "A fountain pen gift set.",
+      "desc2": "It contains one pen and one bottle of ink.\nThe packaging reveals it to be a gift from the Symbiosis Seminar.\nA message is printed inside the box:\n\"With Regards: Thank you for attending our seminar on symbiosis under the influence of Hollows.\"",
+      "class": {
+        "22": "CLUE ITEM"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0015.png"
+    }
+  }
+}

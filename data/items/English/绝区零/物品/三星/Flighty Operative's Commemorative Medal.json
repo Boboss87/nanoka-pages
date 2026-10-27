@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4390001",
+    "name": "Flighty Operative's Commemorative Medal",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconDigibooFON.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconDigibooFON.webp",
+        "localPath": "gallery/zzz/IconDigibooFON.webp",
+        "sha256": "1516011e5e4dfee45df6ce50474cf027780941ea8d017d022ab69e909a805096",
+        "etag": "\"dld8rg7jzxa9-6qi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7jzxa9-6qi\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=8730|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8730,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconDigibooFON.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconDigibooFON.webp",
+        "localPath": "gallery/zzz/IconDigibooFON.webp",
+        "sha256": "1516011e5e4dfee45df6ce50474cf027780941ea8d017d022ab69e909a805096",
+        "etag": "\"dld8rg7jzxa9-6qi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7jzxa9-6qi\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=8730|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8730,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconDigibooFON.png",
+      "rank": 3,
+      "class": 144,
+      "name": "Flighty Operative's Commemorative Medal"
+    },
+    "detail": {
+      "id": 4390001,
+      "name": "Flighty Operative's Commemorative Medal",
+      "desc": "A special gift from the Flighty Operative.",
+      "desc2": "Wanting to give their master the warm sunshine, the gentle breeze, and all these feelings:\n\"I like you!\" the Flighty Operative would declare out loud.",
+      "class": {
+        "144": "Pet Badge"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconDigibooFON.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4360041",
+    "name": "Ruby Ring",
+    "rarity": "五星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_044.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_044.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_044.webp",
+        "sha256": "00d7c85a7f4b08ec83da614aaaa0af021fb4ac0a1df1c28ea3a8cdfd7cbf41ae",
+        "etag": "\"dld8rgr35pan-6bs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr35pan-6bs\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8200|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8200,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_044.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_044.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_044.webp",
+        "sha256": "00d7c85a7f4b08ec83da614aaaa0af021fb4ac0a1df1c28ea3a8cdfd7cbf41ae",
+        "etag": "\"dld8rgr35pan-6bs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr35pan-6bs\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8200|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8200,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_044.png",
+      "rank": 5,
+      "class": 130,
+      "name": "Ruby Ring"
+    },
+    "detail": {
+      "id": 4360041,
+      "name": "Ruby Ring",
+      "desc": "A large ring fashioned from ruby. A Buyan-certified Eridu antique. Slip it on, and labels like \"old money\" and \"noble\" practically appear over your head.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_044.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000971",
+    "name": "Affinity: Silver Heart's Resonance",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1381.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1381.webp",
+        "localPath": "gallery/zzz/CardDailyUse1381.webp",
+        "sha256": "bd028ca5b3f89adc70359f36a631c1a7cb8c05c14fa94b65304967f2d5316042",
+        "etag": "\"dld8rfqfrjdk-cey\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqfrjdk-cey\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16090|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16090,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1381.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1381.webp",
+        "localPath": "gallery/zzz/CardDailyUse1381.webp",
+        "sha256": "bd028ca5b3f89adc70359f36a631c1a7cb8c05c14fa94b65304967f2d5316042",
+        "etag": "\"dld8rfqfrjdk-cey\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqfrjdk-cey\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16090|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16090,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1381.png",
+      "rank": 4,
+      "class": 31,
+      "name": "Affinity: Silver Heart's Resonance"
+    },
+    "detail": {
+      "id": 1000971,
+      "name": "Affinity: Silver Heart's Resonance",
+      "desc": "Soldier 0 - Anby has awakened the Mindscape Cinema: <color=#FFAF2C>[Static Charge]</color>.\n[Static Charge]: When Soldier 0 - Anby uses an <color=#FFFFFF>EX Special Attack</color> to hit an enemy, it triggers the additional DMG from <color=#FFFFFF>White Thunder</color> 3 times. This effect does not consume any <color=#FFFFFF>White Thunder</color> stacks.",
+      "desc2": "Silver Heart Tin Soldiers are born for combat, but here beside you is Anby. Her blade speaks of things that cannot be forgotten.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1381.png"
+    }
+  }
+}

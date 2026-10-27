@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "304049",
+    "name": "Damaged Small Safe",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Activity_GoldenWeekSide.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Activity_GoldenWeekSide.webp",
+        "localPath": "gallery/zzz/Activity_GoldenWeekSide.webp",
+        "sha256": "d48888ff866479cbd441643f9e89b039c4d0f7a734f3236a2594b23c4dc76135",
+        "etag": "\"dld8rfnwo3uy-81i\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnwo3uy-81i\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10422|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10422,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Activity_GoldenWeekSide.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Activity_GoldenWeekSide.webp",
+        "localPath": "gallery/zzz/Activity_GoldenWeekSide.webp",
+        "sha256": "d48888ff866479cbd441643f9e89b039c4d0f7a734f3236a2594b23c4dc76135",
+        "etag": "\"dld8rfnwo3uy-81i\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnwo3uy-81i\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10422|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10422,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Activity_GoldenWeekSide.png",
+      "rank": 3,
+      "class": 20,
+      "name": "Damaged Small Safe"
+    },
+    "detail": {
+      "id": 304049,
+      "name": "Damaged Small Safe",
+      "desc": "This is a standard small safe found in Hollows, but its lock is jammed and can't be opened normally. Consult a professional modifier if you need to open it.",
+      "desc2": "The memories of your journey together are cherished here.",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Activity_GoldenWeekSide.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000992",
+    "name": "Flawless Plumage",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1511.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1511.webp",
+        "localPath": "gallery/zzz/CardDailyUse1511.webp",
+        "sha256": "2077326faa9bd1167cfefab6656680233bc2adab442f3ccefe483fd442243e03",
+        "etag": "\"dld8rfqhju9p-cr2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqhju9p-cr2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16526|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16526,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1511.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1511.webp",
+        "localPath": "gallery/zzz/CardDailyUse1511.webp",
+        "sha256": "2077326faa9bd1167cfefab6656680233bc2adab442f3ccefe483fd442243e03",
+        "etag": "\"dld8rfqhju9p-cr2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqhju9p-cr2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16526|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16526,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1511.png",
+      "rank": 4,
+      "class": 31,
+      "name": "Flawless Plumage"
+    },
+    "detail": {
+      "id": 1000992,
+      "name": "Flawless Plumage",
+      "desc": "Nangong Yu has evoked the Mindscape: <color=#FFAF2C>[Lazy Spotlight]</color>.\n[Lazy Spotlight]: When <color=#FFFFFF>EX Special Attack: The Unbearable Weight of Love</color> or <color=#FFFFFF>Basic Attack: Adorable Explosive Impact</color> hits an enemy, the enemy's All-Attribute RES decreases by 18% for 40s. Repeated triggers refresh the duration. When entering the battlefield, Nangong Yu's <color=#FFFFFF>Downbeat</color> is restored to the maximum. In Investigation Zone Mode, this effect can trigger once every 180s.",
+      "desc2": "There's no such thing as a flawless genius idol, or wings of pure white.\nBut at least for this one moment, I'll deliver the perfect delusions.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1511.png"
+    }
+  }
+}

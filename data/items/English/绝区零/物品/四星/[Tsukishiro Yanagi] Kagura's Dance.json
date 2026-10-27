@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1320802",
+    "name": "[Tsukishiro Yanagi] Kagura's Dance",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic016.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic016.webp",
+        "localPath": "gallery/zzz/Relic016.webp",
+        "sha256": "b8384eba45284929e85a9541a4e2f42c76e7c949b1fcbb9c9c8a1f71bf5c2152",
+        "etag": "\"dld8rgnztibw-4ia\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnztibw-4ia\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5842|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5842,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.desc.IconMap.Icon_Normal",
+        "kind": "icon_map",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "<IconMap:Icon_Normal>",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Icon_Normal.webp",
+        "localPath": "gallery/zzz/Icon_Normal.webp",
+        "sha256": "4f7078ee9d3a5e61be8ce9d3fd3f68b91de0880ba80ee43ea51b64394c158602",
+        "etag": "\"dld8rgefojpl-10m\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgefojpl-10m\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=1318|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 1318,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic016.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic016.webp",
+        "localPath": "gallery/zzz/Relic016.webp",
+        "sha256": "b8384eba45284929e85a9541a4e2f42c76e7c949b1fcbb9c9c8a1f71bf5c2152",
+        "etag": "\"dld8rgnztibw-4ia\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnztibw-4ia\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5842|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5842,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic016.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Tsukishiro Yanagi] Kagura's Dance"
+    },
+    "detail": {
+      "id": 1320802,
+      "name": "[Tsukishiro Yanagi] Kagura's Dance",
+      "desc": "While triggering the fifth move of a <color=#FFFFFF>Basic Attack</color> in the <color=#FFFFFF>Jougen</color> stance or triggering the fourth move of a <color=#FFFFFF>Basic Attack</color> in the <color=#FFFFFF>Kagen</color> stance, repeatedly press or hold Basic Attack <IconMap:Icon_Normal> to <color=#2BAD00>extend the skill duration</color>, slash continuously, and increase <color=#2EB6FF>Electric DMG</color> dealt by Tsukishiro Yanagi by 4%, stacking up to 15 times and lasting 8s. Repeated triggers refresh the duration. During consecutive slashes, DMG taken by Tsukishiro Yanagi is <color=#2BAD00>reduced by 40%</color>, and after triggering <color=#FFFFFF>Swift Ruten</color>, pressing Basic Attack <IconMap:Icon_Normal> <color=#2BAD00>transitions to continuous slashes of the alternate stance</color>.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic016.png"
+    }
+  }
+}

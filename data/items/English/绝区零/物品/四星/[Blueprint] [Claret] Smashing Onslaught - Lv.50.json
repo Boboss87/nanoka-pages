@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4350323",
+    "name": "[Blueprint] [Claret] Smashing Onslaught - Lv.50",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_023_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_023_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_023_Blueprint.webp",
+        "sha256": "aff8237974cb674f44c7c6eb1204641c211436b418068ddfa08c5446a25ca340",
+        "etag": "\"dld8rgrfntjk-7gu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrfntjk-7gu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9678|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9678,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_023_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_023_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_023_Blueprint.webp",
+        "sha256": "aff8237974cb674f44c7c6eb1204641c211436b418068ddfa08c5446a25ca340",
+        "etag": "\"dld8rgrfntjk-7gu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrfntjk-7gu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9678|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9678,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_023_Blueprint.png",
+      "rank": 4,
+      "class": 130,
+      "name": "[Blueprint] [Claret] Smashing Onslaught - Lv.50"
+    },
+    "detail": {
+      "id": 4350323,
+      "name": "[Blueprint] [Claret] Smashing Onslaught - Lv.50",
+      "desc": "This Blueprint can be used to unlock Claret's exclusive Tactical Prism crafting at the Smart Workshop. Obtained through investigations or purchased from Boojee's Store - Permanent Store - Blueprint Direct Sale.\nItem Effect: After using Powerful Slash on an enemy, restores 10% HP and increases DEF by 20% for 30s.\nRepeated triggers reset the duration. Upon triggering Perfect Dodge, increases <color=#2BAD00>Laceration DMG by 35%</color> for 60s. If triggered while in the Crimson Inscription state, extends the duration of Crimson Inscription by 5s. This effect can trigger no more than once every 10s during the extended duration. When a <color=#FFFFFF>Counter Assist</color> attack hits an enemy, enters Vital View for 4s.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_023_Blueprint.png"
+    }
+  }
+}

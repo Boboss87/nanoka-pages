@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1357505",
+    "name": "[1] Anomaly Mastery Increase Plug-In",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CoopCard19.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CoopCard19.webp",
+        "localPath": "gallery/zzz/CoopCard19.webp",
+        "sha256": "eb3589e2a77b4064f7b5d707d2e1d72e5342e5cef25d992939d583f20fe57b00",
+        "etag": "\"dld8rfrew5lg-a08\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrew5lg-a08\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=12968|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12968,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CoopCard19.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CoopCard19.webp",
+        "localPath": "gallery/zzz/CoopCard19.webp",
+        "sha256": "eb3589e2a77b4064f7b5d707d2e1d72e5342e5cef25d992939d583f20fe57b00",
+        "etag": "\"dld8rfrew5lg-a08\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrew5lg-a08\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=12968|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12968,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CoopCard19.png",
+      "rank": 2,
+      "class": 106,
+      "name": "[1] Anomaly Mastery Increase Plug-In"
+    },
+    "detail": {
+      "id": 1357505,
+      "name": "[1] Anomaly Mastery Increase Plug-In",
+      "desc": "Increases Agent <color=#FFAF2C>Anomaly Mastery</color> by 8.",
+      "desc2": "",
+      "class": {
+        "106": "TAROT CARD"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CoopCard19.png"
+    }
+  }
+}

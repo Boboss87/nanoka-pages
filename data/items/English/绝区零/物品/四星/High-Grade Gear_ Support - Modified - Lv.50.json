@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4325509",
+    "name": "High-Grade Gear: Support - Modified - Lv.50",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponS_008.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponS_008.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponS_008.webp",
+        "sha256": "1efadc94803cc6e69a99f6737c2c202d224ebe7e2704182e672c2a6c88cde2b6",
+        "etag": "\"dld8rgrhg4fp-6uw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrhg4fp-6uw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8888|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8888,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponS_008.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponS_008.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponS_008.webp",
+        "sha256": "1efadc94803cc6e69a99f6737c2c202d224ebe7e2704182e672c2a6c88cde2b6",
+        "etag": "\"dld8rgrhg4fp-6uw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrhg4fp-6uw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8888|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8888,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponS_008.png",
+      "rank": 4,
+      "class": 132,
+      "name": "High-Grade Gear: Support - Modified - Lv.50"
+    },
+    "detail": {
+      "id": 4325509,
+      "name": "High-Grade Gear: Support - Modified - Lv.50",
+      "desc": "Increases Decibel Generation Rate by <color=#2BAD00>15%</color>. When this Agent switches onto the field, all Agents deal <color=#2BAD00>30%</color> more DMG for <color=#2BAD00>20</color>s.",
+      "desc2": "",
+      "class": {
+        "132": "LABYRINTH"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponS_008.png"
+    }
+  }
+}

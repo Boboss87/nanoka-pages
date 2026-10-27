@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000110",
+    "name": "[Ignite] Pulse Igniter",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBurn03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBurn03.webp",
+        "localPath": "gallery/zzz/CardBurn03.webp",
+        "sha256": "e0e0d787d6a2915cbc53269183d3e7160c24fff11fc41e23461bb86174cd691c",
+        "etag": "\"dld8rfq5n5ni-bhq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq5n5ni-bhq\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14894|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14894,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBurn03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBurn03.webp",
+        "localPath": "gallery/zzz/CardBurn03.webp",
+        "sha256": "e0e0d787d6a2915cbc53269183d3e7160c24fff11fc41e23461bb86174cd691c",
+        "etag": "\"dld8rfq5n5ni-bhq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq5n5ni-bhq\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14894|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14894,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBurn03.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[Ignite] Pulse Igniter"
+    },
+    "detail": {
+      "id": 1000110,
+      "name": "[Ignite] Pulse Igniter",
+      "desc": "<color=#FF5521>Burning</color> enemies have their ATK reduced by <color=#2BAD00>15%</color>.",
+      "desc2": "A tool that housewives use to light the stove. It can light up places that need to be lit.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBurn03.png"
+    }
+  }
+}

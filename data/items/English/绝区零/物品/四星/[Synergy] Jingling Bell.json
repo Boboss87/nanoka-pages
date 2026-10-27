@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1002102",
+    "name": "[Synergy] Jingling Bell",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardToy02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardToy02.webp",
+        "localPath": "gallery/zzz/CardToy02.webp",
+        "sha256": "6425e7833b60d65f319d35d4ddd72a1d253aefc997d8e5ba9d97a0355d43f367",
+        "etag": "\"dld8rfr5d7i3-cwa\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr5d7i3-cwa\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16714|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16714,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardToy02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardToy02.webp",
+        "localPath": "gallery/zzz/CardToy02.webp",
+        "sha256": "6425e7833b60d65f319d35d4ddd72a1d253aefc997d8e5ba9d97a0355d43f367",
+        "etag": "\"dld8rfr5d7i3-cwa\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr5d7i3-cwa\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16714|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16714,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardToy02.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Synergy] Jingling Bell"
+    },
+    "detail": {
+      "id": 1002102,
+      "name": "[Synergy] Jingling Bell",
+      "desc": "Bangboo ATK increases by <color=#2BAD00>10%</color> for each Combat Bangboo and Ally Bangboo in your squad.",
+      "desc2": "When your pet presses it, a corresponding voice will ring out, such as \"hug me,\" \"feed me,\" and \"play with me\"...\nThe dog at the newsstand on Sixth Street also uses such bells, but the voice is not as sappy.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardToy02.png"
+    }
+  }
+}

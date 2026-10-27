@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "40002901",
+    "name": "Infrared Camera",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill25.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivePropsSkill25.webp",
+        "localPath": "gallery/zzz/ActivePropsSkill25.webp",
+        "sha256": "49c985287da8ec260ab49de800a3e3842bbbabc8dcf7338538d57743fbea8ade",
+        "etag": "\"dld8rfnvh8lj-37q\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnvh8lj-37q\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=4166|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4166,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill25.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivePropsSkill25.webp",
+        "localPath": "gallery/zzz/ActivePropsSkill25.webp",
+        "sha256": "49c985287da8ec260ab49de800a3e3842bbbabc8dcf7338538d57743fbea8ade",
+        "etag": "\"dld8rfnvh8lj-37q\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnvh8lj-37q\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=4166|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4166,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill25.png",
+      "rank": 3,
+      "class": 15,
+      "name": "Infrared Camera"
+    },
+    "detail": {
+      "id": 40002901,
+      "name": "Infrared Camera",
+      "desc": "Cameras are commonly found within the Ballet Twins, enabling clear vision even in darkness when utilized.",
+      "desc2": "",
+      "class": {
+        "15": "HOLLOW ITEM"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill25.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "120001",
+    "name": "Bangboo Energy Module Plug-In",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianBooUpgradePlugin.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianBooUpgradePlugin.webp",
+        "localPath": "gallery/zzz/SuibianBooUpgradePlugin.webp",
+        "sha256": "d6693adfd2c13fb0a66cb42a61f724e88d1a485a4c9a91b74e70c1e49da9ffbb",
+        "etag": "\"dld8rgoepd3n-6ds\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoepd3n-6ds\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8272|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8272,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianBooUpgradePlugin.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianBooUpgradePlugin.webp",
+        "localPath": "gallery/zzz/SuibianBooUpgradePlugin.webp",
+        "sha256": "d6693adfd2c13fb0a66cb42a61f724e88d1a485a4c9a91b74e70c1e49da9ffbb",
+        "etag": "\"dld8rgoepd3n-6ds\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoepd3n-6ds\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8272|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8272,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianBooUpgradePlugin.png",
+      "rank": 2,
+      "class": 92,
+      "name": "Bangboo Energy Module Plug-In"
+    },
+    "detail": {
+      "id": 120001,
+      "name": "Bangboo Energy Module Plug-In",
+      "desc": "Can be used to increase the level of Bangboo stationed at Suibian Temple.",
+      "desc2": "Endurance-specialized accessories can distribute energy fluid and efficiently manage chips that control energy consumption across Bangboo's function modules, significantly alleviating the common module overload issues caused by high power consumption.",
+      "class": {
+        "92": "Deployed Bangboo Plugin"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianBooUpgradePlugin.png"
+    }
+  }
+}

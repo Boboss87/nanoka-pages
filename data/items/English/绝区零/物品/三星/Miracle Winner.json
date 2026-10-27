@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3301032",
+    "name": "Miracle Winner",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard52.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard52.webp",
+        "localPath": "gallery/zzz/Callingcard52.webp",
+        "sha256": "156d464fc9fe11233bc718de18a6c6fabac8e76805888c4fb587675cfb7c6fad",
+        "etag": "\"dld8rfpw47k5-7rw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpw47k5-7rw\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10076|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10076,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard52.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard52.webp",
+        "localPath": "gallery/zzz/Callingcard52.webp",
+        "sha256": "156d464fc9fe11233bc718de18a6c6fabac8e76805888c4fb587675cfb7c6fad",
+        "etag": "\"dld8rfpw47k5-7rw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpw47k5-7rw\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10076|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10076,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard52.png",
+      "rank": 3,
+      "class": 65,
+      "name": "Miracle Winner"
+    },
+    "detail": {
+      "id": 3301032,
+      "name": "Miracle Winner",
+      "desc": "A namecard reward for the limited-time event \"Phaethon's Grand Reveal of the Year.\"\nLimited-time reward.",
+      "desc2": "\"And now, it's time to reveal this year's winner of Best...\"\n\"Nhe-hu... Ehn nha na! (Fairy, wait... This isn't an awards show this time!)\"\n\"Understood. Now then, please welcome our lucky grand prize winner, New Eridu's one and only legendary Proxy of the Year, Phaethon.\"",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard52.png"
+    }
+  }
+}

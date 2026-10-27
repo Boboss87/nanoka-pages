@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1322503",
+    "name": "Corin - Blasting Blowers",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic032.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic032.webp",
+        "localPath": "gallery/zzz/Relic032.webp",
+        "sha256": "fd7c6c4835834b3753faced48a0d57fc5ef9086dbc2bfc3f006378fb31b72a23",
+        "etag": "\"dld8rgo0exym-3no\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo0exym-3no\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4740|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4740,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.desc.IconMap.Icon_Normal",
+        "kind": "icon_map",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "<IconMap:Icon_Normal>",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Icon_Normal.webp",
+        "localPath": "gallery/zzz/Icon_Normal.webp",
+        "sha256": "4f7078ee9d3a5e61be8ce9d3fd3f68b91de0880ba80ee43ea51b64394c158602",
+        "etag": "\"dld8rgefojpl-10m\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgefojpl-10m\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=1318|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 1318,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic032.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic032.webp",
+        "localPath": "gallery/zzz/Relic032.webp",
+        "sha256": "fd7c6c4835834b3753faced48a0d57fc5ef9086dbc2bfc3f006378fb31b72a23",
+        "etag": "\"dld8rgo0exym-3no\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo0exym-3no\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4740|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4740,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic032.png",
+      "rank": 4,
+      "class": 80,
+      "name": "Corin - Blasting Blowers"
+    },
+    "detail": {
+      "id": 1322503,
+      "name": "Corin - Blasting Blowers",
+      "desc": "During the 1st, 2nd and 3rd hits of a <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dash Attack</color>, <color=#FFFFFF>Dodge Counter</color>, or <color=#FFFFFF>Quick Assist</color>, repeatedly press or hold Basic Attack <IconMap:Icon_Normal> to <color=#2BAD00>directly trigger the 4th hit of the Basic Attack</color>, and <color=#2BAD00>unleash a high-speed swirling slash towards enemies in front</color>.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic032.png"
+    }
+  }
+}

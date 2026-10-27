@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "103030",
+    "name": "Noise Reduction Master Copy",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EquipExp03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/EquipExp03.webp",
+        "localPath": "gallery/zzz/EquipExp03.webp",
+        "sha256": "37aabc93f061b96c8368ff8cb17d351a60ce3b84a976d606826d743090674ef2",
+        "etag": "\"dld8rfrgoghk-87y\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrgoghk-87y\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10654|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10654,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EquipExp03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/EquipExp03.webp",
+        "localPath": "gallery/zzz/EquipExp03.webp",
+        "sha256": "37aabc93f061b96c8368ff8cb17d351a60ce3b84a976d606826d743090674ef2",
+        "etag": "\"dld8rfrgoghk-87y\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrgoghk-87y\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10654|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10654,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EquipExp03.png",
+      "rank": 3,
+      "class": 10,
+      "name": "Noise Reduction Master Copy"
+    },
+    "detail": {
+      "id": 103030,
+      "name": "Noise Reduction Master Copy",
+      "desc": "Used to unlock Intermediate Tuning when the music store reaches Lv. 2.",
+      "desc2": "A specially processed Master Copy that can improve the final results of Ether Burning.",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EquipExp03.png"
+    }
+  }
+}

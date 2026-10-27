@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "421",
+    "name": "Angler Points",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Item_ElpisRevival_Exp_Name.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Item_ElpisRevival_Exp_Name.webp",
+        "localPath": "gallery/zzz/Item_ElpisRevival_Exp_Name.webp",
+        "sha256": "897ff859fdafab143d28228037f1076ff1b9cbc614d868a37282508c67cd50c6",
+        "etag": "\"dld8rgf146f5-6c8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgf146f5-6c8\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8216|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8216,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Item_ElpisRevival_Exp_Name.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Item_ElpisRevival_Exp_Name.webp",
+        "localPath": "gallery/zzz/Item_ElpisRevival_Exp_Name.webp",
+        "sha256": "897ff859fdafab143d28228037f1076ff1b9cbc614d868a37282508c67cd50c6",
+        "etag": "\"dld8rgf146f5-6c8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgf146f5-6c8\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8216|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8216,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Item_ElpisRevival_Exp_Name.png",
+      "rank": 3,
+      "class": 1,
+      "name": "Angler Points"
+    },
+    "detail": {
+      "id": 421,
+      "name": "Angler Points",
+      "desc": "You can earn rewards by participating in the Elpis Ultimate Angler Championship, completing Port Anecdotes, or updating the Fishing Encyclopedia.",
+      "desc2": "Ridu Fishing Association has set up Fishing Permit Points. Accumulating points can increase your permit level and unlock various rewards.",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Item_ElpisRevival_Exp_Name.png"
+    }
+  }
+}

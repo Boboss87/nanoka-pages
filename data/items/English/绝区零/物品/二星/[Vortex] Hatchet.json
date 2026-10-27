@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "12009",
+    "name": "[Vortex] Hatchet",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_B_Common_09.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_B_Common_09.webp",
+        "localPath": "gallery/zzz/Weapon_B_Common_09.webp",
+        "sha256": "453ebc46e131658334fa4fa4830c866a71e1a6d9619500e69e38ea15c16c5e48",
+        "etag": "\"dld8rgpbg8sp-pyc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgpbg8sp-pyc\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=33636|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 33636,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_B_Common_09.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_B_Common_09.webp",
+        "localPath": "gallery/zzz/Weapon_B_Common_09.webp",
+        "sha256": "453ebc46e131658334fa4fa4830c866a71e1a6d9619500e69e38ea15c16c5e48",
+        "etag": "\"dld8rgpbg8sp-pyc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgpbg8sp-pyc\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=33636|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 33636,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_B_Common_09.png",
+      "rank": 2,
+      "class": 5,
+      "name": "[Vortex] Hatchet"
+    },
+    "detail": {
+      "id": 12009,
+      "name": "[Vortex] Hatchet",
+      "desc": "Equip to increase Stun Agents' combat capabilities",
+      "desc2": "A frequency-converting W-Engine that can quickly generate excessive power and effectively increase its user's battle prowess.",
+      "class": {
+        "5": "W-ENGINE"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_B_Common_09.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000814",
+    "name": "[Dodge] Exercise Stopwatch",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSports15.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardSports15.webp",
+        "localPath": "gallery/zzz/CardSports15.webp",
+        "sha256": "d3e88adb26579b8270d7884359ca994ea6ec4a9e20436e37ad08eb2ad7b210c7",
+        "etag": "\"dld8rfr1slpu-d3m\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr1slpu-d3m\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16978|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16978,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSports15.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardSports15.webp",
+        "localPath": "gallery/zzz/CardSports15.webp",
+        "sha256": "d3e88adb26579b8270d7884359ca994ea6ec4a9e20436e37ad08eb2ad7b210c7",
+        "etag": "\"dld8rfr1slpu-d3m\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr1slpu-d3m\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16978|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16978,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSports15.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Dodge] Exercise Stopwatch"
+    },
+    "detail": {
+      "id": 1000814,
+      "name": "[Dodge] Exercise Stopwatch",
+      "desc": "Enter Vital View for 4s after a Perfect Dodge. Hidden Gear Coins are revealed for this duration. (Appears only in Rally Commissions)",
+      "desc2": "If you keep staring at it, you'll feel as if everything is gradually getting larger.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSports15.png"
+    }
+  }
+}

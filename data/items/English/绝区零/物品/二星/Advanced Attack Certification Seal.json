@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "100221",
+    "name": "Advanced Attack Certification Seal",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AvatarRankDamage02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AvatarRankDamage02.webp",
+        "localPath": "gallery/zzz/AvatarRankDamage02.webp",
+        "sha256": "b4c42f206042609f8b274ffa050382a7fdda89e257b68c416a2968a6bb6f77a4",
+        "etag": "\"dld8rfo08pn8-7ki\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfo08pn8-7ki\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9810|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9810,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AvatarRankDamage02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AvatarRankDamage02.webp",
+        "localPath": "gallery/zzz/AvatarRankDamage02.webp",
+        "sha256": "b4c42f206042609f8b274ffa050382a7fdda89e257b68c416a2968a6bb6f77a4",
+        "etag": "\"dld8rfo08pn8-7ki\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfo08pn8-7ki\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9810|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9810,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AvatarRankDamage02.png",
+      "rank": 2,
+      "class": 10,
+      "name": "Advanced Attack Certification Seal"
+    },
+    "detail": {
+      "id": 100221,
+      "name": "Advanced Attack Certification Seal",
+      "desc": "Increases the Agent level cap for Attack-specialty Agents to 40.",
+      "desc2": "Whether in the eyes of investigators or Hollow Raiders, this certification seal indicates the owner's rich experience in Offensive tactics. The seal itself also contains a small amount of benign Ether inside which can be useful when improving an Agent's combat abilities.",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AvatarRankDamage02.png"
+    }
+  }
+}

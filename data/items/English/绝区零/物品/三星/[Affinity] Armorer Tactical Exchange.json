@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1002307",
+    "name": "[Affinity] Armorer Tactical Exchange",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSharpDMG.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardSharpDMG.webp",
+        "localPath": "gallery/zzz/CardSharpDMG.webp",
+        "sha256": "cc2bc4514407e428724a802614cc50b7addcb871d808c8c60e901865a9958d99",
+        "etag": "\"dld8rfqzev6z-bki\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqzev6z-bki\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14994|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14994,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSharpDMG.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardSharpDMG.webp",
+        "localPath": "gallery/zzz/CardSharpDMG.webp",
+        "sha256": "cc2bc4514407e428724a802614cc50b7addcb871d808c8c60e901865a9958d99",
+        "etag": "\"dld8rfqzev6z-bki\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqzev6z-bki\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14994|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14994,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSharpDMG.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Affinity] Armorer Tactical Exchange"
+    },
+    "detail": {
+      "id": 1002307,
+      "name": "[Affinity] Armorer Tactical Exchange",
+      "desc": "Agents with the Armorer specialty deal <color=#2BAD00>15%</color> bonus Sharp DMG.",
+      "desc2": "Using the break as an opportunity, everyone shared their combat experience, with the members good at Armorer tactics becoming the focal point of the discussion.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSharpDMG.png"
+    }
+  }
+}

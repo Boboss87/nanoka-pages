@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1351023",
+    "name": "Cerulean Pot",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver1_7/Flower/UnPacker/SLot4_1.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SLot4_1.webp",
+        "localPath": "gallery/zzz/SLot4_1.webp",
+        "sha256": "db3f8a46148cf5ed1ed61b0a219341ade0653e117fd94aaded72c0ac2f773691",
+        "etag": "\"dld8rgocbmkt-57k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgocbmkt-57k\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6752|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6752,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver1_7/Flower/UnPacker/SLot4_1.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SLot4_1.webp",
+        "localPath": "gallery/zzz/SLot4_1.webp",
+        "sha256": "db3f8a46148cf5ed1ed61b0a219341ade0653e117fd94aaded72c0ac2f773691",
+        "etag": "\"dld8rgocbmkt-57k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgocbmkt-57k\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6752|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6752,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver1_7/Flower/UnPacker/SLot4_1.png",
+      "rank": 2,
+      "class": 93,
+      "name": "Cerulean Pot"
+    },
+    "detail": {
+      "id": 1351023,
+      "name": "Cerulean Pot",
+      "desc": "The simple blue-green hue depicts the tranquility and elegance of time.",
+      "desc2": "",
+      "class": {
+        "93": "DEW"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver1_7/Flower/UnPacker/SLot4_1.png"
+    }
+  }
+}

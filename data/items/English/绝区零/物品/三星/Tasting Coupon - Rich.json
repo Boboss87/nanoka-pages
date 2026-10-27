@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "304004",
+    "name": "Tasting Coupon - Rich",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RamenCoupon05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RamenCoupon05.webp",
+        "localPath": "gallery/zzz/RamenCoupon05.webp",
+        "sha256": "dbb5256a3d4ce671df031a8e1cf3f1641459db2a011a53d5976068bb6b1d59f6",
+        "etag": "\"dld8rgnz82p6-71e\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnz82p6-71e\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9122|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9122,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RamenCoupon05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RamenCoupon05.webp",
+        "localPath": "gallery/zzz/RamenCoupon05.webp",
+        "sha256": "dbb5256a3d4ce671df031a8e1cf3f1641459db2a011a53d5976068bb6b1d59f6",
+        "etag": "\"dld8rgnz82p6-71e\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnz82p6-71e\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9122|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9122,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RamenCoupon05.png",
+      "rank": 3,
+      "class": 20,
+      "name": "Tasting Coupon - Rich"
+    },
+    "detail": {
+      "id": 304004,
+      "name": "Tasting Coupon - Rich",
+      "desc": "Rich, delicate and fragrant, this traditional broth comes straight off the bone!\nWith this coupon, Waterfall Soup invites you to a taste experience!",
+      "desc2": "",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RamenCoupon05.png"
+    }
+  }
+}

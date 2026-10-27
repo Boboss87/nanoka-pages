@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "103040",
+    "name": "Hi-Fi Master Copy",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EquipExp04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/EquipExp04.webp",
+        "localPath": "gallery/zzz/EquipExp04.webp",
+        "sha256": "fb881173ca1e1a340d81abec412d6d5b53b67a51fc360232b392767ae22091a3",
+        "etag": "\"dld8rfrhvbr0-8do\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrhvbr0-8do\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10860|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10860,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EquipExp04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/EquipExp04.webp",
+        "localPath": "gallery/zzz/EquipExp04.webp",
+        "sha256": "fb881173ca1e1a340d81abec412d6d5b53b67a51fc360232b392767ae22091a3",
+        "etag": "\"dld8rfrhvbr0-8do\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrhvbr0-8do\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10860|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10860,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EquipExp04.png",
+      "rank": 4,
+      "class": 10,
+      "name": "Hi-Fi Master Copy"
+    },
+    "detail": {
+      "id": 103040,
+      "name": "Hi-Fi Master Copy",
+      "desc": "Used to unlock Advanced Tuning when the music store reaches Lv. 3.",
+      "desc2": "For Hollow explorers, this is the best material for Drive Tuning. For music enthusiasts, it's a waste of time!",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EquipExp04.png"
+    }
+  }
+}

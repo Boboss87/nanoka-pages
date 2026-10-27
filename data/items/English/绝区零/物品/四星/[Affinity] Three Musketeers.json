@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000981",
+    "name": "[Affinity] Three Musketeers",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1301.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1301.webp",
+        "localPath": "gallery/zzz/CardDailyUse1301.webp",
+        "sha256": "9c36a917dd64268800d345db3fbacd4ce6a6eb920238cdf406ab05d9ed651f71",
+        "etag": "\"dld8rfqf63qv-cvw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqf63qv-cvw\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16700|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16700,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1301.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1301.webp",
+        "localPath": "gallery/zzz/CardDailyUse1301.webp",
+        "sha256": "9c36a917dd64268800d345db3fbacd4ce6a6eb920238cdf406ab05d9ed651f71",
+        "etag": "\"dld8rfqf63qv-cvw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqf63qv-cvw\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16700|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16700,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1301.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Affinity] Three Musketeers"
+    },
+    "detail": {
+      "id": 1000981,
+      "name": "[Affinity] Three Musketeers",
+      "desc": "Orphie & \"Magus\" have awakened the Mindscape Cinema: <color=#FFAF2C>Luxurious Cat House</color>.\nLuxurious Cat House: Orphie & Magus' Special Attack: Corrosive Flash, EX Special Attack: Crimson Vortex, EX Special Attack: Heat Charge, and EX Special Attack: Fiery Eruption ignore 15% of target's <color=#FF5521>Fire RES</color>, and Agents with Zeroed In deal 20% increased DMG.",
+      "desc2": "One gunner, one gun. Two gunners, one gun. Three gunners... still just one gun!\nBut at least with Orphie and Magus around, you won't have to worry about running out of ammo.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1301.png"
+    }
+  }
+}

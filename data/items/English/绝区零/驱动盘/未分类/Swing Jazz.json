@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "equipment",
+    "pageFolder": "驱动盘",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/equipment.json",
+    "sourcePath": "3.3.12+19634983/equipment.json",
+    "sourceLocale": null,
+    "localeMode": "embedded",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/equipment/31600.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "31600",
+    "name": "Swing Jazz",
+    "rarity": "未分类",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitSwingJazz.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitSwingJazz.webp",
+        "localPath": "gallery/zzz/SuitSwingJazz.webp",
+        "sha256": "d60e7e815b46cbb2aa1d39f4442d8b340a7d2d751fba94ee59bc1a8e19a66799",
+        "etag": "\"dld8rgoq0m35-6pk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoq0m35-6pk\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8696|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8696,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitSwingJazz.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitSwingJazz.webp",
+        "localPath": "gallery/zzz/SuitSwingJazz.webp",
+        "sha256": "d60e7e815b46cbb2aa1d39f4442d8b340a7d2d751fba94ee59bc1a8e19a66799",
+        "etag": "\"dld8rgoq0m35-6pk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoq0m35-6pk\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8696|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8696,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon2",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitSwingJazz.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitSwingJazz.webp",
+        "localPath": "gallery/zzz/SuitSwingJazz.webp",
+        "sha256": "d60e7e815b46cbb2aa1d39f4442d8b340a7d2d751fba94ee59bc1a8e19a66799",
+        "etag": "\"dld8rgoq0m35-6pk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoq0m35-6pk\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8696|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8696,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitSwingJazz.png",
+      "en": {
+        "name": "Swing Jazz",
+        "desc2": "Energy Regen +20%",
+        "desc4": "Launching a <color=#FFFFFF>Chain Attack</color> or <color=#FFFFFF>Ultimate</color> increases all squad members' DMG by 15% for 12s. Passive effects of the same name do not stack."
+      },
+      "ko": {
+        "name": "스윙 재즈",
+        "desc2": "에너지 자동 회복+20%",
+        "desc4": "<color=#FFFFFF>[콤보 스킬]</color> 혹은 <color=#FFFFFF>[궁극기]</color> 시전 시 파티 내 모든 캐릭터가 주는 피해가 15% 증가한다. 지속 시간: 12초, 이름이 같은 패시브 효과끼리 중첩되지 않는다."
+      },
+      "zh": {
+        "name": "摇摆爵士",
+        "desc2": "能量自动回复+20%。",
+        "desc4": "发动<color=#FFFFFF>[连携技]</color>或<color=#FFFFFF>[终结技]</color>时，全队角色造成的伤害提升15%，持续12秒，同名被动效果之间不可叠加。"
+      },
+      "ja": {
+        "name": "スイング・ジャズ",
+        "desc2": "エネルギー自動回復+20%。",
+        "desc4": "<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>発動時、メンバー全員の与ダメージ+15%、継続時間12秒。同じパッシブ効果は重ね掛け不可。"
+      }
+    },
+    "detail": {
+      "id": 31600,
+      "name": "Swing Jazz",
+      "desc2": "Energy Regen +20%",
+      "desc4": "Launching a <color=#FFFFFF>Chain Attack</color> or <color=#FFFFFF>Ultimate</color> increases all squad members' DMG by 15% for 12s. Passive effects of the same name do not stack.",
+      "story": "A Drive Disc highly favored by versatile investigators, with a focus on high compatibility and enhanced cooperative support.",
+      "icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitSwingJazz.png",
+      "icon2": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitSwingJazz.png"
+    }
+  }
+}

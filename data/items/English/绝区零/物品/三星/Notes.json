@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1200003",
+    "name": "Notes",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ChessBoardItemIcon_Note.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ChessBoardItemIcon_Note.webp",
+        "localPath": "gallery/zzz/ChessBoardItemIcon_Note.webp",
+        "sha256": "713b1fda6fced769f4cb138afbaf074b830a7afb95c2929fffaaf475c5e1c985",
+        "etag": "\"dld8rfr9j8x2-7la\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr9j8x2-7la\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9838|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9838,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ChessBoardItemIcon_Note.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ChessBoardItemIcon_Note.webp",
+        "localPath": "gallery/zzz/ChessBoardItemIcon_Note.webp",
+        "sha256": "713b1fda6fced769f4cb138afbaf074b830a7afb95c2929fffaaf475c5e1c985",
+        "etag": "\"dld8rfr9j8x2-7la\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr9j8x2-7la\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9838|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9838,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ChessBoardItemIcon_Note.png",
+      "rank": 3,
+      "class": 37,
+      "name": "Notes"
+    },
+    "detail": {
+      "id": 1200003,
+      "name": "Notes",
+      "desc": "A notebook with info recorded inside. You can check the exact content.",
+      "desc2": "What messy handwriting. Probably not my work.",
+      "class": {
+        "37": "HOLLOW ONLY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ChessBoardItemIcon_Note.png"
+    }
+  }
+}

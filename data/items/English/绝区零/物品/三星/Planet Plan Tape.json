@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4200701",
+    "name": "Planet Plan Tape",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialAreaTheaterA_Guide.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovMaterialAreaTheaterA_Guide.webp",
+        "localPath": "gallery/zzz/BangkovMaterialAreaTheaterA_Guide.webp",
+        "sha256": "2b642ed5c7cc61e16ab0c30a4f657232239be7690876def8ab1e0907cddbf3b6",
+        "etag": "\"dld8rfpksykn-6ay\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpksykn-6ay\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8170|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8170,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialAreaTheaterA_Guide.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovMaterialAreaTheaterA_Guide.webp",
+        "localPath": "gallery/zzz/BangkovMaterialAreaTheaterA_Guide.webp",
+        "sha256": "2b642ed5c7cc61e16ab0c30a4f657232239be7690876def8ab1e0907cddbf3b6",
+        "etag": "\"dld8rfpksykn-6ay\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpksykn-6ay\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8170|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8170,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialAreaTheaterA_Guide.png",
+      "rank": 3,
+      "class": 120,
+      "name": "Planet Plan Tape"
+    },
+    "detail": {
+      "id": 4200701,
+      "name": "Planet Plan Tape",
+      "desc": "<color=#FFFFFF>Can be exchanged for Marcel Coins.</color>\nFootage that's completely different from what was advertised to the public.",
+      "desc2": "BKItem_4200701_Story",
+      "class": {
+        "120": null
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialAreaTheaterA_Guide.png"
+    }
+  }
+}

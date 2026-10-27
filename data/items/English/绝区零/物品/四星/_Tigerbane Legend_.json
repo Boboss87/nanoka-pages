@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3300010",
+    "name": "\"Tigerbane Legend\"",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard19.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard19.webp",
+        "localPath": "gallery/zzz/Callingcard19.webp",
+        "sha256": "6e426b12da708184be16fc6af4a3ef71bfaf1e498489ea3d4ba22cd8591cb662",
+        "etag": "\"dld8rfpq5v92-86k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpq5v92-86k\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10604|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10604,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard19.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard19.webp",
+        "localPath": "gallery/zzz/Callingcard19.webp",
+        "sha256": "6e426b12da708184be16fc6af4a3ef71bfaf1e498489ea3d4ba22cd8591cb662",
+        "etag": "\"dld8rfpq5v92-86k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpq5v92-86k\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10604|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10604,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard19.png",
+      "rank": 4,
+      "class": 65,
+      "name": "\"Tigerbane Legend\""
+    },
+    "detail": {
+      "id": 3300010,
+      "name": "\"Tigerbane Legend\"",
+      "desc": "A commemorative namecard for the New Eridu City Fund: Premium Plan.",
+      "desc2": "\"I hear Yunkui Summit is surrounded by dark miasma, and a glorious, ferocious tiger dwells within, sowing strife among the people. A heroic pair of siblings decide to act, disguising themselves as tigers and sneaking in...\"\n\"Wait! Director! Didn't you say you'd use a green screen to edit all our actions in?! AAAHH!\"",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard19.png"
+    }
+  }
+}

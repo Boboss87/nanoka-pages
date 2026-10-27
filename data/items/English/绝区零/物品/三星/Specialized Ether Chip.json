@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "100135",
+    "name": "Specialized Ether Chip",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RoleSkillExpEther01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RoleSkillExpEther01.webp",
+        "localPath": "gallery/zzz/RoleSkillExpEther01.webp",
+        "sha256": "478b6795c87cefe6f53773bafad35aae538cced2472141715a70d2aa25c0e76b",
+        "etag": "\"dld8rgo8r0sj-7ze\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo8r0sj-7ze\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10346|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10346,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RoleSkillExpEther01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RoleSkillExpEther01.webp",
+        "localPath": "gallery/zzz/RoleSkillExpEther01.webp",
+        "sha256": "478b6795c87cefe6f53773bafad35aae538cced2472141715a70d2aa25c0e76b",
+        "etag": "\"dld8rgo8r0sj-7ze\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo8r0sj-7ze\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10346|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10346,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RoleSkillExpEther01.png",
+      "rank": 3,
+      "class": 10,
+      "name": "Specialized Ether Chip"
+    },
+    "detail": {
+      "id": 100135,
+      "name": "Specialized Ether Chip",
+      "desc": "Upgrades an Ether Agent's skills.",
+      "desc2": "A training chip designed to significantly enhance the effectiveness of the user's Ether attacks. It's too dangerous to hone your skills in the Hollows, after all.",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RoleSkillExpEther01.png"
+    }
+  }
+}

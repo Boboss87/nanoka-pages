@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1319904",
+    "name": "Geppetto - Moment of Judgment",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGeppetto04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardGeppetto04.webp",
+        "localPath": "gallery/zzz/CardGeppetto04.webp",
+        "sha256": "40d53e3195670a17f77282d0d243922e8871180c12bd860f90e2d830fd7c76cb",
+        "etag": "\"dld8rfqo3m7i-d8u\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqo3m7i-d8u\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17166|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17166,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGeppetto04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardGeppetto04.webp",
+        "localPath": "gallery/zzz/CardGeppetto04.webp",
+        "sha256": "40d53e3195670a17f77282d0d243922e8871180c12bd860f90e2d830fd7c76cb",
+        "etag": "\"dld8rfqo3m7i-d8u\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqo3m7i-d8u\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17166|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17166,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGeppetto04.png",
+      "rank": 4,
+      "class": 31,
+      "name": "Geppetto - Moment of Judgment"
+    },
+    "detail": {
+      "id": 1319904,
+      "name": "Geppetto - Moment of Judgment",
+      "desc": "When Geppetto becomes Impaired, its DEF drops by <color=#2BAD00>15%</color>, stacking up to 2 times.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGeppetto04.png"
+    }
+  }
+}

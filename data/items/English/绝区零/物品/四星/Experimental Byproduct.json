@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1339914",
+    "name": "Experimental Byproduct",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact040.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Artifact040.webp",
+        "localPath": "gallery/zzz/Artifact040.webp",
+        "sha256": "8fc01f62baee4c2abab8dd4641834dd4bcddebd3a0926f925eb12e54b48e24b7",
+        "etag": "\"dld8rfnz1udt-7z4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnz1udt-7z4\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10336|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10336,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact040.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Artifact040.webp",
+        "localPath": "gallery/zzz/Artifact040.webp",
+        "sha256": "8fc01f62baee4c2abab8dd4641834dd4bcddebd3a0926f925eb12e54b48e24b7",
+        "etag": "\"dld8rfnz1udt-7z4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnz1udt-7z4\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10336|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10336,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact040.png",
+      "rank": 4,
+      "class": 81,
+      "name": "Experimental Byproduct"
+    },
+    "detail": {
+      "id": 1339914,
+      "name": "Experimental Byproduct",
+      "desc": "Take this card into <color=#2BAD00>Price Difference</color> to trigger unexpected effects.",
+      "desc2": "",
+      "class": {
+        "81": "HOLLOW ONLY"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact040.png"
+    }
+  }
+}

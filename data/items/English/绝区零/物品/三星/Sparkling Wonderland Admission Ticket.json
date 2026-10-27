@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "2090018",
+    "name": "Sparkling Wonderland Admission Ticket",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ZZZFesTicket.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ZZZFesTicket.webp",
+        "localPath": "gallery/zzz/ZZZFesTicket.webp",
+        "sha256": "a40b31a55fbf513267a4e85928a316751867ff35c10cf35f2b7f803c13ede2f5",
+        "etag": "\"dld8rgr06j54-67s\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr06j54-67s\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8056|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8056,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ZZZFesTicket.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ZZZFesTicket.webp",
+        "localPath": "gallery/zzz/ZZZFesTicket.webp",
+        "sha256": "a40b31a55fbf513267a4e85928a316751867ff35c10cf35f2b7f803c13ede2f5",
+        "etag": "\"dld8rgr06j54-67s\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr06j54-67s\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8056|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8056,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ZZZFesTicket.png",
+      "rank": 3,
+      "class": 51,
+      "name": "Sparkling Wonderland Admission Ticket"
+    },
+    "detail": {
+      "id": 2090018,
+      "name": "Sparkling Wonderland Admission Ticket",
+      "desc": "Obtained after purchasing a 2025 Zenless Zone Zero FES ticket. Use to gain 60 Battery Charge.",
+      "desc2": "\"Welcome to New Eridu — Where Humanity Rises Anew!\"\nForget the Hollows, forget the commissions — here in this music-forged paradise at the world's end, listen to the beats of joy, despair, tension, melancholy... and pure passion!",
+      "class": {
+        "51": "GIFT"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ZZZFesTicket.png"
+    }
+  }
+}

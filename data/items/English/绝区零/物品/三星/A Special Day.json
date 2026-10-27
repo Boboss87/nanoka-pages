@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3301010",
+    "name": "A Special Day",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard21.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard21.webp",
+        "localPath": "gallery/zzz/Callingcard21.webp",
+        "sha256": "0af563cbdc52875bf75e49bf407929f822123e363081ffad4a3f1acd49d097c6",
+        "etag": "\"dld8rfpq5v92-7zy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpq5v92-7zy\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10366|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10366,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard21.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard21.webp",
+        "localPath": "gallery/zzz/Callingcard21.webp",
+        "sha256": "0af563cbdc52875bf75e49bf407929f822123e363081ffad4a3f1acd49d097c6",
+        "etag": "\"dld8rfpq5v92-7zy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpq5v92-7zy\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10366|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10366,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard21.png",
+      "rank": 3,
+      "class": 65,
+      "name": "A Special Day"
+    },
+    "detail": {
+      "id": 3301010,
+      "name": "A Special Day",
+      "desc": "A birthday gift for a Proxy.",
+      "desc2": "This might not be much of a surprise, since we all know it always comes, year after year.\nEven so, it's best not to disturb Eous' rehearsal! If the launch angle isn't just right, it could end up knocking over those expensive, fragile, discontinued VHS tapes...",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard21.png"
+    }
+  }
+}

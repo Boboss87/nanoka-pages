@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4000016",
+    "name": "Powerful Explosives",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill06.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivePropsSkill06.webp",
+        "localPath": "gallery/zzz/ActivePropsSkill06.webp",
+        "sha256": "4306572f2c734b8840ed70e72865d894bc4fe7b52d64926ae4d29bf0af05444b",
+        "etag": "\"dld8rfnuvsyu-48c\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnuvsyu-48c\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=5484|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5484,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill06.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivePropsSkill06.webp",
+        "localPath": "gallery/zzz/ActivePropsSkill06.webp",
+        "sha256": "4306572f2c734b8840ed70e72865d894bc4fe7b52d64926ae4d29bf0af05444b",
+        "etag": "\"dld8rfnuvsyu-48c\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnuvsyu-48c\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=5484|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5484,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill06.png",
+      "rank": 2,
+      "class": 15,
+      "name": "Powerful Explosives"
+    },
+    "detail": {
+      "id": 4000016,
+      "name": "Powerful Explosives",
+      "desc": "Deploy and detonate a bomb that creates a round-shaped blast, clearing <color=#2BAD00>most event tiles</color> in the blast radius. Large or complex Elite enemies, as well as Boss enemies will not be affected by this blast, while <color=#2BAD00>Normal and Elite enemies will drop Resonia</color>.",
+      "desc2": "Send a mini Bangboo to ignite a powerful Ether explosive, instantly obliterating anything in the way. The range can be controlled and won't hurt Eous.",
+      "class": {
+        "15": "HOLLOW ITEM"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill06.png"
+    }
+  }
+}

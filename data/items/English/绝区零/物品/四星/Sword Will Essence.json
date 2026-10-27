@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "431",
+    "name": "Sword Will Essence",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Item_ForbiddenArea_AbilityEnhance.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Item_ForbiddenArea_AbilityEnhance.webp",
+        "localPath": "gallery/zzz/Item_ForbiddenArea_AbilityEnhance.webp",
+        "sha256": "0cc2b0f36d2958092ffe5c401fa34d7e3e861f5e203a71b0d8a6828ed04df7f5",
+        "etag": "\"dld8rgf146f5-63u\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgf146f5-63u\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7914|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7914,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Item_ForbiddenArea_AbilityEnhance.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Item_ForbiddenArea_AbilityEnhance.webp",
+        "localPath": "gallery/zzz/Item_ForbiddenArea_AbilityEnhance.webp",
+        "sha256": "0cc2b0f36d2958092ffe5c401fa34d7e3e861f5e203a71b0d8a6828ed04df7f5",
+        "etag": "\"dld8rgf146f5-63u\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgf146f5-63u\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7914|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7914,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Item_ForbiddenArea_AbilityEnhance.png",
+      "rank": 4,
+      "class": 1,
+      "name": "Sword Will Essence"
+    },
+    "detail": {
+      "id": 431,
+      "name": "Sword Will Essence",
+      "desc": "Advanced enhancement item obtained by challenging powerful foes, completing explorations, and solving puzzles in the Qingming Realm.",
+      "desc2": "A fragment of an ancient tome containing the accumulated insights of countless swordmasters — a treasure found only within the hidden realm, and capable of greatly advancing the Sword Keeper's abilities.",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Item_ForbiddenArea_AbilityEnhance.png"
+    }
+  }
+}

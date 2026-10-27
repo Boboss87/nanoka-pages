@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1044021",
+    "name": "[Deployed] Sprout",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooYaYa.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBangbooYaYa.webp",
+        "localPath": "gallery/zzz/CardBangbooYaYa.webp",
+        "sha256": "97df4c0205ca709e2ba09601b70d94327a4496836f664dc4434341eb8add837b",
+        "etag": "\"dld8rfq3uurd-cjy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq3uurd-cjy\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16270|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16270,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooYaYa.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBangbooYaYa.webp",
+        "localPath": "gallery/zzz/CardBangbooYaYa.webp",
+        "sha256": "97df4c0205ca709e2ba09601b70d94327a4496836f664dc4434341eb8add837b",
+        "etag": "\"dld8rfq3uurd-cjy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq3uurd-cjy\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16270|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16270,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooYaYa.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Deployed] Sprout"
+    },
+    "detail": {
+      "id": 1044021,
+      "name": "[Deployed] Sprout",
+      "desc": "Active Skill: When the skill activates, if there's no Sword on the field, Sprout summons six flying swords to attack the target, dealing <color=#F0D12B>Physical DMG</color> and accumulating <color=#F0D12B>Physical Anomaly Buildup</color>.\nIf a Sword is already on the field, Sprout steps onto it and charges up, unleashing a stronger flurry of slashes that deals massive <color=#F0D12B>Physical DMG</color> and accumulates <color=#F0D12B>Physical Anomaly Buildup</color>.",
+      "desc2": "<color=#FFFFFF>Bangboo Chain Attack: Summons a massive Sword of Unification that stabs enemies, dealing massive <color=#F0D12B>Physical DMG</color> and accumulating <color=#F0D12B>Physical Anomaly Buildup</color>.</color>",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooYaYa.png"
+    }
+  }
+}

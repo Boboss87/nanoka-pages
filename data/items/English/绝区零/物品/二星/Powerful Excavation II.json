@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "400010",
+    "name": "Powerful Excavation II",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill18.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivePropsSkill18.webp",
+        "localPath": "gallery/zzz/ActivePropsSkill18.webp",
+        "sha256": "28c03a48345bfc4ea7d8d9d456eb18b042f52bef78f8b32f28b94a3332f0120f",
+        "etag": "\"dld8rfnvh8lj-3ku\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnvh8lj-3ku\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=4638|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4638,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill18.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivePropsSkill18.webp",
+        "localPath": "gallery/zzz/ActivePropsSkill18.webp",
+        "sha256": "28c03a48345bfc4ea7d8d9d456eb18b042f52bef78f8b32f28b94a3332f0120f",
+        "etag": "\"dld8rfnvh8lj-3ku\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnvh8lj-3ku\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=4638|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4638,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill18.png",
+      "rank": 2,
+      "class": 15,
+      "name": "Powerful Excavation II"
+    },
+    "detail": {
+      "id": 400010,
+      "name": "Powerful Excavation II",
+      "desc": "Enter a mysterious unknown area that cannot be scanned.",
+      "desc2": "Excavate in directions with no path and discover new areas.",
+      "class": {
+        "15": "HOLLOW ITEM"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill18.png"
+    }
+  }
+}

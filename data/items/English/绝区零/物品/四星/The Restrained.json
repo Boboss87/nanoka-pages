@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "14114",
+    "name": "The Restrained",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1141.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_S_1141.webp",
+        "localPath": "gallery/zzz/Weapon_S_1141.webp",
+        "sha256": "435f2880a04e8cdd00ab35b3e3cda442971ef91b89c5ea769ab09503e7edc6f0",
+        "etag": "\"dld8rgptwpcp-z8k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgptwpcp-z8k\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=45668|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 45668,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1141.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_S_1141.webp",
+        "localPath": "gallery/zzz/Weapon_S_1141.webp",
+        "sha256": "435f2880a04e8cdd00ab35b3e3cda442971ef91b89c5ea769ab09503e7edc6f0",
+        "etag": "\"dld8rgptwpcp-z8k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgptwpcp-z8k\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=45668|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 45668,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1141.png",
+      "rank": 4,
+      "class": 5,
+      "name": "The Restrained"
+    },
+    "detail": {
+      "id": 14114,
+      "name": "The Restrained",
+      "desc": "Equip to increase Stun Agents' combat capabilities",
+      "desc2": "A special W-Engine with a powerful temperature control system. Modified by Lycaon, it has the capability to quickly create extremely cold environments.",
+      "class": {
+        "5": "W-ENGINE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1141.png"
+    }
+  }
+}

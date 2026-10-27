@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4311012",
+    "name": "Corruption Purge Medicine",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Consumables_007.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Consumables_007.webp",
+        "localPath": "gallery/zzz/Zenkov_Consumables_007.webp",
+        "sha256": "3e107c1b1efaaaefa7d7837765cf8064bad931231b4f4b715e8e0e0fad998c0d",
+        "etag": "\"dld8rgr4y06s-67u\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr4y06s-67u\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8058|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8058,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Consumables_007.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Consumables_007.webp",
+        "localPath": "gallery/zzz/Zenkov_Consumables_007.webp",
+        "sha256": "3e107c1b1efaaaefa7d7837765cf8064bad931231b4f4b715e8e0e0fad998c0d",
+        "etag": "\"dld8rgr4y06s-67u\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr4y06s-67u\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8058|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8058,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Consumables_007.png",
+      "rank": 3,
+      "class": 131,
+      "name": "Corruption Purge Medicine"
+    },
+    "detail": {
+      "id": 4311012,
+      "name": "Corruption Purge Medicine",
+      "desc": "When used, restores <color=#2BAD00>15%</color> of each squad member's lost Max HP over <color=#2BAD00>5</color>s. Taking a hit interrupts this effect. It also makes all squad members immune to the next Corruption increase caused by a Corruption Ambush within <color=#2BAD00>30</color>s. Reusing this item resets the Max HP recovery and Corruption Ambush immunity durations.",
+      "desc2": "",
+      "class": {
+        "131": "LABYRINTH"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Consumables_007.png"
+    }
+  }
+}

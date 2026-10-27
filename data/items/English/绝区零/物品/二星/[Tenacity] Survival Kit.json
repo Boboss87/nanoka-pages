@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1002409",
+    "name": "[Tenacity] Survival Kit",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTenacity09.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardTenacity09.webp",
+        "localPath": "gallery/zzz/CardTenacity09.webp",
+        "sha256": "042a61a460f714baba67c3888f3fed447657aa520caeb1f02a410537f1b87a9b",
+        "etag": "\"dld8rfr5d7i3-d16\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr5d7i3-d16\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16890|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16890,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTenacity09.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardTenacity09.webp",
+        "localPath": "gallery/zzz/CardTenacity09.webp",
+        "sha256": "042a61a460f714baba67c3888f3fed447657aa520caeb1f02a410537f1b87a9b",
+        "etag": "\"dld8rfr5d7i3-d16\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr5d7i3-d16\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16890|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16890,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTenacity09.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[Tenacity] Survival Kit"
+    },
+    "detail": {
+      "id": 1002409,
+      "name": "[Tenacity] Survival Kit",
+      "desc": "Upon entering combat, the Agent gains Shield equal to <color=#2BAD00>10%</color> of lost HP.",
+      "desc2": "All preparations are made to survive.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTenacity09.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1101603",
+    "name": "[Assist] HF Communicator",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMagic03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardMagic03.webp",
+        "localPath": "gallery/zzz/CardMagic03.webp",
+        "sha256": "9fd67f653dd94239ee3ff89ef9dd4ef5196d3d42468ed712adc4b8d799847e03",
+        "etag": "\"dld8rfqsv396-b1a\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqsv396-b1a\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14302|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14302,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMagic03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardMagic03.webp",
+        "localPath": "gallery/zzz/CardMagic03.webp",
+        "sha256": "9fd67f653dd94239ee3ff89ef9dd4ef5196d3d42468ed712adc4b8d799847e03",
+        "etag": "\"dld8rfqsv396-b1a\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqsv396-b1a\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14302|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14302,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMagic03.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Assist] HF Communicator"
+    },
+    "detail": {
+      "id": 1101603,
+      "name": "[Assist] HF Communicator",
+      "desc": "Triggering Perfect Assist generates <color=#2BAD00>10%</color> Decibels.",
+      "desc2": "This device emits loud and clear sound that is perfect for communication with your teammates. Its excellent voice amplification ensures that your voice is always delivered to your teammates... and also your enemies.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMagic03.png"
+    }
+  }
+}

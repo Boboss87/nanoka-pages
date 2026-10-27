@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "33646",
+    "name": "Shining Aria [6]",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitShiningAria_S.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitShiningAria_S.webp",
+        "localPath": "gallery/zzz/ItemSuitShiningAria_S.webp",
+        "sha256": "f459c3c183021c3001fa5363b0308659f02e97cb63f9f28947d2fa3036891fb9",
+        "etag": "\"dld8rgev5u42-77m\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgev5u42-77m\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9346|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9346,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitShiningAria_S.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitShiningAria_S.webp",
+        "localPath": "gallery/zzz/ItemSuitShiningAria_S.webp",
+        "sha256": "f459c3c183021c3001fa5363b0308659f02e97cb63f9f28947d2fa3036891fb9",
+        "etag": "\"dld8rgev5u42-77m\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgev5u42-77m\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9346|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9346,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitShiningAria_S.png",
+      "rank": 4,
+      "class": 7,
+      "name": "Shining Aria [6]"
+    },
+    "detail": {
+      "id": 33646,
+      "name": "Shining Aria [6]",
+      "desc": "Equip to increase Agents' combat capabilities",
+      "desc2": "\"This is not the final call, this is where our dreams stand tall\nNow our music starts for all, hear our anthem rise and fall\n(Angels of Delusion — We're Number One!)\"\n✧⁺⸜(●′▾‵●)⸝⁺✧",
+      "class": {
+        "7": "DISK"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitShiningAria_S.png"
+    }
+  }
+}

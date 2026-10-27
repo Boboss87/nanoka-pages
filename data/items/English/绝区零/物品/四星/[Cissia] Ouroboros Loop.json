@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1350233",
+    "name": "[Cissia] Ouroboros Loop",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic080.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic080.webp",
+        "localPath": "gallery/zzz/Relic080.webp",
+        "sha256": "cf233a078e48d64c902ed999055c7141393bac9cb49a16af7a9c615e8e0dd79e",
+        "etag": "\"dld8rgo3zjqv-4cg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo3zjqv-4cg\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5632|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5632,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic080.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic080.webp",
+        "localPath": "gallery/zzz/Relic080.webp",
+        "sha256": "cf233a078e48d64c902ed999055c7141393bac9cb49a16af7a9c615e8e0dd79e",
+        "etag": "\"dld8rgo3zjqv-4cg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo3zjqv-4cg\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5632|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5632,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic080.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Cissia] Ouroboros Loop"
+    },
+    "detail": {
+      "id": 1350233,
+      "name": "[Cissia] Ouroboros Loop",
+      "desc": "After using <color=#FFFFFF>EX Special Attack</color>, gain <color=#FFFFFF>Viper Strike</color>: when any non-<color=#FFFFFF>Corrode Bone</color> attack hits an enemy, it <color=#2BAD00>triggers a free special <color=#FFFFFF>Corrode Bone</color></color> that cannot inflict Daze. This effect can trigger once every 1s, and lasts for 6s.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic080.png"
+    }
+  }
+}

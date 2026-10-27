@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4300003",
+    "name": "Safe Expansion Plug-In",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Consumables_011.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Consumables_011.webp",
+        "localPath": "gallery/zzz/Zenkov_Consumables_011.webp",
+        "sha256": "97f89fd051875b68f4a05371411391a5d37911d88487dd82ccdfe49fcb5c7170",
+        "etag": "\"dld8rgr4y06s-7fg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr4y06s-7fg\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9628|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9628,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Consumables_011.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Consumables_011.webp",
+        "localPath": "gallery/zzz/Zenkov_Consumables_011.webp",
+        "sha256": "97f89fd051875b68f4a05371411391a5d37911d88487dd82ccdfe49fcb5c7170",
+        "etag": "\"dld8rgr4y06s-7fg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr4y06s-7fg\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9628|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9628,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Consumables_011.png",
+      "rank": 4,
+      "class": 10,
+      "name": "Safe Expansion Plug-In"
+    },
+    "detail": {
+      "id": 4300003,
+      "name": "Safe Expansion Plug-In",
+      "desc": "A dedicated plug-in that increases Safe capacity. More room means more peace of mind. <color=#D9A600>Will expire in season 3 and be recycled by the workshop.</color>",
+      "desc2": "",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Consumables_011.png"
+    }
+  }
+}

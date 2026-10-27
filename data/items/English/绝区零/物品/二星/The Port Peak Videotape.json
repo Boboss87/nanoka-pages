@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "304051",
+    "name": "The Port Peak Videotape",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/JaneVideotape.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/JaneVideotape.webp",
+        "localPath": "gallery/zzz/JaneVideotape.webp",
+        "sha256": "cd6270d7d32d1355270c490de098a27f8e96243e6b74d3beb1babbb91de257b6",
+        "etag": "\"dld8rgf1pm1v-bjo\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgf1pm1v-bjo\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=14964|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14964,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/JaneVideotape.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/JaneVideotape.webp",
+        "localPath": "gallery/zzz/JaneVideotape.webp",
+        "sha256": "cd6270d7d32d1355270c490de098a27f8e96243e6b74d3beb1babbb91de257b6",
+        "etag": "\"dld8rgf1pm1v-bjo\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgf1pm1v-bjo\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=14964|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14964,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/JaneVideotape.png",
+      "rank": 2,
+      "class": 20,
+      "name": "The Port Peak Videotape"
+    },
+    "detail": {
+      "id": 304051,
+      "name": "The Port Peak Videotape",
+      "desc": "A movie lent out from Random Play to bribe the Mountain Lion Gang.",
+      "desc2": "A thriller based on a true story. The film tells the tale of a group of adventurers who encounter the ruthless villain known as \"The Lumberjack\" in The Port Peak. Many viewers say they're left with a fear of the woods after watching it.",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/JaneVideotape.png"
+    }
+  }
+}

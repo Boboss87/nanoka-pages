@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "304034",
+    "name": "Basic Training Card",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MonsterCardSilvery.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/MonsterCardSilvery.webp",
+        "localPath": "gallery/zzz/MonsterCardSilvery.webp",
+        "sha256": "034d653b9646033b3c9f5e20ba44deb4545ab5ab29d25b597155f7a21d2f02ed",
+        "etag": "\"dld8rgkwhbd5-6y0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgkwhbd5-6y0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9000|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9000,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MonsterCardSilvery.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/MonsterCardSilvery.webp",
+        "localPath": "gallery/zzz/MonsterCardSilvery.webp",
+        "sha256": "034d653b9646033b3c9f5e20ba44deb4545ab5ab29d25b597155f7a21d2f02ed",
+        "etag": "\"dld8rgkwhbd5-6y0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgkwhbd5-6y0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9000|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9000,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MonsterCardSilvery.png",
+      "rank": 2,
+      "class": 20,
+      "name": "Basic Training Card"
+    },
+    "detail": {
+      "id": 304034,
+      "name": "Basic Training Card",
+      "desc": "Open to obtain 1 Basic Enemy Card.",
+      "desc2": "The \"Hollow Traveler\" series training cards, a collaborative creation by the Hollow Investigative Association and the Box Galaxy gadget store, have been flying off the shelves. They can be used for VR training and also serve as exclusive collectibles. Grab a few packs today and test your luck!",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MonsterCardSilvery.png"
+    }
+  }
+}

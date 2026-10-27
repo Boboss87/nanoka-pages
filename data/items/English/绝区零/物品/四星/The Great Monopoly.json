@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1339902",
+    "name": "The Great Monopoly",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact006.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Artifact006.webp",
+        "localPath": "gallery/zzz/Artifact006.webp",
+        "sha256": "288f6702af66e34e4fb6a7b93e7ac87ea7d4a6b98c6c4984ecd25fbb98150573",
+        "etag": "\"dld8rfnxuz4e-8ge\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnxuz4e-8ge\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10958|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10958,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact006.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Artifact006.webp",
+        "localPath": "gallery/zzz/Artifact006.webp",
+        "sha256": "288f6702af66e34e4fb6a7b93e7ac87ea7d4a6b98c6c4984ecd25fbb98150573",
+        "etag": "\"dld8rfnxuz4e-8ge\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnxuz4e-8ge\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10958|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10958,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact006.png",
+      "rank": 4,
+      "class": 81,
+      "name": "The Great Monopoly"
+    },
+    "detail": {
+      "id": 1339902,
+      "name": "The Great Monopoly",
+      "desc": "When obtaining Gear Coins, there is a 40% chance of <color=#2BAD00>gaining an additional 20%</color>, a 5% chance of <color=#2BAD00>gaining an additional 50%</color>, and a 5% chance of reducing the number of Gear Coins that you receive this time <color=#CF4029>to 1</color>.",
+      "desc2": "",
+      "class": {
+        "81": "HOLLOW ONLY"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact006.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1001914",
+    "name": "[Ether] High-Efficiency Lightning Rod",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech15.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardTech15.webp",
+        "localPath": "gallery/zzz/CardTech15.webp",
+        "sha256": "9ead3ab0600456a22bace2ea6ead7e881bb01bbc827a463fb149ba62220e7592",
+        "etag": "\"dld8rfr4rrve-dq2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr4rrve-dq2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17786|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17786,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech15.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardTech15.webp",
+        "localPath": "gallery/zzz/CardTech15.webp",
+        "sha256": "9ead3ab0600456a22bace2ea6ead7e881bb01bbc827a463fb149ba62220e7592",
+        "etag": "\"dld8rfr4rrve-dq2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr4rrve-dq2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17786|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17786,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech15.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Ether] High-Efficiency Lightning Rod"
+    },
+    "detail": {
+      "id": 1001914,
+      "name": "[Ether] High-Efficiency Lightning Rod",
+      "desc": "Ether currents deal <color=#POSITIVE_WITH_RED>overwhelmingly more DMG</color>! Agents and enemies won't be able to take it! Please be sure to dodge and use these currents to defeat enemies!",
+      "desc2": "From now on, if there are no lightning rods, everyone can be efficient lightning catchers.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech15.png"
+    }
+  }
+}

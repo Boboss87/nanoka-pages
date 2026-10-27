@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1351011",
+    "name": "Multicolor Peony",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver1_7/Flower/UnPacker/SLot2_6.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SLot2_6.webp",
+        "localPath": "gallery/zzz/SLot2_6.webp",
+        "sha256": "3c5e41db2e01b2b0233c282dacbd3e1f7de83c69a90a62f9c28ddd30bb14a308",
+        "etag": "\"dld8rgobq6y3-9mo\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgobq6y3-9mo\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=12480|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12480,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver1_7/Flower/UnPacker/SLot2_6.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SLot2_6.webp",
+        "localPath": "gallery/zzz/SLot2_6.webp",
+        "sha256": "3c5e41db2e01b2b0233c282dacbd3e1f7de83c69a90a62f9c28ddd30bb14a308",
+        "etag": "\"dld8rgobq6y3-9mo\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgobq6y3-9mo\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=12480|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12480,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver1_7/Flower/UnPacker/SLot2_6.png",
+      "rank": 2,
+      "class": 93,
+      "name": "Multicolor Peony"
+    },
+    "detail": {
+      "id": 1351011,
+      "name": "Multicolor Peony",
+      "desc": "The peony represents lingering affection.",
+      "desc2": "",
+      "class": {
+        "93": "DEW"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver1_7/Flower/UnPacker/SLot2_6.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1343028",
+    "name": "Iridescent Frisbee",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardToy05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardToy05.webp",
+        "localPath": "gallery/zzz/CardToy05.webp",
+        "sha256": "aec60b1dbba3e075d9fb3c7393bb136cef3b9790c850caf3d16d2e8b564e4c80",
+        "etag": "\"dld8rfr5yn4t-cw4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr5yn4t-cw4\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16708|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16708,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardToy05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardToy05.webp",
+        "localPath": "gallery/zzz/CardToy05.webp",
+        "sha256": "aec60b1dbba3e075d9fb3c7393bb136cef3b9790c850caf3d16d2e8b564e4c80",
+        "etag": "\"dld8rfr5yn4t-cw4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr5yn4t-cw4\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16708|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16708,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardToy05.png",
+      "rank": 2,
+      "class": 86,
+      "name": "Iridescent Frisbee"
+    },
+    "detail": {
+      "id": 1343028,
+      "name": "Iridescent Frisbee",
+      "desc": "Each time a laser is fired, laser DMG is increased by <color=#FFAF2C>4.3% per Rank</color> for 20s, stacking up to 3 times.\nRepeatedly triggering the buff refreshes its duration.",
+      "desc2": "",
+      "class": {
+        "86": "BANGBOO RESONIUM"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardToy05.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1319901",
+    "name": "Geppetto - Stable Restraint",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGeppetto01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardGeppetto01.webp",
+        "localPath": "gallery/zzz/CardGeppetto01.webp",
+        "sha256": "fdd7e399868c95fa951ccbe8032d7928c4b27576278ddeac81a5e48aaa2b4e92",
+        "etag": "\"dld8rfqo3m7i-cr2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqo3m7i-cr2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16526|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16526,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGeppetto01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardGeppetto01.webp",
+        "localPath": "gallery/zzz/CardGeppetto01.webp",
+        "sha256": "fdd7e399868c95fa951ccbe8032d7928c4b27576278ddeac81a5e48aaa2b4e92",
+        "etag": "\"dld8rfqo3m7i-cr2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqo3m7i-cr2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16526|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16526,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGeppetto01.png",
+      "rank": 3,
+      "class": 31,
+      "name": "Geppetto - Stable Restraint"
+    },
+    "detail": {
+      "id": 1319901,
+      "name": "Geppetto - Stable Restraint",
+      "desc": "For every 100 Gear Coins owned, gain a buff that increases DMG dealt by <color=#2BAD00>1%</color> and Energy Generation Rate by <color=#2BAD00>0.5%</color> when dealing DMG to Geppetto.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGeppetto01.png"
+    }
+  }
+}

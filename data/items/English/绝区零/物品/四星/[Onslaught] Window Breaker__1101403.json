@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1101403",
+    "name": "[Onslaught] Window Breaker",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardUtensil03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardUtensil03.webp",
+        "localPath": "gallery/zzz/CardUtensil03.webp",
+        "sha256": "d576b9118ecc3597a43bf0a4571b5229f419f2adefeca4453b0b43216037856a",
+        "etag": "\"dld8rfr75ie8-c6u\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr75ie8-c6u\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15798|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15798,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardUtensil03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardUtensil03.webp",
+        "localPath": "gallery/zzz/CardUtensil03.webp",
+        "sha256": "d576b9118ecc3597a43bf0a4571b5229f419f2adefeca4453b0b43216037856a",
+        "etag": "\"dld8rfr75ie8-c6u\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr75ie8-c6u\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15798|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15798,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardUtensil03.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Onslaught] Window Breaker"
+    },
+    "detail": {
+      "id": 1101403,
+      "name": "[Onslaught] Window Breaker",
+      "desc": "Launching an EX Special Attack enables the Agent's <color=#F0D12B>Physical</color> attacks to inflict <color=#2BAD00>30%</color> more Daze for 15s.",
+      "desc2": "Hopefully, this stuff will always stay behind an intricate little window and will never have to be used.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardUtensil03.png"
+    }
+  }
+}

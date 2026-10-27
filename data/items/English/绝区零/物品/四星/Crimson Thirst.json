@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "14161",
+    "name": "Crimson Thirst",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1611.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_S_1611.webp",
+        "localPath": "gallery/zzz/Weapon_S_1611.webp",
+        "sha256": "e26af0ed84bfb21987882e3c0a01cabd6ff92917aa936a0af8082c8e7b332644",
+        "etag": "\"dld8rgqjidh8-pse\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgqjidh8-pse\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=33422|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 33422,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1611.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_S_1611.webp",
+        "localPath": "gallery/zzz/Weapon_S_1611.webp",
+        "sha256": "e26af0ed84bfb21987882e3c0a01cabd6ff92917aa936a0af8082c8e7b332644",
+        "etag": "\"dld8rgqjidh8-pse\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgqjidh8-pse\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=33422|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 33422,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1611.png",
+      "rank": 4,
+      "class": 5,
+      "name": "Crimson Thirst"
+    },
+    "detail": {
+      "id": 14161,
+      "name": "Crimson Thirst",
+      "desc": "Equip to increase Armorer Agents' combat capabilities",
+      "desc2": "Beneath the crimson moon, the bloodline endures.",
+      "class": {
+        "5": "W-ENGINE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1611.png"
+    }
+  }
+}

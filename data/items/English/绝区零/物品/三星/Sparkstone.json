@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "306056",
+    "name": "Sparkstone",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/quest_side040_flint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/quest_side040_flint.webp",
+        "localPath": "gallery/zzz/quest_side040_flint.webp",
+        "sha256": "88a3bda11d6b54a2978bbdba011103122cddd8f60efb48a407813bb94663126c",
+        "etag": "\"dld8rgx1i0e8-5pe\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:58 GMT",
+        "remoteKey": "etag=\"dld8rgx1i0e8-5pe\"|lastModified=Sat, 12 Sep 2026 09:47:58 GMT|bytes=7394|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7394,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/quest_side040_flint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/quest_side040_flint.webp",
+        "localPath": "gallery/zzz/quest_side040_flint.webp",
+        "sha256": "88a3bda11d6b54a2978bbdba011103122cddd8f60efb48a407813bb94663126c",
+        "etag": "\"dld8rgx1i0e8-5pe\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:58 GMT",
+        "remoteKey": "etag=\"dld8rgx1i0e8-5pe\"|lastModified=Sat, 12 Sep 2026 09:47:58 GMT|bytes=7394|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7394,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/quest_side040_flint.png",
+      "rank": 3,
+      "class": 37,
+      "name": "Sparkstone"
+    },
+    "detail": {
+      "id": 306056,
+      "name": "Sparkstone",
+      "desc": "The flint that Appon threw into the mine when he was hiding from Ethereals.",
+      "desc2": "The product of lost technology, and an object of interest for Engineer Bangboo's research. The Flame Spark, capable of igniting the Cinder Lake, might also... help it ignite a certain cage.",
+      "class": {
+        "37": "HOLLOW ONLY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/quest_side040_flint.png"
+    }
+  }
+}

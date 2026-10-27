@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "12008",
+    "name": "[Vortex] Arrow",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_B_Common_08.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_B_Common_08.webp",
+        "localPath": "gallery/zzz/Weapon_B_Common_08.webp",
+        "sha256": "16d911f9eb8c38a7d6c6658a66f7d56683c9daec1059d1c89f9e3d1279b0a004",
+        "etag": "\"dld8rgpaut5z-pe6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgpaut5z-pe6\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=32910|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 32910,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_B_Common_08.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_B_Common_08.webp",
+        "localPath": "gallery/zzz/Weapon_B_Common_08.webp",
+        "sha256": "16d911f9eb8c38a7d6c6658a66f7d56683c9daec1059d1c89f9e3d1279b0a004",
+        "etag": "\"dld8rgpaut5z-pe6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgpaut5z-pe6\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=32910|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 32910,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_B_Common_08.png",
+      "rank": 2,
+      "class": 5,
+      "name": "[Vortex] Arrow"
+    },
+    "detail": {
+      "id": 12008,
+      "name": "[Vortex] Arrow",
+      "desc": "Equip to increase Stun Agents' combat capabilities",
+      "desc2": "A tactical W-Engine that locates enemies using high-frequency sound waves. Its aiming aid can make its operator's precision attack more deadly.",
+      "class": {
+        "5": "W-ENGINE"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_B_Common_08.png"
+    }
+  }
+}

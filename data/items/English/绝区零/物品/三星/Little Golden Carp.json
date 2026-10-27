@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "138",
+    "name": "Little Golden Carp",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Activity_CheckinGame_Currency.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Activity_CheckinGame_Currency.webp",
+        "localPath": "gallery/zzz/Activity_CheckinGame_Currency.webp",
+        "sha256": "40ad34394d749fdc59ffb891f16a8c50d4049f266bc6722fc53ebaa9c0b3f431",
+        "etag": "\"dld8rfnwo3uy-7k6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnwo3uy-7k6\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9798|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9798,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Activity_CheckinGame_Currency.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Activity_CheckinGame_Currency.webp",
+        "localPath": "gallery/zzz/Activity_CheckinGame_Currency.webp",
+        "sha256": "40ad34394d749fdc59ffb891f16a8c50d4049f266bc6722fc53ebaa9c0b3f431",
+        "etag": "\"dld8rfnwo3uy-7k6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnwo3uy-7k6\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9798|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9798,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Activity_CheckinGame_Currency.png",
+      "rank": 3,
+      "class": 1,
+      "name": "Little Golden Carp"
+    },
+    "detail": {
+      "id": 138,
+      "name": "Little Golden Carp",
+      "desc": "Once you've collected enough, you can redeem them for exclusive holiday gifts.",
+      "desc2": "If carp fish are the embodiment of good fortune in Waifei Peninsula, then golden carp represent an extra dose of luck. Bring some winter sunshine and good vibes to welcome this dazzling messenger of fortune!",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Activity_CheckinGame_Currency.png"
+    }
+  }
+}

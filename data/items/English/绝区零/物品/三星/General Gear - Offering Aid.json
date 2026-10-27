@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1357016",
+    "name": "General Gear - Offering Aid",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemCoopEquip_007.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemCoopEquip_007.webp",
+        "localPath": "gallery/zzz/ItemCoopEquip_007.webp",
+        "sha256": "2b8b9930a2943a8fb772ca4dfe36390404065239a4bd05a707a6b9e1814e0139",
+        "etag": "\"dld8rgehgulq-7u2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgehgulq-7u2\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10154|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10154,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemCoopEquip_007.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemCoopEquip_007.webp",
+        "localPath": "gallery/zzz/ItemCoopEquip_007.webp",
+        "sha256": "2b8b9930a2943a8fb772ca4dfe36390404065239a4bd05a707a6b9e1814e0139",
+        "etag": "\"dld8rgehgulq-7u2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgehgulq-7u2\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10154|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10154,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemCoopEquip_007.png",
+      "rank": 3,
+      "class": 105,
+      "name": "General Gear - Offering Aid"
+    },
+    "detail": {
+      "id": 1357016,
+      "name": "General Gear - Offering Aid",
+      "desc": "Increases own <color=#FFAF2C>Energy Generation Rate</color> by 12.5%. When using Chain Takedown, increases <color=#FFAF2C>DMG</color> by 25% for 20s.",
+      "desc2": "",
+      "class": {
+        "105": "WEAPON"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemCoopEquip_007.png"
+    }
+  }
+}

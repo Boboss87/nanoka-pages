@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "32824",
+    "name": "Astral Voice [4]",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitAstralVoice_B.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitAstralVoice_B.webp",
+        "localPath": "gallery/zzz/ItemSuitAstralVoice_B.webp",
+        "sha256": "c0d6c96006abb571d1ac14baf8613587c45d4cb0fb802d0bc4de5c62f4059285",
+        "etag": "\"dld8rgekg0ra-82o\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgekg0ra-82o\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10464|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10464,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitAstralVoice_B.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitAstralVoice_B.webp",
+        "localPath": "gallery/zzz/ItemSuitAstralVoice_B.webp",
+        "sha256": "c0d6c96006abb571d1ac14baf8613587c45d4cb0fb802d0bc4de5c62f4059285",
+        "etag": "\"dld8rgekg0ra-82o\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgekg0ra-82o\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10464|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10464,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitAstralVoice_B.png",
+      "rank": 2,
+      "class": 7,
+      "name": "Astral Voice [4]"
+    },
+    "detail": {
+      "id": 32824,
+      "name": "Astral Voice [4]",
+      "desc": "Equip to increase Agents' combat capabilities",
+      "desc2": "I met a group of super outgoing girls at Astra's album signing. Though we're pretty far apart in age, we have endless things to say when it comes to Astra. With them, I had the pleasure of experiencing the journey of a true fan chasing their idol and going all around the city. It was honestly kinda like back when I worked in Hollows... I even agreed to go check out their place sometime.",
+      "class": {
+        "7": "DISK"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitAstralVoice_B.png"
+    }
+  }
+}

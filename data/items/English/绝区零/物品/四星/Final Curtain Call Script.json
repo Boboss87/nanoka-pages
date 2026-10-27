@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4200201",
+    "name": "Final Curtain Call Script",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialShopItem_1.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovMaterialShopItem_1.webp",
+        "localPath": "gallery/zzz/BangkovMaterialShopItem_1.webp",
+        "sha256": "5a9cddeeae913a79735a7be50eb0de0a4aa4e8eca5b506e63b2db0c3e1565274",
+        "etag": "\"dld8rfpml9gs-73q\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpml9gs-73q\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9206|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9206,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialShopItem_1.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovMaterialShopItem_1.webp",
+        "localPath": "gallery/zzz/BangkovMaterialShopItem_1.webp",
+        "sha256": "5a9cddeeae913a79735a7be50eb0de0a4aa4e8eca5b506e63b2db0c3e1565274",
+        "etag": "\"dld8rfpml9gs-73q\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpml9gs-73q\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9206|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9206,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialShopItem_1.png",
+      "rank": 4,
+      "class": 120,
+      "name": "Final Curtain Call Script"
+    },
+    "detail": {
+      "id": 4200201,
+      "name": "Final Curtain Call Script",
+      "desc": "<color=#FFFFFF>Can be exchanged for Marcel Coins.</color>\n\"When the audience no longer believes in fairy tales, the castle must take its final bow.\" A script that became a hit among Bangboo after Bootopia was swallowed by a Hollow.",
+      "desc2": "BKItem_4200201_Story",
+      "class": {
+        "120": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialShopItem_1.png"
+    }
+  }
+}

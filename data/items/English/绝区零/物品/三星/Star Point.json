@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "438",
+    "name": "Star Point",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Item_ActivityLivehouse_Exp.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Item_ActivityLivehouse_Exp.webp",
+        "localPath": "gallery/zzz/Item_ActivityLivehouse_Exp.webp",
+        "sha256": "94e8346e5f7379c2be6c758a24695c6fa769ab475f19f681f3cc29aaec100d85",
+        "etag": "\"dld8rgf0iqsg-5e0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgf0iqsg-5e0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6984|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6984,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Item_ActivityLivehouse_Exp.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Item_ActivityLivehouse_Exp.webp",
+        "localPath": "gallery/zzz/Item_ActivityLivehouse_Exp.webp",
+        "sha256": "94e8346e5f7379c2be6c758a24695c6fa769ab475f19f681f3cc29aaec100d85",
+        "etag": "\"dld8rgf0iqsg-5e0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgf0iqsg-5e0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6984|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6984,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Item_ActivityLivehouse_Exp.png",
+      "rank": 3,
+      "class": 1,
+      "name": "Star Point"
+    },
+    "detail": {
+      "id": 438,
+      "name": "Star Point",
+      "desc": "Accumulate Star Points to boost Star Progress and increase the popularity of the Angels of Delusion Official Account.",
+      "desc2": "Shimmering, sparkling, dazzling...\nStarting now, rack up those Star Points and kick off your wish-granting journey with the Angels of Delusion!",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Item_ActivityLivehouse_Exp.png"
+    }
+  }
+}

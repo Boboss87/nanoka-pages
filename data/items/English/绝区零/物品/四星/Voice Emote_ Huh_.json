@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1358039",
+    "name": "Voice Emote: Huh?",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconEmoji/UnPacker/IconEmoji20007.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconEmoji20007.webp",
+        "localPath": "gallery/zzz/IconEmoji20007.webp",
+        "sha256": "84aa3d2cb6ddb10aecdb23c8d9bd1d66ebe44dd95be433e253114b95e9f848d8",
+        "etag": "\"dld8rg7ls86e-8j8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7ls86e-8j8\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11060|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11060,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconEmoji/UnPacker/IconEmoji20007.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconEmoji20007.webp",
+        "localPath": "gallery/zzz/IconEmoji20007.webp",
+        "sha256": "84aa3d2cb6ddb10aecdb23c8d9bd1d66ebe44dd95be433e253114b95e9f848d8",
+        "etag": "\"dld8rg7ls86e-8j8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7ls86e-8j8\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11060|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11060,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconEmoji/UnPacker/IconEmoji20007.png",
+      "rank": 4,
+      "class": 108,
+      "name": "Voice Emote: Huh?"
+    },
+    "detail": {
+      "id": 1358039,
+      "name": "Voice Emote: Huh?",
+      "desc": "An emote that automatically plays the Agent's corresponding voice line. It can be equipped and used in \"Divine Maze: Joint Investigation\" and in chat.\nDuring \"Joint Investigation,\" you can send this emote to the whole squad through the <color=#FFAF2C>Emote button on the right</color> in each stage.",
+      "desc2": "",
+      "class": {
+        "108": "STICKER"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconEmoji/UnPacker/IconEmoji20007.png"
+    }
+  }
+}

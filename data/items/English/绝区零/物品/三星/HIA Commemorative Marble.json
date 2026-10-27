@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "403",
+    "name": "HIA Commemorative Marble",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/HIABangbooToken.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/HIABangbooToken.webp",
+        "localPath": "gallery/zzz/HIABangbooToken.webp",
+        "sha256": "8f566984b24b77cc051533d2ec7465feafd8f9f9d221e30e84fa456f7cd3de2f",
+        "etag": "\"dld8rg7542ii-8lq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7542ii-8lq\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11150|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11150,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/HIABangbooToken.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/HIABangbooToken.webp",
+        "localPath": "gallery/zzz/HIABangbooToken.webp",
+        "sha256": "8f566984b24b77cc051533d2ec7465feafd8f9f9d221e30e84fa456f7cd3de2f",
+        "etag": "\"dld8rg7542ii-8lq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7542ii-8lq\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11150|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11150,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/HIABangbooToken.png",
+      "rank": 3,
+      "class": 1,
+      "name": "HIA Commemorative Marble"
+    },
+    "detail": {
+      "id": 403,
+      "name": "HIA Commemorative Marble",
+      "desc": "Exchange rewards in the Exchange Store of the Mr. Hello's Savior event.",
+      "desc2": "Issued by Mr. Hello, these commemorative marbles bear witness to investigators' efforts in driving forth the Association's mission, and can be exchanged for rewards. You can almost hear Mr. Hello saying \"My favorite investigator!\" if you stare long enough at the design.",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/HIABangbooToken.png"
+    }
+  }
+}

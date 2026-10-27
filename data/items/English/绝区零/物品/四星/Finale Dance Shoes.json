@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "110003",
+    "name": "Finale Dance Shoes",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "ExBigBoss003",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ExBigBoss003.webp",
+        "localPath": "gallery/zzz/ExBigBoss003.webp",
+        "sha256": "a67c0816b2868b9c9c9fe4da2d1d2361ec84fe2db921bd0c50628b7e1337f441",
+        "etag": "\"dld8rfshldll-j1ps\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfshldll-j1ps\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=888688|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 888688,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "ExBigBoss003",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ExBigBoss003.webp",
+        "localPath": "gallery/zzz/ExBigBoss003.webp",
+        "sha256": "a67c0816b2868b9c9c9fe4da2d1d2361ec84fe2db921bd0c50628b7e1337f441",
+        "etag": "\"dld8rfshldll-j1ps\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfshldll-j1ps\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=888688|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 888688,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "ExBigBoss003",
+      "rank": 4,
+      "class": 10,
+      "name": "Finale Dance Shoes",
+      "boss": true
+    },
+    "detail": {
+      "id": 110003,
+      "name": "Finale Dance Shoes",
+      "desc": "An important item required to upgrade your Agent's advanced Core Skills.",
+      "desc2": "A rare form of Etheric coagulum retrieved from the Twin Marionettes. Just one look is enough to feel the hostile loneliness it exudes. Everything must come to an end, except in the Hollows.",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 4,
+      "icon_path": "ExBigBoss003",
+      "boss": true
+    }
+  }
+}

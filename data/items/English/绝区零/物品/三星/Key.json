@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1200001",
+    "name": "Key",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ChessBoardItemIcon_Key.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ChessBoardItemIcon_Key.webp",
+        "localPath": "gallery/zzz/ChessBoardItemIcon_Key.webp",
+        "sha256": "879f5851596743e467ae1a53639bb7fae33645852a1f762698b6d0d9e11e34ba",
+        "etag": "\"dld8rfr9j8x2-5ha\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr9j8x2-5ha\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7102|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7102,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ChessBoardItemIcon_Key.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ChessBoardItemIcon_Key.webp",
+        "localPath": "gallery/zzz/ChessBoardItemIcon_Key.webp",
+        "sha256": "879f5851596743e467ae1a53639bb7fae33645852a1f762698b6d0d9e11e34ba",
+        "etag": "\"dld8rfr9j8x2-5ha\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr9j8x2-5ha\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7102|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7102,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ChessBoardItemIcon_Key.png",
+      "rank": 3,
+      "class": 37,
+      "name": "Key"
+    },
+    "detail": {
+      "id": 1200001,
+      "name": "Key",
+      "desc": "Allows you to open certain closed gates.",
+      "desc2": "Did someone lose this? Let's look for the keyhole that fits it!",
+      "class": {
+        "37": "HOLLOW ONLY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ChessBoardItemIcon_Key.png"
+    }
+  }
+}

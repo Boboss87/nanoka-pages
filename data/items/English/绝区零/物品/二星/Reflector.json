@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1343026",
+    "name": "Reflector",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardToy04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardToy04.webp",
+        "localPath": "gallery/zzz/CardToy04.webp",
+        "sha256": "3aa247903672d2ca0f94ce0aa932e38742e3117a341f1cbae8962827fc2c5885",
+        "etag": "\"dld8rfr5yn4t-cqs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr5yn4t-cqs\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16516|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16516,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardToy04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardToy04.webp",
+        "localPath": "gallery/zzz/CardToy04.webp",
+        "sha256": "3aa247903672d2ca0f94ce0aa932e38742e3117a341f1cbae8962827fc2c5885",
+        "etag": "\"dld8rfr5yn4t-cqs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr5yn4t-cqs\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16516|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16516,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardToy04.png",
+      "rank": 2,
+      "class": 86,
+      "name": "Reflector"
+    },
+    "detail": {
+      "id": 1343026,
+      "name": "Reflector",
+      "desc": "\"Dreamland Equipment\" Glimmering Whiskers deals <color=#FFAF2C>56% more DMG per Rank</color> to Stunned enemies.",
+      "desc2": "",
+      "class": {
+        "86": "BANGBOO RESONIUM"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardToy04.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1100947",
+    "name": "[Affinity] My BGM is On",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1081.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1081.webp",
+        "localPath": "gallery/zzz/CardDailyUse1081.webp",
+        "sha256": "b32a944f511569e8fce113ab82595bfe9f9e5a1a9dbb18246aa547fe6056f5e8",
+        "etag": "\"dld8rfqeko45-bzy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqeko45-bzy\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15550|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15550,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1081.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1081.webp",
+        "localPath": "gallery/zzz/CardDailyUse1081.webp",
+        "sha256": "b32a944f511569e8fce113ab82595bfe9f9e5a1a9dbb18246aa547fe6056f5e8",
+        "etag": "\"dld8rfqeko45-bzy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqeko45-bzy\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15550|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15550,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1081.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Affinity] My BGM is On"
+    },
+    "detail": {
+      "id": 1100947,
+      "name": "[Affinity] My BGM is On",
+      "desc": "Billy has evoked the Mindscape: <color=#FFAF2C>[Roaming Gunslinger]</color>. After launching a Dash Attack or Dodge Counter, your character can <color=#2BAD00>immediately follow up with</color> certain attacks near the end of the Basic Attack combo. Additionally, he gains the <color=#FFAF2C>Starlight Knight's Maintenance</color> effect. (Effective for {CReplaceCardParam:BattleCount_Card1100947,1,2} more battles).",
+      "desc2": "Billy hums the theme song to Starlight Knights while confidently declaring \"Nobody can beat me while my BGM is on!\" Clearly... he's in high spirits.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1081.png"
+    }
+  }
+}

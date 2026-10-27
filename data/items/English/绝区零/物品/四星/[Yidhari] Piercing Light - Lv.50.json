@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4326027",
+    "name": "[Yidhari] Piercing Light - Lv.50",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_029.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_029.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_029.webp",
+        "sha256": "6289e7bc718bad0c92ea0d61103fe98e0059878364d1ce90edf52cc97e4ab914",
+        "etag": "\"dld8rgrg996a-7q0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrg996a-7q0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10008|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10008,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_029.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_029.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_029.webp",
+        "sha256": "6289e7bc718bad0c92ea0d61103fe98e0059878364d1ce90edf52cc97e4ab914",
+        "etag": "\"dld8rgrg996a-7q0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrg996a-7q0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10008|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10008,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_029.png",
+      "rank": 4,
+      "class": 132,
+      "name": "[Yidhari] Piercing Light - Lv.50"
+    },
+    "detail": {
+      "id": 4326027,
+      "name": "[Yidhari] Piercing Light - Lv.50",
+      "desc": "Yidhari's exclusive Tactical Prism.\nWhen the squad is affected by Corruption, the Max HP reduction is reduced to 10%.\nAfter Yidhari consumes Adrenaline to activate <color=#FFFFFF>EX Special Attack</color>, she gains 4 stacks of <color=#FFFFFF>Frost Coil</color>. When a <color=#FFFFFF>Basic Attack</color> hits an enemy, consumes 1 stack of <color=#FFFFFF>Frost Coil</color> to attack the target. This effect can trigger no more than once every 1s.",
+      "desc2": "",
+      "class": {
+        "132": "LABYRINTH"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_029.png"
+    }
+  }
+}

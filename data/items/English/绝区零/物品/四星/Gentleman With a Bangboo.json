@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1200011",
+    "name": "Gentleman With a Bangboo",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BuddysEmbrace.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BuddysEmbrace.webp",
+        "localPath": "gallery/zzz/BuddysEmbrace.webp",
+        "sha256": "579cf2b66060a7f4cda39d47258579bcf0902e630f35318d3a712c767ac3b546",
+        "etag": "\"dld8rfppkfmc-778\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfppkfmc-778\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9332|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9332,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BuddysEmbrace.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BuddysEmbrace.webp",
+        "localPath": "gallery/zzz/BuddysEmbrace.webp",
+        "sha256": "579cf2b66060a7f4cda39d47258579bcf0902e630f35318d3a712c767ac3b546",
+        "etag": "\"dld8rfppkfmc-778\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfppkfmc-778\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9332|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9332,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BuddysEmbrace.png",
+      "rank": 4,
+      "class": 37,
+      "name": "Gentleman With a Bangboo"
+    },
+    "detail": {
+      "id": 1200011,
+      "name": "Gentleman With a Bangboo",
+      "desc": "A lifelike portrait. The fine brushstrokes reveal the artist's masterful painting skills.",
+      "desc2": "This is one of the portrait series painted by the renowned artist Kinston Bird for the two founders of the Ballet Twins. There's a line of small text on the back:\n\"No Bangboo were harmed during the painting process.\"",
+      "class": {
+        "37": "HOLLOW ONLY"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BuddysEmbrace.png"
+    }
+  }
+}

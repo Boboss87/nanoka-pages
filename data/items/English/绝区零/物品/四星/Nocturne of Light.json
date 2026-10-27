@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3112611",
+    "name": "Nocturne of Light",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_JaneDoeNocturneofLight.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Skin_JaneDoeNocturneofLight.webp",
+        "localPath": "gallery/zzz/Skin_JaneDoeNocturneofLight.webp",
+        "sha256": "aed77861698a910e508af870522eff67a7e8437cdd4decb0ecd6fe6bb3a3d7f7",
+        "etag": "\"dld8rgocx27i-70m\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgocx27i-70m\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9094|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9094,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_JaneDoeNocturneofLight.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Skin_JaneDoeNocturneofLight.webp",
+        "localPath": "gallery/zzz/Skin_JaneDoeNocturneofLight.webp",
+        "sha256": "aed77861698a910e508af870522eff67a7e8437cdd4decb0ecd6fe6bb3a3d7f7",
+        "etag": "\"dld8rgocx27i-70m\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgocx27i-70m\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9094|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9094,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_JaneDoeNocturneofLight.png",
+      "rank": 4,
+      "class": 63,
+      "name": "Nocturne of Light"
+    },
+    "detail": {
+      "id": 3112611,
+      "name": "Nocturne of Light",
+      "desc": "Jane's Outfit.",
+      "desc2": "Who says sunlight must accompany a seaside stroll? For lurkers with names unknown, the night is their most faithful companion. The anonymous lady says the evening sea holds unspeakable secrets — is this the truth, or another deception?",
+      "class": {
+        "63": "DRESS"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_JaneDoeNocturneofLight.png"
+    }
+  }
+}

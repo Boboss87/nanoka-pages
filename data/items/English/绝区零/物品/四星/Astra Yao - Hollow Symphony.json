@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1322202",
+    "name": "Astra Yao - Hollow Symphony",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic022.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic022.webp",
+        "localPath": "gallery/zzz/Relic022.webp",
+        "sha256": "8fbb58703fea0b57755308657cc574be65bbf8c5dbd93cb9f449a4d19f480718",
+        "etag": "\"dld8rgnztibw-3j0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnztibw-3j0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4572|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4572,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.desc.IconMap.Icon_Normal",
+        "kind": "icon_map",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "<IconMap:Icon_Normal>",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Icon_Normal.webp",
+        "localPath": "gallery/zzz/Icon_Normal.webp",
+        "sha256": "4f7078ee9d3a5e61be8ce9d3fd3f68b91de0880ba80ee43ea51b64394c158602",
+        "etag": "\"dld8rgefojpl-10m\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgefojpl-10m\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=1318|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 1318,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic022.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic022.webp",
+        "localPath": "gallery/zzz/Relic022.webp",
+        "sha256": "8fbb58703fea0b57755308657cc574be65bbf8c5dbd93cb9f449a4d19f480718",
+        "etag": "\"dld8rgnztibw-3j0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnztibw-3j0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4572|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4572,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic022.png",
+      "rank": 4,
+      "class": 80,
+      "name": "Astra Yao - Hollow Symphony"
+    },
+    "detail": {
+      "id": 1322202,
+      "name": "Astra Yao - Hollow Symphony",
+      "desc": "For every 25 Energy consumed, Astra Yao gains 1 stack of <color=#FFFFFF>Starlight</color>, stacking up to 3 times. Each stack of <color=#FFFFFF>Starlight</color> <color=#2BAD00>increases the DMG dealt by <color=#FFFFFF>Tremolo</color> by 15% when released and additionally released while she is in the <color=#FFFFFF>Idyllic Cadenza</color> state</color>. Holding <IconMap:Icon_Normal> to perform <color=#FFFFFF>Basic Attack: Finale</color> or <color=#FFFFFF>Basic Attack: Radiant Moment</color> consumes <color=#FFFFFF>Starlight</color>. Each stack of <color=#FFFFFF>Starlight</color> <color=#2BAD00>increases the attack's DMG</color> by 15% and <color=#2BAD00>restores 4 Energy</color> to Astra Yao. When Astra Yao hits enemies with <color=#FFFFFF>Basic Attack: Interlude</color>, an additional 25 Energy will be consumed. When hitting enemies with <color=#FFFFFF>Basic Attack: Chorus</color>, <color=#2BAD00>an additional 4 Energy will be restored</color>.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic022.png"
+    }
+  }
+}

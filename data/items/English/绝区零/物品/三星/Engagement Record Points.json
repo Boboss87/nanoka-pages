@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "406",
+    "name": "Engagement Record Points",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ReturnPoint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ReturnPoint.webp",
+        "localPath": "gallery/zzz/ReturnPoint.webp",
+        "sha256": "d57eac00936abef9fd1688ff5a649ea3a5e4261933965225b40979844bb0a4fb",
+        "etag": "\"dld8rgo5rumz-5vg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo5rumz-5vg\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7612|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7612,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ReturnPoint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ReturnPoint.webp",
+        "localPath": "gallery/zzz/ReturnPoint.webp",
+        "sha256": "d57eac00936abef9fd1688ff5a649ea3a5e4261933965225b40979844bb0a4fb",
+        "etag": "\"dld8rgo5rumz-5vg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo5rumz-5vg\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7612|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7612,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ReturnPoint.png",
+      "rank": 3,
+      "class": 1,
+      "name": "Engagement Record Points"
+    },
+    "detail": {
+      "id": 406,
+      "name": "Engagement Record Points",
+      "desc": "Points earned from completing the \"Back in Business\" activity accumulate, and upon reaching a certain amount or activity milestones, you can claim the corresponding rewards.",
+      "desc2": "A small note documenting every work accomplishment after the reopening of the video store and Proxy's business. It encapsulates the excitement of witnessing everything unfold alongside your closest kin.",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ReturnPoint.png"
+    }
+  }
+}

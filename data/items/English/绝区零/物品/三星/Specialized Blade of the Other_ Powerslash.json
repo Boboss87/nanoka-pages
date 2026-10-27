@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4333523",
+    "name": "Specialized Blade of the Other: Powerslash",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_EquipPyrois_006.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_EquipPyrois_006.webp",
+        "localPath": "gallery/zzz/Zenkov_EquipPyrois_006.webp",
+        "sha256": "e877a7d78e060fac64337597e3e922d6b52bb11dff31462e29276177df0ef07d",
+        "etag": "\"dld8rgr64vg7-552\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr64vg7-552\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6662|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6662,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_EquipPyrois_006.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_EquipPyrois_006.webp",
+        "localPath": "gallery/zzz/Zenkov_EquipPyrois_006.webp",
+        "sha256": "e877a7d78e060fac64337597e3e922d6b52bb11dff31462e29276177df0ef07d",
+        "etag": "\"dld8rgr64vg7-552\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr64vg7-552\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6662|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6662,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_EquipPyrois_006.png",
+      "rank": 3,
+      "class": 133,
+      "name": "Specialized Blade of the Other: Powerslash"
+    },
+    "detail": {
+      "id": 4333523,
+      "name": "Specialized Blade of the Other: Powerslash",
+      "desc": "When equipped, this item grants three Alter Skills: Perfect Block, Phase Dash, and Powerful Slash.\n\n[Powerful Slash Enhancement]\nEnhancement I: When Powerful Slash is used against an elite or boss enemy, it has a <color=#2BAD00>35%</color> chance to trigger Totalize even if you are not behind the target, dealing <color=#2BAD00>50%</color> additional DMG.\n\nEnhancement II: Perfect Block increases Daze buildup against normal/elite/boss enemies by <color=#2BAD00>100%/50%/25%</color>, respectively.\n\nAgainst enemies at <color=#CF4029>Lv. 60 or higher</color>, <color=#CF4029>Powerful Slash</color> deals <color=#CF4029>50%</color> less DMG.",
+      "desc2": "",
+      "class": {
+        "133": "LABYRINTH"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_EquipPyrois_006.png"
+    }
+  }
+}

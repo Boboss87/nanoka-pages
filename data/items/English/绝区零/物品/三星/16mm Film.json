@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "307003",
+    "name": "16mm Film",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Weapon_A_Common_16.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_A_Common_16.webp",
+        "localPath": "gallery/zzz/Weapon_A_Common_16.webp",
+        "sha256": "93053bae9d0a94fe54c0545cae12028aa5d3d1da3bbe025f93e676228ba96547",
+        "etag": "\"dld8rgp6orr0-zus\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgp6orr0-zus\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=46468|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 46468,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Weapon_A_Common_16.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_A_Common_16.webp",
+        "localPath": "gallery/zzz/Weapon_A_Common_16.webp",
+        "sha256": "93053bae9d0a94fe54c0545cae12028aa5d3d1da3bbe025f93e676228ba96547",
+        "etag": "\"dld8rgp6orr0-zus\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgp6orr0-zus\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=46468|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 46468,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Weapon_A_Common_16.png",
+      "rank": 3,
+      "class": 23,
+      "name": "16mm Film"
+    },
+    "detail": {
+      "id": 307003,
+      "name": "16mm Film",
+      "desc": "Can be used to upgrade W-Engine Reel Projector.",
+      "desc2": "A commemorative W-Engine Component distributed by Gravity Cinema that can be used to enhance the Ether resonance performance of the W-Engine Reel Projector. A trace of inspirational light for engraving images, captured in a fleeting moment within 16mm film.",
+      "class": {
+        "23": "SPECIAL W-ENGINE CORE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Weapon_A_Common_16.png"
+    }
+  }
+}

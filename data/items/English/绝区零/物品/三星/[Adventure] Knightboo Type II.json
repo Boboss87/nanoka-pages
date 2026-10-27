@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4100402",
+    "name": "[Adventure] Knightboo Type II",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooKnightboo.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBangbooKnightboo.webp",
+        "localPath": "gallery/zzz/CardBangbooKnightboo.webp",
+        "sha256": "6c5b1cbeaaa82f22dfa534fb2c85b5fb63a2745dce1248e3f4d5aec1a09da6d5",
+        "etag": "\"dld8rfq22jv8-bjs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq22jv8-bjs\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14968|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14968,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooKnightboo.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBangbooKnightboo.webp",
+        "localPath": "gallery/zzz/CardBangbooKnightboo.webp",
+        "sha256": "6c5b1cbeaaa82f22dfa534fb2c85b5fb63a2745dce1248e3f4d5aec1a09da6d5",
+        "etag": "\"dld8rfq22jv8-bjs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq22jv8-bjs\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14968|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14968,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooKnightboo.png",
+      "rank": 3,
+      "class": 88,
+      "name": "[Adventure] Knightboo Type II"
+    },
+    "detail": {
+      "id": 4100402,
+      "name": "[Adventure] Knightboo Type II",
+      "desc": "Bangboo who can help craft, sell, or be dispatched on adventures at Suibian Temple.",
+      "desc2": "",
+      "class": {
+        "88": "Deployed Bangboo"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooKnightboo.png"
+    }
+  }
+}

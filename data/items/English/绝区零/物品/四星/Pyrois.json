@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1551",
+    "name": "Pyrois",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece65.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece65.webp",
+        "localPath": "gallery/zzz/IconRolePiece65.webp",
+        "sha256": "8927a6f90a3dff0d56d27705577db89651780237d3f7f05a773c9fc9e55f5a3c",
+        "etag": "\"dld8rgdgjxhp-8lq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgdgjxhp-8lq\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11150|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11150,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece65.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece65.webp",
+        "localPath": "gallery/zzz/IconRolePiece65.webp",
+        "sha256": "8927a6f90a3dff0d56d27705577db89651780237d3f7f05a773c9fc9e55f5a3c",
+        "etag": "\"dld8rgdgjxhp-8lq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgdgjxhp-8lq\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11150|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11150,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece65.png",
+      "rank": 4,
+      "class": 3,
+      "name": "Pyrois"
+    },
+    "detail": {
+      "id": 1551,
+      "name": "Pyrois",
+      "desc": "Use it to obtain the Agent or unlock the Agent's Mindscapes.",
+      "desc2": "Close-up shots taken of Pyrois in combat, documenting important moments before and after becoming an Agent.\nAdditional details such as combat style and signature weapons can also be glimpsed through these images, offering deeper insight into the Agent's strengths.\n\nA picture scroll depicting a golden monster born from Ether and a silver knight. Those who stare at it may feel a searing sensation behind their eyes.",
+      "class": {
+        "3": "AGENT"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece65.png"
+    }
+  }
+}

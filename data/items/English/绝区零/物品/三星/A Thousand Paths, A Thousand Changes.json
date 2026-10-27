@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3202011",
+    "name": "A Thousand Paths, A Thousand Changes",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/VoidFrontRecord_001.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/VoidFrontRecord_001.webp",
+        "localPath": "gallery/zzz/VoidFrontRecord_001.webp",
+        "sha256": "290807c86aa0dfdb7570bd9ea0fe7015f7a19a03efaab1a9a354794aced02219",
+        "etag": "\"dld8rgovyye8-7wy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgovyye8-7wy\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10258|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10258,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/VoidFrontRecord_001.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/VoidFrontRecord_001.webp",
+        "localPath": "gallery/zzz/VoidFrontRecord_001.webp",
+        "sha256": "290807c86aa0dfdb7570bd9ea0fe7015f7a19a03efaab1a9a354794aced02219",
+        "etag": "\"dld8rgovyye8-7wy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgovyye8-7wy\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10258|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10258,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/VoidFrontRecord_001.png",
+      "rank": 3,
+      "class": 64,
+      "name": "A Thousand Paths, A Thousand Changes"
+    },
+    "detail": {
+      "id": 3202011,
+      "name": "A Thousand Paths, A Thousand Changes",
+      "desc": "Commemorative avatar for \"Threshold Simulation: Branching Echoes.\"",
+      "desc2": "Take different paths and embark on countless adventures.",
+      "class": {
+        "64": "PROFILE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/VoidFrontRecord_001.png"
+    }
+  }
+}

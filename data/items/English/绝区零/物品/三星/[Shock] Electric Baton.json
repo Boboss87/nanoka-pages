@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000506",
+    "name": "[Shock] Electric Baton",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardElectro02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardElectro02.webp",
+        "localPath": "gallery/zzz/CardElectro02.webp",
+        "sha256": "08a7a89b2874648b6b8f308d446e82c9a86841de70908ac9d96fcab20a6854e3",
+        "etag": "\"dld8rfql4g1y-e40\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfql4g1y-e40\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=18288|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 18288,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardElectro02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardElectro02.webp",
+        "localPath": "gallery/zzz/CardElectro02.webp",
+        "sha256": "08a7a89b2874648b6b8f308d446e82c9a86841de70908ac9d96fcab20a6854e3",
+        "etag": "\"dld8rfql4g1y-e40\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfql4g1y-e40\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=18288|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 18288,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardElectro02.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Shock] Electric Baton"
+    },
+    "detail": {
+      "id": 1000506,
+      "name": "[Shock] Electric Baton",
+      "desc": "Inflicting <color=#2EB6FF>Shock</color> on an enemy grants all squad members <color=#2BAD00>10</color> stacks of Zap.",
+      "desc2": "This weapon is a must for any lady's purse. Once you've shocked the perv, follow it up with a slap to the face.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardElectro02.png"
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4350524",
+    "name": "[Blueprint] [Roxy] Hammered to Perfection - Lv.60",
+    "rarity": "五星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_024_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_024_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_024_Blueprint.webp",
+        "sha256": "c49084ff216a344f0e2fe7a3697873c8b0be92878f96f04ac8671c0010df08dc",
+        "etag": "\"dld8rgrfntjk-7wi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrfntjk-7wi\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10242|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10242,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.desc.IconMap.Icon_SpecialReady",
+        "kind": "icon_map",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "<IconMap:Icon_SpecialReady>",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRoleSkillKeySpecialV2.webp",
+        "localPath": "gallery/zzz/IconRoleSkillKeySpecialV2.webp",
+        "sha256": "d8a0a8bdfabce404b4a482d0b1053d9c54d1cc1c523c620202333906a026a1d0",
+        "etag": "\"dld8rge5k5zj-1iy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rge5k5zj-1iy\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=1978|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 1978,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_024_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_024_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_024_Blueprint.webp",
+        "sha256": "c49084ff216a344f0e2fe7a3697873c8b0be92878f96f04ac8671c0010df08dc",
+        "etag": "\"dld8rgrfntjk-7wi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrfntjk-7wi\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10242|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10242,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_024_Blueprint.png",
+      "rank": 5,
+      "class": 130,
+      "name": "[Blueprint] [Roxy] Hammered to Perfection - Lv.60"
+    },
+    "detail": {
+      "id": 4350524,
+      "name": "[Blueprint] [Roxy] Hammered to Perfection - Lv.60",
+      "desc": "This Blueprint can be used to unlock Roxy's exclusive Tactical Prism crafting at the Smart Workshop. It can be purchased from Boojee's Store - Season Limited.\nItem Effect: When the Evacuation Countdown has less than 15/5/1 minutes remaining, Roxy's Impact increases by 20%/50%/100%, respectively.\nWhen holding <IconMap:Icon_SpecialReady> to activate <color=#FFFFFF>EX Special Attack: Don't Catch a Chill</color>, each second of holding increases the skill's <color=#2BAD00>DMG and Daze by 10%/6%</color>, up to a maximum increase of 30%/18%. When the skill hits an enemy, the target's DEF is reduced by <color=#2BAD00>16%</color> for 30s.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_024_Blueprint.png"
+    }
+  }
+}

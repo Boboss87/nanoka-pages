@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "705",
+    "name": "Item_AbyssPoint_Name_705",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AbyssS2Points.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AbyssS2Points.webp",
+        "localPath": "gallery/zzz/AbyssS2Points.webp",
+        "sha256": "5d318116b8760106476a299875d4e3f84c5b92826b2dcbdfccfcd0d78e03c210",
+        "etag": "\"dld8rfnuvsyu-8p8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnuvsyu-8p8\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=11276|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11276,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AbyssS2Points.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AbyssS2Points.webp",
+        "localPath": "gallery/zzz/AbyssS2Points.webp",
+        "sha256": "5d318116b8760106476a299875d4e3f84c5b92826b2dcbdfccfcd0d78e03c210",
+        "etag": "\"dld8rfnuvsyu-8p8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnuvsyu-8p8\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=11276|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11276,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AbyssS2Points.png",
+      "rank": 3,
+      "class": 2,
+      "name": "Item_AbyssPoint_Name_705"
+    },
+    "detail": {
+      "id": 705,
+      "name": "Item_AbyssPoint_Name_705",
+      "desc": "Item_AbyssPoint_705_Des",
+      "desc2": "",
+      "class": {
+        "2": "RESOURCE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AbyssS2Points.png"
+    }
+  }
+}

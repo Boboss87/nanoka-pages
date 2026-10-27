@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "230002",
+    "name": "Extendable Moving Mount",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconGarage/UnPacker/TransformShaft03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/TransformShaft03.webp",
+        "localPath": "gallery/zzz/TransformShaft03.webp",
+        "sha256": "e5e8244e5039719e0ebc608ffe08ed189d645544c3b3cfee9102b1cb824b84df",
+        "etag": "\"dld8rgotl7ve-6ng\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgotl7ve-6ng\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8620|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8620,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconGarage/UnPacker/TransformShaft03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/TransformShaft03.webp",
+        "localPath": "gallery/zzz/TransformShaft03.webp",
+        "sha256": "e5e8244e5039719e0ebc608ffe08ed189d645544c3b3cfee9102b1cb824b84df",
+        "etag": "\"dld8rgotl7ve-6ng\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgotl7ve-6ng\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8620|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8620,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconGarage/UnPacker/TransformShaft03.png",
+      "rank": 2,
+      "class": 16,
+      "name": "Extendable Moving Mount"
+    },
+    "detail": {
+      "id": 230002,
+      "name": "Extendable Moving Mount",
+      "desc": "Increases Combat Bangboo HP by 10%.",
+      "desc2": "With this, a Bangboo can perform more difficult maneuvers.",
+      "class": {
+        "16": "BANGBOO PLUGIN"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconGarage/UnPacker/TransformShaft03.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "412021105",
+    "name": "Luminous Spectacles",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Belle_Head_Glass_01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Belle_Head_Glass_01.webp",
+        "localPath": "gallery/zzz/icon_Belle_Head_Glass_01.webp",
+        "sha256": "647a3d72f388ed240a50b3a7fd32936f6b949dfee229862057544fa10bf66614",
+        "etag": "\"dld8rgrkfal8-5ay\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrkfal8-5ay\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6874|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6874,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Belle_Head_Glass_01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Belle_Head_Glass_01.webp",
+        "localPath": "gallery/zzz/icon_Belle_Head_Glass_01.webp",
+        "sha256": "647a3d72f388ed240a50b3a7fd32936f6b949dfee229862057544fa10bf66614",
+        "etag": "\"dld8rgrkfal8-5ay\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrkfal8-5ay\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6874|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6874,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Belle_Head_Glass_01.png",
+      "rank": 3,
+      "class": 95,
+      "name": "Luminous Spectacles"
+    },
+    "detail": {
+      "id": 412021105,
+      "name": "Luminous Spectacles",
+      "desc": "A Proxy accessory that can be worn with some of Belle's Proxy outfits.",
+      "desc2": "Supposedly, once you put them on, you can glimpse the secrets of the universe. (But you shouldn't look directly at the sun!)",
+      "class": {
+        "95": "OUTFIT ACCESSORIES"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Belle_Head_Glass_01.png"
+    }
+  }
+}

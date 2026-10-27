@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "230004",
+    "name": "Telescopic Spring Fist MK II",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconGarage/UnPacker/TransformShaft04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/TransformShaft04.webp",
+        "localPath": "gallery/zzz/TransformShaft04.webp",
+        "sha256": "84e6d28f84cd0aec8b97916886883904cec55efb0a4ea91d213f565ecef02307",
+        "etag": "\"dld8rgotl7ve-64y\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgotl7ve-64y\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7954|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7954,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconGarage/UnPacker/TransformShaft04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/TransformShaft04.webp",
+        "localPath": "gallery/zzz/TransformShaft04.webp",
+        "sha256": "84e6d28f84cd0aec8b97916886883904cec55efb0a4ea91d213f565ecef02307",
+        "etag": "\"dld8rgotl7ve-64y\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgotl7ve-64y\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7954|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7954,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconGarage/UnPacker/TransformShaft04.png",
+      "rank": 3,
+      "class": 16,
+      "name": "Telescopic Spring Fist MK II"
+    },
+    "detail": {
+      "id": 230004,
+      "name": "Telescopic Spring Fist MK II",
+      "desc": "Increases Combat Bangboo ATK by 25%.",
+      "desc2": "The retractable spring-loaded fist installed onto the side of the Bangboo's arm can be launched with a short wave of the hand, making up for what it might lack in attack and... power.",
+      "class": {
+        "16": "BANGBOO PLUGIN"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconGarage/UnPacker/TransformShaft04.png"
+    }
+  }
+}

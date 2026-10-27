@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1320602",
+    "name": "[Billy] Rotating Drivetrain",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic019.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic019.webp",
+        "localPath": "gallery/zzz/Relic019.webp",
+        "sha256": "66d75ef94d5f0c02782c78e7ffb520cdaf6f69ead903f1505bf87a374c427f05",
+        "etag": "\"dld8rgnztibw-3hu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnztibw-3hu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4530|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4530,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.desc.IconMap.Icon_Normal",
+        "kind": "icon_map",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "<IconMap:Icon_Normal>",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Icon_Normal.webp",
+        "localPath": "gallery/zzz/Icon_Normal.webp",
+        "sha256": "4f7078ee9d3a5e61be8ce9d3fd3f68b91de0880ba80ee43ea51b64394c158602",
+        "etag": "\"dld8rgefojpl-10m\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgefojpl-10m\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=1318|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 1318,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic019.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic019.webp",
+        "localPath": "gallery/zzz/Relic019.webp",
+        "sha256": "66d75ef94d5f0c02782c78e7ffb520cdaf6f69ead903f1505bf87a374c427f05",
+        "etag": "\"dld8rgnztibw-3hu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnztibw-3hu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4530|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4530,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic019.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Billy] Rotating Drivetrain"
+    },
+    "detail": {
+      "id": 1320602,
+      "name": "[Billy] Rotating Drivetrain",
+      "desc": "When Billy uses his <color=#FFFFFF>EX Special Attack</color>/<color=#FFFFFF>Assist Follow-Up</color>/<color=#FFFFFF>Chain Attack</color>/<color=#FFFFFF>Ultimate</color>, he <color=#2BAD00>gains 2/2/4/4 stacks of Charge</color> (up to 4 stacks). When Billy performs a piercing attack in a large area around him during <color=#FFFFFF>Dash Attack: Starlight Sanction</color>, press Basic Attack <IconMap:Icon_Normal> to <color=#2BAD00>consume 1 stack of Charge</color> and trigger the skill repeatedly, <color=#2BAD00>increasing its DMG by 150%</color>. When the effect is triggered, Billy's <color=#2BAD00>CRIT Rate increases by 20%</color> for 10s. The effect stacks up to 2 times. Repeated triggers reset the duration.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic019.png"
+    }
+  }
+}

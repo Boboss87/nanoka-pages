@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3300014",
+    "name": "One Denny's Autumn Outing",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard30.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard30.webp",
+        "localPath": "gallery/zzz/Callingcard30.webp",
+        "sha256": "6512225897d5ebfd4e72d9cfdb4a3b15ca16d3d6b0a39b1e2dd8304eb9fd184d",
+        "etag": "\"dld8rfpqravr-7ya\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpqravr-7ya\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10306|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10306,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard30.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard30.webp",
+        "localPath": "gallery/zzz/Callingcard30.webp",
+        "sha256": "6512225897d5ebfd4e72d9cfdb4a3b15ca16d3d6b0a39b1e2dd8304eb9fd184d",
+        "etag": "\"dld8rfpqravr-7ya\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpqravr-7ya\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10306|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10306,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard30.png",
+      "rank": 4,
+      "class": 65,
+      "name": "One Denny's Autumn Outing"
+    },
+    "detail": {
+      "id": 3300014,
+      "name": "One Denny's Autumn Outing",
+      "desc": "A commemorative namecard for the New Eridu City Fund: Premium Plan.",
+      "desc2": "In every story about autumn, I've gathered golden leaves, plush grass, and burning crimson slips of paper — but what I love most of all... is when you lean against my shell.\nA Bangboo's Logic Core may just be a piece of machinery, yet in this warm, fuzzy moment, I could swear I hear it beating inside my chest.",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard30.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4200102",
+    "name": "Golden Mushroom",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovGoldenBangboo_2.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovGoldenBangboo_2.webp",
+        "localPath": "gallery/zzz/BangkovGoldenBangboo_2.webp",
+        "sha256": "4fe456802f7d3d42a5df0302c07d1b6d9b99434e4a850da77c2e8b874c5172ec",
+        "etag": "\"dld8rfpj0noj-7zg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpj0noj-7zg\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10348|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10348,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovGoldenBangboo_2.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovGoldenBangboo_2.webp",
+        "localPath": "gallery/zzz/BangkovGoldenBangboo_2.webp",
+        "sha256": "4fe456802f7d3d42a5df0302c07d1b6d9b99434e4a850da77c2e8b874c5172ec",
+        "etag": "\"dld8rfpj0noj-7zg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpj0noj-7zg\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10348|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10348,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovGoldenBangboo_2.png",
+      "rank": 4,
+      "class": 120,
+      "name": "Golden Mushroom"
+    },
+    "detail": {
+      "id": 4200102,
+      "name": "Golden Mushroom",
+      "desc": "<color=#FFFFFF>Can be exchanged for Marcel Coins.</color>\nAn ultra-rare souvenir hidden deep within Bootopia. Rumor has it someone's collecting these.",
+      "desc2": "BKItem_4200102_Story",
+      "class": {
+        "120": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovGoldenBangboo_2.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4200501",
+    "name": "Lost and Found Excerpt",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialAreaEntryA_Guide.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovMaterialAreaEntryA_Guide.webp",
+        "localPath": "gallery/zzz/BangkovMaterialAreaEntryA_Guide.webp",
+        "sha256": "238b811bf9c2eebae893cfdbb1859ac31e1643ef895bfe1cb166e96097b51ef9",
+        "etag": "\"dld8rfpk7ixy-6wk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpk7ixy-6wk\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8948|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8948,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialAreaEntryA_Guide.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovMaterialAreaEntryA_Guide.webp",
+        "localPath": "gallery/zzz/BangkovMaterialAreaEntryA_Guide.webp",
+        "sha256": "238b811bf9c2eebae893cfdbb1859ac31e1643ef895bfe1cb166e96097b51ef9",
+        "etag": "\"dld8rfpk7ixy-6wk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpk7ixy-6wk\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8948|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8948,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialAreaEntryA_Guide.png",
+      "rank": 3,
+      "class": 120,
+      "name": "Lost and Found Excerpt"
+    },
+    "detail": {
+      "id": 4200501,
+      "name": "Lost and Found Excerpt",
+      "desc": "<color=#FFFFFF>Obtainable from Entrance Area Investigation, used to activate Talents.</color>\nRecords of numerous \"unclaimed\" items, all dated on the same day.",
+      "desc2": "BKItem_4200501_Story",
+      "class": {
+        "120": null
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialAreaEntryA_Guide.png"
+    }
+  }
+}

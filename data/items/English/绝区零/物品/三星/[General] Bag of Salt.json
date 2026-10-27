@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000903",
+    "name": "[General] Bag of Salt",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse13.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse13.webp",
+        "localPath": "gallery/zzz/CardDailyUse13.webp",
+        "sha256": "b38563f70d1f12627a74a954321439f73aae02b2f5f17f0126a83425940b9dc2",
+        "etag": "\"dld8rfqf63qv-7vq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqf63qv-7vq\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10214|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10214,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse13.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse13.webp",
+        "localPath": "gallery/zzz/CardDailyUse13.webp",
+        "sha256": "b38563f70d1f12627a74a954321439f73aae02b2f5f17f0126a83425940b9dc2",
+        "etag": "\"dld8rfqf63qv-7vq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqf63qv-7vq\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10214|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10214,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse13.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[General] Bag of Salt"
+    },
+    "detail": {
+      "id": 1000903,
+      "name": "[General] Bag of Salt",
+      "desc": "Attacks against enemies with less than 50% HP deal <color=#2BAD00>15%</color> more DMG.",
+      "desc2": "Ouch! Ouch! Knock it off!",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse13.png"
+    }
+  }
+}

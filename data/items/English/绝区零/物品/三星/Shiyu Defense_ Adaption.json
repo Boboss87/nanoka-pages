@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3202003",
+    "name": "Shiyu Defense: Adaption",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfileHadalZone.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemProfileHadalZone.webp",
+        "localPath": "gallery/zzz/ItemProfileHadalZone.webp",
+        "sha256": "4913b9c777a38fa5836a1ffda331a78d5351e40004802f40f8d57675555a0cfa",
+        "etag": "\"dld8rgejul4k-7w2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgejul4k-7w2\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10226|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10226,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfileHadalZone.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemProfileHadalZone.webp",
+        "localPath": "gallery/zzz/ItemProfileHadalZone.webp",
+        "sha256": "4913b9c777a38fa5836a1ffda331a78d5351e40004802f40f8d57675555a0cfa",
+        "etag": "\"dld8rgejul4k-7w2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgejul4k-7w2\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10226|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10226,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfileHadalZone.png",
+      "rank": 3,
+      "class": 64,
+      "name": "Shiyu Defense: Adaption"
+    },
+    "detail": {
+      "id": 3202003,
+      "name": "Shiyu Defense: Adaption",
+      "desc": "\"Shiyu Defense: Critical Node\" full S-Rank clear commemorative avatar.",
+      "desc2": "Amidst the upheaval, you remain the eternal anchor.",
+      "class": {
+        "64": "PROFILE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfileHadalZone.png"
+    }
+  }
+}

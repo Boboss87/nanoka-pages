@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "equipment",
+    "pageFolder": "驱动盘",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/equipment.json",
+    "sourcePath": "3.3.12+19634983/equipment.json",
+    "sourceLocale": null,
+    "localeMode": "embedded",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/equipment/32400.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "32400",
+    "name": "Thunder Metal",
+    "rarity": "未分类",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitThunderMetal.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitThunderMetal.webp",
+        "localPath": "gallery/zzz/SuitThunderMetal.webp",
+        "sha256": "c5c9dde614e98a40038511d3711dff09518843b6d17167d18e9c591b8b06b564",
+        "etag": "\"dld8rgoq0m35-6fm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoq0m35-6fm\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8338|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8338,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitThunderMetal.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitThunderMetal.webp",
+        "localPath": "gallery/zzz/SuitThunderMetal.webp",
+        "sha256": "c5c9dde614e98a40038511d3711dff09518843b6d17167d18e9c591b8b06b564",
+        "etag": "\"dld8rgoq0m35-6fm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoq0m35-6fm\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8338|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8338,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon2",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitThunderMetal.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitThunderMetal.webp",
+        "localPath": "gallery/zzz/SuitThunderMetal.webp",
+        "sha256": "c5c9dde614e98a40038511d3711dff09518843b6d17167d18e9c591b8b06b564",
+        "etag": "\"dld8rgoq0m35-6fm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoq0m35-6fm\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8338|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8338,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitThunderMetal.png",
+      "en": {
+        "name": "Thunder Metal",
+        "desc2": "<color=#2EB6FF>Electric DMG</color> +10%",
+        "desc4": "As long as an enemy in combat is <color=#2EB6FF>Shocked</color>, the equipper's ATK is increased by 28%."
+      },
+      "ko": {
+        "name": "썬더 메탈",
+        "desc2": "<color=#2EB6FF>전기 속성 피해</color>+10%",
+        "desc4": "전장에 <color=#2EB6FF>[감전]</color> 상태의 적이 존재할 시 착용자의 공격력이 28% 증가한다."
+      },
+      "zh": {
+        "name": "雷暴重金属",
+        "desc2": "<color=#2EB6FF>电属性伤害</color>+10%。",
+        "desc4": "当场上存在处于<color=#2EB6FF>[感电]</color>状态下的敌人时，装备者的攻击力提升28%。"
+      },
+      "ja": {
+        "name": "霹靂のヘヴィメタル",
+        "desc2": "<color=#2EB6FF>電気属性ダメージ</color>+10%。",
+        "desc4": "フィールド上に<color=#2EB6FF>[感電]</color>状態の敵がいる時、装備者の攻撃力+28%。"
+      }
+    },
+    "detail": {
+      "id": 32400,
+      "name": "Thunder Metal",
+      "desc2": "<color=#2EB6FF>Electric DMG</color> +10%",
+      "desc4": "As long as an enemy in combat is <color=#2EB6FF>Shocked</color>, the equipper's ATK is increased by 28%.",
+      "story": "A Drive Disc burned with specialized Ether technology offering personalized attribute amplification to the user.",
+      "icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitThunderMetal.png",
+      "icon2": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitThunderMetal.png"
+    }
+  }
+}

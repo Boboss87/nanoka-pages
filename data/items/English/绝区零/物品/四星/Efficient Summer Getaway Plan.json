@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3201002",
+    "name": "Efficient Summer Getaway Plan",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1002.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemProfile1002.webp",
+        "localPath": "gallery/zzz/ItemProfile1002.webp",
+        "sha256": "922ec727b3e8fb576d1739c581320b367a2149fa6ea19b0a1badd520d33edaa2",
+        "etag": "\"dld8rgehgulq-7gi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgehgulq-7gi\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9666|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9666,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1002.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemProfile1002.webp",
+        "localPath": "gallery/zzz/ItemProfile1002.webp",
+        "sha256": "922ec727b3e8fb576d1739c581320b367a2149fa6ea19b0a1badd520d33edaa2",
+        "etag": "\"dld8rgehgulq-7gi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgehgulq-7gi\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9666|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9666,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1002.png",
+      "rank": 4,
+      "class": 64,
+      "name": "Efficient Summer Getaway Plan"
+    },
+    "detail": {
+      "id": 3201002,
+      "name": "Efficient Summer Getaway Plan",
+      "desc": "A commemorative avatar for the New Eridu City Fund: Premium Plan.",
+      "desc2": "A hard to resist and highly efficient summer getaway plan: Enjoy the ocean's embrace and let it wash away the heat!\nAlso: Bangboo diving equipment is on sale right now! Check out the super hot brand \"City Prisoner.\"",
+      "class": {
+        "64": "PROFILE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1002.png"
+    }
+  }
+}

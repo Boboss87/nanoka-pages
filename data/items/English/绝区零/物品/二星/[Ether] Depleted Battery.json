@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1001909",
+    "name": "[Ether] Depleted Battery",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech07.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardTech07.webp",
+        "localPath": "gallery/zzz/CardTech07.webp",
+        "sha256": "756aae7c9738fa4f4d8c7149123fd9881902e233417b366cc106b592f94c6900",
+        "etag": "\"dld8rfr3kwlz-dqq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr3kwlz-dqq\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17810|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17810,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech07.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardTech07.webp",
+        "localPath": "gallery/zzz/CardTech07.webp",
+        "sha256": "756aae7c9738fa4f4d8c7149123fd9881902e233417b366cc106b592f94c6900",
+        "etag": "\"dld8rfr3kwlz-dqq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr3kwlz-dqq\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17810|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17810,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech07.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[Ether] Depleted Battery"
+    },
+    "detail": {
+      "id": 1001909,
+      "name": "[Ether] Depleted Battery",
+      "desc": "Agent <color=#FE437E>Ether Anomaly Buildup Rate</color> increases by <color=#2BAD00>15%</color>.",
+      "desc2": "A discarded battery, its power depleted, possibly discarded by a Bangboo with a backup battery module.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech07.png"
+    }
+  }
+}

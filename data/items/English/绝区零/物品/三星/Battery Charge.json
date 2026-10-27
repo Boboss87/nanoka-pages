@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "501",
+    "name": "Battery Charge",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconStamina.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconStamina.webp",
+        "localPath": "gallery/zzz/IconStamina.webp",
+        "sha256": "102fa085204b461e3d9d7b40e5ec5623820a6dc97120541115621a3195f5afee",
+        "etag": "\"dld8rgecpdk1-chm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgecpdk1-chm\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=16186|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16186,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconStamina.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconStamina.webp",
+        "localPath": "gallery/zzz/IconStamina.webp",
+        "sha256": "102fa085204b461e3d9d7b40e5ec5623820a6dc97120541115621a3195f5afee",
+        "etag": "\"dld8rgecpdk1-chm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgecpdk1-chm\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=16186|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16186,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconStamina.png",
+      "rank": 3,
+      "class": 2,
+      "name": "Battery Charge"
+    },
+    "detail": {
+      "id": 501,
+      "name": "Battery Charge",
+      "desc": "You can have up to 1,000 Battery Charge. When Battery Charge is lower than 240, recover 1 Battery Charge every 6 minutes.",
+      "desc2": "The power source for Bangboo. Before going exploring in a Hollow, make sure that your Bangboo is sufficiently charged.",
+      "class": {
+        "2": "RESOURCE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconStamina.png"
+    }
+  }
+}

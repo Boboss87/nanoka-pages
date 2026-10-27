@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1002306",
+    "name": "[Affinity] Rupture Tactical Exchange",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardAvatarType06.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardAvatarType06.webp",
+        "localPath": "gallery/zzz/CardAvatarType06.webp",
+        "sha256": "4bf79c04c0688745c8c29024f24966add8a5edc3042718b146a37b9d75ed3943",
+        "etag": "\"dld8rfq0volu-b0k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq0volu-b0k\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14276|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14276,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardAvatarType06.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardAvatarType06.webp",
+        "localPath": "gallery/zzz/CardAvatarType06.webp",
+        "sha256": "4bf79c04c0688745c8c29024f24966add8a5edc3042718b146a37b9d75ed3943",
+        "etag": "\"dld8rfq0volu-b0k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq0volu-b0k\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14276|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14276,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardAvatarType06.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Affinity] Rupture Tactical Exchange"
+    },
+    "detail": {
+      "id": 1002306,
+      "name": "[Affinity] Rupture Tactical Exchange",
+      "desc": "Increases Rupture specialty Agent Sheer DMG by <color=#2BAD00>20%</color>.",
+      "desc2": "Using the break as an opportunity, everyone shared their combat experience, with the members good at Rupture tactics becoming the focal point of the discussion.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardAvatarType06.png"
+    }
+  }
+}

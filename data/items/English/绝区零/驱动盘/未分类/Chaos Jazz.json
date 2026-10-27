@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "equipment",
+    "pageFolder": "驱动盘",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/equipment.json",
+    "sourcePath": "3.3.12+19634983/equipment.json",
+    "sourceLocale": null,
+    "localeMode": "embedded",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/equipment/31800.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "31800",
+    "name": "Chaos Jazz",
+    "rarity": "未分类",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitChaosJazz.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitChaosJazz.webp",
+        "localPath": "gallery/zzz/SuitChaosJazz.webp",
+        "sha256": "46aeb61bf27cde9e989d4c083ed0b3b14c967125dfcf85550de2d6639d9c7250",
+        "etag": "\"dld8rgomg0av-4bu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgomg0av-4bu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5610|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5610,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitChaosJazz.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitChaosJazz.webp",
+        "localPath": "gallery/zzz/SuitChaosJazz.webp",
+        "sha256": "46aeb61bf27cde9e989d4c083ed0b3b14c967125dfcf85550de2d6639d9c7250",
+        "etag": "\"dld8rgomg0av-4bu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgomg0av-4bu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5610|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5610,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon2",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitChaosJazz.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitChaosJazz.webp",
+        "localPath": "gallery/zzz/SuitChaosJazz.webp",
+        "sha256": "46aeb61bf27cde9e989d4c083ed0b3b14c967125dfcf85550de2d6639d9c7250",
+        "etag": "\"dld8rgomg0av-4bu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgomg0av-4bu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5610|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5610,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitChaosJazz.png",
+      "en": {
+        "name": "Chaos Jazz",
+        "desc2": "Anomaly Proficiency +30",
+        "desc4": "<color=#FF5521>Fire DMG</color> and <color=#2EB6FF>Electric DMG</color> increases by 15%. While off-field, <color=#FFFFFF>EX Special Attack</color> and <color=#FFFFFF>Assist Attack</color> DMG increases by 20%. When switching on-field, this buff continues for 5s, and this continuation effect can trigger once every 7.5s."
+      },
+      "ko": {
+        "name": "카오스 재즈",
+        "desc2": "이상 마스터리+30pt",
+        "desc4": "<color=#FF5521>불 속성 피해</color> 및 <color=#2EB6FF>전기 속성 피해</color>가 15% 증가한다. 대기 캐릭터일 시 <color=#FFFFFF>[강화 특수 스킬]</color> 및 <color=#FFFFFF>[지원 공격]</color>으로 주는 피해가 20% 증가하며, 전장에 교체 투입된 후 해당 버프 효과는 여전히 5초 동안 지속된다. 해당 지속 효과는 7.5초 동안 최대 1회 발동된다."
+      },
+      "zh": {
+        "name": "混沌爵士",
+        "desc2": "异常精通+30点。",
+        "desc4": "<color=#FF5521>火属性伤害</color>和<color=#2EB6FF>电属性伤害</color>提升15%；位于后场时，<color=#FFFFFF>[强化特殊技]</color>和<color=#FFFFFF>[支援攻击]</color>造成的伤害提升20%，换入前场后，该增益效果仍然保留，持续5秒，保留效果7.5秒内最多触发一次。"
+      },
+      "ja": {
+        "name": "ケイオス・ジャズ",
+        "desc2": "異常マスタリー+30Pt。",
+        "desc4": "<color=#FF5521>炎属性ダメージ</color>および<color=#2EB6FF>電気属性ダメージ</color>+15%。控えにいる時、<color=#FFFFFF>『強化特殊スキル』</color>と<color=#FFFFFF>『支援攻撃』</color>の与ダメージ+20%。出場した後も効果は5秒継続する。この効果継続は7.5秒に1回のみ発動可能。"
+      }
+    },
+    "detail": {
+      "id": 31800,
+      "name": "Chaos Jazz",
+      "desc2": "Anomaly Proficiency +30",
+      "desc4": "<color=#FF5521>Fire DMG</color> and <color=#2EB6FF>Electric DMG</color> increases by 15%. While off-field, <color=#FFFFFF>EX Special Attack</color> and <color=#FFFFFF>Assist Attack</color> DMG increases by 20%. When switching on-field, this buff continues for 5s, and this continuation effect can trigger once every 7.5s.",
+      "story": "A Drive Disc with a steep learning curve that really tests users' understanding of Ether devices.",
+      "icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitChaosJazz.png",
+      "icon2": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitChaosJazz.png"
+    }
+  }
+}

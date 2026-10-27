@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4364001",
+    "name": "Windworn Highway - Oasis Industrial Park Key",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Key_004.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Key_004.webp",
+        "localPath": "gallery/zzz/Zenkov_Key_004.webp",
+        "sha256": "6e37a075a2f4dd99676709e688768f31e20c6a728a1de55705ce3c5045b478ec",
+        "etag": "\"dld8rgr6qb2x-722\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr6qb2x-722\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9146|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9146,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Key_004.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Key_004.webp",
+        "localPath": "gallery/zzz/Zenkov_Key_004.webp",
+        "sha256": "6e37a075a2f4dd99676709e688768f31e20c6a728a1de55705ce3c5045b478ec",
+        "etag": "\"dld8rgr6qb2x-722\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr6qb2x-722\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9146|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9146,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Key_004.png",
+      "rank": 4,
+      "class": 130,
+      "name": "Windworn Highway - Oasis Industrial Park Key"
+    },
+    "detail": {
+      "id": 4364001,
+      "name": "Windworn Highway - Oasis Industrial Park Key",
+      "desc": "Use to unlock the gate to Windworn Highway's Oasis Industrial Park.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Key_004.png"
+    }
+  }
+}

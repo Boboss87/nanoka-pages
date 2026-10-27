@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "305011",
+    "name": "Bullet",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0006.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconQuestItem_Abyss_0006.webp",
+        "localPath": "gallery/zzz/IconQuestItem_Abyss_0006.webp",
+        "sha256": "9174c3a982ffa286c59ba7bd86b3e32b106da41386632745fd6207d10622230f",
+        "etag": "\"dld8rg7sc047-24o\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7sc047-24o\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=2760|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 2760,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0006.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconQuestItem_Abyss_0006.webp",
+        "localPath": "gallery/zzz/IconQuestItem_Abyss_0006.webp",
+        "sha256": "9174c3a982ffa286c59ba7bd86b3e32b106da41386632745fd6207d10622230f",
+        "etag": "\"dld8rg7sc047-24o\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7sc047-24o\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=2760|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 2760,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0006.png",
+      "rank": 2,
+      "class": 22,
+      "name": "Bullet"
+    },
+    "detail": {
+      "id": 305011,
+      "name": "Bullet",
+      "desc": "The casing of a bullet from a revolver.",
+      "desc2": "Engravings on the base identify it as military issue.\nIt seems like a discarded bullet with no trace of having been used.",
+      "class": {
+        "22": "CLUE ITEM"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0006.png"
+    }
+  }
+}

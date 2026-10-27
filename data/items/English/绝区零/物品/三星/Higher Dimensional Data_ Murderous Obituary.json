@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "110501",
+    "name": "Higher Dimensional Data: Murderous Obituary",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "ExSmallBoss001",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ExSmallBoss001.webp",
+        "localPath": "gallery/zzz/ExSmallBoss001.webp",
+        "sha256": "1f451d836ef9e4b473f05e5d289bfeba64bf30a87a7797d13100cd0aac1e61f6",
+        "etag": "\"dld8rfyzl0ik-je4c\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rfyzl0ik-je4c\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=904764|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 904764,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "ExSmallBoss001",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ExSmallBoss001.webp",
+        "localPath": "gallery/zzz/ExSmallBoss001.webp",
+        "sha256": "1f451d836ef9e4b473f05e5d289bfeba64bf30a87a7797d13100cd0aac1e61f6",
+        "etag": "\"dld8rfyzl0ik-je4c\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rfyzl0ik-je4c\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=904764|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 904764,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "ExSmallBoss001",
+      "rank": 3,
+      "class": 10,
+      "name": "Higher Dimensional Data: Murderous Obituary",
+      "boss": true
+    },
+    "detail": {
+      "id": 110501,
+      "name": "Higher Dimensional Data: Murderous Obituary",
+      "desc": "An item required to increase your Agent's Core Skill level.",
+      "desc2": "A data model built on the combat records of numerous investigators versus Notorious Dullahan, including the most penetrating impressions of it by the investigators. It's enough data to see it \"born and alive\" inside a VR system.",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 3,
+      "icon_path": "ExSmallBoss001",
+      "boss": true
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "34031",
+    "name": "The Sky Ablaze [1]",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitTheSkyAblaze_A.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitTheSkyAblaze_A.webp",
+        "localPath": "gallery/zzz/ItemSuitTheSkyAblaze_A.webp",
+        "sha256": "140bba2a5bf61ffb4ec51483f3720cd428e3567aba1cabb931be3754f5adb1cd",
+        "etag": "\"dld8rgexjkmw-7ss\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgexjkmw-7ss\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10108|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10108,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitTheSkyAblaze_A.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitTheSkyAblaze_A.webp",
+        "localPath": "gallery/zzz/ItemSuitTheSkyAblaze_A.webp",
+        "sha256": "140bba2a5bf61ffb4ec51483f3720cd428e3567aba1cabb931be3754f5adb1cd",
+        "etag": "\"dld8rgexjkmw-7ss\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgexjkmw-7ss\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10108|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10108,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitTheSkyAblaze_A.png",
+      "rank": 3,
+      "class": 7,
+      "name": "The Sky Ablaze [1]"
+    },
+    "detail": {
+      "id": 34031,
+      "name": "The Sky Ablaze [1]",
+      "desc": "Equip to increase Agents' combat capabilities",
+      "desc2": "Immeasurable shadows and light,\nFlowing along scorching trails.\nA shroud of darkness buries the earth,\nYet the golden arrow seeks to pierce the throat of the abyss.",
+      "class": {
+        "7": "DISK"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitTheSkyAblaze_A.png"
+    }
+  }
+}

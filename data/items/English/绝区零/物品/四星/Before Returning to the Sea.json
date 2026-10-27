@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3300021",
+    "name": "Before Returning to the Sea",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard53.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard53.webp",
+        "localPath": "gallery/zzz/Callingcard53.webp",
+        "sha256": "19a71528f169b3cc02e17488f961ad0880edfdc377d5c2eeb3ab87ae9a767dc8",
+        "etag": "\"dld8rfpw47k5-7vm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpw47k5-7vm\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10210|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10210,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard53.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard53.webp",
+        "localPath": "gallery/zzz/Callingcard53.webp",
+        "sha256": "19a71528f169b3cc02e17488f961ad0880edfdc377d5c2eeb3ab87ae9a767dc8",
+        "etag": "\"dld8rfpw47k5-7vm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpw47k5-7vm\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10210|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10210,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard53.png",
+      "rank": 4,
+      "class": 65,
+      "name": "Before Returning to the Sea"
+    },
+    "detail": {
+      "id": 3300021,
+      "name": "Before Returning to the Sea",
+      "desc": "A commemorative namecard for the New Eridu City Fund: Growth Plan.",
+      "desc2": "Before becoming Legendary Proxies who \"made waves\" across the vast ocean of Inter-Knot, they were once just adorable little fish who'd swat at each other with their tails.\nDotingly cared for by their seniors, swimming around and blowing bubbles, napping as they wished... Such was the simple life of these little fish~\n\n—You mean that Phaethon account? We don't really know them...",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard53.png"
+    }
+  }
+}

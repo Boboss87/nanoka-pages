@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "121",
+    "name": "Red Bean Bun Token",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/YanagiActivityToken.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/YanagiActivityToken.webp",
+        "localPath": "gallery/zzz/YanagiActivityToken.webp",
+        "sha256": "9831fe31b4556948dca1d19926e6d8691eae413bd53bc6c93f20fa87a331de4f",
+        "etag": "\"dld8rgr06j54-9as\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr06j54-9as\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=12052|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12052,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/YanagiActivityToken.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/YanagiActivityToken.webp",
+        "localPath": "gallery/zzz/YanagiActivityToken.webp",
+        "sha256": "9831fe31b4556948dca1d19926e6d8691eae413bd53bc6c93f20fa87a331de4f",
+        "etag": "\"dld8rgr06j54-9as\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr06j54-9as\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=12052|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12052,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/YanagiActivityToken.png",
+      "rank": 3,
+      "class": 1,
+      "name": "Red Bean Bun Token"
+    },
+    "detail": {
+      "id": 121,
+      "name": "Red Bean Bun Token",
+      "desc": "Obtain from the limited-time event \"Moonlight Traces.\"\nUsed to redeem special rewards in the event.",
+      "desc2": "Red bean bags are the best daily commute companions!",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/YanagiActivityToken.png"
+    }
+  }
+}

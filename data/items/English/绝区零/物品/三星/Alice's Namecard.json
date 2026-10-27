@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3311401",
+    "name": "Alice's Namecard",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "Alice's Namecard"
+    },
+    "detail": {
+      "id": 3311401,
+      "name": "Alice's Namecard",
+      "desc": "Get by unlocking Alice's Mindscape: Symmetrism",
+      "desc2": "A name card bearing the image of the heiress of the Thymefield family.\nMany high-society figures have tried to get their hands on this noble family's contact info, only to end up with a \"business card\" that's all symmetry and no number. But this one's special... it has the young lady's name written in graceful script, plus a cute, perfectly symmetrical doodle of a bunny — showing just how much she values the person receiving it.",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

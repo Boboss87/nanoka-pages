@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4311011",
+    "name": "Corruption Resistance Medicine",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Consumables_006.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Consumables_006.webp",
+        "localPath": "gallery/zzz/Zenkov_Consumables_006.webp",
+        "sha256": "e96301adbd7b3ad1346941078640d96df9181c44065ff1fcb946c44e654d73ff",
+        "etag": "\"dld8rgr4y06s-6cs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr4y06s-6cs\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8236|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8236,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Consumables_006.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Consumables_006.webp",
+        "localPath": "gallery/zzz/Zenkov_Consumables_006.webp",
+        "sha256": "e96301adbd7b3ad1346941078640d96df9181c44065ff1fcb946c44e654d73ff",
+        "etag": "\"dld8rgr4y06s-6cs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr4y06s-6cs\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8236|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8236,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Consumables_006.png",
+      "rank": 2,
+      "class": 131,
+      "name": "Corruption Resistance Medicine"
+    },
+    "detail": {
+      "id": 4311011,
+      "name": "Corruption Resistance Medicine",
+      "desc": "When used, restores <color=#2BAD00>10%</color> of each squad member's lost Max HP over <color=#2BAD00>10</color>s. Taking a hit interrupts this effect. Reusing this item resets its Max HP recovery duration.",
+      "desc2": "",
+      "class": {
+        "131": "LABYRINTH"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Consumables_006.png"
+    }
+  }
+}

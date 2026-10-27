@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "2090016",
+    "name": "\"ChaPanda\" Boba Teamilk",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Chapanda.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Chapanda.webp",
+        "localPath": "gallery/zzz/Chapanda.webp",
+        "sha256": "7520ac45bf2875baf585dd3760cb2237075533ee078dcd90bfebdf67b1ce5677",
+        "etag": "\"dld8rfr9j8x2-6gi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr9j8x2-6gi\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8370|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8370,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Chapanda.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Chapanda.webp",
+        "localPath": "gallery/zzz/Chapanda.webp",
+        "sha256": "7520ac45bf2875baf585dd3760cb2237075533ee078dcd90bfebdf67b1ce5677",
+        "etag": "\"dld8rfr9j8x2-6gi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr9j8x2-6gi\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8370|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8370,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Chapanda.png",
+      "rank": 3,
+      "class": 51,
+      "name": "\"ChaPanda\" Boba Teamilk"
+    },
+    "detail": {
+      "id": 2090016,
+      "name": "\"ChaPanda\" Boba Teamilk",
+      "desc": "The \"ChaPanda × Zenless Zone Zero\" collaboration event exclusive reward; grants 60 Battery Charge upon use.",
+      "desc2": "Savor the aroma and rich flavor of tea — no reason needed!\nTry this drink, a delicious recipe that even Tin Master and Richard Teamilk tried to study. With its blue and white adorable little critter, it has already won over countless citizens of New Eridu!",
+      "class": {
+        "51": "GIFT"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Chapanda.png"
+    }
+  }
+}

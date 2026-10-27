@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "2100022",
+    "name": "Advanced Upgrade Bundle",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/NAPGPPLAYPOINT02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/NAPGPPLAYPOINT02.webp",
+        "localPath": "gallery/zzz/NAPGPPLAYPOINT02.webp",
+        "sha256": "41af9bd3a4bc6f2ad1fb0a7ee6057b95b0cb05d91569db5ac090f2ca58adc6fe",
+        "etag": "\"dld8rgntv60t-6b8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgntv60t-6b8\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8180|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8180,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/NAPGPPLAYPOINT02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/NAPGPPLAYPOINT02.webp",
+        "localPath": "gallery/zzz/NAPGPPLAYPOINT02.webp",
+        "sha256": "41af9bd3a4bc6f2ad1fb0a7ee6057b95b0cb05d91569db5ac090f2ca58adc6fe",
+        "etag": "\"dld8rgntv60t-6b8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgntv60t-6b8\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8180|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8180,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/NAPGPPLAYPOINT02.png",
+      "rank": 3,
+      "class": 51,
+      "name": "Advanced Upgrade Bundle"
+    },
+    "detail": {
+      "id": 2100022,
+      "name": "Advanced Upgrade Bundle",
+      "desc": "Redeem for 5 Senior Investigator Logs, 3 Ether Plating Agents, 2 Bangboo System Widget, and 5,000 Dennies.",
+      "desc2": "",
+      "class": {
+        "51": "GIFT"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/NAPGPPLAYPOINT02.png"
+    }
+  }
+}

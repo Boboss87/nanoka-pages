@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "5271",
+    "name": "Agent Focus: Seth",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece30.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece30.webp",
+        "localPath": "gallery/zzz/IconRolePiece30.webp",
+        "sha256": "aaf3387c2cc952a7bef5e47ac01ff7b51c2dfb2bcc0d23ebcdfd4d8904bede51",
+        "etag": "\"dld8rgde66yv-8n0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgde66yv-8n0\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11196|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11196,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece30.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece30.webp",
+        "localPath": "gallery/zzz/IconRolePiece30.webp",
+        "sha256": "aaf3387c2cc952a7bef5e47ac01ff7b51c2dfb2bcc0d23ebcdfd4d8904bede51",
+        "etag": "\"dld8rgde66yv-8n0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgde66yv-8n0\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11196|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11196,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece30.png",
+      "rank": 3,
+      "class": 4,
+      "name": "Agent Focus: Seth"
+    },
+    "detail": {
+      "id": 5271,
+      "name": "Agent Focus: Seth",
+      "desc": "Used to unlock Agent's Mindscape Cinema",
+      "desc2": "Snapshots from Seth's daily life and from in combat, recording important moments before and after he became an Agent. These images also provide insights into his fighting style and favorite weapons, helping to better understand his strengths.\n\nIt's like a documentary about a rookie PubSec officer growing in his career! Look, he accidentally hit his ears on the bar while doing a pull-up... So adorable!",
+      "class": {
+        "4": "AGENT ARCHIVE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece30.png"
+    }
+  }
+}

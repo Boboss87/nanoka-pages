@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000712",
+    "name": "[Duel] Rolling Pin",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBlunt14.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBlunt14.webp",
+        "localPath": "gallery/zzz/CardBlunt14.webp",
+        "sha256": "f3ebfdd3d1857d36fd778c36a09b0ea9c636dbae1e1a05a78d65fcad80f2dd5e",
+        "etag": "\"dld8rfq51q0s-d5w\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq51q0s-d5w\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17060|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17060,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBlunt14.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBlunt14.webp",
+        "localPath": "gallery/zzz/CardBlunt14.webp",
+        "sha256": "f3ebfdd3d1857d36fd778c36a09b0ea9c636dbae1e1a05a78d65fcad80f2dd5e",
+        "etag": "\"dld8rfq51q0s-d5w\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq51q0s-d5w\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17060|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17060,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBlunt14.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Duel] Rolling Pin"
+    },
+    "detail": {
+      "id": 1000712,
+      "name": "[Duel] Rolling Pin",
+      "desc": "Chain Attacks and the Ultimate deal <color=#2BAD00>significantly more DMG</color>. (Appears only in Rally Commissions.)",
+      "desc2": "Who beats you depends on who cooks tonight.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBlunt14.png"
+    }
+  }
+}

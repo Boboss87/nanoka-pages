@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4350308",
+    "name": "[Blueprint][Astra Yao] Rainbow Concerto - Lv. 50",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_003_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_003_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_003_Blueprint.webp",
+        "sha256": "00fd9baa721bc02d71884b0894c9fcea6ab9d7532a53cef78d75b72664fda080",
+        "etag": "\"dld8rgrdvinf-8ty\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrdvinf-8ty\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11446|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11446,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_003_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_003_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_003_Blueprint.webp",
+        "sha256": "00fd9baa721bc02d71884b0894c9fcea6ab9d7532a53cef78d75b72664fda080",
+        "etag": "\"dld8rgrdvinf-8ty\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrdvinf-8ty\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11446|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11446,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_003_Blueprint.png",
+      "rank": 4,
+      "class": 130,
+      "name": "[Blueprint][Astra Yao] Rainbow Concerto - Lv. 50"
+    },
+    "detail": {
+      "id": 4350308,
+      "name": "[Blueprint][Astra Yao] Rainbow Concerto - Lv. 50",
+      "desc": "This blueprint can be used to unlock the crafting of Astra Yao's exclusive Tactical Prism at the Smart Workshop. Obtained through investigations or purchased from Boojee's Store - Permanent Store - Blueprint Direct Sale.\nItem Effect: Medicine takes effect immediately.\nDuring the <color=#FFFFFF>Idyllic Cadenza</color> state, characters with <color=#FFFFFF>Attack</color> specialty gain <color=#2BAD00>30% increased CRIT DMG</color>, characters with <color=#FFFFFF>Anomaly</color> specialty gain <color=#2BAD00>60 increased Anomaly Proficiency</color>, and characters with Rupture specialty deal <color=#2BAD00>15% increased Sheer DMG</color>. When the active character hits enemies with an <color=#FFFFFF>EX Special Attack</color>, <color=#2BAD00>Astra Yao will regenerates 4 Energy</color> and <color=#2BAD00>perform an additional attack with <color=#FFFFFF>Tremolo</color></color>. The Energy Generation effect can be triggered once per second.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_003_Blueprint.png"
+    }
+  }
+}

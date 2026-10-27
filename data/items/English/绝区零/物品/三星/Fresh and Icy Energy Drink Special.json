@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "2090002",
+    "name": "Fresh and Icy Energy Drink Special",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/SummerBattery.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SummerBattery.webp",
+        "localPath": "gallery/zzz/SummerBattery.webp",
+        "sha256": "eec64a257acf4b1e9e5356f07816b9c3f5f27ea1ad14d783b5b9a7a336ec700f",
+        "etag": "\"dld8rgoqm1pu-82m\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoqm1pu-82m\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10462|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10462,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/SummerBattery.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SummerBattery.webp",
+        "localPath": "gallery/zzz/SummerBattery.webp",
+        "sha256": "eec64a257acf4b1e9e5356f07816b9c3f5f27ea1ad14d783b5b9a7a336ec700f",
+        "etag": "\"dld8rgoqm1pu-82m\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoqm1pu-82m\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10462|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10462,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/SummerBattery.png",
+      "rank": 3,
+      "class": 51,
+      "name": "Fresh and Icy Energy Drink Special"
+    },
+    "detail": {
+      "id": 2090002,
+      "name": "Fresh and Icy Energy Drink Special",
+      "desc": "Use to gain 100 Battery Charge.",
+      "desc2": "Just one sip to let this drink fill you with energy in this summer heat!\nThe secret ingredients are lemon, perfectly blended mineral salts, and never selling at room temperature.",
+      "class": {
+        "51": "GIFT"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/SummerBattery.png"
+    }
+  }
+}

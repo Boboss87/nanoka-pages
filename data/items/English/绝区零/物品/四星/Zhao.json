@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1341",
+    "name": "Zhao",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece55_New.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece55_New.webp",
+        "localPath": "gallery/zzz/IconRolePiece55_New.webp",
+        "sha256": "50f30a50d0d65dd5fda0eef92a0f14490274d86ab288c629d107e7dd4dbbd026",
+        "etag": "\"dld8rgdfd28a-8f4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgdfd28a-8f4\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10912|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10912,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece55_New.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece55_New.webp",
+        "localPath": "gallery/zzz/IconRolePiece55_New.webp",
+        "sha256": "50f30a50d0d65dd5fda0eef92a0f14490274d86ab288c629d107e7dd4dbbd026",
+        "etag": "\"dld8rgdfd28a-8f4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgdfd28a-8f4\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10912|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10912,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece55_New.png",
+      "rank": 4,
+      "class": 3,
+      "name": "Zhao"
+    },
+    "detail": {
+      "id": 1341,
+      "name": "Zhao",
+      "desc": "Use it to obtain the Agent or unlock the Agent's Mindscapes.",
+      "desc2": "Snapshots from Zhao's daily life and from in combat, recording important moments before and after she became an Agent.\nThese images also provide rare insights into her fighting style and favorite weapons, helping to better understand her strengths.\n\nMost of the photos were taken during Zhao's working hours. From friendly smiles to stern briefings, she always strives to maintain a perfect and professional appearance.",
+      "class": {
+        "3": "AGENT"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece55_New.png"
+    }
+  }
+}

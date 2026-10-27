@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4340102",
+    "name": "Windworn Highway Motel, 2F",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Key_002.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Key_002.webp",
+        "localPath": "gallery/zzz/Zenkov_Key_002.webp",
+        "sha256": "ece6d56804346fb4bf87919e2fc8b8aeaa6d3aaf69383b475ba97a9096c149e5",
+        "etag": "\"dld8rgr6qb2x-728\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr6qb2x-728\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9152|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9152,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Key_002.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Key_002.webp",
+        "localPath": "gallery/zzz/Zenkov_Key_002.webp",
+        "sha256": "ece6d56804346fb4bf87919e2fc8b8aeaa6d3aaf69383b475ba97a9096c149e5",
+        "etag": "\"dld8rgr6qb2x-728\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr6qb2x-728\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9152|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9152,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Key_002.png",
+      "rank": 4,
+      "class": 130,
+      "name": "Windworn Highway Motel, 2F"
+    },
+    "detail": {
+      "id": 4340102,
+      "name": "Windworn Highway Motel, 2F",
+      "desc": "After use, unlocks the door to the 2nd floor room of the Windworn Highway Motel, granting access to a large amount of supplies.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Key_002.png"
+    }
+  }
+}

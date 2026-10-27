@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "412021312",
+    "name": "Afternoon at Three",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Belle_Back_NeckPendant_01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Belle_Back_NeckPendant_01.webp",
+        "localPath": "gallery/zzz/icon_Belle_Back_NeckPendant_01.webp",
+        "sha256": "d3d5f3739fd92ac6af4ee66995677838bacbc388bc19fb3ab58543835406d755",
+        "etag": "\"dld8rgrimzp4-7im\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrimzp4-7im\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9742|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9742,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Belle_Back_NeckPendant_01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Belle_Back_NeckPendant_01.webp",
+        "localPath": "gallery/zzz/icon_Belle_Back_NeckPendant_01.webp",
+        "sha256": "d3d5f3739fd92ac6af4ee66995677838bacbc388bc19fb3ab58543835406d755",
+        "etag": "\"dld8rgrimzp4-7im\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrimzp4-7im\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9742|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9742,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Belle_Back_NeckPendant_01.png",
+      "rank": 3,
+      "class": 95,
+      "name": "Afternoon at Three"
+    },
+    "detail": {
+      "id": 412021312,
+      "name": "Afternoon at Three",
+      "desc": "A Proxy accessory that can be worn with some of Belle's Proxy outfits.",
+      "desc2": "Who exactly decided that Roscaelifer citizens have to start preparing for afternoon tea the moment it hits 3 PM?",
+      "class": {
+        "95": "OUTFIT ACCESSORIES"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Belle_Back_NeckPendant_01.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "304058",
+    "name": "Raffle Ticket",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Lotteryticket.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Lotteryticket.webp",
+        "localPath": "gallery/zzz/Lotteryticket.webp",
+        "sha256": "aa6b410101cf9143ac5c41432f7a30a0f4abe013c550985e841eb12a52b4450a",
+        "etag": "\"dld8rgfb8k57-70o\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgfb8k57-70o\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9096|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9096,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Lotteryticket.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Lotteryticket.webp",
+        "localPath": "gallery/zzz/Lotteryticket.webp",
+        "sha256": "aa6b410101cf9143ac5c41432f7a30a0f4abe013c550985e841eb12a52b4450a",
+        "etag": "\"dld8rgfb8k57-70o\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgfb8k57-70o\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9096|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9096,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Lotteryticket.png",
+      "rank": 2,
+      "class": 20,
+      "name": "Raffle Ticket"
+    },
+    "detail": {
+      "id": 304058,
+      "name": "Raffle Ticket",
+      "desc": "The raffle ticket given to us by Hugo.",
+      "desc2": "I wonder what kind of prize we'll get...",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Lotteryticket.png"
+    }
+  }
+}

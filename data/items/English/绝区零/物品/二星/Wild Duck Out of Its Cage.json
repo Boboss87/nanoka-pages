@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "304047",
+    "name": "Wild Duck Out of Its Cage",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/QuestCpt025Duck01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/QuestCpt025Duck01.webp",
+        "localPath": "gallery/zzz/QuestCpt025Duck01.webp",
+        "sha256": "e0602bd9808aebf6d7259098f15a14806610178d0fdb746c19cfd72095a4b952",
+        "etag": "\"dld8rgnw8wjn-4de\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnw8wjn-4de\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5666|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5666,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/QuestCpt025Duck01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/QuestCpt025Duck01.webp",
+        "localPath": "gallery/zzz/QuestCpt025Duck01.webp",
+        "sha256": "e0602bd9808aebf6d7259098f15a14806610178d0fdb746c19cfd72095a4b952",
+        "etag": "\"dld8rgnw8wjn-4de\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnw8wjn-4de\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5666|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5666,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/QuestCpt025Duck01.png",
+      "rank": 2,
+      "class": 20,
+      "name": "Wild Duck Out of Its Cage"
+    },
+    "detail": {
+      "id": 304047,
+      "name": "Wild Duck Out of Its Cage",
+      "desc": "A duck that escaped from a Pegasos truck. Catch it and take it back.",
+      "desc2": "A new breed of domestic duck bred by a famous farm in Eridu Valley. The driver Gael from Pegasos was responsible for transporting them but for unknown reasons, the vehicle's cargo compartment was opened, and these priceless ducks scattered and escaped.",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/QuestCpt025Duck01.png"
+    }
+  }
+}

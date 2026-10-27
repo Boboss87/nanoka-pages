@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1001058",
+    "name": "[Hollow] Koleda's Demolition Hammer",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard47.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard47.webp",
+        "localPath": "gallery/zzz/CardChessboard47.webp",
+        "sha256": "a95e58e02b53b572843e6285e5ef2c1f9a8cb537cbfc263e72184f57b055eafa",
+        "etag": "\"dld8rfqb02bw-af8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqb02bw-af8\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=13508|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13508,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard47.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard47.webp",
+        "localPath": "gallery/zzz/CardChessboard47.webp",
+        "sha256": "a95e58e02b53b572843e6285e5ef2c1f9a8cb537cbfc263e72184f57b055eafa",
+        "etag": "\"dld8rfqb02bw-af8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqb02bw-af8\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=13508|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13508,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard47.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Hollow] Koleda's Demolition Hammer"
+    },
+    "detail": {
+      "id": 1001058,
+      "name": "[Hollow] Koleda's Demolition Hammer",
+      "desc": "<color=#FFAF2C>Spikes no longer deal damage</color>, but instead grant <color=#2BAD00>+3</color> HP.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard47.png"
+    }
+  }
+}

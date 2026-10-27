@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4350219",
+    "name": "[Blueprint] High-Grade Gear: Support - Modified - Lv. 40",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponS_008_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponS_008_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponS_008_Blueprint.webp",
+        "sha256": "e148b5035049ffc80953352febb900d5f7ccabdc5f7a6bc041f6d148bb0bfd1a",
+        "etag": "\"dld8rgrhg4fp-88k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrhg4fp-88k\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10676|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10676,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponS_008_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponS_008_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponS_008_Blueprint.webp",
+        "sha256": "e148b5035049ffc80953352febb900d5f7ccabdc5f7a6bc041f6d148bb0bfd1a",
+        "etag": "\"dld8rgrhg4fp-88k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrhg4fp-88k\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10676|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10676,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponS_008_Blueprint.png",
+      "rank": 4,
+      "class": 130,
+      "name": "[Blueprint] High-Grade Gear: Support - Modified - Lv. 40"
+    },
+    "detail": {
+      "id": 4350219,
+      "name": "[Blueprint] High-Grade Gear: Support - Modified - Lv. 40",
+      "desc": "Use this Blueprint at the Smart Workshop to unlock the recipe for this item. Purchased from Boojee's Store - Permanent Store - Blueprint Direct Sale.\n\nItem Effect: Increases Decibel Generation Rate by <color=#2BAD00>15%</color>. When this Agent switches onto the field, all Agents deal <color=#2BAD00>30%</color> more DMG for <color=#2BAD00>20</color>s.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponS_008_Blueprint.png"
+    }
+  }
+}

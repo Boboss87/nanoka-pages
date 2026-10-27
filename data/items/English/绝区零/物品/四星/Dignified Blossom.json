@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3110911",
+    "name": "Dignified Blossom",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_HoshimiMiyabiDignifiedBlossom.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Skin_HoshimiMiyabiDignifiedBlossom.webp",
+        "localPath": "gallery/zzz/Skin_HoshimiMiyabiDignifiedBlossom.webp",
+        "sha256": "e4b142aee371211ea518db53a7f82636b88aa4c72e4b0923dbc2457cbb67b6b5",
+        "etag": "\"dld8rgocx27i-7q0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgocx27i-7q0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10008|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10008,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_HoshimiMiyabiDignifiedBlossom.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Skin_HoshimiMiyabiDignifiedBlossom.webp",
+        "localPath": "gallery/zzz/Skin_HoshimiMiyabiDignifiedBlossom.webp",
+        "sha256": "e4b142aee371211ea518db53a7f82636b88aa4c72e4b0923dbc2457cbb67b6b5",
+        "etag": "\"dld8rgocx27i-7q0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgocx27i-7q0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10008|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10008,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_HoshimiMiyabiDignifiedBlossom.png",
+      "rank": 4,
+      "class": 63,
+      "name": "Dignified Blossom"
+    },
+    "detail": {
+      "id": 3110911,
+      "name": "Dignified Blossom",
+      "desc": "Hoshimi Miyabi's outfit.",
+      "desc2": "As blooms first grace the banquet hall and frost dusts the silver courtyard, the young lady would retreat to a quiet corner whenever guests gathered — eyes downcast, book in hand, softly reciting verses from days long past.\nGuests would shower them with praise: the Hoshimi Family still upheld tradition, dignified and cultured as ever.\nOnly Souichirou stood nearby, his eye twitching slightly — he knew better than anyone that his daughter probably didn't grasp half the poem's true meaning.",
+      "class": {
+        "63": "DRESS"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_HoshimiMiyabiDignifiedBlossom.png"
+    }
+  }
+}

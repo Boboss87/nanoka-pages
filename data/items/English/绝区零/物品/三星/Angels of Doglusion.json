@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "412011119",
+    "name": "Angels of Doglusion",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Head_Headgear_02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Wise_Head_Headgear_02.webp",
+        "localPath": "gallery/zzz/icon_Wise_Head_Headgear_02.webp",
+        "sha256": "23bc423c341f3155115af9898a651091297929553ae454fa9d0b07cca3d1c8f2",
+        "etag": "\"dld8rgrolc07-8h2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrolc07-8h2\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10982|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10982,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Head_Headgear_02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Wise_Head_Headgear_02.webp",
+        "localPath": "gallery/zzz/icon_Wise_Head_Headgear_02.webp",
+        "sha256": "23bc423c341f3155115af9898a651091297929553ae454fa9d0b07cca3d1c8f2",
+        "etag": "\"dld8rgrolc07-8h2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrolc07-8h2\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10982|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10982,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Head_Headgear_02.png",
+      "rank": 3,
+      "class": 95,
+      "name": "Angels of Doglusion"
+    },
+    "detail": {
+      "id": 412011119,
+      "name": "Angels of Doglusion",
+      "desc": "A Proxy accessory that can be worn with some of Wise's Proxy outfits.",
+      "desc2": "Braving wind and rain, thinking of Nangong Yu day and night!",
+      "class": {
+        "95": "OUTFIT ACCESSORIES"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Head_Headgear_02.png"
+    }
+  }
+}

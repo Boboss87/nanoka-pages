@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1370304",
+    "name": "[Anomaly: Infliction] Net Launcher",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardAnomalyS204.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardAnomalyS204.webp",
+        "localPath": "gallery/zzz/CardAnomalyS204.webp",
+        "sha256": "d311b8b2804f5230dd53432ce1b2363bdf40889f511377d2bb40393e522e3e4b",
+        "etag": "\"dld8rfpxb2tk-cqk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpxb2tk-cqk\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16508|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16508,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardAnomalyS204.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardAnomalyS204.webp",
+        "localPath": "gallery/zzz/CardAnomalyS204.webp",
+        "sha256": "d311b8b2804f5230dd53432ce1b2363bdf40889f511377d2bb40393e522e3e4b",
+        "etag": "\"dld8rfpxb2tk-cqk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpxb2tk-cqk\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16508|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16508,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardAnomalyS204.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[Anomaly: Infliction] Net Launcher"
+    },
+    "detail": {
+      "id": 1370304,
+      "name": "[Anomaly: Infliction] Net Launcher",
+      "desc": "Increases Agent <color=#2BAD00>Anomaly Mastery by 60</color>.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardAnomalyS204.png"
+    }
+  }
+}

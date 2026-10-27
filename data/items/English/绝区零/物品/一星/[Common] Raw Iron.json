@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4151006",
+    "name": "[Common] Raw Iron",
+    "rarity": "一星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianTastesMaterial06.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianTastesMaterial06.webp",
+        "localPath": "gallery/zzz/SuibianTastesMaterial06.webp",
+        "sha256": "b616163aa530d7965e137dc535bc214de97b31b2742d8db0a1b167adb5bc1f3a",
+        "etag": "\"dld8rgoh33mh-4lc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoh33mh-4lc\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5952|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5952,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianTastesMaterial06.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianTastesMaterial06.webp",
+        "localPath": "gallery/zzz/SuibianTastesMaterial06.webp",
+        "sha256": "b616163aa530d7965e137dc535bc214de97b31b2742d8db0a1b167adb5bc1f3a",
+        "etag": "\"dld8rgoh33mh-4lc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoh33mh-4lc\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5952|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5952,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianTastesMaterial06.png",
+      "rank": 1,
+      "class": 90,
+      "name": "[Common] Raw Iron"
+    },
+    "detail": {
+      "id": 4151006,
+      "name": "[Common] Raw Iron",
+      "desc": "General materials needed for crafting cooking, tea, and medical tools.",
+      "desc2": "Hard and brittle iron produced by smelting iron ore in a blast furnace.",
+      "class": {
+        "90": "Resource"
+      },
+      "rarity": 1,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianTastesMaterial06.png"
+    }
+  }
+}

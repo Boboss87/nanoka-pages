@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4150078",
+    "name": "[Refined] Heterogeneous Anti-coagulant Gel",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianRemedyProduct05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianRemedyProduct05.webp",
+        "localPath": "gallery/zzz/SuibianRemedyProduct05.webp",
+        "sha256": "e8d4c2f0ac5fa1973eaa081cfc411dde14618d476b84271af48e304d9e0f57c1",
+        "etag": "\"dld8rgoh33mh-5ci\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoh33mh-5ci\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6930|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6930,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianRemedyProduct05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianRemedyProduct05.webp",
+        "localPath": "gallery/zzz/SuibianRemedyProduct05.webp",
+        "sha256": "e8d4c2f0ac5fa1973eaa081cfc411dde14618d476b84271af48e304d9e0f57c1",
+        "etag": "\"dld8rgoh33mh-5ci\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoh33mh-5ci\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6930|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6930,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianRemedyProduct05.png",
+      "rank": 4,
+      "class": 89,
+      "name": "[Refined] Heterogeneous Anti-coagulant Gel"
+    },
+    "detail": {
+      "id": 4150078,
+      "name": "[Refined] Heterogeneous Anti-coagulant Gel",
+      "desc": "Special herbal remedy refined at Suibian Temple.",
+      "desc2": "An herbal ointment made using Yunkui Summit methods - boosts circulation, soothes inflammation, and relieves localized pain.",
+      "class": {
+        "89": "Product"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianRemedyProduct05.png"
+    }
+  }
+}

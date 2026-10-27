@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "412011117",
+    "name": "Blazing Charm of Evil Suppression",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Chest_Badge_04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Wise_Chest_Badge_04.webp",
+        "localPath": "gallery/zzz/icon_Wise_Chest_Badge_04.webp",
+        "sha256": "ce4b060f47fdf8601e3f858aaa97c3e2c9a6d1ff4b66465fda834c4af0cebf09",
+        "etag": "\"dld8rgrm7lhd-8k2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrm7lhd-8k2\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11090|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11090,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Chest_Badge_04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Wise_Chest_Badge_04.webp",
+        "localPath": "gallery/zzz/icon_Wise_Chest_Badge_04.webp",
+        "sha256": "ce4b060f47fdf8601e3f858aaa97c3e2c9a6d1ff4b66465fda834c4af0cebf09",
+        "etag": "\"dld8rgrm7lhd-8k2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrm7lhd-8k2\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11090|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11090,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Chest_Badge_04.png",
+      "rank": 3,
+      "class": 95,
+      "name": "Blazing Charm of Evil Suppression"
+    },
+    "detail": {
+      "id": 412011117,
+      "name": "Blazing Charm of Evil Suppression",
+      "desc": "A Proxy accessory that can be worn with some of Wise's Proxy outfits.",
+      "desc2": "Gather the radiant energy of the sun to ward off spirits and vanquish fiends.",
+      "class": {
+        "95": "OUTFIT ACCESSORIES"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Chest_Badge_04.png"
+    }
+  }
+}

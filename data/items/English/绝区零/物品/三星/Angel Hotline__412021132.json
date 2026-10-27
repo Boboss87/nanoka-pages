@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "412021132",
+    "name": "Angel Hotline",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Belle_Back_Pendant_03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Belle_Back_Pendant_03.webp",
+        "localPath": "gallery/zzz/icon_Belle_Back_Pendant_03.webp",
+        "sha256": "b17cb8156378b80f9d60016216cb7f793ff511ffdfdc151d6ac6e14d849998cd",
+        "etag": "\"dld8rgrimzp4-ak0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrimzp4-ak0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=13680|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13680,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Belle_Back_Pendant_03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Belle_Back_Pendant_03.webp",
+        "localPath": "gallery/zzz/icon_Belle_Back_Pendant_03.webp",
+        "sha256": "b17cb8156378b80f9d60016216cb7f793ff511ffdfdc151d6ac6e14d849998cd",
+        "etag": "\"dld8rgrimzp4-ak0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrimzp4-ak0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=13680|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13680,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Belle_Back_Pendant_03.png",
+      "rank": 3,
+      "class": 95,
+      "name": "Angel Hotline"
+    },
+    "detail": {
+      "id": 412021132,
+      "name": "Angel Hotline",
+      "desc": "A Proxy accessory that can be worn with some of Belle's Proxy outfits.",
+      "desc2": "A cheering heart in flight, tuning the soul to the signal that links it to angels.",
+      "class": {
+        "95": "OUTFIT ACCESSORIES"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Belle_Back_Pendant_03.png"
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "110510",
+    "name": "Higher Dimensional Data: Miasmic Elytron",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "ExSmallBoss010",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ExSmallBoss010.webp",
+        "localPath": "gallery/zzz/ExSmallBoss010.webp",
+        "sha256": "425c3b2877f7d695ef42696ac6d40b6b6996bd41b0a9542d0500f25ddee3fc5f",
+        "etag": "\"dld8rg367v45-jyqu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg367v45-jyqu\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=931494|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 931494,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "ExSmallBoss010",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ExSmallBoss010.webp",
+        "localPath": "gallery/zzz/ExSmallBoss010.webp",
+        "sha256": "425c3b2877f7d695ef42696ac6d40b6b6996bd41b0a9542d0500f25ddee3fc5f",
+        "etag": "\"dld8rg367v45-jyqu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg367v45-jyqu\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=931494|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 931494,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "ExSmallBoss010",
+      "rank": 3,
+      "class": 10,
+      "name": "Higher Dimensional Data: Miasmic Elytron",
+      "boss": true
+    },
+    "detail": {
+      "id": 110510,
+      "name": "Higher Dimensional Data: Miasmic Elytron",
+      "desc": "An item required to increase your Agent's Core Skill level.",
+      "desc2": "A data model built on the combat records of numerous investigators versus Avarus, including their most profound impressions and evaluations of it. It's enough data to see it \"born and alive\" inside a VR system.",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 3,
+      "icon_path": "ExSmallBoss010",
+      "boss": true
+    }
+  }
+}

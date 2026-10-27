@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4320279",
+    "name": "Legendary Gear: Support - Modified - Lv. 60",
+    "rarity": "五星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponZ_008.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponZ_008.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponZ_008.webp",
+        "sha256": "8d92bcbe7e1890817fbefafb1959418271312e66c3b1d7ad677d429e9b82853c",
+        "etag": "\"dld8rgrimzp4-6xg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrimzp4-6xg\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8980|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8980,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponZ_008.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponZ_008.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponZ_008.webp",
+        "sha256": "8d92bcbe7e1890817fbefafb1959418271312e66c3b1d7ad677d429e9b82853c",
+        "etag": "\"dld8rgrimzp4-6xg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrimzp4-6xg\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8980|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8980,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponZ_008.png",
+      "rank": 5,
+      "class": 132,
+      "name": "Legendary Gear: Support - Modified - Lv. 60"
+    },
+    "detail": {
+      "id": 4320279,
+      "name": "Legendary Gear: Support - Modified - Lv. 60",
+      "desc": "Increases Decibel Generation Rate by <color=#2BAD00>20%</color>. When an Agent's attack hits an enemy, the target's DEF decreases by <color=#2BAD00>40%</color> and Attribute Anomaly DMG taken increases by <color=#2BAD00>30%</color> for <color=#2BAD00>10</color>s. Repeated triggers reset the duration.",
+      "desc2": "",
+      "class": {
+        "132": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponZ_008.png"
+    }
+  }
+}

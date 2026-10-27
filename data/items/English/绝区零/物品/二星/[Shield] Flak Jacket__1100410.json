@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1100410",
+    "name": "[Shield] Flak Jacket",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardArmor03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardArmor03.webp",
+        "localPath": "gallery/zzz/CardArmor03.webp",
+        "sha256": "ef617b9b8c94487eca223fc66757348955a6c295c4aba15352a8faa254cdeedf",
+        "etag": "\"dld8rfpxwiga-d90\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpxwiga-d90\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17172|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17172,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardArmor03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardArmor03.webp",
+        "localPath": "gallery/zzz/CardArmor03.webp",
+        "sha256": "ef617b9b8c94487eca223fc66757348955a6c295c4aba15352a8faa254cdeedf",
+        "etag": "\"dld8rfpxwiga-d90\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpxwiga-d90\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17172|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17172,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardArmor03.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[Shield] Flak Jacket"
+    },
+    "detail": {
+      "id": 1100410,
+      "name": "[Shield] Flak Jacket",
+      "desc": "Increases Agent DEF by <color=#2BAD00>25%</color>.",
+      "desc2": "Heavy attacks bounce right off. The only problem is you bounce forward.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardArmor03.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4150060",
+    "name": "[Refined] Dongyao Pain Relief Patch",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianRemedyProduct03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianRemedyProduct03.webp",
+        "localPath": "gallery/zzz/SuibianRemedyProduct03.webp",
+        "sha256": "cd8e1a9bf072a42daa6a77706a62a8de364bc376381eea59d5289b79842eed67",
+        "etag": "\"dld8rgoh33mh-5z8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoh33mh-5z8\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7748|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7748,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianRemedyProduct03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianRemedyProduct03.webp",
+        "localPath": "gallery/zzz/SuibianRemedyProduct03.webp",
+        "sha256": "cd8e1a9bf072a42daa6a77706a62a8de364bc376381eea59d5289b79842eed67",
+        "etag": "\"dld8rgoh33mh-5z8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoh33mh-5z8\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7748|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7748,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianRemedyProduct03.png",
+      "rank": 4,
+      "class": 89,
+      "name": "[Refined] Dongyao Pain Relief Patch"
+    },
+    "detail": {
+      "id": 4150060,
+      "name": "[Refined] Dongyao Pain Relief Patch",
+      "desc": "Special herbal remedy refined at Suibian Temple.",
+      "desc2": "A medicinal patch rooted in Yunkui Summit's traditions, highly effective for easing muscle fatigue and joint strain.",
+      "class": {
+        "89": "Product"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianRemedyProduct03.png"
+    }
+  }
+}

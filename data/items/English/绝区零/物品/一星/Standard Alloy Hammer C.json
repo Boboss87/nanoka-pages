@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4221007",
+    "name": "Standard Alloy Hammer C",
+    "rarity": "一星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovWeaponBlank_1.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovWeaponBlank_1.webp",
+        "localPath": "gallery/zzz/BangkovWeaponBlank_1.webp",
+        "sha256": "e4033ea93d647fe46783137c4ab41d9ef79e7daae9cd4c066175ba69b0379042",
+        "etag": "\"dld8rfpml9gs-62q\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpml9gs-62q\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7874|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7874,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovWeaponBlank_1.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovWeaponBlank_1.webp",
+        "localPath": "gallery/zzz/BangkovWeaponBlank_1.webp",
+        "sha256": "e4033ea93d647fe46783137c4ab41d9ef79e7daae9cd4c066175ba69b0379042",
+        "etag": "\"dld8rfpml9gs-62q\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpml9gs-62q\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7874|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7874,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovWeaponBlank_1.png",
+      "rank": 1,
+      "class": 122,
+      "name": "Standard Alloy Hammer C"
+    },
+    "detail": {
+      "id": 4221007,
+      "name": "Standard Alloy Hammer C",
+      "desc": "<color=#FFFFFF>Weapons placed in Equipment Slots will lose Corruption Resistance at the end of each run. When it reaches zero, all bonuses are lost.</color>\nStandard-issue security weapon for Bangboo used at Marcel's Bootopia.",
+      "desc2": "BKItem_4221007_Story",
+      "class": {
+        "122": null
+      },
+      "rarity": 1,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovWeaponBlank_1.png"
+    }
+  }
+}

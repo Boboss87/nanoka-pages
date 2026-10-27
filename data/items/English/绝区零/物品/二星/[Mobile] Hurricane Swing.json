@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1311006",
+    "name": "[Mobile] Hurricane Swing",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardSwitch06.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardSwitch06.webp",
+        "localPath": "gallery/zzz/CardSwitch06.webp",
+        "sha256": "cc9e6e956fb88c4b804400087e86cbf5d6e0eef4729ec169efee924b14ea928c",
+        "etag": "\"dld8rfr2zgz9-dwm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr2zgz9-dwm\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=18022|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 18022,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardSwitch06.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardSwitch06.webp",
+        "localPath": "gallery/zzz/CardSwitch06.webp",
+        "sha256": "cc9e6e956fb88c4b804400087e86cbf5d6e0eef4729ec169efee924b14ea928c",
+        "etag": "\"dld8rfr2zgz9-dwm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr2zgz9-dwm\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=18022|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 18022,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardSwitch06.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[Mobile] Hurricane Swing"
+    },
+    "detail": {
+      "id": 1311006,
+      "name": "[Mobile] Hurricane Swing",
+      "desc": "<color=#FFFFFF>Tag Assist</color> <color=#2BAD00>reduces DEF by 10%</color> for 10s upon hitting an enemy.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardSwitch06.png"
+    }
+  }
+}

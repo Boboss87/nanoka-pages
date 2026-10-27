@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1011401",
+    "name": "[Onslaught] Pneumatic Drill",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardUtensil12.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardUtensil12.webp",
+        "localPath": "gallery/zzz/CardUtensil12.webp",
+        "sha256": "3cb81bcf007eb85449aff1bc9267bfdf2749e69d88494e7c1ec28d4693a52d7f",
+        "etag": "\"dld8rfr7qy0x-cfg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr7qy0x-cfg\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16108|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16108,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardUtensil12.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardUtensil12.webp",
+        "localPath": "gallery/zzz/CardUtensil12.webp",
+        "sha256": "3cb81bcf007eb85449aff1bc9267bfdf2749e69d88494e7c1ec28d4693a52d7f",
+        "etag": "\"dld8rfr7qy0x-cfg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr7qy0x-cfg\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16108|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16108,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardUtensil12.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Onslaught] Pneumatic Drill"
+    },
+    "detail": {
+      "id": 1011401,
+      "name": "[Onslaught] Pneumatic Drill",
+      "desc": "Triggering <color=#F0D12B>Assault</color> deals additional DMG to Normal/Elite/Boss enemies equal to <color=#2BAD00>50%</color>/<color=#2BAD00>15%</color>/<color=#2BAD00>3%</color> of their Max HP. Additional DMG cannot exceed 4,000% of the Agent's initial ATK.",
+      "desc2": "With this Resonium, you can unleash ruthless attacks that hit with incredible precision and penetrate deep into your target's core! Listen, the brick walls are wailing, and your neighbors are complaining!",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardUtensil12.png"
+    }
+  }
+}

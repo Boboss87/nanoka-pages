@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "833340",
+    "name": "Dawn's Bloom",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitDawnsBloom_S.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitDawnsBloom_S.webp",
+        "localPath": "gallery/zzz/ItemSuitDawnsBloom_S.webp",
+        "sha256": "d8fee7ae8dc5de92755141522757d2c76e6f67553317eb5dcf41f667b6b498b6",
+        "etag": "\"dld8rgeo0mjj-7rw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgeo0mjj-7rw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10076|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10076,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitDawnsBloom_S.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitDawnsBloom_S.webp",
+        "localPath": "gallery/zzz/ItemSuitDawnsBloom_S.webp",
+        "sha256": "d8fee7ae8dc5de92755141522757d2c76e6f67553317eb5dcf41f667b6b498b6",
+        "etag": "\"dld8rgeo0mjj-7rw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgeo0mjj-7rw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10076|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10076,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitDawnsBloom_S.png",
+      "rank": 4,
+      "class": 28,
+      "name": "Dawn's Bloom"
+    },
+    "detail": {
+      "id": 833340,
+      "name": "Dawn's Bloom",
+      "desc": "",
+      "desc2": "Years after the fall of the old capital, an aging singer who had long since put down the pen released this album. According to the artist, its inspiration came from a hazy, childlike lullaby heard while hiding in the ruins during that catastrophe — on the verge of breaking down.",
+      "class": {
+        "28": "DISK"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitDawnsBloom_S.png"
+    }
+  }
+}

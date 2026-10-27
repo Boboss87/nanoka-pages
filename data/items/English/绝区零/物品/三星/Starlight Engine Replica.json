@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "13108",
+    "name": "Starlight Engine Replica",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_1081.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_A_1081.webp",
+        "localPath": "gallery/zzz/Weapon_A_1081.webp",
+        "sha256": "0167506ad8d3bac1d01fa83879c574c292f43537e5b338cea35e527e6d961666",
+        "etag": "\"dld8rgp1bv2m-vls\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgp1bv2m-vls\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=40960|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 40960,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_1081.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_A_1081.webp",
+        "localPath": "gallery/zzz/Weapon_A_1081.webp",
+        "sha256": "0167506ad8d3bac1d01fa83879c574c292f43537e5b338cea35e527e6d961666",
+        "etag": "\"dld8rgp1bv2m-vls\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgp1bv2m-vls\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=40960|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 40960,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_1081.png",
+      "rank": 3,
+      "class": 5,
+      "name": "Starlight Engine Replica"
+    },
+    "detail": {
+      "id": 13108,
+      "name": "Starlight Engine Replica",
+      "desc": "Equip to increase Attack Agents' combat capabilities",
+      "desc2": "A customized supercomputing W-Engine, specialized in aim support and ballistic calculations. Modified by Billy, it now looks like some sort of knock-off Starlight Knight figurine.",
+      "class": {
+        "5": "W-ENGINE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_1081.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "2090015",
+    "name": "\"Yummy Rush\" Power Jelly",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EmptyEnergyJelly.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/EmptyEnergyJelly.webp",
+        "localPath": "gallery/zzz/EmptyEnergyJelly.webp",
+        "sha256": "b0471a291f5ccab9f6b0da7ee1a78aa8357a22267f9fc3255559cac7ca226143",
+        "etag": "\"dld8rfrfhl85-5u8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrfhl85-5u8\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7568|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7568,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EmptyEnergyJelly.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/EmptyEnergyJelly.webp",
+        "localPath": "gallery/zzz/EmptyEnergyJelly.webp",
+        "sha256": "b0471a291f5ccab9f6b0da7ee1a78aa8357a22267f9fc3255559cac7ca226143",
+        "etag": "\"dld8rfrfhl85-5u8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrfhl85-5u8\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7568|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7568,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EmptyEnergyJelly.png",
+      "rank": 3,
+      "class": 20,
+      "name": "\"Yummy Rush\" Power Jelly"
+    },
+    "detail": {
+      "id": 2090015,
+      "name": "\"Yummy Rush\" Power Jelly",
+      "desc": "Operation Yum global collab event commemorative reward.",
+      "desc2": "A special power jelly launched by Crispy Delights Food Stall to celebrate the food festival. According to Fairy's analysis, just one pack is enough to make an average citizen zip around Lumina Square five times at lightning speed. That's why accidentally consuming this jelly at night usually results in staying wide awake until dawn, having an intense staring contest with your Bangboo at home.",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EmptyEnergyJelly.png"
+    }
+  }
+}

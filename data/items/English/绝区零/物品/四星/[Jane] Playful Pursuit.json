@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1350043",
+    "name": "[Jane] Playful Pursuit",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic029.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic029.webp",
+        "localPath": "gallery/zzz/Relic029.webp",
+        "sha256": "084a6db34eefe1d03efaeae27ef5208372c50d670a4a2b9b1e52c5afa3ae25f1",
+        "etag": "\"dld8rgo0exym-3wo\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo0exym-3wo\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5064|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5064,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic029.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic029.webp",
+        "localPath": "gallery/zzz/Relic029.webp",
+        "sha256": "084a6db34eefe1d03efaeae27ef5208372c50d670a4a2b9b1e52c5afa3ae25f1",
+        "etag": "\"dld8rgo0exym-3wo\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo0exym-3wo\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5064|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5064,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic029.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Jane] Playful Pursuit"
+    },
+    "detail": {
+      "id": 1350043,
+      "name": "[Jane] Playful Pursuit",
+      "desc": "When other squad members trigger <color=#F0D12B>Assault</color>, Jane will launch an <color=#FFFFFF>EX Special Attack</color> centered around the target enemy. This DMG will be treated as <color=#FFFFFF>Aftershock</color> DMG. This effect can be triggered once every 8s.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic029.png"
+    }
+  }
+}

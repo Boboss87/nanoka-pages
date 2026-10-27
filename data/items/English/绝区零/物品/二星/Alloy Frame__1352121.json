@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1352121",
+    "name": "Alloy Frame",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_0/MechBoo/UnPacker/MechBooModuleIcon16.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/MechBooModuleIcon16.webp",
+        "localPath": "gallery/zzz/MechBooModuleIcon16.webp",
+        "sha256": "95ee4423fa348aaed42ad23345e9a839a6ec6549341713280296741fe5e05f15",
+        "etag": "\"dld8rgfb8k57-4h6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgfb8k57-4h6\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5802|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5802,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_0/MechBoo/UnPacker/MechBooModuleIcon16.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/MechBooModuleIcon16.webp",
+        "localPath": "gallery/zzz/MechBooModuleIcon16.webp",
+        "sha256": "95ee4423fa348aaed42ad23345e9a839a6ec6549341713280296741fe5e05f15",
+        "etag": "\"dld8rgfb8k57-4h6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgfb8k57-4h6\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5802|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5802,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_0/MechBoo/UnPacker/MechBooModuleIcon16.png",
+      "rank": 2,
+      "class": 94,
+      "name": "Alloy Frame"
+    },
+    "detail": {
+      "id": 1352121,
+      "name": "Alloy Frame",
+      "desc": "解锁后，强化自己有盾时的抗打断能力",
+      "desc2": "",
+      "class": {
+        "94": null
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_0/MechBoo/UnPacker/MechBooModuleIcon16.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "704",
+    "name": "\"Deep Cleaning\" Service Card",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AbyssS1CompleteTicket.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AbyssS1CompleteTicket.webp",
+        "localPath": "gallery/zzz/AbyssS1CompleteTicket.webp",
+        "sha256": "aa188e5992a749d7299b81efda89b2b79bfc604e2d3314f48baf04e1361dd692",
+        "etag": "\"dld8rfnuvsyu-7a0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnuvsyu-7a0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9432|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9432,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AbyssS1CompleteTicket.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AbyssS1CompleteTicket.webp",
+        "localPath": "gallery/zzz/AbyssS1CompleteTicket.webp",
+        "sha256": "aa188e5992a749d7299b81efda89b2b79bfc604e2d3314f48baf04e1361dd692",
+        "etag": "\"dld8rfnuvsyu-7a0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnuvsyu-7a0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9432|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9432,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AbyssS1CompleteTicket.png",
+      "rank": 3,
+      "class": 2,
+      "name": "\"Deep Cleaning\" Service Card"
+    },
+    "detail": {
+      "id": 704,
+      "name": "\"Deep Cleaning\" Service Card",
+      "desc": "Allows the Proxy to quickly complete stages in Hollow Zero: Withered Domain and The Mystery of Arpeggio Fault and claim the corresponding rewards directly.",
+      "desc2": "\"Dear Master, Victoria Housekeeping Co.'s cleaning services have never been limited to just rooms.\"",
+      "class": {
+        "2": "RESOURCE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AbyssS1CompleteTicket.png"
+    }
+  }
+}

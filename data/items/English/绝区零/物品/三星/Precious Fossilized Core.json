@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "13006",
+    "name": "Precious Fossilized Core",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_Common_06.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_A_Common_06.webp",
+        "localPath": "gallery/zzz/Weapon_A_Common_06.webp",
+        "sha256": "d963810505d7d7433c929e8825b290a8d7405f91f04947cd63f7bc85ade7cd07",
+        "etag": "\"dld8rgp4b186-mdq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgp4b186-mdq\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=29006|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 29006,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_Common_06.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_A_Common_06.webp",
+        "localPath": "gallery/zzz/Weapon_A_Common_06.webp",
+        "sha256": "d963810505d7d7433c929e8825b290a8d7405f91f04947cd63f7bc85ade7cd07",
+        "etag": "\"dld8rgp4b186-mdq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgp4b186-mdq\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=29006|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 29006,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_Common_06.png",
+      "rank": 3,
+      "class": 5,
+      "name": "Precious Fossilized Core"
+    },
+    "detail": {
+      "id": 13006,
+      "name": "Precious Fossilized Core",
+      "desc": "Equip to increase Stun Agents' combat capabilities",
+      "desc2": "A special W-Engine whose outer shell is made of composite Etheric matter that effectively absorbs impact, and turns it against the enemy.",
+      "class": {
+        "5": "W-ENGINE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_Common_06.png"
+    }
+  }
+}

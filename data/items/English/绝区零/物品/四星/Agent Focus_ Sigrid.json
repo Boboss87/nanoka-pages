@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "5591",
+    "name": "Agent Focus: Sigrid",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece66.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece66.webp",
+        "localPath": "gallery/zzz/IconRolePiece66.webp",
+        "sha256": "4490acd0b38efe09c0a7d42af7ae739edd3e7053b673a2bc53cc9e5a665ad8ef",
+        "etag": "\"dld8rgdgjxhp-8mk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgdgjxhp-8mk\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11180|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11180,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece66.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece66.webp",
+        "localPath": "gallery/zzz/IconRolePiece66.webp",
+        "sha256": "4490acd0b38efe09c0a7d42af7ae739edd3e7053b673a2bc53cc9e5a665ad8ef",
+        "etag": "\"dld8rgdgjxhp-8mk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgdgjxhp-8mk\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11180|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11180,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece66.png",
+      "rank": 4,
+      "class": 4,
+      "name": "Agent Focus: Sigrid"
+    },
+    "detail": {
+      "id": 5591,
+      "name": "Agent Focus: Sigrid",
+      "desc": "Used to unlock Agent's Mindscape Cinema",
+      "desc2": "Snapshots from Sigrid's daily life and from in combat, recording important moments before and after she became an Agent.\nThey also offer glimpses into details such as her fighting style and preferred weapons, helping to understand this Agent's strengths better.\n\nA children's picture book telling the legendary story of the Airspace Patrol's Deputy Director. Sigrid herself, however, has scribbled a handwritten note in the margin: \"I'm really not that amazing!\"",
+      "class": {
+        "4": "AGENT ARCHIVE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece66.png"
+    }
+  }
+}

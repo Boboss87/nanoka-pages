@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "2090026",
+    "name": "\"Sushiro\" Special Bangboo Roll",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Sushiro2_1.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Sushiro2_1.webp",
+        "localPath": "gallery/zzz/Sushiro2_1.webp",
+        "sha256": "b87fa7b56f2e48ee99ba7cc95e958315638077e3f187b00b3bd18c11c75ae95f",
+        "etag": "\"dld8rgorswz9-774\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgorswz9-774\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9328|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9328,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Sushiro2_1.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Sushiro2_1.webp",
+        "localPath": "gallery/zzz/Sushiro2_1.webp",
+        "sha256": "b87fa7b56f2e48ee99ba7cc95e958315638077e3f187b00b3bd18c11c75ae95f",
+        "etag": "\"dld8rgorswz9-774\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgorswz9-774\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9328|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9328,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Sushiro2_1.png",
+      "rank": 3,
+      "class": 51,
+      "name": "\"Sushiro\" Special Bangboo Roll"
+    },
+    "detail": {
+      "id": 2090026,
+      "name": "\"Sushiro\" Special Bangboo Roll",
+      "desc": "The \"Sushiro × Zenless Zone Zero\" collaboration event exclusive reward; grants 60 Battery Charge upon use.",
+      "desc2": "One bite of surging energy, and you're instantly fully charged!\nThe warmth of the vinegared rice, the freshness of the seaweed, and the pressure of the grip — only a perfect balance of these three can create such a delicacy.",
+      "class": {
+        "51": "GIFT"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Sushiro2_1.png"
+    }
+  }
+}

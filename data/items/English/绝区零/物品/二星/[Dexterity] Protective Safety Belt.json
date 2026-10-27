@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1310205",
+    "name": "[Dexterity] Protective Safety Belt",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardZone05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardZone05.webp",
+        "localPath": "gallery/zzz/CardZone05.webp",
+        "sha256": "0cd8e52358af968933445d4fff689335eeeb6ad0e280b6ee8607ac73c4803855",
+        "etag": "\"dld8rfr9j8x2-d6y\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr9j8x2-d6y\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17098|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17098,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardZone05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardZone05.webp",
+        "localPath": "gallery/zzz/CardZone05.webp",
+        "sha256": "0cd8e52358af968933445d4fff689335eeeb6ad0e280b6ee8607ac73c4803855",
+        "etag": "\"dld8rfr9j8x2-d6y\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr9j8x2-d6y\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17098|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17098,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardZone05.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[Dexterity] Protective Safety Belt"
+    },
+    "detail": {
+      "id": 1310205,
+      "name": "[Dexterity] Protective Safety Belt",
+      "desc": "The Agent takes <color=#2BAD00>10% less DMG</color>. When shielded, the Agent's <color=#2BAD00>Energy Regen is increased by 10%</color>.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardZone05.png"
+    }
+  }
+}

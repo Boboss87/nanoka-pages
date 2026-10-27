@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4350509",
+    "name": "[Blueprint][Velina] Candescent Wind Crown - Lv. 60",
+    "rarity": "五星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_016_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_016_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_016_Blueprint.webp",
+        "sha256": "e2f5de6b5369acae48b8b1c464b01593f5882fdd1c519823af292e1a008b09e4",
+        "etag": "\"dld8rgrf2dwv-8se\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrf2dwv-8se\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11390|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11390,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_016_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_016_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_016_Blueprint.webp",
+        "sha256": "e2f5de6b5369acae48b8b1c464b01593f5882fdd1c519823af292e1a008b09e4",
+        "etag": "\"dld8rgrf2dwv-8se\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrf2dwv-8se\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11390|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11390,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_016_Blueprint.png",
+      "rank": 5,
+      "class": 130,
+      "name": "[Blueprint][Velina] Candescent Wind Crown - Lv. 60"
+    },
+    "detail": {
+      "id": 4350509,
+      "name": "[Blueprint][Velina] Candescent Wind Crown - Lv. 60",
+      "desc": "This blueprint can be used to unlock the crafting of Velina's exclusive Tactical Prism at the Smart Workshop. Purchase them from Boojee's Store - Season Limited.\nItem Effect: Using Etheric Phantom: Unfathomable deals additional Abloom DMG.\nWhile <color=#FFFFFF>Sweeping Cyclone</color> is on the field, all squad members' <color=#2BAD00>Energy Generation Rate increases by 40% and Decibel Generation Rate by 30%</color>, and <color=#FFFFFF>Sweeping Cyclone</color> <color=#2BAD00>lasts 3s longer</color>.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_016_Blueprint.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "304018",
+    "name": "HIA Commemorative Coin - Blazewood",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BlazewoodCoins01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BlazewoodCoins01.webp",
+        "localPath": "gallery/zzz/BlazewoodCoins01.webp",
+        "sha256": "cb1f5ebe839f17551575b2d4b5747bac2b19a1396e46d070232f19d0f5cf1929",
+        "etag": "\"dld8rfpns4q7-9a2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpns4q7-9a2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=12026|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12026,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BlazewoodCoins01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BlazewoodCoins01.webp",
+        "localPath": "gallery/zzz/BlazewoodCoins01.webp",
+        "sha256": "cb1f5ebe839f17551575b2d4b5747bac2b19a1396e46d070232f19d0f5cf1929",
+        "etag": "\"dld8rfpns4q7-9a2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpns4q7-9a2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=12026|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12026,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BlazewoodCoins01.png",
+      "rank": 4,
+      "class": 20,
+      "name": "HIA Commemorative Coin - Blazewood"
+    },
+    "detail": {
+      "id": 304018,
+      "name": "HIA Commemorative Coin - Blazewood",
+      "desc": "A special commemorative coin that can be exchanged for items at the Sage in a Barrel in Blazewood.",
+      "desc2": "Limited edition commemorative coins issued by the Hollow Investigative Association long ago. Their exclusivity is due to their rarity, as many of these coins have been lost over the years due to people relocating away from Hollows and other reasons.",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BlazewoodCoins01.png"
+    }
+  }
+}

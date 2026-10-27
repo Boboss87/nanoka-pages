@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3720002",
+    "name": "Emoticon: ACE!",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Emoji01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Emoji01.webp",
+        "localPath": "gallery/zzz/Emoji01.webp",
+        "sha256": "33410df2e4fec9d928ab5de7a09fc4c90871a80d6d803229146e1511f49c3ab3",
+        "etag": "\"dld8rfrfhl85-7m8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrfhl85-7m8\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9872|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9872,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Emoji01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Emoji01.webp",
+        "localPath": "gallery/zzz/Emoji01.webp",
+        "sha256": "33410df2e4fec9d928ab5de7a09fc4c90871a80d6d803229146e1511f49c3ab3",
+        "etag": "\"dld8rfrfhl85-7m8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrfhl85-7m8\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9872|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9872,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Emoji01.png",
+      "rank": 4,
+      "class": 140,
+      "name": "Emoticon: ACE!"
+    },
+    "detail": {
+      "id": 3720002,
+      "name": "Emoticon: ACE!",
+      "desc": "Used in dialogue. Can be exchanged in the \"Association Supplies - Exclusive Showcase\" shop.",
+      "desc2": "A blunt icon can cut deeper than words.",
+      "class": {
+        "140": "FLAIR"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Emoji01.png"
+    }
+  }
+}

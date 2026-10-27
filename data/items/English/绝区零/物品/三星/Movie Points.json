@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "424",
+    "name": "Movie Points",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/Activity/Ver2_0/Cinema/Packer/Ticket.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Ticket.webp",
+        "localPath": "gallery/zzz/Ticket.webp",
+        "sha256": "1f4c258252db61ebaadc68501b677834bf613977e9f24b39bfa92dba55163096",
+        "etag": "\"dld8rgoseclz-690\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoseclz-690\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8100|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8100,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/Activity/Ver2_0/Cinema/Packer/Ticket.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Ticket.webp",
+        "localPath": "gallery/zzz/Ticket.webp",
+        "sha256": "1f4c258252db61ebaadc68501b677834bf613977e9f24b39bfa92dba55163096",
+        "etag": "\"dld8rgoseclz-690\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoseclz-690\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8100|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8100,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/Activity/Ver2_0/Cinema/Packer/Ticket.png",
+      "rank": 3,
+      "class": 1,
+      "name": "Movie Points"
+    },
+    "detail": {
+      "id": 424,
+      "name": "Movie Points",
+      "desc": "Watch movies at Gravity Cinema to earn points that can be used to upgrade your Gravity VIP membership card.",
+      "desc2": "\"If heaven really exists, it probably looks like a movie theater.\"",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/Activity/Ver2_0/Cinema/Packer/Ticket.png"
+    }
+  }
+}

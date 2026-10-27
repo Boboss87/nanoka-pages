@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "422",
+    "name": "Fantasy Capsule",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/BangbooDream/BangbooDreamItemIcon/UnPacker/Item_BangbooDream_Exp_01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Item_BangbooDream_Exp_01.webp",
+        "localPath": "gallery/zzz/Item_BangbooDream_Exp_01.webp",
+        "sha256": "66544750037eff950e80cc4070736321329ac7dc415d381c029f5f6a77a470cc",
+        "etag": "\"dld8rgf0iqsg-6k0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgf0iqsg-6k0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8496|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8496,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/BangbooDream/BangbooDreamItemIcon/UnPacker/Item_BangbooDream_Exp_01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Item_BangbooDream_Exp_01.webp",
+        "localPath": "gallery/zzz/Item_BangbooDream_Exp_01.webp",
+        "sha256": "66544750037eff950e80cc4070736321329ac7dc415d381c029f5f6a77a470cc",
+        "etag": "\"dld8rgf0iqsg-6k0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgf0iqsg-6k0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8496|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8496,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/BangbooDream/BangbooDreamItemIcon/UnPacker/Item_BangbooDream_Exp_01.png",
+      "rank": 3,
+      "class": 1,
+      "name": "Fantasy Capsule"
+    },
+    "detail": {
+      "id": 422,
+      "name": "Fantasy Capsule",
+      "desc": "A capsule filled with crystals formed from condensed dream energy and carefully stored in a protective shell. It serves as a potent medicine to cross into fantasy.",
+      "desc2": "Fantasy: The floating fantasy, the overflowing fantasy, the fantasy that refracts itself like a crystal. When fantasy gradually expands, will you get lost in its jungle, or will you instead gain the courage to transcend reality?",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/BangbooDream/BangbooDreamItemIcon/UnPacker/Item_BangbooDream_Exp_01.png"
+    }
+  }
+}

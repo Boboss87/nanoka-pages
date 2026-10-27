@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "equipment",
+    "pageFolder": "驱动盘",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/equipment.json",
+    "sourcePath": "3.3.12+19634983/equipment.json",
+    "sourceLocale": null,
+    "localeMode": "embedded",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/equipment/32700.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "32700",
+    "name": "Branch & Blade Song",
+    "rarity": "未分类",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitBranch&BladeSong.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitBranch&BladeSong.webp",
+        "localPath": "gallery/zzz/SuitBranch&BladeSong.webp",
+        "sha256": "7563780500b0bf137ea38105d7354c58db2330af7458e6c99dbf4ce20440dc7d",
+        "etag": "\"dld8rgomg0av-75s\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgomg0av-75s\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9280|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9280,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitBranch&BladeSong.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitBranch&BladeSong.webp",
+        "localPath": "gallery/zzz/SuitBranch&BladeSong.webp",
+        "sha256": "7563780500b0bf137ea38105d7354c58db2330af7458e6c99dbf4ce20440dc7d",
+        "etag": "\"dld8rgomg0av-75s\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgomg0av-75s\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9280|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9280,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon2",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitBranch&BladeSong.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitBranch&BladeSong.webp",
+        "localPath": "gallery/zzz/SuitBranch&BladeSong.webp",
+        "sha256": "7563780500b0bf137ea38105d7354c58db2330af7458e6c99dbf4ce20440dc7d",
+        "etag": "\"dld8rgomg0av-75s\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgomg0av-75s\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9280|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9280,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitBranch&BladeSong.png",
+      "en": {
+        "name": "Branch & Blade Song",
+        "desc2": "CRIT DMG +16%",
+        "desc4": "When Anomaly Mastery exceeds or equals 115 points, the equipper's CRIT DMG increases by 30%. When any squad member applies <color=#98EFF0>Freeze</color> or triggers the <color=#98EFF0>Shatter</color> effect on an enemy, the equipper's CRIT Rate increases by 12%, lasting 15s."
+      },
+      "ko": {
+        "name": "나뭇가지 검의 노래",
+        "desc2": "치명타 피해+16%",
+        "desc4": "이상 장악력이 115pt 이상일 시 착용자의 치명타 피해가 30% 증가한다. 파티 내 임의의 캐릭터가 적에게 <color=#98EFF0>[빙결]</color> 부여 혹은 <color=#98EFF0>[쇄빙]</color> 효과 발동 시 착용자의 치명타 확률이 12% 증가한다. 지속 시간: 15초"
+      },
+      "zh": {
+        "name": "折枝剑歌",
+        "desc2": "暴击伤害+16%。",
+        "desc4": "异常掌控大于等于115点时，装备者的暴击伤害提升30%；队伍中任意角色对敌人施加<color=#98EFF0>[冻结]</color>或触发<color=#98EFF0>[碎冰]</color>效果时，装备者的暴击率提升12%，持续15秒。"
+      },
+      "ja": {
+        "name": "折枝の刀歌",
+        "desc2": "会心ダメージ+16%。",
+        "desc4": "異常掌握が115Pt以上の時、装備者の会心ダメージ+30%。任意のメンバーが敵に<color=#98EFF0>[凍結]</color>効果を付与した時、または<color=#98EFF0>[砕氷]</color>効果を発動した時、装備者の会心率+12%、継続時間15秒。"
+      }
+    },
+    "detail": {
+      "id": 32700,
+      "name": "Branch & Blade Song",
+      "desc2": "CRIT DMG +16%",
+      "desc4": "When Anomaly Mastery exceeds or equals 115 points, the equipper's CRIT DMG increases by 30%. When any squad member applies <color=#98EFF0>Freeze</color> or triggers the <color=#98EFF0>Shatter</color> effect on an enemy, the equipper's CRIT Rate increases by 12%, lasting 15s.",
+      "story": "Inspired by the legendary \"Tale of Blade & Branch,\" this song depicts a young man with amazing swordsmanship as he travels the world, doing good deeds and fighting evil. Some say it's a biography of a prodigious swordsman of the Hoshimi family.",
+      "icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitBranch&BladeSong.png",
+      "icon2": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitBranch&BladeSong.png"
+    }
+  }
+}

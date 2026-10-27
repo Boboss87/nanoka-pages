@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4350505",
+    "name": "[Blueprint][Dialyn] Dying Descent - Lv. 60",
+    "rarity": "五星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_022_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_022_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_022_Blueprint.webp",
+        "sha256": "1f7602974fd1ebc40e270e89be5b3e239cc2ce44413c99ba78f5acbaf9d38f93",
+        "etag": "\"dld8rgrfntjk-8wc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrfntjk-8wc\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11532|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11532,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_022_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_022_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_022_Blueprint.webp",
+        "sha256": "1f7602974fd1ebc40e270e89be5b3e239cc2ce44413c99ba78f5acbaf9d38f93",
+        "etag": "\"dld8rgrfntjk-8wc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrfntjk-8wc\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11532|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11532,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_022_Blueprint.png",
+      "rank": 5,
+      "class": 130,
+      "name": "[Blueprint][Dialyn] Dying Descent - Lv. 60"
+    },
+    "detail": {
+      "id": 4350505,
+      "name": "[Blueprint][Dialyn] Dying Descent - Lv. 60",
+      "desc": "This blueprint can be used to unlock the crafting of Dialyn's exclusive Tactical Prism at the Smart Workshop. Purchase them from Boojee's Store - Season Limited.\nItem Effect: When dealing DMG to enemies using Etheric Phantom, applies a certain amount of Daze.\nIf <color=#FFFFFF>Positive Reviews</color> drop below 90, immediately <color=#2BAD00>restores 60 Positive Reviews</color> and <color=#2BAD00>restores squad members' Decibels by 750</color>. This effect can be triggered once every 30s.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_022_Blueprint.png"
+    }
+  }
+}

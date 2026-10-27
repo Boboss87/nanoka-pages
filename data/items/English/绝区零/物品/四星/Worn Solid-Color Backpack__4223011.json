@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4223011",
+    "name": "Worn Solid-Color Backpack",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovEquipBag_1.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovEquipBag_1.webp",
+        "localPath": "gallery/zzz/BangkovEquipBag_1.webp",
+        "sha256": "695b5f3776a67b535422d3062f50bbebe1e3ae663b192046d372e0079ca224bf",
+        "etag": "\"dld8rfpif81t-7ka\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpif81t-7ka\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9802|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9802,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovEquipBag_1.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovEquipBag_1.webp",
+        "localPath": "gallery/zzz/BangkovEquipBag_1.webp",
+        "sha256": "695b5f3776a67b535422d3062f50bbebe1e3ae663b192046d372e0079ca224bf",
+        "etag": "\"dld8rfpif81t-7ka\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpif81t-7ka\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9802|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9802,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovEquipBag_1.png",
+      "rank": 4,
+      "class": 122,
+      "name": "Worn Solid-Color Backpack"
+    },
+    "detail": {
+      "id": 4223011,
+      "name": "Worn Solid-Color Backpack",
+      "desc": "A multi-functional backpack made exclusively for Bangboo, crafted from cloth and leather.",
+      "desc2": "BKItem_4223011_Story",
+      "class": {
+        "122": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovEquipBag_1.png"
+    }
+  }
+}

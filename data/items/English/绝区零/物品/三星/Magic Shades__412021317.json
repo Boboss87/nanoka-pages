@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "412021317",
+    "name": "Magic Shades",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Belle_Head_Glass_06.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Belle_Head_Glass_06.webp",
+        "localPath": "gallery/zzz/icon_Belle_Head_Glass_06.webp",
+        "sha256": "047785c2f1202854cede5e96fa42ea0c39f5b98533c6c32c3ad82413c3a0401e",
+        "etag": "\"dld8rgrl0q7y-4kc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrl0q7y-4kc\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5916|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5916,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Belle_Head_Glass_06.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Belle_Head_Glass_06.webp",
+        "localPath": "gallery/zzz/icon_Belle_Head_Glass_06.webp",
+        "sha256": "047785c2f1202854cede5e96fa42ea0c39f5b98533c6c32c3ad82413c3a0401e",
+        "etag": "\"dld8rgrl0q7y-4kc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrl0q7y-4kc\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5916|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5916,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Belle_Head_Glass_06.png",
+      "rank": 3,
+      "class": 95,
+      "name": "Magic Shades"
+    },
+    "detail": {
+      "id": 412021317,
+      "name": "Magic Shades",
+      "desc": "A Proxy accessory that can be worn with some of Belle's Proxy outfits.",
+      "desc2": "\"Magic shades, magic shades, who's the brightest of them all?\"\n\"Put me on, and you'll have your answer.\"\n\"Okay, I did. Now what?\"\n\"Now everyone else looks pretty gray.\"\n\"Which means you're the brightest in the world.\"",
+      "class": {
+        "95": "OUTFIT ACCESSORIES"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Belle_Head_Glass_06.png"
+    }
+  }
+}

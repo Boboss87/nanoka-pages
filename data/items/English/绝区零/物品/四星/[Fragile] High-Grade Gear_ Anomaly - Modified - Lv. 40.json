@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4320158",
+    "name": "[Fragile] High-Grade Gear: Anomaly - Modified - Lv. 40",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponS_004.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponS_004.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponS_004.webp",
+        "sha256": "c8102b1021d5350722723e76a4e37750e72591db126b2c1c71c0d0bf38d9833f",
+        "etag": "\"dld8rgrguosz-6y0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrguosz-6y0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9000|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9000,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponS_004.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponS_004.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponS_004.webp",
+        "sha256": "c8102b1021d5350722723e76a4e37750e72591db126b2c1c71c0d0bf38d9833f",
+        "etag": "\"dld8rgrguosz-6y0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrguosz-6y0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9000|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9000,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponS_004.png",
+      "rank": 4,
+      "class": 132,
+      "name": "[Fragile] High-Grade Gear: Anomaly - Modified - Lv. 40"
+    },
+    "detail": {
+      "id": 4320158,
+      "name": "[Fragile] High-Grade Gear: Anomaly - Modified - Lv. 40",
+      "desc": "Increases Anomaly Proficiency by <color=#2BAD00>30</color>. When an Agent deals Attribute Anomaly or Disorder DMG, all squad members' Attribute Anomaly and Disorder DMG ignore <color=#2BAD00>5%</color> All-Attribute RES for <color=#2BAD00>10</color>s. Stacks up to <color=#2BAD00>3</color> times. Repeated triggers reset the duration.",
+      "desc2": "",
+      "class": {
+        "132": "LABYRINTH"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponS_004.png"
+    }
+  }
+}

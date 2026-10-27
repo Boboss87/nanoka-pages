@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000957",
+    "name": "[Affinity] Solid Companionship",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1241.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1241.webp",
+        "localPath": "gallery/zzz/CardDailyUse1241.webp",
+        "sha256": "41edcd3036bf39b082e786b4734c0bd856cebdfef67e98de6092a1966b6da5d3",
+        "etag": "\"dld8rfqf63qv-c6w\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqf63qv-c6w\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15800|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15800,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1241.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1241.webp",
+        "localPath": "gallery/zzz/CardDailyUse1241.webp",
+        "sha256": "41edcd3036bf39b082e786b4734c0bd856cebdfef67e98de6092a1966b6da5d3",
+        "etag": "\"dld8rfqf63qv-c6w\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqf63qv-c6w\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15800|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15800,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1241.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Affinity] Solid Companionship"
+    },
+    "detail": {
+      "id": 1000957,
+      "name": "[Affinity] Solid Companionship",
+      "desc": "Zhu Yuan has evoked the Mindscape: <color=#FFAF2C>[Quick Reload]</color>.\nQuick Reload: When Zhu Yuan activates <color=#FFFFFF>Chain Attacks</color>/<color=#FFFFFF>Ultimates</color>, gain the <color=#FFFFFF>Quick Reload</color> effect. When Zhu Yuan has the <color=#FFFFFF>Quick Reload</color> effect and uses up all <color=#FFFFFF>Enhanced Shotshells</color>, the <color=#FFFFFF>Quick Reload</color> effect will be consumed to instantly gain 6/9 <color=#FFFFFF>Enhanced Shotshells</color>.",
+      "desc2": "When Zhu Yuan confronts dangers and perils, she is never alone — Somewhere beyond her sight, numerous fellow officers stride alongside her. This camaraderie is the source of her confidence and pride as a Public Security officer.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1241.png"
+    }
+  }
+}

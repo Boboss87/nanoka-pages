@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000997",
+    "name": "En-Nah Laureate",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1571.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1571.webp",
+        "localPath": "gallery/zzz/CardDailyUse1571.webp",
+        "sha256": "fe88ef225cbd7e3596d5ae11df910dba534979afd9f6dbe8c19d446a6554c200",
+        "etag": "\"dld8rfqhju9p-cts\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqhju9p-cts\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16624|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16624,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1571.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1571.webp",
+        "localPath": "gallery/zzz/CardDailyUse1571.webp",
+        "sha256": "fe88ef225cbd7e3596d5ae11df910dba534979afd9f6dbe8c19d446a6554c200",
+        "etag": "\"dld8rfqhju9p-cts\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqhju9p-cts\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16624|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16624,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1571.png",
+      "rank": 4,
+      "class": 31,
+      "name": "En-Nah Laureate"
+    },
+    "detail": {
+      "id": 1000997,
+      "name": "En-Nah Laureate",
+      "desc": "Norma has evoked the Mindscape: <color=#FFAF2C>[Visionary Extremism]</color>.\n[Visionary Extremism]: The duration of the En-Nah Turret's missile bay deployed by <color=#FFFFFF>EX Special Attack: Explosive Experiment</color> increases to 12s. When an Armor-Piercing Warhead or High-Explosive Warhead from any skill hits an enemy, the target's All-Attribute RES is reduced by 15% for 15s. Repeated triggers reset the duration.",
+      "desc2": "Miss Norma has earned the crown in Bangboo technology — and she wears it, quite literally. I mean, she literally has a Bangboo hat that fires large-caliber rounds and flies at high speed.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1571.png"
+    }
+  }
+}

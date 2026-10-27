@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4360045",
+    "name": "CCTV",
+    "rarity": "五星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_045.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_045.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_045.webp",
+        "sha256": "0269b7b253f7326c42e740cad070b1f615b56f6d0ff94d1f648d170dd5c36a3e",
+        "etag": "\"dld8rgr35pan-61u\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr35pan-61u\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7842|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7842,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_045.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_045.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_045.webp",
+        "sha256": "0269b7b253f7326c42e740cad070b1f615b56f6d0ff94d1f648d170dd5c36a3e",
+        "etag": "\"dld8rgr35pan-61u\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr35pan-61u\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7842|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7842,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_045.png",
+      "rank": 5,
+      "class": 130,
+      "name": "CCTV"
+    },
+    "detail": {
+      "id": 4360045,
+      "name": "CCTV",
+      "desc": "An old closed-circuit television from an unknown brand. The label says it requires a signal cable to output video, yet there is no signal input port anywhere on the set...",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_045.png"
+    }
+  }
+}

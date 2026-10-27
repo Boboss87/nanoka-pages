@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1001018",
+    "name": "[Hollow] Herbarium",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard16.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard16.webp",
+        "localPath": "gallery/zzz/CardChessboard16.webp",
+        "sha256": "909a88cf0c93101866848266a3fc0e6ba4930e8ca5e3ae176203831ffc1c3b75",
+        "etag": "\"dld8rfq97rfr-a5w\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq97rfr-a5w\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=13172|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13172,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard16.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard16.webp",
+        "localPath": "gallery/zzz/CardChessboard16.webp",
+        "sha256": "909a88cf0c93101866848266a3fc0e6ba4930e8ca5e3ae176203831ffc1c3b75",
+        "etag": "\"dld8rfq97rfr-a5w\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq97rfr-a5w\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=13172|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13172,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard16.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Hollow] Herbarium"
+    },
+    "detail": {
+      "id": 1001018,
+      "name": "[Hollow] Herbarium",
+      "desc": "Every 10 Pressure reduces all squad members' DMG taken from attacks by <color=#2BAD00>1.5%</color>. (Current mitigation: {CReplaceCardParam:DamageShow_1001018,-0.01,2}%)",
+      "desc2": "A collection of leaf specimens. The back of every leaf has a note about what plant it came from.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard16.png"
+    }
+  }
+}

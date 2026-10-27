@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3321401",
+    "name": "Within Her Heterochromatic Gaze",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "Within Her Heterochromatic Gaze"
+    },
+    "detail": {
+      "id": 3321401,
+      "name": "Within Her Heterochromatic Gaze",
+      "desc": "Get by unlocking Alice's Mindscape: A Heart of Thyme",
+      "desc2": "A card printed with a personal photo of Alice.\n\"Hey... can you take a look at me? My asymmetrical eyes... do they look weird?\"\n\"No? Then why did you instinctively look away...? Keep your eyes on me.\"\n\"I can see myself reflected in your pupils. So maybe if we keep making eye contact like this... I'll learn to feel okay about it.\"",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

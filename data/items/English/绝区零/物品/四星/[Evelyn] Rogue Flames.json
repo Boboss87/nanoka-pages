@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1350073",
+    "name": "[Evelyn] Rogue Flames",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic026.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic026.webp",
+        "localPath": "gallery/zzz/Relic026.webp",
+        "sha256": "4d3774077582b3febb35fb7c434f94affee3df2e9af2e14805e561bdf070730d",
+        "etag": "\"dld8rgo0exym-3uy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo0exym-3uy\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5002|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5002,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic026.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic026.webp",
+        "localPath": "gallery/zzz/Relic026.webp",
+        "sha256": "4d3774077582b3febb35fb7c434f94affee3df2e9af2e14805e561bdf070730d",
+        "etag": "\"dld8rgo0exym-3uy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo0exym-3uy\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5002|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5002,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic026.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Evelyn] Rogue Flames"
+    },
+    "detail": {
+      "id": 1350073,
+      "name": "[Evelyn] Rogue Flames",
+      "desc": "When Evelyn's <color=#FFFFFF>Quick Assist</color>, <color=#FFFFFF>Assist Follow-Up</color>, <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Basic Attack: Garrote</color>, and <color=#FFFFFF>Chain Attack</color>'s heavy attacks hit enemies, they apply a <color=#FFFFFF>Burst</color> mark that lasts 8s. Repeated triggers reset the duration. When other squad members' attacks hit an enemy with a <color=#FFFFFF>Burst</color> mark, they deal an additional instance of <color=#FF5521>Fire DMG</color> equal to 370% of Evelyn's ATK and recover 20% of Evelyn's <color=#FFFFFF>Burning Embers</color>, once per 2s. After 3 instances of additional DMG are triggered, the enemy's <color=#FFFFFF>Burst</color> mark is removed.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic026.png"
+    }
+  }
+}

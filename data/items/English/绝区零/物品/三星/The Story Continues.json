@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3321451",
+    "name": "The Story Continues",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "The Story Continues"
+    },
+    "detail": {
+      "id": 3321451,
+      "name": "The Story Continues",
+      "desc": "Get by unlocking Lucia's Mindscape: The Never-Ending Journey",
+      "desc2": "A card with Lucia's personal photo printed on it.\n\"Alright, sun's almost up, so that's it for tonight's Night Emissary lesson...\"\n\"You want to know more, and what happens next?\"\n\"Sure! Every night at midnight, second-floor windowsill of the Sixth Street video shop — be there or be square!\"",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

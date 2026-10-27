@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3202018",
+    "name": "Tempered Crown",
+    "rarity": "四星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 4,
+      "class": 64,
+      "name": "Tempered Crown"
+    },
+    "detail": {
+      "id": 3202018,
+      "name": "Tempered Crown",
+      "desc": "Earn a 2-Star rating in \"Deadly Assault: Adversity Mode\" to automatically unlock the limited-time avatar reward.",
+      "desc2": "Sharp blades cut through thorns, while glory tempers the crown.",
+      "class": {
+        "64": "PROFILE"
+      },
+      "rarity": 4,
+      "icon_path": ""
+    }
+  }
+}

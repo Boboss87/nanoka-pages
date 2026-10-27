@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4200503",
+    "name": "Visitor Guide Pamphlet",
+    "rarity": "一星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialAreaEntryC_1.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovMaterialAreaEntryC_1.webp",
+        "localPath": "gallery/zzz/BangkovMaterialAreaEntryC_1.webp",
+        "sha256": "c5b556b87908974a93b8de1cdf8ebdfd2e6308aac1dcad2f21b1db14638ee838",
+        "etag": "\"dld8rfpk7ixy-5nc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpk7ixy-5nc\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7320|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7320,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialAreaEntryC_1.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovMaterialAreaEntryC_1.webp",
+        "localPath": "gallery/zzz/BangkovMaterialAreaEntryC_1.webp",
+        "sha256": "c5b556b87908974a93b8de1cdf8ebdfd2e6308aac1dcad2f21b1db14638ee838",
+        "etag": "\"dld8rfpk7ixy-5nc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpk7ixy-5nc\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7320|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7320,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialAreaEntryC_1.png",
+      "rank": 1,
+      "class": 120,
+      "name": "Visitor Guide Pamphlet"
+    },
+    "detail": {
+      "id": 4200503,
+      "name": "Visitor Guide Pamphlet",
+      "desc": "A brochure marking all the amusement park rides. Can be obtained from Area Investigation in the entrance area. Can be sold for Marcel Coins.",
+      "desc2": "BKItem_4200503_Story",
+      "class": {
+        "120": null
+      },
+      "rarity": 1,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialAreaEntryC_1.png"
+    }
+  }
+}

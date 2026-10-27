@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "302001",
+    "name": "Molded Plating Agent",
+    "rarity": "一星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EquipStarUp01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/EquipStarUp01.webp",
+        "localPath": "gallery/zzz/EquipStarUp01.webp",
+        "sha256": "0ffb173865b295a1d225b15bebb5790bcf0ba21f9732ba9ca3aafea59a661765",
+        "etag": "\"dld8rfrhvbr0-64w\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrhvbr0-64w\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7952|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7952,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EquipStarUp01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/EquipStarUp01.webp",
+        "localPath": "gallery/zzz/EquipStarUp01.webp",
+        "sha256": "0ffb173865b295a1d225b15bebb5790bcf0ba21f9732ba9ca3aafea59a661765",
+        "etag": "\"dld8rfrhvbr0-64w\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrhvbr0-64w\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7952|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7952,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EquipStarUp01.png",
+      "rank": 1,
+      "class": 14,
+      "name": "Molded Plating Agent"
+    },
+    "detail": {
+      "id": 302001,
+      "name": "Molded Plating Agent",
+      "desc": "Provides 100 EXP for your Drive Disc.",
+      "desc2": "A plating agent used to enhance Drive Discs, providing a certain level of resistance to corruption.",
+      "class": {
+        "14": "DISK EXP"
+      },
+      "rarity": 1,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EquipStarUp01.png"
+    }
+  }
+}

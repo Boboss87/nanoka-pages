@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1321002",
+    "name": "[Mobile] Shatter Blade's Cry",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic034.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic034.webp",
+        "localPath": "gallery/zzz/Relic034.webp",
+        "sha256": "93e2f7f90db72661eaf589f21dabc66309e96a25a5429e4127127260f5d77764",
+        "etag": "\"dld8rgo0exym-49i\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo0exym-49i\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5526|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5526,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.desc.IconMap.Icon_Switch",
+        "kind": "icon_map",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "<IconMap:Icon_Switch>",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Icon_Switch.webp",
+        "localPath": "gallery/zzz/Icon_Switch.webp",
+        "sha256": "430a995c8f045c4ab04f346ee22514add6e6cf7464f19fc04c07ab45a0ef3777",
+        "etag": "\"dld8rgefojpl-104\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgefojpl-104\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=1300|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 1300,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic034.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic034.webp",
+        "localPath": "gallery/zzz/Relic034.webp",
+        "sha256": "93e2f7f90db72661eaf589f21dabc66309e96a25a5429e4127127260f5d77764",
+        "etag": "\"dld8rgo0exym-49i\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo0exym-49i\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5526|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5526,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic034.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Mobile] Shatter Blade's Cry"
+    },
+    "detail": {
+      "id": 1321002,
+      "name": "[Mobile] Shatter Blade's Cry",
+      "desc": "When the active character lands a heavy attack with <color=#FFFFFF>Assist Follow-Up</color>, <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Ultimate</color>, or triggers <color=#FFFFFF>Perfect Dodge</color>, it will trigger <color=#FFFFFF>Tag Assist</color> for the next character. Press <IconMap:Icon_Switch> at this moment, and the next character will perform a <color=#FFFFFF>Quick Assist</color> centered on the enemy. <color=#FFFFFF>Tag Assist</color> won't switch the current active character and the damage dealt is considered <color=#FFFFFF>Aftershock</color> DMG. <color=#FFFFFF>Tag Assist</color> deals <color=#2BAD00>200% increased DMG, 50% increased Daze, and 100% increased Anomaly Buildup</color>. After the squad performs 3 <color=#FFFFFF>Tag Assists</color>, the next <color=#FFFFFF>Tag Assist</color> will trigger <color=#FFFFFF>Vital View</color>.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic034.png"
+    }
+  }
+}

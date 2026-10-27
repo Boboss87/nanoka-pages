@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1310103",
+    "name": "[Ultimate] Repeating Synth",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardDecibels05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDecibels05.webp",
+        "localPath": "gallery/zzz/CardDecibels05.webp",
+        "sha256": "5278c355e6b1ae7751ef0bd47e594ed104c7dbabc29f122d4986a2a601677e86",
+        "etag": "\"dld8rfqjc55t-e6q\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqjc55t-e6q\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=18386|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 18386,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardDecibels05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDecibels05.webp",
+        "localPath": "gallery/zzz/CardDecibels05.webp",
+        "sha256": "5278c355e6b1ae7751ef0bd47e594ed104c7dbabc29f122d4986a2a601677e86",
+        "etag": "\"dld8rfqjc55t-e6q\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqjc55t-e6q\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=18386|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 18386,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardDecibels05.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Ultimate] Repeating Synth"
+    },
+    "detail": {
+      "id": 1310103,
+      "name": "[Ultimate] Repeating Synth",
+      "desc": "When an <color=#FFFFFF>Ultimate</color> hits an enemy, <color=#2BAD00>it deals DMG equal to 2,500% of the Agent's ATK</color> to the target. This effect can trigger once every 30s.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardDecibels05.png"
+    }
+  }
+}

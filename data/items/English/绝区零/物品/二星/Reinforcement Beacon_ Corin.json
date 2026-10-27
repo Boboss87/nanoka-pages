@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "411061",
+    "name": "Reinforcement Beacon: Corin",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill24.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivePropsSkill24.webp",
+        "localPath": "gallery/zzz/ActivePropsSkill24.webp",
+        "sha256": "4419dfdd74663c1bd75409be6a9627e01e9d2cf17731627d5cf1e2455ef7fd05",
+        "etag": "\"dld8rfnvh8lj-3xa\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnvh8lj-3xa\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=5086|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5086,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill24.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivePropsSkill24.webp",
+        "localPath": "gallery/zzz/ActivePropsSkill24.webp",
+        "sha256": "4419dfdd74663c1bd75409be6a9627e01e9d2cf17731627d5cf1e2455ef7fd05",
+        "etag": "\"dld8rfnvh8lj-3xa\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnvh8lj-3xa\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=5086|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5086,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill24.png",
+      "rank": 2,
+      "class": 15,
+      "name": "Reinforcement Beacon: Corin"
+    },
+    "detail": {
+      "id": 411061,
+      "name": "Reinforcement Beacon: Corin",
+      "desc": "Has Corin's contact info. You can call <color=#2BAD00>Corin</color> for support.",
+      "desc2": "\"Wait here for my signal. When I smash the cup, that's your cue!\"",
+      "class": {
+        "15": "HOLLOW ITEM"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill24.png"
+    }
+  }
+}

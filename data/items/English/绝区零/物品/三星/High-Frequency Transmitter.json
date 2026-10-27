@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4300425",
+    "name": "High-Frequency Transmitter",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Material_041.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Material_041.webp",
+        "localPath": "gallery/zzz/Zenkov_Material_041.webp",
+        "sha256": "30d99c94f3f11f18fb58510e496a3ee0f07198c3ebc200e214b4d7fcd0e7fdc6",
+        "etag": "\"dld8rgr9ph8g-6hw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr9ph8g-6hw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8420|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8420,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Material_041.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Material_041.webp",
+        "localPath": "gallery/zzz/Zenkov_Material_041.webp",
+        "sha256": "30d99c94f3f11f18fb58510e496a3ee0f07198c3ebc200e214b4d7fcd0e7fdc6",
+        "etag": "\"dld8rgr9ph8g-6hw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr9ph8g-6hw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8420|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8420,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Material_041.png",
+      "rank": 3,
+      "class": 130,
+      "name": "High-Frequency Transmitter"
+    },
+    "detail": {
+      "id": 4300425,
+      "name": "High-Frequency Transmitter",
+      "desc": "Used for hub and facility upgrades, blueprint research, and squad equipment crafting.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Material_041.png"
+    }
+  }
+}

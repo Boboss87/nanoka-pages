@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "832640",
+    "name": "Fanged Metal",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitFangedMetal_S.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitFangedMetal_S.webp",
+        "localPath": "gallery/zzz/ItemSuitFangedMetal_S.webp",
+        "sha256": "572e1394974beb74db6de1690ab308e64bcaa7bd39adef9f036b708518c12686",
+        "etag": "\"dld8rgepsxfo-7lw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgepsxfo-7lw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9860|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9860,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitFangedMetal_S.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitFangedMetal_S.webp",
+        "localPath": "gallery/zzz/ItemSuitFangedMetal_S.webp",
+        "sha256": "572e1394974beb74db6de1690ab308e64bcaa7bd39adef9f036b708518c12686",
+        "etag": "\"dld8rgepsxfo-7lw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgepsxfo-7lw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9860|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9860,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitFangedMetal_S.png",
+      "rank": 4,
+      "class": 28,
+      "name": "Fanged Metal"
+    },
+    "detail": {
+      "id": 832640,
+      "name": "Fanged Metal",
+      "desc": "",
+      "desc2": "A Drive Disc burned with specialized Ether technology offering personalized attribute amplification to the user.",
+      "class": {
+        "28": "DISK"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitFangedMetal_S.png"
+    }
+  }
+}

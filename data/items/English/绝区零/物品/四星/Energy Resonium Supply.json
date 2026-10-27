@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1090002",
+    "name": "Energy Resonium Supply",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardLootBoxDrink.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardLootBoxDrink.webp",
+        "localPath": "gallery/zzz/CardLootBoxDrink.webp",
+        "sha256": "6526b44f6fe22601f915d1ac294066f6a653ea5b6c56692eb42782a87a68f25e",
+        "etag": "\"dld8rfqro7zr-cgu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqro7zr-cgu\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16158|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16158,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardLootBoxDrink.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardLootBoxDrink.webp",
+        "localPath": "gallery/zzz/CardLootBoxDrink.webp",
+        "sha256": "6526b44f6fe22601f915d1ac294066f6a653ea5b6c56692eb42782a87a68f25e",
+        "etag": "\"dld8rfqro7zr-cgu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqro7zr-cgu\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16158|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16158,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardLootBoxDrink.png",
+      "rank": 4,
+      "class": 38,
+      "name": "Energy Resonium Supply"
+    },
+    "detail": {
+      "id": 1090002,
+      "name": "Energy Resonium Supply",
+      "desc": "Contains 3 random Catalyzed [Energy] Resonia",
+      "desc2": "Resonium supplies specially distributed by the Defense Force to squads carrying out blitz operations. Please don't blame the logistics personnel who packed the supplies for having poor eyesight. He was just a bit rushed... Perhaps it will bring a surprise?",
+      "class": {
+        "38": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardLootBoxDrink.png"
+    }
+  }
+}

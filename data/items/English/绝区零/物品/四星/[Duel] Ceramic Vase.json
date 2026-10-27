@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1010701",
+    "name": "[Duel] Ceramic Vase",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBlunt12.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBlunt12.webp",
+        "localPath": "gallery/zzz/CardBlunt12.webp",
+        "sha256": "12716e52853dafea5385e8516591e8ff23fade75b3cb6928e42672eeb2f45e59",
+        "etag": "\"dld8rfq51q0s-dvi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq51q0s-dvi\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17982|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17982,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBlunt12.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBlunt12.webp",
+        "localPath": "gallery/zzz/CardBlunt12.webp",
+        "sha256": "12716e52853dafea5385e8516591e8ff23fade75b3cb6928e42672eeb2f45e59",
+        "etag": "\"dld8rfq51q0s-dvi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq51q0s-dvi\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17982|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17982,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBlunt12.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Duel] Ceramic Vase"
+    },
+    "detail": {
+      "id": 1010701,
+      "name": "[Duel] Ceramic Vase",
+      "desc": "Increases enemy Stun DMG Multiplier by <color=#2BAD00>40%</color>. When your squad is full, Agents can additionally trigger <color=#2BAD00>1</color> Chain Attacks on Stunned enemies.",
+      "desc2": "One of the weapons frequently wielded by the leading ladies in classic films, it's often used to deliver the decisive blow when the love interest is in a life-or-death battle with the villain.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBlunt12.png"
+    }
+  }
+}

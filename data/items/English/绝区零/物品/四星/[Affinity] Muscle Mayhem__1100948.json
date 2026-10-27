@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1100948",
+    "name": "[Affinity] Muscle Mayhem",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1111.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1111.webp",
+        "localPath": "gallery/zzz/CardDailyUse1111.webp",
+        "sha256": "5bce4162482733ba87461ae1d1b49fd404aff15f3b861e63971146b518dec02b",
+        "etag": "\"dld8rfqeko45-cd4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqeko45-cd4\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16024|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16024,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1111.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1111.webp",
+        "localPath": "gallery/zzz/CardDailyUse1111.webp",
+        "sha256": "5bce4162482733ba87461ae1d1b49fd404aff15f3b861e63971146b518dec02b",
+        "etag": "\"dld8rfqeko45-cd4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqeko45-cd4\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16024|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16024,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1111.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Affinity] Muscle Mayhem"
+    },
+    "detail": {
+      "id": 1100948,
+      "name": "[Affinity] Muscle Mayhem",
+      "desc": "Anton has evoked the Mindscape: <color=#FFAF2C>[Warm-Up Exercises]</color>. After launching a Dash Attack or Dodge Counter, your character can <color=#2BAD00>immediately follow up with</color> certain attacks near the end of the Basic Attack combo. Additionally, he gains the <color=#FFAF2C>Industrial Grade Motivation</color> effect. (Effective for {CReplaceCardParam:BattleCount_Card1100948,1,2} more battles).",
+      "desc2": "Anton is in excellent shape, effortlessly moving through chest exercises as if he's powered by endless energy and he's looking for a punching bag to hammer.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1111.png"
+    }
+  }
+}

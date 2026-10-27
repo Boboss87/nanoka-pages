@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "402",
+    "name": "Snaky Voucher",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ArcadeGameToken02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ArcadeGameToken02.webp",
+        "localPath": "gallery/zzz/ArcadeGameToken02.webp",
+        "sha256": "501ba48f794d47471229f5d378967955132695929f8e436a8206510160732b6b",
+        "etag": "\"dld8rfnx9jho-6z0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnx9jho-6z0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9036|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9036,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ArcadeGameToken02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ArcadeGameToken02.webp",
+        "localPath": "gallery/zzz/ArcadeGameToken02.webp",
+        "sha256": "501ba48f794d47471229f5d378967955132695929f8e436a8206510160732b6b",
+        "etag": "\"dld8rfnx9jho-6z0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnx9jho-6z0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9036|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9036,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ArcadeGameToken02.png",
+      "rank": 3,
+      "class": 1,
+      "name": "Snaky Voucher"
+    },
+    "detail": {
+      "id": 402,
+      "name": "Snaky Voucher",
+      "desc": "A voucher obtained in the Snake Duel special event. Can exchange for rewards at the Godfinger Arcade.",
+      "desc2": "Anything in my way will become my food!",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ArcadeGameToken02.png"
+    }
+  }
+}

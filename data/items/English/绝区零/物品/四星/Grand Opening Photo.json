@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4200202",
+    "name": "Grand Opening Photo",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialAreaS_1.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovMaterialAreaS_1.webp",
+        "localPath": "gallery/zzz/BangkovMaterialAreaS_1.webp",
+        "sha256": "e7a2ff8349b58c87ed914d615be96789eef02324561706c473d3d3a5c64fb4e6",
+        "etag": "\"dld8rfpksykn-6sy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpksykn-6sy\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8818|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8818,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialAreaS_1.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovMaterialAreaS_1.webp",
+        "localPath": "gallery/zzz/BangkovMaterialAreaS_1.webp",
+        "sha256": "e7a2ff8349b58c87ed914d615be96789eef02324561706c473d3d3a5c64fb4e6",
+        "etag": "\"dld8rfpksykn-6sy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpksykn-6sy\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8818|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8818,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialAreaS_1.png",
+      "rank": 4,
+      "class": 120,
+      "name": "Grand Opening Photo"
+    },
+    "detail": {
+      "id": 4200202,
+      "name": "Grand Opening Photo",
+      "desc": "<color=#FFFFFF>Can be exchanged for Marcel Coins.</color>\nFound in the Entrance and Theater areas. It captures photos from the park's opening days.",
+      "desc2": "BKItem_4200202_Story",
+      "class": {
+        "120": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialAreaS_1.png"
+    }
+  }
+}

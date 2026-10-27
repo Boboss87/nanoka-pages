@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3311431",
+    "name": "Ye Shunguang's Namecard",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "Ye Shunguang's Namecard"
+    },
+    "detail": {
+      "id": 3311431,
+      "name": "Ye Shunguang's Namecard",
+      "desc": "Get by unlocking Ye Shunguang's Mindscape: Swordswoman",
+      "desc2": "A namecard bearing the image of Ye Shunguang.\nThis card never circulates publicly; it's said that only a select few \"fated recipients\" ever obtain one. Possessing it grants a one-time \"Void Hunter assistance.\"\nOn the back is a hand-drawn doodle of a face and a line of neat handwriting:\n\"No matter when... if you ever need me, just come find me. If I can help, I'd be happy to!\"",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

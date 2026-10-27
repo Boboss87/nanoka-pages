@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4320273",
+    "name": "Legendary Gear: Anomaly - Lv. 60",
+    "rarity": "五星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponZ_003.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponZ_003.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponZ_003.webp",
+        "sha256": "4c09ed7815e5609e918233c1354cb4024b2ac65092cfc3591ba1a28e3264da1b",
+        "etag": "\"dld8rgri1k2e-7co\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgri1k2e-7co\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9528|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9528,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponZ_003.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponZ_003.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponZ_003.webp",
+        "sha256": "4c09ed7815e5609e918233c1354cb4024b2ac65092cfc3591ba1a28e3264da1b",
+        "etag": "\"dld8rgri1k2e-7co\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgri1k2e-7co\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9528|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9528,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponZ_003.png",
+      "rank": 5,
+      "class": 132,
+      "name": "Legendary Gear: Anomaly - Lv. 60"
+    },
+    "detail": {
+      "id": 4320273,
+      "name": "Legendary Gear: Anomaly - Lv. 60",
+      "desc": "Increases Anomaly Buildup Rate by <color=#2BAD00>20%</color>. After an Agent inflicts an Attribute Anomaly on an enemy, the target's DEF decreases by <color=#2BAD00>20%</color> and Attribute Anomaly DMG taken increases by <color=#2BAD00>20%</color> for <color=#2BAD00>10</color>s. Repeated triggers reset the duration.",
+      "desc2": "",
+      "class": {
+        "132": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponZ_003.png"
+    }
+  }
+}

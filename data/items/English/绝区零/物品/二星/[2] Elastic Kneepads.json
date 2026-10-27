@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1357549",
+    "name": "[2] Elastic Kneepads",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardArmor08.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardArmor08.webp",
+        "localPath": "gallery/zzz/CardArmor08.webp",
+        "sha256": "8f20432e7464db59c9d75b7623eb715ce90fada3540db7fe51199e7cdfe833d6",
+        "etag": "\"dld8rfpyhy2z-d5y\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpyhy2z-d5y\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17062|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17062,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardArmor08.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardArmor08.webp",
+        "localPath": "gallery/zzz/CardArmor08.webp",
+        "sha256": "8f20432e7464db59c9d75b7623eb715ce90fada3540db7fe51199e7cdfe833d6",
+        "etag": "\"dld8rfpyhy2z-d5y\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpyhy2z-d5y\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17062|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17062,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardArmor08.png",
+      "rank": 2,
+      "class": 106,
+      "name": "[2] Elastic Kneepads"
+    },
+    "detail": {
+      "id": 1357549,
+      "name": "[2] Elastic Kneepads",
+      "desc": "Hitting an enemy with an <color=#FFAF2C>EX Special Attack</color> generates a <color=#FFAF2C>Shield</color> equal to 1.6% of the Agent's Max HP. This effect can trigger once every 10s.",
+      "desc2": "",
+      "class": {
+        "106": "TAROT CARD"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardArmor08.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4241005",
+    "name": "Anomalous Unit Recovery Pack",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSmall/UnPacker/RoleSkillExpNormalSmall02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RoleSkillExpNormalSmall02.webp",
+        "localPath": "gallery/zzz/RoleSkillExpNormalSmall02.webp",
+        "sha256": "882de27ca2af60cb6d67144b28128e478a943620c8cc73d5acb8f29f92d8780b",
+        "etag": "\"dld8rgo9cgf9-330\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo9cgf9-330\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=3996|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 3996,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSmall/UnPacker/RoleSkillExpNormalSmall02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RoleSkillExpNormalSmall02.webp",
+        "localPath": "gallery/zzz/RoleSkillExpNormalSmall02.webp",
+        "sha256": "882de27ca2af60cb6d67144b28128e478a943620c8cc73d5acb8f29f92d8780b",
+        "etag": "\"dld8rgo9cgf9-330\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo9cgf9-330\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=3996|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 3996,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSmall/UnPacker/RoleSkillExpNormalSmall02.png",
+      "rank": 3,
+      "class": 124,
+      "name": "Anomalous Unit Recovery Pack"
+    },
+    "detail": {
+      "id": 4241005,
+      "name": "Anomalous Unit Recovery Pack",
+      "desc": "Details where to get it, what it's for, and other gameplay info",
+      "desc2": "BKItem_4241005_Story",
+      "class": {
+        "124": null
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSmall/UnPacker/RoleSkillExpNormalSmall02.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1350032",
+    "name": "[Tsukishiro Yanagi] Awakening Moonlight",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic015.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic015.webp",
+        "localPath": "gallery/zzz/Relic015.webp",
+        "sha256": "feb9c4592021b97809868d84239fac08b0b4b09a06191617312cfc37eeceab12",
+        "etag": "\"dld8rgnztibw-340\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnztibw-340\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4032|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4032,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic015.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic015.webp",
+        "localPath": "gallery/zzz/Relic015.webp",
+        "sha256": "feb9c4592021b97809868d84239fac08b0b4b09a06191617312cfc37eeceab12",
+        "etag": "\"dld8rgnztibw-340\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnztibw-340\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4032|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4032,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic015.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Tsukishiro Yanagi] Awakening Moonlight"
+    },
+    "detail": {
+      "id": 1350032,
+      "name": "[Tsukishiro Yanagi] Awakening Moonlight",
+      "desc": "When squadmates inflict Attribute Anomaly on enemies, it can trigger Tsukishiro Yanagi's <color=#FFFFFF>Quick Assist</color> once every 6s. After triggering <color=#FFFFFF>Quick Assist</color> in this way, Tsukishiro Yanagi will hover in the air and <color=#2BAD00>continuously guide down lightning strike attacks</color>, dealing <color=#2EB6FF>Electric DMG</color> with relatively high <color=#2EB6FF>Electric Anomaly Buildup Rate</color>.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic015.png"
+    }
+  }
+}

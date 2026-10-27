@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1101410",
+    "name": "[Onslaught] Steel Handsaw",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardUtensil10.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardUtensil10.webp",
+        "localPath": "gallery/zzz/CardUtensil10.webp",
+        "sha256": "1687da84ed50bc6781cfea639c0cb39a820cc91b59e592ed0467ac2ec20575bb",
+        "etag": "\"dld8rfr7qy0x-btq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr7qy0x-btq\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15326|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15326,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardUtensil10.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardUtensil10.webp",
+        "localPath": "gallery/zzz/CardUtensil10.webp",
+        "sha256": "1687da84ed50bc6781cfea639c0cb39a820cc91b59e592ed0467ac2ec20575bb",
+        "etag": "\"dld8rfr7qy0x-btq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr7qy0x-btq\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15326|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15326,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardUtensil10.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[Onslaught] Steel Handsaw"
+    },
+    "detail": {
+      "id": 1101410,
+      "name": "[Onslaught] Steel Handsaw",
+      "desc": "Triggering <color=#F0D12B>Assault</color> reduces the target's ATK by <color=#2BAD00>20%</color> for 30s.",
+      "desc2": "A saw's serrated shape contributes to only 1% of its overall intimidating presence, while the remaining 99% comes from horror movies.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardUtensil10.png"
+    }
+  }
+}

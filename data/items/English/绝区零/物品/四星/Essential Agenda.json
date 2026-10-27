@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3300007",
+    "name": "Essential Agenda",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard15.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard15.webp",
+        "localPath": "gallery/zzz/Callingcard15.webp",
+        "sha256": "4bdc0f9d56bb5147b5dd0cb982f07f42a86ea82f816159ae58c3371f303d2f29",
+        "etag": "\"dld8rfpq5v92-83w\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpq5v92-83w\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10508|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10508,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard15.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard15.webp",
+        "localPath": "gallery/zzz/Callingcard15.webp",
+        "sha256": "4bdc0f9d56bb5147b5dd0cb982f07f42a86ea82f816159ae58c3371f303d2f29",
+        "etag": "\"dld8rfpq5v92-83w\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpq5v92-83w\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10508|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10508,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard15.png",
+      "rank": 4,
+      "class": 65,
+      "name": "Essential Agenda"
+    },
+    "detail": {
+      "id": 3300007,
+      "name": "Essential Agenda",
+      "desc": "A commemorative namecard for the New Eridu City Fund: Premium Plan.",
+      "desc2": "This Family Day event's shift photographer and Head of Family Security, Lil Six, is here to capture beautiful moments for you:\nThe most important activity, the essential moment in the agenda— no matter if my bangs flap in the wind or if the wound from that snowball hasn't healed, we'll go out together to watch the fireworks!",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard15.png"
+    }
+  }
+}

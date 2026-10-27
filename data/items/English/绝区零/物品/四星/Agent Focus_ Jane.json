@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "5261",
+    "name": "Agent Focus: Jane",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece24.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece24.webp",
+        "localPath": "gallery/zzz/IconRolePiece24.webp",
+        "sha256": "b6109f54b638142593d70d0f8d0e91bd5fef90bb3b43e13333a11f958a9aa969",
+        "etag": "\"dld8rgde66yv-85g\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgde66yv-85g\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10564|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10564,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece24.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece24.webp",
+        "localPath": "gallery/zzz/IconRolePiece24.webp",
+        "sha256": "b6109f54b638142593d70d0f8d0e91bd5fef90bb3b43e13333a11f958a9aa969",
+        "etag": "\"dld8rgde66yv-85g\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgde66yv-85g\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10564|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10564,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece24.png",
+      "rank": 4,
+      "class": 4,
+      "name": "Agent Focus: Jane"
+    },
+    "detail": {
+      "id": 5261,
+      "name": "Agent Focus: Jane",
+      "desc": "Used to unlock Agent's Mindscape Cinema",
+      "desc2": "Snapshots from Jane's daily life and from in combat, recording important moments before and after she became an Agent. These images also provide insights into her fighting style and favorite weapons, helping to better understand her strengths.\n\nA charming lady in an evening dress, a dashing biker on a motorcycle, an elegant cellist on stage... Hmm, did Jane take all these photos? But there's something...",
+      "class": {
+        "4": "AGENT ARCHIVE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece24.png"
+    }
+  }
+}

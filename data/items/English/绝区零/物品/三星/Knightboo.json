@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "53017",
+    "name": "Knightboo",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece28.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconBangbooPiece28.webp",
+        "localPath": "gallery/zzz/IconBangbooPiece28.webp",
+        "sha256": "214156b685fc8abbc8ac9c7ca0e99dfc816768c986cd2f38c689bf49d81de3e6",
+        "etag": "\"dld8rg7cuppr-8t2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7cuppr-8t2\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11414|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11414,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece28.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconBangbooPiece28.webp",
+        "localPath": "gallery/zzz/IconBangbooPiece28.webp",
+        "sha256": "214156b685fc8abbc8ac9c7ca0e99dfc816768c986cd2f38c689bf49d81de3e6",
+        "etag": "\"dld8rg7cuppr-8t2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7cuppr-8t2\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11414|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11414,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece28.png",
+      "rank": 3,
+      "class": 8,
+      "name": "Knightboo"
+    },
+    "detail": {
+      "id": 53017,
+      "name": "Knightboo",
+      "desc": "Obtain this Bangboo model or authorization to perform the Bangboo's core update.",
+      "desc2": "My steed and I can both bounce to accelerate!",
+      "class": {
+        "8": "BANGBOO"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece28.png"
+    }
+  }
+}

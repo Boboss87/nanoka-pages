@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1228206104",
+    "name": "[Assist] Impact Feedback Device",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMagic05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardMagic05.webp",
+        "localPath": "gallery/zzz/CardMagic05.webp",
+        "sha256": "73f6ac34213afb1a6935c8b745293ebb56a8f89c4bbaa5846bdb5abb61c15881",
+        "etag": "\"dld8rfqsv396-ax4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqsv396-ax4\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14152|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14152,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMagic05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardMagic05.webp",
+        "localPath": "gallery/zzz/CardMagic05.webp",
+        "sha256": "73f6ac34213afb1a6935c8b745293ebb56a8f89c4bbaa5846bdb5abb61c15881",
+        "etag": "\"dld8rfqsv396-ax4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqsv396-ax4\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14152|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14152,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMagic05.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Assist] Impact Feedback Device"
+    },
+    "detail": {
+      "id": 1228206104,
+      "name": "[Assist] Impact Feedback Device",
+      "desc": "Immediately obtain <color=#2BAD00>5</color> bombs",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMagic05.png"
+    }
+  }
+}

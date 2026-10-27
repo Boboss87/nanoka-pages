@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1054002",
+    "name": "[Ally] Safety",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooSafety.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBangbooSafety.webp",
+        "localPath": "gallery/zzz/CardBangbooSafety.webp",
+        "sha256": "655983e26e1d47c6445abdc3b0b0b63c20b5bef1607f94c877f0853315d0d5ca",
+        "etag": "\"dld8rfq39f4o-bww\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq39f4o-bww\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15440|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15440,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooSafety.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBangbooSafety.webp",
+        "localPath": "gallery/zzz/CardBangbooSafety.webp",
+        "sha256": "655983e26e1d47c6445abdc3b0b0b63c20b5bef1607f94c877f0853315d0d5ca",
+        "etag": "\"dld8rfq39f4o-bww\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq39f4o-bww\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15440|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15440,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooSafety.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Ally] Safety"
+    },
+    "detail": {
+      "id": 1054002,
+      "name": "[Ally] Safety",
+      "desc": "All squad members' CRIT DMG increases by <color=#2BAD00>24%</color>.\nActive Skill: Enters the driving state and charges enemies, launching a drilling attack upon hit and dealing <color=#F0D12B>Physical DMG</color>.",
+      "desc2": "Small but functional, it's a great help to Proxies in the Hollows.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooSafety.png"
+    }
+  }
+}

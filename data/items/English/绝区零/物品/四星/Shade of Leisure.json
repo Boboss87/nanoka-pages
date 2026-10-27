@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3115611",
+    "name": "Shade of Leisure",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_VelinaShadeofLeisure.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Skin_VelinaShadeofLeisure.webp",
+        "localPath": "gallery/zzz/Skin_VelinaShadeofLeisure.webp",
+        "sha256": "e7fdd797fe13e73bcd5590deb7a40c12361d3b0315a61159cca8218b33c688b6",
+        "etag": "\"dld8rgodihu8-6yu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgodihu8-6yu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9030|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9030,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_VelinaShadeofLeisure.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Skin_VelinaShadeofLeisure.webp",
+        "localPath": "gallery/zzz/Skin_VelinaShadeofLeisure.webp",
+        "sha256": "e7fdd797fe13e73bcd5590deb7a40c12361d3b0315a61159cca8218b33c688b6",
+        "etag": "\"dld8rgodihu8-6yu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgodihu8-6yu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9030|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9030,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_VelinaShadeofLeisure.png",
+      "rank": 4,
+      "class": 63,
+      "name": "Shade of Leisure"
+    },
+    "detail": {
+      "id": 3115611,
+      "name": "Shade of Leisure",
+      "desc": "Velina's Outfit.",
+      "desc2": "Outside of work, Velina occasionally invites close friends to afternoon tea parties. During such moments, she changes into relatively casual attire to enjoy her free time... though to the Bangboo, it's merely the Grim Reaper in a different terrifying disguise.",
+      "class": {
+        "63": "DRESS"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_VelinaShadeofLeisure.png"
+    }
+  }
+}

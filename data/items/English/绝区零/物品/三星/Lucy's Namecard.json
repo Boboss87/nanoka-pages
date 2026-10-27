@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3311151",
+    "name": "Lucy's Namecard",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "Lucy's Namecard"
+    },
+    "detail": {
+      "id": 3311151,
+      "name": "Lucy's Namecard",
+      "desc": "Get by unlocking Lucy's Mindscape: Ironfist Overseer",
+      "desc2": "A card with a Boar Thiren Overseer from Leaps and Bounds Express Services Co. printed on it.\nThis namecard has an exquisite texture and design from a Throne Quarter print shop. But currently its only use is in contacting the little boars roaming the Outer Ring for delivery.",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

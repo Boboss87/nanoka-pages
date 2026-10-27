@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1310915",
+    "name": "[General] Hammer Drill",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard34.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard34.webp",
+        "localPath": "gallery/zzz/CardChessboard34.webp",
+        "sha256": "391c564178a0d093e9dbceb7e6d3ccabbf2e6c9cdff9f3b2857c3628928c7b70",
+        "etag": "\"dld8rfq9t72h-9na\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq9t72h-9na\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=12502|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12502,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard34.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard34.webp",
+        "localPath": "gallery/zzz/CardChessboard34.webp",
+        "sha256": "391c564178a0d093e9dbceb7e6d3ccabbf2e6c9cdff9f3b2857c3628928c7b70",
+        "etag": "\"dld8rfq9t72h-9na\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq9t72h-9na\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=12502|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12502,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard34.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[General] Hammer Drill"
+    },
+    "detail": {
+      "id": 1310915,
+      "name": "[General] Hammer Drill",
+      "desc": "Triggering <color=#FFFFFF>Perfect Assist</color> <color=#2BAD00>increases all squad members' CRIT DMG by 20%</color> for 10s.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard34.png"
+    }
+  }
+}

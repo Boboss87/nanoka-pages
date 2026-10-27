@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4350303",
+    "name": "[Blueprint][Yixuan] Gold Talisman of Mystic Feathers - Lv.50",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_005_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_005_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_005_Blueprint.webp",
+        "sha256": "daa3c75da7b5d9fe07691809906cd488f79b301971ec19bde23e11ba8e079a51",
+        "etag": "\"dld8rgrdvinf-8pa\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrdvinf-8pa\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11278|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11278,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_005_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_005_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_005_Blueprint.webp",
+        "sha256": "daa3c75da7b5d9fe07691809906cd488f79b301971ec19bde23e11ba8e079a51",
+        "etag": "\"dld8rgrdvinf-8pa\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrdvinf-8pa\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11278|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11278,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_005_Blueprint.png",
+      "rank": 4,
+      "class": 130,
+      "name": "[Blueprint][Yixuan] Gold Talisman of Mystic Feathers - Lv.50"
+    },
+    "detail": {
+      "id": 4350303,
+      "name": "[Blueprint][Yixuan] Gold Talisman of Mystic Feathers - Lv.50",
+      "desc": "This blueprint can be used to unlock the crafting of Yixuan's exclusive Tactical Prism at the Smart Workshop. Obtained through investigations or purchased from Boojee's Store - Permanent Store - Blueprint Direct Sale.\nItem Effect: When triggering a Perfect Block, Yixuan immediately recovers 60 Adrenaline.\nWhile charging for EX Special Attack: Ink Manifestation, Perfect Block can be triggered, after which additionally restores 15 Technique Points and gains <color=#2BAD00>18% DMG boost</color> that lasts for 15s. Each Perfect Block against an enemy increases the next Ultimate <color=#2BAD00>DMG by an additional 20%</color>, stacking up to 3 times.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_005_Blueprint.png"
+    }
+  }
+}

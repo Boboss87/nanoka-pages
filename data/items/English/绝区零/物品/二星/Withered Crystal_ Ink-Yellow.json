@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "150102",
+    "name": "Withered Crystal: Ink-Yellow",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AbyssWitheredMaterial01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AbyssWitheredMaterial01.webp",
+        "localPath": "gallery/zzz/AbyssWitheredMaterial01.webp",
+        "sha256": "c357e19c2ac3a1f663cb9a030b3f552f035807bf19086bd6271055875ee223c8",
+        "etag": "\"dld8rfnuvsyu-77a\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnuvsyu-77a\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9334|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9334,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AbyssWitheredMaterial01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AbyssWitheredMaterial01.webp",
+        "localPath": "gallery/zzz/AbyssWitheredMaterial01.webp",
+        "sha256": "c357e19c2ac3a1f663cb9a030b3f552f035807bf19086bd6271055875ee223c8",
+        "etag": "\"dld8rfnuvsyu-77a\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnuvsyu-77a\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9334|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9334,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AbyssWitheredMaterial01.png",
+      "rank": 2,
+      "class": 10,
+      "name": "Withered Crystal: Ink-Yellow"
+    },
+    "detail": {
+      "id": 150102,
+      "name": "Withered Crystal: Ink-Yellow",
+      "desc": "A sample used for researching Combat Configuration by the Institute. Root metabolites precipitated from diseased, withered Ethereal bodies that possess special Ether activity.",
+      "desc2": "The flowers bloom at the expense of the withering bodies. And the fruit that buds from the push and pull of this growth and decay, is what this crystal is.",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AbyssWitheredMaterial01.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4350302",
+    "name": "[Blueprint][Hoshimi Miyabi] Frost Inferno - Lv.50",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_001_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_001_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_001_Blueprint.webp",
+        "sha256": "d30fa8bd3b5f83b3c03b572db98bc545d46dfb39ae024f6b41a89fe7662885e2",
+        "etag": "\"dld8rgrdvinf-880\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrdvinf-880\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10656|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10656,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_001_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_001_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_001_Blueprint.webp",
+        "sha256": "d30fa8bd3b5f83b3c03b572db98bc545d46dfb39ae024f6b41a89fe7662885e2",
+        "etag": "\"dld8rgrdvinf-880\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrdvinf-880\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10656|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10656,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_001_Blueprint.png",
+      "rank": 4,
+      "class": 130,
+      "name": "[Blueprint][Hoshimi Miyabi] Frost Inferno - Lv.50"
+    },
+    "detail": {
+      "id": 4350302,
+      "name": "[Blueprint][Hoshimi Miyabi] Frost Inferno - Lv.50",
+      "desc": "This blueprint can be used to unlock the crafting of Hoshimi Miyabi's exclusive Tactical Prism at the Smart Workshop. Obtained through investigations or purchased from Boojee's Store - Permanent Store - Blueprint Direct Sale.\nItem Effect: After Hoshimi Miyabi executes a Powerful Slash on an enemy, she immediately restores 1 Fallen Frost point.\nEnemies afflicted with <color=#FFFFFF>Icefire</color> <color=#2BAD00>take <color=#98EFF0>Frost DMG</color> equal to 260% of Hoshimi Miyabi's ATK per second</color>. Upon triggering <color=#FFFFFF>Frostburn - Break</color>, Hoshimi Miyabi can bypass the restrictions of <color=#FFFFFF>Frostburn</color> and <color=#2BAD00>immediately reapply <color=#FFFFFF>Icefire</color> to enemies</color>.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_001_Blueprint.png"
+    }
+  }
+}

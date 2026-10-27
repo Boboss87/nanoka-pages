@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "5061",
+    "name": "Agent Focus: Corin",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece09.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece09.webp",
+        "localPath": "gallery/zzz/IconRolePiece09.webp",
+        "sha256": "6d0ab4381655b0a312a22be1dbe8659c313d2218c6d0af860e015457dc0ffe13",
+        "etag": "\"dld8rgdcdw2q-8la\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgdcdw2q-8la\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11134|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11134,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece09.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece09.webp",
+        "localPath": "gallery/zzz/IconRolePiece09.webp",
+        "sha256": "6d0ab4381655b0a312a22be1dbe8659c313d2218c6d0af860e015457dc0ffe13",
+        "etag": "\"dld8rgdcdw2q-8la\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgdcdw2q-8la\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11134|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11134,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece09.png",
+      "rank": 3,
+      "class": 4,
+      "name": "Agent Focus: Corin"
+    },
+    "detail": {
+      "id": 5061,
+      "name": "Agent Focus: Corin",
+      "desc": "Used to unlock Agent's Mindscape Cinema",
+      "desc2": "Snapshots from Corin's daily life and from in combat, recording important moments before and after she became an Agent.\nThese images also provide insights into her fighting style and favorite weapons, helping to better understand her strengths.\n\nA carefully-wrapped present with a bow on the box. But the edge of this ribbon... What has it been cut with?",
+      "class": {
+        "4": "AGENT ARCHIVE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece09.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4100103",
+    "name": "[Adventure] Ink Boolock Type III",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooPudding.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBangbooPudding.webp",
+        "localPath": "gallery/zzz/CardBangbooPudding.webp",
+        "sha256": "75398660d2e2f195cd35957df352a9456011ac2c2b0f1b3c4864a3b8ef32310f",
+        "etag": "\"dld8rfq39f4o-as8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq39f4o-as8\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=13976|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13976,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooPudding.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBangbooPudding.webp",
+        "localPath": "gallery/zzz/CardBangbooPudding.webp",
+        "sha256": "75398660d2e2f195cd35957df352a9456011ac2c2b0f1b3c4864a3b8ef32310f",
+        "etag": "\"dld8rfq39f4o-as8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq39f4o-as8\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=13976|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13976,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooPudding.png",
+      "rank": 2,
+      "class": 88,
+      "name": "[Adventure] Ink Boolock Type III"
+    },
+    "detail": {
+      "id": 4100103,
+      "name": "[Adventure] Ink Boolock Type III",
+      "desc": "Bangboo who can help craft, sell, or be dispatched on adventures at Suibian Temple.",
+      "desc2": "",
+      "class": {
+        "88": "Deployed Bangboo"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooPudding.png"
+    }
+  }
+}

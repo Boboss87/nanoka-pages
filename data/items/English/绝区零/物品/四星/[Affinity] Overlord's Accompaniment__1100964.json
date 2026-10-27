@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1100964",
+    "name": "[Affinity] Overlord's Accompaniment",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1071.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1071.webp",
+        "localPath": "gallery/zzz/CardDailyUse1071.webp",
+        "sha256": "a871d35d4b40d2940c86dd2004c85f2b0c7291b1385dc6ee2e1676f8cde42b6f",
+        "etag": "\"dld8rfqeko45-ceq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqeko45-ceq\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16082|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16082,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1071.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1071.webp",
+        "localPath": "gallery/zzz/CardDailyUse1071.webp",
+        "sha256": "a871d35d4b40d2940c86dd2004c85f2b0c7291b1385dc6ee2e1676f8cde42b6f",
+        "etag": "\"dld8rfqeko45-ceq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqeko45-ceq\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16082|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16082,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1071.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Affinity] Overlord's Accompaniment"
+    },
+    "detail": {
+      "id": 1100964,
+      "name": "[Affinity] Overlord's Accompaniment",
+      "desc": "Caesar has evoked the Mindscape: <color=#FFAF2C>[Spearhead Advance]</color>. Additionally, gain the <color=#FFAF2C>Impact Formation</color> effect.",
+      "desc2": "For Caesar, obstacles on the path are irrelevant. As long as she can roll over them, they're not obstacles anymore.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1071.png"
+    }
+  }
+}

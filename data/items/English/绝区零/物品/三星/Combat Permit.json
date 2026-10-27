@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "420",
+    "name": "Combat Permit",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MiniscapeTalentPoint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/MiniscapeTalentPoint.webp",
+        "localPath": "gallery/zzz/MiniscapeTalentPoint.webp",
+        "sha256": "cc4853f11e4a2193bbac84dfd574c8ec3ae91ff9347b5e2eee9524f4bc7f77c5",
+        "etag": "\"dld8rgkvag3q-6u0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgkvag3q-6u0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8856|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8856,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MiniscapeTalentPoint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/MiniscapeTalentPoint.webp",
+        "localPath": "gallery/zzz/MiniscapeTalentPoint.webp",
+        "sha256": "cc4853f11e4a2193bbac84dfd574c8ec3ae91ff9347b5e2eee9524f4bc7f77c5",
+        "etag": "\"dld8rgkvag3q-6u0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgkvag3q-6u0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8856|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8856,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MiniscapeTalentPoint.png",
+      "rank": 3,
+      "class": 1,
+      "name": "Combat Permit"
+    },
+    "detail": {
+      "id": 420,
+      "name": "Combat Permit",
+      "desc": "Enhances Agents' combat capabilities in Gear Deployment.",
+      "desc2": "Unchecked force will surely invite disaster, particularly with powers that have the potential to bring great harm. Only with this permit may one train freely in lands beset by calamity.",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MiniscapeTalentPoint.png"
+    }
+  }
+}

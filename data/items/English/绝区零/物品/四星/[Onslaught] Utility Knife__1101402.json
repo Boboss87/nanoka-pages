@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1101402",
+    "name": "[Onslaught] Utility Knife",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardUtensil02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardUtensil02.webp",
+        "localPath": "gallery/zzz/CardUtensil02.webp",
+        "sha256": "fe6e3395f07afc2554eb6e86132e572d1bf2037df4685f11f56bc9519e5f9111",
+        "etag": "\"dld8rfr75ie8-bs4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr75ie8-bs4\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15268|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15268,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardUtensil02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardUtensil02.webp",
+        "localPath": "gallery/zzz/CardUtensil02.webp",
+        "sha256": "fe6e3395f07afc2554eb6e86132e572d1bf2037df4685f11f56bc9519e5f9111",
+        "etag": "\"dld8rfr75ie8-bs4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr75ie8-bs4\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15268|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15268,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardUtensil02.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Onslaught] Utility Knife"
+    },
+    "detail": {
+      "id": 1101402,
+      "name": "[Onslaught] Utility Knife",
+      "desc": "Triggering <color=#F0D12B>Assault</color> increases the Agent's CRIT Rate by <color=#2BAD00>12%</color>, stacking up to 3 times.",
+      "desc2": "Pain can creep close in the subtlest of ways...",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardUtensil02.png"
+    }
+  }
+}

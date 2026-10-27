@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "32944",
+    "name": "Shadow Harmony [4]",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitShadow_S.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitShadow_S.webp",
+        "localPath": "gallery/zzz/ItemSuitShadow_S.webp",
+        "sha256": "44c3ae21820dff5eb677ed970d36ea25d5a0524d920511634ee8021e98f97a3d",
+        "etag": "\"dld8rgev5u42-7v4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgev5u42-7v4\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10192|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10192,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitShadow_S.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitShadow_S.webp",
+        "localPath": "gallery/zzz/ItemSuitShadow_S.webp",
+        "sha256": "44c3ae21820dff5eb677ed970d36ea25d5a0524d920511634ee8021e98f97a3d",
+        "etag": "\"dld8rgev5u42-7v4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgev5u42-7v4\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10192|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10192,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitShadow_S.png",
+      "rank": 4,
+      "class": 7,
+      "name": "Shadow Harmony [4]"
+    },
+    "detail": {
+      "id": 32944,
+      "name": "Shadow Harmony [4]",
+      "desc": "Equip to increase Agents' combat capabilities",
+      "desc2": "I seek you out when there's no one near,\nIn those times, your loneliness is clear.\nWe both sigh, gazing at the streetlamp's light,\nBut you never lift your head to face your own fight.\nYou never see it, so let me describe,\nNo matter who you wish to be, your shadow's your guide.",
+      "class": {
+        "7": "DISK"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitShadow_S.png"
+    }
+  }
+}

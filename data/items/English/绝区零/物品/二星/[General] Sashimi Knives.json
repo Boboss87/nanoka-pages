@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000929",
+    "name": "[General] Sashimi Knives",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard32.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard32.webp",
+        "localPath": "gallery/zzz/CardChessboard32.webp",
+        "sha256": "1887db717cb578757ec6d993a5dc64ade8b019321e961c7fe5c58389bb3346eb",
+        "etag": "\"dld8rfq9t72h-8hm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq9t72h-8hm\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=11002|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11002,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard32.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard32.webp",
+        "localPath": "gallery/zzz/CardChessboard32.webp",
+        "sha256": "1887db717cb578757ec6d993a5dc64ade8b019321e961c7fe5c58389bb3346eb",
+        "etag": "\"dld8rfq9t72h-8hm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq9t72h-8hm\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=11002|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11002,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard32.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[General] Sashimi Knives"
+    },
+    "detail": {
+      "id": 1000929,
+      "name": "[General] Sashimi Knives",
+      "desc": "Enhances the Counter effect of all <color=#2BAD00>Pierce-type</color> skills.",
+      "desc2": "Its needle-sharp edge can skin and descale with ease, making it an indispensable part of any quality kitchen.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard32.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4000034",
+    "name": "Letter to Pulchra",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RallyLetter02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RallyLetter02.webp",
+        "localPath": "gallery/zzz/RallyLetter02.webp",
+        "sha256": "f755a8ae0f201ac0e28d53909b2229e30cfa40889f9dd0e2d0cf2f80f6e4da00",
+        "etag": "\"dld8rgnymn2h-6h6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnymn2h-6h6\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8394|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8394,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RallyLetter02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RallyLetter02.webp",
+        "localPath": "gallery/zzz/RallyLetter02.webp",
+        "sha256": "f755a8ae0f201ac0e28d53909b2229e30cfa40889f9dd0e2d0cf2f80f6e4da00",
+        "etag": "\"dld8rgnymn2h-6h6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnymn2h-6h6\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8394|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8394,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RallyLetter02.png",
+      "rank": 3,
+      "class": 72,
+      "name": "Letter to Pulchra"
+    },
+    "detail": {
+      "id": 4000034,
+      "name": "Letter to Pulchra",
+      "desc": "A handwritten letter from Burnice to Pulchra.",
+      "desc2": "After Pulchra helped the members of the Sons of Calydon buy things from various places, Burnice wrote a handwritten letter to explain the reasons behind it all to Pulchra.",
+      "class": {
+        "72": "MESSAGE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RallyLetter02.png"
+    }
+  }
+}

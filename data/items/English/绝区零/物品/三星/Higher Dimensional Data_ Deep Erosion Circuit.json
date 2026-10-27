@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "110515",
+    "name": "Higher Dimensional Data: Deep Erosion Circuit",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "ExSmallBoss015",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ExSmallBoss015.webp",
+        "localPath": "gallery/zzz/ExSmallBoss015.webp",
+        "sha256": "45a0d59c30d11953505fc8d9c1916ee8b674340644248fb07ea45dff840da854",
+        "etag": "\"dld8rg6ihkjk-laba\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg6ihkjk-laba\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=993142|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 993142,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "ExSmallBoss015",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ExSmallBoss015.webp",
+        "localPath": "gallery/zzz/ExSmallBoss015.webp",
+        "sha256": "45a0d59c30d11953505fc8d9c1916ee8b674340644248fb07ea45dff840da854",
+        "etag": "\"dld8rg6ihkjk-laba\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg6ihkjk-laba\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=993142|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 993142,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "ExSmallBoss015",
+      "rank": 3,
+      "class": 10,
+      "name": "Higher Dimensional Data: Deep Erosion Circuit",
+      "boss": true
+    },
+    "detail": {
+      "id": 110515,
+      "name": "Higher Dimensional Data: Deep Erosion Circuit",
+      "desc": "An item required to increase your Agent's Core Skill level.",
+      "desc2": "A data model built on the combat records of numerous investigators versus the Airspace Sentinel, including their most profound impressions and evaluations of it. It's enough data to see it \"born and alive\" inside a VR system.",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 3,
+      "icon_path": "ExSmallBoss015",
+      "boss": true
+    }
+  }
+}

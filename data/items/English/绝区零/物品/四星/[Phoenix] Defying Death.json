@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1350343",
+    "name": "[Phoenix] Defying Death",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic116.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic116.webp",
+        "localPath": "gallery/zzz/Relic116.webp",
+        "sha256": "76cd026a74391eb5591273def231b2cf823f4149cc4db6ec5b8b3fd4c1ab1236",
+        "etag": "\"dlizwhitzhak-2h8\"",
+        "lastModified": "Sat, 19 Sep 2026 04:07:21 GMT",
+        "remoteKey": "etag=\"dlizwhitzhak-2h8\"|lastModified=Sat, 19 Sep 2026 04:07:21 GMT|bytes=3212|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 3212,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic116.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic116.webp",
+        "localPath": "gallery/zzz/Relic116.webp",
+        "sha256": "76cd026a74391eb5591273def231b2cf823f4149cc4db6ec5b8b3fd4c1ab1236",
+        "etag": "\"dlizwhitzhak-2h8\"",
+        "lastModified": "Sat, 19 Sep 2026 04:07:21 GMT",
+        "remoteKey": "etag=\"dlizwhitzhak-2h8\"|lastModified=Sat, 19 Sep 2026 04:07:21 GMT|bytes=3212|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 3212,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic116.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Phoenix] Defying Death"
+    },
+    "detail": {
+      "id": 1350343,
+      "name": "[Phoenix] Defying Death",
+      "desc": "When Phoenix triggers <color=#FFFFFF>Rebirth</color> or uses <color=#FFFFFF>Soul-Searching Blaze</color>, she additionally restores HP equal to <color=#2BAD00>20%</color> of her Max HP. When using <color=#FFFFFF>EX Special Attack: Blazing Slash</color>, she gains 300 Decibels and <color=#2BAD00>increases the Anomaly Proficiency of all Agents in the squad by 60 points</color> for 20s.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic116.png"
+    }
+  }
+}

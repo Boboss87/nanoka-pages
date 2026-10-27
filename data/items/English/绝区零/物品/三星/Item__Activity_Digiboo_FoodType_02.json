@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "463",
+    "name": "Item__Activity_Digiboo_FoodType_02",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconDigibooSnack.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconDigibooSnack.webp",
+        "localPath": "gallery/zzz/IconDigibooSnack.webp",
+        "sha256": "fbf0ad46fd7729dbe36f3c541bd35a506f96d3ef41fc99f4d972ecc9c540ef50",
+        "etag": "\"dld8rg7klcwz-636\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7klcwz-636\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=7890|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7890,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconDigibooSnack.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconDigibooSnack.webp",
+        "localPath": "gallery/zzz/IconDigibooSnack.webp",
+        "sha256": "fbf0ad46fd7729dbe36f3c541bd35a506f96d3ef41fc99f4d972ecc9c540ef50",
+        "etag": "\"dld8rg7klcwz-636\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7klcwz-636\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=7890|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7890,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconDigibooSnack.png",
+      "rank": 3,
+      "class": 1,
+      "name": "Item__Activity_Digiboo_FoodType_02"
+    },
+    "detail": {
+      "id": 463,
+      "name": "Item__Activity_Digiboo_FoodType_02",
+      "desc": "Item__Activity_Digiboo_FoodType_02_Des",
+      "desc2": "\"Smells so good! I want some. Give me some!\"",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconDigibooSnack.png"
+    }
+  }
+}

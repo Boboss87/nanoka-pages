@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4151022",
+    "name": "[Common] Silk",
+    "rarity": "一星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianAttireMaterial04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianAttireMaterial04.webp",
+        "localPath": "gallery/zzz/SuibianAttireMaterial04.webp",
+        "sha256": "def8833e4f5298898e02d4304f1bf9bf4b2255698d7ab8849b937653e6b934b2",
+        "etag": "\"dld8rgoepd3n-5e2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoepd3n-5e2\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6986|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6986,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianAttireMaterial04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianAttireMaterial04.webp",
+        "localPath": "gallery/zzz/SuibianAttireMaterial04.webp",
+        "sha256": "def8833e4f5298898e02d4304f1bf9bf4b2255698d7ab8849b937653e6b934b2",
+        "etag": "\"dld8rgoepd3n-5e2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoepd3n-5e2\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6986|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6986,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianAttireMaterial04.png",
+      "rank": 1,
+      "class": 90,
+      "name": "[Common] Silk"
+    },
+    "detail": {
+      "id": 4151022,
+      "name": "[Common] Silk",
+      "desc": "General materials needed for crafting clothes.",
+      "desc2": "A fine textile woven from silk threads.",
+      "class": {
+        "90": "Resource"
+      },
+      "rarity": 1,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianAttireMaterial04.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4360064",
+    "name": "Aquamarine",
+    "rarity": "五星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_057.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_057.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_057.webp",
+        "sha256": "5ce1cae908f757d854ac5af4169d99267da074bfb587bc90a6507bf4eab28186",
+        "etag": "\"dld8rgr3r4xd-7f4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr3r4xd-7f4\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9616|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9616,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_057.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_057.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_057.webp",
+        "sha256": "5ce1cae908f757d854ac5af4169d99267da074bfb587bc90a6507bf4eab28186",
+        "etag": "\"dld8rgr3r4xd-7f4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr3r4xd-7f4\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9616|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9616,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_057.png",
+      "rank": 5,
+      "class": 130,
+      "name": "Aquamarine"
+    },
+    "detail": {
+      "id": 4360064,
+      "name": "Aquamarine",
+      "desc": "A gemstone cut and polished by \"LionHeart.\" Its clear blue hue reflects a tranquil state of mind. Often seen as a symbol of wisdom.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_057.png"
+    }
+  }
+}

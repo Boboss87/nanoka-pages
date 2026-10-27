@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000983",
+    "name": "[Affinity] Changing Tides",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1051.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1051.webp",
+        "localPath": "gallery/zzz/CardDailyUse1051.webp",
+        "sha256": "c07d61a4b68800321d5fd3917d472c0f0c17ff35743c45b0830c8e358915c226",
+        "etag": "\"dld8rfqcsd81-cfs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqcsd81-cfs\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16120|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16120,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1051.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1051.webp",
+        "localPath": "gallery/zzz/CardDailyUse1051.webp",
+        "sha256": "c07d61a4b68800321d5fd3917d472c0f0c17ff35743c45b0830c8e358915c226",
+        "etag": "\"dld8rfqcsd81-cfs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqcsd81-cfs\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16120|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16120,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1051.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Affinity] Changing Tides"
+    },
+    "detail": {
+      "id": 1000983,
+      "name": "[Affinity] Changing Tides",
+      "desc": "Yidhari has evoked the Mindscape: <color=#FFAF2C>The Past Lost Beneath the Abyss</color>.\nThe Past Lost Beneath the Abyss: The Adrenaline cost to activate Yidhari's <color=#FFFFFF>EX Special Attack</color> is reduced by 10. After using <color=#FFFFFF>EX Special Attack: Frost Coil</color> or <color=#FFFFFF>EX Special Attack: Glacial Crush</color>, keeping hold of the Basic Attack or Special Attack button consumes 35 Adrenaline to forgo healing and immediately chain into another <color=#FFFFFF>EX Special Attack: Glacial Crush</color>. The HP restored by this <color=#FFFFFF>EX Special Attack: Glacial Crush</color> is increased by 100% of the original value. Yidhari's <color=#FFFFFF>Basic Attacks</color> and <color=#FFFFFF>EX Special Attacks</color> ignore 20% of targets' <color=#98EFF0>Ice RES</color>.",
+      "desc2": "Around you, her emotions have always ebbed and flowed like gentle tides, whispering softly only when washing over the shore.\nBut in this moment, you truly sense her feelings surge into silent waves, condensing into a force of immense weight within those rolling swells.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1051.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1330301",
+    "name": "Face of Chaos and Anomalies",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact003.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Artifact003.webp",
+        "localPath": "gallery/zzz/Artifact003.webp",
+        "sha256": "b8408d9ac88be133c4db3a161cee348764e726fd2fff5ae6ac0c88127f59ec19",
+        "etag": "\"dld8rfnxuz4e-7jw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnxuz4e-7jw\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9788|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9788,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact003.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Artifact003.webp",
+        "localPath": "gallery/zzz/Artifact003.webp",
+        "sha256": "b8408d9ac88be133c4db3a161cee348764e726fd2fff5ae6ac0c88127f59ec19",
+        "etag": "\"dld8rfnxuz4e-7jw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnxuz4e-7jw\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9788|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9788,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact003.png",
+      "rank": 4,
+      "class": 81,
+      "name": "Face of Chaos and Anomalies"
+    },
+    "detail": {
+      "id": 1330301,
+      "name": "Face of Chaos and Anomalies",
+      "desc": "All squad members' <color=#CF4029>ATK is reduced by 15%</color>. When Stunning or inflicting Attribute Anomaly on enemies, all squad members' <color=#2BAD00>CRIT DMG is increased by 40%</color>, and <color=#2BAD00>Anomaly Proficiency is increased by 40</color> for 20s. ",
+      "desc2": "",
+      "class": {
+        "81": "HOLLOW ONLY"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact003.png"
+    }
+  }
+}

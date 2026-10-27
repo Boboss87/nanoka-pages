@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3300006",
+    "name": "Sibling Friendship",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard11.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard11.webp",
+        "localPath": "gallery/zzz/Callingcard11.webp",
+        "sha256": "148c362d20a14cd69de277bb0994ac0a2e8674c4458831bd374def18ce998327",
+        "etag": "\"dld8rfppkfmc-894\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfppkfmc-894\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10696|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10696,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard11.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard11.webp",
+        "localPath": "gallery/zzz/Callingcard11.webp",
+        "sha256": "148c362d20a14cd69de277bb0994ac0a2e8674c4458831bd374def18ce998327",
+        "etag": "\"dld8rfppkfmc-894\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfppkfmc-894\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10696|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10696,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard11.png",
+      "rank": 4,
+      "class": 65,
+      "name": "Sibling Friendship"
+    },
+    "detail": {
+      "id": 3300006,
+      "name": "Sibling Friendship",
+      "desc": "A commemorative namecard for the New Eridu City Fund: Premium Plan.",
+      "desc2": "\"I love having snowball fights with Wise! Whoever wins gets to put a snow Bangboo on the other. He always lets me win~\"\n\"The snowballs Belle makes hurt... a lot. I don't know how she manages to make them... Every time I have to quickly surrender to avoid further pain...\"",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard11.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1359025",
+    "name": "\"Ehn-ne\" Roaring Waves Theme",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconWallpaperPiece12.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconWallpaperPiece12.webp",
+        "localPath": "gallery/zzz/IconWallpaperPiece12.webp",
+        "sha256": "170ca8bffbb698f010a664124e99109319db8fa731a1cd96057e167ce4d02091",
+        "etag": "\"dld8rgefojpl-8u0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgefojpl-8u0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11448|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11448,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconWallpaperPiece12.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconWallpaperPiece12.webp",
+        "localPath": "gallery/zzz/IconWallpaperPiece12.webp",
+        "sha256": "170ca8bffbb698f010a664124e99109319db8fa731a1cd96057e167ce4d02091",
+        "etag": "\"dld8rgefojpl-8u0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgefojpl-8u0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11448|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11448,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconWallpaperPiece12.png",
+      "rank": 4,
+      "class": 109,
+      "name": "\"Ehn-ne\" Roaring Waves Theme"
+    },
+    "detail": {
+      "id": 1359025,
+      "name": "\"Ehn-ne\" Roaring Waves Theme",
+      "desc": "\"New Eridu City Fund: Premium Plan\" commemorative theme. Once obtained, it can be equipped and displayed in the Function Menu.",
+      "desc2": "\"Ehn-ne ehn-ne!\" Small in stature, huge in sound!\n! Crank up a blazing wall of sound and let your passion fill the air!",
+      "class": {
+        "109": "THEME"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconWallpaperPiece12.png"
+    }
+  }
+}

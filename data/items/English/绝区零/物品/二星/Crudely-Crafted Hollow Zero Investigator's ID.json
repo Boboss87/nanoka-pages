@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "305007",
+    "name": "Crudely-Crafted Hollow Zero Investigator's ID",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0004.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconQuestItem_Abyss_0004.webp",
+        "localPath": "gallery/zzz/IconQuestItem_Abyss_0004.webp",
+        "sha256": "872ba3e5a53676ef1f83638d23779ab655e68101787ca1a0f958e02f285041b8",
+        "etag": "\"dld8rg7sc047-5hi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7sc047-5hi\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=7110|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7110,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0004.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconQuestItem_Abyss_0004.webp",
+        "localPath": "gallery/zzz/IconQuestItem_Abyss_0004.webp",
+        "sha256": "872ba3e5a53676ef1f83638d23779ab655e68101787ca1a0f958e02f285041b8",
+        "etag": "\"dld8rg7sc047-5hi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7sc047-5hi\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=7110|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7110,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0004.png",
+      "rank": 2,
+      "class": 22,
+      "name": "Crudely-Crafted Hollow Zero Investigator's ID"
+    },
+    "detail": {
+      "id": 305007,
+      "name": "Crudely-Crafted Hollow Zero Investigator's ID",
+      "desc": "An ID card for a Hollow Zero investigator.",
+      "desc2": "Cardholder: Parker.\nThe card has been crudely made, with obvious ghosting on both the name and serial number. It also feels rough around the edges.\nThe outer laminate has scratches and tears in it, and it looks like it was discarded long ago.",
+      "class": {
+        "22": "CLUE ITEM"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0004.png"
+    }
+  }
+}

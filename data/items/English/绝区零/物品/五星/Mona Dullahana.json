@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4360012",
+    "name": "Mona Dullahana",
+    "rarity": "五星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_012.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_012.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_012.webp",
+        "sha256": "2e32c9b8b830019edf3badff9224bec75f143af153595a913e47e5fa3f0453e7",
+        "etag": "\"dld8rgr1deej-766\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr1deej-766\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9294|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9294,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_012.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_012.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_012.webp",
+        "sha256": "2e32c9b8b830019edf3badff9224bec75f143af153595a913e47e5fa3f0453e7",
+        "etag": "\"dld8rgr1deej-766\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr1deej-766\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9294|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9294,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_012.png",
+      "rank": 5,
+      "class": 130,
+      "name": "Mona Dullahana"
+    },
+    "detail": {
+      "id": 4360012,
+      "name": "Mona Dullahana",
+      "desc": "A one-of-a-kind piece by a mysterious artist. Delicate brushwork recasts Dullahan as an elegant noblewoman, while rich layers of color convey both grace and strength. Anyone who sees it can only wonder: \"What the hell is this?\"",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_012.png"
+    }
+  }
+}

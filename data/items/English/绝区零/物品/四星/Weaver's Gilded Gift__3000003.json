@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3000003",
+    "name": "Weaver's Gilded Gift",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CheckinGame25.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CheckinGame25.webp",
+        "localPath": "gallery/zzz/CheckinGame25.webp",
+        "sha256": "4c779a56acf8f8ba2f30c488635cc7d3f893f28017f191fe6c1b942bbffa5a7b",
+        "etag": "\"dld8rfr9j8x2-7ok\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr9j8x2-7ok\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9956|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9956,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CheckinGame25.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CheckinGame25.webp",
+        "localPath": "gallery/zzz/CheckinGame25.webp",
+        "sha256": "4c779a56acf8f8ba2f30c488635cc7d3f893f28017f191fe6c1b942bbffa5a7b",
+        "etag": "\"dld8rfr9j8x2-7ok\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr9j8x2-7ok\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9956|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9956,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CheckinGame25.png",
+      "rank": 4,
+      "class": 61,
+      "name": "Weaver's Gilded Gift"
+    },
+    "detail": {
+      "id": 3000003,
+      "name": "Weaver's Gilded Gift",
+      "desc": "Limited Calendar Gift Box: Activate a 30-day \"Inter-Knot Membership: Festival Edition\" upon claiming.",
+      "desc2": "To celebrate Gilded Carrot Day and thank our members for their continued support, Inter-Knot presents an exclusive member-only custom calendar gift box — rumored to bring good fortune.\nAs this is a festival special edition, the membership duration included with this gift box does not stack with the regular Inter-Knot Membership duration and will be calculated separately.",
+      "class": {
+        "61": "IK MEMBERSHIP"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CheckinGame25.png"
+    }
+  }
+}

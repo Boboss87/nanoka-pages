@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "2100036",
+    "name": "Selectable Resonium Chest",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemCoopEquipPackage.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemCoopEquipPackage.webp",
+        "localPath": "gallery/zzz/ItemCoopEquipPackage.webp",
+        "sha256": "d6ea657dfeaed7ae37e5b5778c5fa674120e7539f0276fd60fad796580fecf55",
+        "etag": "\"dld8rgeg9zcb-728\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgeg9zcb-728\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9152|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9152,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemCoopEquipPackage.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemCoopEquipPackage.webp",
+        "localPath": "gallery/zzz/ItemCoopEquipPackage.webp",
+        "sha256": "d6ea657dfeaed7ae37e5b5778c5fa674120e7539f0276fd60fad796580fecf55",
+        "etag": "\"dld8rgeg9zcb-728\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgeg9zcb-728\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9152|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9152,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemCoopEquipPackage.png",
+      "rank": 3,
+      "class": 52,
+      "name": "Selectable Resonium Chest"
+    },
+    "detail": {
+      "id": 2100036,
+      "name": "Selectable Resonium Chest",
+      "desc": "A Custom Resonium Selection Box. Proxies can choose one Resonium based on their needs.\n<color=#B5B5B5>A customizable Resonium box developed based on the Resonium system. It generates the desired Resonium according to the user's selection.</color>",
+      "desc2": "",
+      "class": {
+        "52": "OPTIONAL GIFT"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemCoopEquipPackage.png"
+    }
+  }
+}

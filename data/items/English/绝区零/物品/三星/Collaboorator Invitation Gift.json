@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "2100032",
+    "name": "Collaboorator Invitation Gift",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/OptionalGift_Bangboo_A_01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/OptionalGift_Bangboo_A_01.webp",
+        "localPath": "gallery/zzz/OptionalGift_Bangboo_A_01.webp",
+        "sha256": "8e495dd3b1a67e4fe8839ae1a92f48e1d069434e5772eb9052b8fd1fb733058b",
+        "etag": "\"dld8rgnuglni-87k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnuglni-87k\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10640|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10640,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/OptionalGift_Bangboo_A_01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/OptionalGift_Bangboo_A_01.webp",
+        "localPath": "gallery/zzz/OptionalGift_Bangboo_A_01.webp",
+        "sha256": "8e495dd3b1a67e4fe8839ae1a92f48e1d069434e5772eb9052b8fd1fb733058b",
+        "etag": "\"dld8rgnuglni-87k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnuglni-87k\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10640|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10640,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/OptionalGift_Bangboo_A_01.png",
+      "rank": 3,
+      "class": 52,
+      "name": "Collaboorator Invitation Gift"
+    },
+    "detail": {
+      "id": 2100032,
+      "name": "Collaboorator Invitation Gift",
+      "desc": "You can select and obtain one of the following A-Rank Bangboo:\nPenguinboo, Exploreboo, Paperboo, Sumoboo, Bagboo, Cryboo, Avocaboo, Boollseye, Electroboo, Magnetiboo, Devilboo, Baddieboo",
+      "desc2": "",
+      "class": {
+        "52": "OPTIONAL GIFT"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/OptionalGift_Bangboo_A_01.png"
+    }
+  }
+}

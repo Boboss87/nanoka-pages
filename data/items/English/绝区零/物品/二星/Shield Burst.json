@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1352024",
+    "name": "Shield Burst",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_0/MechBoo/UnPacker/MechBooModuleIcon15.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/MechBooModuleIcon15.webp",
+        "localPath": "gallery/zzz/MechBooModuleIcon15.webp",
+        "sha256": "7d01a7883f4926a0c728a5bf9f232ec02a3bf7b471b8b5712adfb69172dec478",
+        "etag": "\"dld8rgfb8k57-508\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgfb8k57-508\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6488|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6488,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_0/MechBoo/UnPacker/MechBooModuleIcon15.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/MechBooModuleIcon15.webp",
+        "localPath": "gallery/zzz/MechBooModuleIcon15.webp",
+        "sha256": "7d01a7883f4926a0c728a5bf9f232ec02a3bf7b471b8b5712adfb69172dec478",
+        "etag": "\"dld8rgfb8k57-508\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgfb8k57-508\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6488|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6488,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_0/MechBoo/UnPacker/MechBooModuleIcon15.png",
+      "rank": 2,
+      "class": 94,
+      "name": "Shield Burst"
+    },
+    "detail": {
+      "id": 1352024,
+      "name": "Shield Burst",
+      "desc": "解锁后，可以通过长按大招键发动神罗天征，补满自己的盾，造成AOE伤害，近战大招",
+      "desc2": "",
+      "class": {
+        "94": null
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_0/MechBoo/UnPacker/MechBooModuleIcon15.png"
+    }
+  }
+}

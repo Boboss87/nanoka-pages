@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4101401",
+    "name": "[Sales] Avocaboo - Type I",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooAvocaboo.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBangbooAvocaboo.webp",
+        "localPath": "gallery/zzz/CardBangbooAvocaboo.webp",
+        "sha256": "faf118efa1d4f7311641aa0a408646c028535f99f78773ebdabba42089ef9b5a",
+        "etag": "\"dld8rfq0volu-bhy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq0volu-bhy\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14902|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14902,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooAvocaboo.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBangbooAvocaboo.webp",
+        "localPath": "gallery/zzz/CardBangbooAvocaboo.webp",
+        "sha256": "faf118efa1d4f7311641aa0a408646c028535f99f78773ebdabba42089ef9b5a",
+        "etag": "\"dld8rfq0volu-bhy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq0volu-bhy\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14902|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14902,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooAvocaboo.png",
+      "rank": 3,
+      "class": 88,
+      "name": "[Sales] Avocaboo - Type I"
+    },
+    "detail": {
+      "id": 4101401,
+      "name": "[Sales] Avocaboo - Type I",
+      "desc": "Bangboo who can help craft, sell, or be dispatched on adventures at Suibian Temple.",
+      "desc2": "",
+      "class": {
+        "88": "Deployed Bangboo"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooAvocaboo.png"
+    }
+  }
+}

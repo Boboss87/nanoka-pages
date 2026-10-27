@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1351020",
+    "name": "Water Lily",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver1_7/Flower/UnPacker/SLot3_4.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SLot3_4.webp",
+        "localPath": "gallery/zzz/SLot3_4.webp",
+        "sha256": "85ce1eb23fe9d46bbcd81a2b1b02b7997491777010ac87fa2d5379bb95c21246",
+        "etag": "\"dld8rgocbmkt-7n8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgocbmkt-7n8\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9908|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9908,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver1_7/Flower/UnPacker/SLot3_4.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SLot3_4.webp",
+        "localPath": "gallery/zzz/SLot3_4.webp",
+        "sha256": "85ce1eb23fe9d46bbcd81a2b1b02b7997491777010ac87fa2d5379bb95c21246",
+        "etag": "\"dld8rgocbmkt-7n8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgocbmkt-7n8\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9908|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9908,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver1_7/Flower/UnPacker/SLot3_4.png",
+      "rank": 2,
+      "class": 93,
+      "name": "Water Lily"
+    },
+    "detail": {
+      "id": 1351020,
+      "name": "Water Lily",
+      "desc": "It is a sacred beauty that floats above the earthly realm.",
+      "desc2": "",
+      "class": {
+        "93": "DEW"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver1_7/Flower/UnPacker/SLot3_4.png"
+    }
+  }
+}

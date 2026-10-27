@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1001051",
+    "name": "[Hollow] Hollow Robot",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard35.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard35.webp",
+        "localPath": "gallery/zzz/CardChessboard35.webp",
+        "sha256": "8d153e32b171565606ccb7fe95c522bcea5987997de4e3ce5f4e0a47eb6aabde",
+        "etag": "\"dld8rfqaemp6-a4a\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqaemp6-a4a\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=13114|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13114,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard35.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard35.webp",
+        "localPath": "gallery/zzz/CardChessboard35.webp",
+        "sha256": "8d153e32b171565606ccb7fe95c522bcea5987997de4e3ce5f4e0a47eb6aabde",
+        "etag": "\"dld8rfqaemp6-a4a\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqaemp6-a4a\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=13114|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13114,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard35.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Hollow] Hollow Robot"
+    },
+    "detail": {
+      "id": 1001051,
+      "name": "[Hollow] Hollow Robot",
+      "desc": "Can be used to <color=#2BAD00>place a route for transportation</color>.",
+      "desc2": "A road paving robot designed for transportation in narrow areas. Once a preliminary passageway has been paved, transportation work will be easier moving forward.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard35.png"
+    }
+  }
+}

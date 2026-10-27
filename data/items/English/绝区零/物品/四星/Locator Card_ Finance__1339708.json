@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1339708",
+    "name": "Locator Card: Finance",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact024.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Artifact024.webp",
+        "localPath": "gallery/zzz/Artifact024.webp",
+        "sha256": "c2797e40486e5c85db2b684279a7889b039971713060aaada00bfaa703c8877d",
+        "etag": "\"dld8rfnz1udt-7w8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnz1udt-7w8\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10232|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10232,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact024.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Artifact024.webp",
+        "localPath": "gallery/zzz/Artifact024.webp",
+        "sha256": "c2797e40486e5c85db2b684279a7889b039971713060aaada00bfaa703c8877d",
+        "etag": "\"dld8rfnz1udt-7w8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnz1udt-7w8\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10232|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10232,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact024.png",
+      "rank": 4,
+      "class": 81,
+      "name": "Locator Card: Finance"
+    },
+    "detail": {
+      "id": 1339708,
+      "name": "Locator Card: Finance",
+      "desc": "You can perform <color=#2BAD00>1 Oriented Iteration</color> with Marlene in Friendly Talk to refresh the map to an area map that is <color=#2BAD00>related to Gear Coins</color>.",
+      "desc2": "",
+      "class": {
+        "81": "HOLLOW ONLY"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact024.png"
+    }
+  }
+}

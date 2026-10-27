@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "2090012",
+    "name": "Golden Proxy Awards Trophy",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/GoldProxyTrophy.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/GoldProxyTrophy.webp",
+        "localPath": "gallery/zzz/GoldProxyTrophy.webp",
+        "sha256": "a5832377ec943fe92be7a27ee00e6c72d3d150a1569721b838f8f90f4c73a81b",
+        "etag": "\"dld8rg7542ii-5mk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7542ii-5mk\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=7292|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7292,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/GoldProxyTrophy.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/GoldProxyTrophy.webp",
+        "localPath": "gallery/zzz/GoldProxyTrophy.webp",
+        "sha256": "a5832377ec943fe92be7a27ee00e6c72d3d150a1569721b838f8f90f4c73a81b",
+        "etag": "\"dld8rg7542ii-5mk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7542ii-5mk\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=7292|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7292,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/GoldProxyTrophy.png",
+      "rank": 3,
+      "class": 51,
+      "name": "Golden Proxy Awards Trophy"
+    },
+    "detail": {
+      "id": 2090012,
+      "name": "Golden Proxy Awards Trophy",
+      "desc": "\"Golden Proxy Awards Annual Ceremony\" event exclusive reward; grants 60 Battery Charge upon use.",
+      "desc2": "The glittering trophy represents recognition and approval from friends. Naturally, Fairy and Eous insisted on being in the spotlight — not just during the thrilling live ceremony, but in every moment of reflection that followed.",
+      "class": {
+        "51": "GIFT"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/GoldProxyTrophy.png"
+    }
+  }
+}

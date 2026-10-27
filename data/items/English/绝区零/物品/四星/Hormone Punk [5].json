@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "31445",
+    "name": "Hormone Punk [5]",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitHormonePunk_S.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitHormonePunk_S.webp",
+        "localPath": "gallery/zzz/ItemSuitHormonePunk_S.webp",
+        "sha256": "3cb09683d55594e847503dc74c644cbdd86c081c2d85b34791c86a8e7b9fd74c",
+        "etag": "\"dld8rgeqed2d-70e\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgeqed2d-70e\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9086|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9086,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitHormonePunk_S.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitHormonePunk_S.webp",
+        "localPath": "gallery/zzz/ItemSuitHormonePunk_S.webp",
+        "sha256": "3cb09683d55594e847503dc74c644cbdd86c081c2d85b34791c86a8e7b9fd74c",
+        "etag": "\"dld8rgeqed2d-70e\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgeqed2d-70e\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9086|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9086,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitHormonePunk_S.png",
+      "rank": 4,
+      "class": 7,
+      "name": "Hormone Punk [5]"
+    },
+    "detail": {
+      "id": 31445,
+      "name": "Hormone Punk [5]",
+      "desc": "Equip to increase Agents' combat capabilities",
+      "desc2": "This Drive Disc contains track five from Hormone Punk. The melody that emanates with the rotation of the W-Engine has a euphoric drumming tone.",
+      "class": {
+        "7": "DISK"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitHormonePunk_S.png"
+    }
+  }
+}

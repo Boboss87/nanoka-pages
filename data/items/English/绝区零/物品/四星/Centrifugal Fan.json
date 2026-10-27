@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1343025",
+    "name": "Centrifugal Fan",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardToy10.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardToy10.webp",
+        "localPath": "gallery/zzz/CardToy10.webp",
+        "sha256": "f2584a70ce93667652af35aaa18e1c1f46e9a148b2f4bf8343d1cb857c63203b",
+        "etag": "\"dld8rfr6k2ri-cp2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr6k2ri-cp2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16454|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16454,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardToy10.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardToy10.webp",
+        "localPath": "gallery/zzz/CardToy10.webp",
+        "sha256": "f2584a70ce93667652af35aaa18e1c1f46e9a148b2f4bf8343d1cb857c63203b",
+        "etag": "\"dld8rfr6k2ri-cp2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr6k2ri-cp2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16454|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16454,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardToy10.png",
+      "rank": 4,
+      "class": 86,
+      "name": "Centrifugal Fan"
+    },
+    "detail": {
+      "id": 1343025,
+      "name": "Centrifugal Fan",
+      "desc": "Enemies in the Weaken state will take <color=#FFAF2C>laser DMG</color> once per second. This laser DMG is <color=#FFAF2C>increased by 83%</color>.",
+      "desc2": "",
+      "class": {
+        "86": "BANGBOO RESONIUM"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardToy10.png"
+    }
+  }
+}

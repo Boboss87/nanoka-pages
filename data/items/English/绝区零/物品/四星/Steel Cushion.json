@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "14102",
+    "name": "Steel Cushion",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1021.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_S_1021.webp",
+        "localPath": "gallery/zzz/Weapon_S_1021.webp",
+        "sha256": "e0eded2dec7ff36f55a67067c27bd67694113e0d1b1fe9b162ba772c2e6611ae",
+        "etag": "\"dld8rgpqxj75-uba\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgpqxj75-uba\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=39286|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 39286,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1021.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_S_1021.webp",
+        "localPath": "gallery/zzz/Weapon_S_1021.webp",
+        "sha256": "e0eded2dec7ff36f55a67067c27bd67694113e0d1b1fe9b162ba772c2e6611ae",
+        "etag": "\"dld8rgpqxj75-uba\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgpqxj75-uba\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=39286|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 39286,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1021.png",
+      "rank": 4,
+      "class": 5,
+      "name": "Steel Cushion"
+    },
+    "detail": {
+      "id": 14102,
+      "name": "Steel Cushion",
+      "desc": "Equip to increase Attack Agents' combat capabilities",
+      "desc2": "A supercomputing W-Engine equipped with a motion monitoring feature. Thanks to Nekomata's modifications, it perfectly matches the fast reflexes and combat maneuvers of feline Thirens.",
+      "class": {
+        "5": "W-ENGINE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1021.png"
+    }
+  }
+}

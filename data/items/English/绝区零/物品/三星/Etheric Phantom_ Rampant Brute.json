@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4334208",
+    "name": "Etheric Phantom: Rampant Brute",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_MonsterSkill_011_A.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_MonsterSkill_011_A.webp",
+        "localPath": "gallery/zzz/Zenkov_MonsterSkill_011_A.webp",
+        "sha256": "5cf4230aad235038828b276c8d01e2b140b2771dce97d2b229979161d36a854a",
+        "etag": "\"dld8rgrc37rb-7kq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrc37rb-7kq\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9818|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9818,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_MonsterSkill_011_A.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_MonsterSkill_011_A.webp",
+        "localPath": "gallery/zzz/Zenkov_MonsterSkill_011_A.webp",
+        "sha256": "5cf4230aad235038828b276c8d01e2b140b2771dce97d2b229979161d36a854a",
+        "etag": "\"dld8rgrc37rb-7kq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrc37rb-7kq\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9818|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9818,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_MonsterSkill_011_A.png",
+      "rank": 3,
+      "class": 133,
+      "name": "Etheric Phantom: Rampant Brute"
+    },
+    "detail": {
+      "id": 4334208,
+      "name": "Etheric Phantom: Rampant Brute",
+      "desc": "Use this item to transform into a phantom of the <color=#FFAF2C>Rampant Brute</color>, pulling nearby enemies into the center of a small area. It deals DMG equal to <color=#2BAD00>100%</color>/<color=#2BAD00>30%</color>/<color=#2BAD00>10%</color> of Max HP to normal/elite/boss enemies, respectively, and deals <color=#2BAD00>30%</color> additional DMG to enemies above 50% HP. If it pulls 3 or more enemies, all normal and elite enemies pulled are instantly eliminated.",
+      "desc2": "",
+      "class": {
+        "133": "LABYRINTH"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_MonsterSkill_011_A.png"
+    }
+  }
+}

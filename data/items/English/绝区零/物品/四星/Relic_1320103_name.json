@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1320103",
+    "name": "Relic_1320103_name",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic004.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic004.webp",
+        "localPath": "gallery/zzz/Relic004.webp",
+        "sha256": "f82298784ad64d84d13eacd544e26773af660ffa4b4927ae6f35cca8a4c29017",
+        "etag": "\"dld8rgnz82p6-43m\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnz82p6-43m\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5314|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5314,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic004.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic004.webp",
+        "localPath": "gallery/zzz/Relic004.webp",
+        "sha256": "f82298784ad64d84d13eacd544e26773af660ffa4b4927ae6f35cca8a4c29017",
+        "etag": "\"dld8rgnz82p6-43m\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnz82p6-43m\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5314|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5314,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic004.png",
+      "rank": 4,
+      "class": 80,
+      "name": "Relic_1320103_name"
+    },
+    "detail": {
+      "id": 1320103,
+      "name": "Relic_1320103_name",
+      "desc": "<color=#2BAD00>Decibels limit is increased to 6,000</color> for all squad members.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic004.png"
+    }
+  }
+}

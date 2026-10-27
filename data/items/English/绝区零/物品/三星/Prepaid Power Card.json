@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "511",
+    "name": "Prepaid Power Card",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/HollowHangIcon.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/HollowHangIcon.webp",
+        "localPath": "gallery/zzz/HollowHangIcon.webp",
+        "sha256": "691cbc8c230b60c0e1c8e6faaa6b7d68ee94446ae5ca0edcaa1aa88462ad988d",
+        "etag": "\"dld8rg7838o2-6kq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7838o2-6kq\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=8522|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8522,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/HollowHangIcon.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/HollowHangIcon.webp",
+        "localPath": "gallery/zzz/HollowHangIcon.webp",
+        "sha256": "691cbc8c230b60c0e1c8e6faaa6b7d68ee94446ae5ca0edcaa1aa88462ad988d",
+        "etag": "\"dld8rg7838o2-6kq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7838o2-6kq\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=8522|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8522,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/HollowHangIcon.png",
+      "rank": 3,
+      "class": 2,
+      "name": "Prepaid Power Card"
+    },
+    "detail": {
+      "id": 511,
+      "name": "Prepaid Power Card",
+      "desc": "Complete HDD commissions without meeting the usual first-clear requirements and earn the corresponding rewards. Can also be used for crafting Ether Batteries.",
+      "desc2": "A prepaid power card commonly used in New Eridu. While commissioning Fairy for Hollow exploration will cause high HDD load, this card won't solve the skyrocketing power bills, but it'll save you from a heart attack when it arrives.",
+      "class": {
+        "2": "RESOURCE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/HollowHangIcon.png"
+    }
+  }
+}

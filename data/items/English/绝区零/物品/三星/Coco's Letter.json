@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "411",
+    "name": "Coco's Letter",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Activity_RunLetter03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Activity_RunLetter03.webp",
+        "localPath": "gallery/zzz/Activity_RunLetter03.webp",
+        "sha256": "9996a3a03ca27d67db17e3dcfd1a3b5ed46c4e17c881d851c3bd5934b1fa73a9",
+        "etag": "\"dld8rfnwo3uy-6j0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnwo3uy-6j0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8460|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8460,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Activity_RunLetter03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Activity_RunLetter03.webp",
+        "localPath": "gallery/zzz/Activity_RunLetter03.webp",
+        "sha256": "9996a3a03ca27d67db17e3dcfd1a3b5ed46c4e17c881d851c3bd5934b1fa73a9",
+        "etag": "\"dld8rfnwo3uy-6j0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnwo3uy-6j0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8460|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8460,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Activity_RunLetter03.png",
+      "rank": 3,
+      "class": 1,
+      "name": "Coco's Letter"
+    },
+    "detail": {
+      "id": 411,
+      "name": "Coco's Letter",
+      "desc": "A token from the teamilk store. Give it to Sjal during the 141 Friendship Fair event in exchange for rewards.",
+      "desc2": "\"141\" Convenience Store x Richard Teamilk Collaboration — Enjoy the Rich Flavor Anytime, Anywhere!",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Activity_RunLetter03.png"
+    }
+  }
+}

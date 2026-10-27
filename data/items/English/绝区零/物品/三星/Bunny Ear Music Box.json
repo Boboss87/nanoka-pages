@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1343022",
+    "name": "Bunny Ear Music Box",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardToy02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardToy02.webp",
+        "localPath": "gallery/zzz/CardToy02.webp",
+        "sha256": "6425e7833b60d65f319d35d4ddd72a1d253aefc997d8e5ba9d97a0355d43f367",
+        "etag": "\"dld8rfr5d7i3-cwa\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr5d7i3-cwa\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16714|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16714,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardToy02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardToy02.webp",
+        "localPath": "gallery/zzz/CardToy02.webp",
+        "sha256": "6425e7833b60d65f319d35d4ddd72a1d253aefc997d8e5ba9d97a0355d43f367",
+        "etag": "\"dld8rfr5d7i3-cwa\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr5d7i3-cwa\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16714|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16714,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardToy02.png",
+      "rank": 3,
+      "class": 86,
+      "name": "Bunny Ear Music Box"
+    },
+    "detail": {
+      "id": 1343022,
+      "name": "Bunny Ear Music Box",
+      "desc": "\"Dreamland Equipment\" Glimmering Whiskers's <color=#FFAF2C>PEN Ratio increases by 20%</color> per Rank. When triggering an Anomaly or Stunning an enemy, Enhanced Energy Beam's duration <color=#FFAF2C>increases by 0.34s per Rank</color>.\nWhen enemies suffer an Attribute Anomaly or are Stunned, Tully will use Enhanced Energy Beam.",
+      "desc2": "",
+      "class": {
+        "86": "BANGBOO RESONIUM"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardToy02.png"
+    }
+  }
+}

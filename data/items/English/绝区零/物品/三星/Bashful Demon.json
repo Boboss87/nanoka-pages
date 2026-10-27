@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "13113",
+    "name": "Bashful Demon",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_1131.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_A_1131.webp",
+        "localPath": "gallery/zzz/Weapon_A_1131.webp",
+        "sha256": "cbf3b602caddf22978a39105da864a588df6479fcd5850253dd82c77bf88a10f",
+        "etag": "\"dld8rgp1xapc-v14\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgp1xapc-v14\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=40216|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 40216,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_1131.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_A_1131.webp",
+        "localPath": "gallery/zzz/Weapon_A_1131.webp",
+        "sha256": "cbf3b602caddf22978a39105da864a588df6479fcd5850253dd82c77bf88a10f",
+        "etag": "\"dld8rgp1xapc-v14\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgp1xapc-v14\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=40216|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 40216,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_1131.png",
+      "rank": 3,
+      "class": 5,
+      "name": "Bashful Demon"
+    },
+    "detail": {
+      "id": 13113,
+      "name": "Bashful Demon",
+      "desc": "Equip to increase Support Agents' combat capabilities",
+      "desc2": "An intricate W-Engine developed by Section 6 and later modified with extra features. It can control Ether particles to form an energy field. This model is favored by Soukaku.",
+      "class": {
+        "5": "W-ENGINE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_1131.png"
+    }
+  }
+}

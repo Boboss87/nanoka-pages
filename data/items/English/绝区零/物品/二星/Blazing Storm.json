@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1352014",
+    "name": "Blazing Storm",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_0/MechBoo/UnPacker/MechBooModuleIcon11.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/MechBooModuleIcon11.webp",
+        "localPath": "gallery/zzz/MechBooModuleIcon11.webp",
+        "sha256": "8da262b5f61423f8ea7bb854299d90e45fd0df63089f8cf65b23b2df878bacbc",
+        "etag": "\"dld8rgfb8k57-4gy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgfb8k57-4gy\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5794|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5794,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_0/MechBoo/UnPacker/MechBooModuleIcon11.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/MechBooModuleIcon11.webp",
+        "localPath": "gallery/zzz/MechBooModuleIcon11.webp",
+        "sha256": "8da262b5f61423f8ea7bb854299d90e45fd0df63089f8cf65b23b2df878bacbc",
+        "etag": "\"dld8rgfb8k57-4gy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgfb8k57-4gy\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5794|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5794,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_0/MechBoo/UnPacker/MechBooModuleIcon11.png",
+      "rank": 2,
+      "class": 94,
+      "name": "Blazing Storm"
+    },
+    "detail": {
+      "id": 1352014,
+      "name": "Blazing Storm",
+      "desc": "解锁后，玩家在远程形态可以使用喷火器",
+      "desc2": "",
+      "class": {
+        "94": null
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_0/MechBoo/UnPacker/MechBooModuleIcon11.png"
+    }
+  }
+}

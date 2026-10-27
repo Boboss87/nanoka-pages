@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1343503",
+    "name": "Shadow Serpent",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconEndlessSummerSurfboard03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconEndlessSummerSurfboard03.webp",
+        "localPath": "gallery/zzz/IconEndlessSummerSurfboard03.webp",
+        "sha256": "861d884912fa324ba5d7f2076eee1e0919e394e604dcb2155d7c721c84b116d5",
+        "etag": "\"dld8rg7mdnt4-5tq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7mdnt4-5tq\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=7550|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7550,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconEndlessSummerSurfboard03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconEndlessSummerSurfboard03.webp",
+        "localPath": "gallery/zzz/IconEndlessSummerSurfboard03.webp",
+        "sha256": "861d884912fa324ba5d7f2076eee1e0919e394e604dcb2155d7c721c84b116d5",
+        "etag": "\"dld8rg7mdnt4-5tq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7mdnt4-5tq\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=7550|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7550,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconEndlessSummerSurfboard03.png",
+      "rank": 4,
+      "class": 97,
+      "name": "Shadow Serpent"
+    },
+    "detail": {
+      "id": 1343503,
+      "name": "Shadow Serpent",
+      "desc": "A board that <color=#FA7000>bypasses the negative effects</color> of special barriers and speed reduction zones.\nTop Speed (km/h): 212\nCruise Speed (km/h): 115",
+      "desc2": "",
+      "class": {
+        "97": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconEndlessSummerSurfboard03.png"
+    }
+  }
+}

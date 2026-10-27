@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1350173",
+    "name": "[Banyue] Scorching Karma",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic053.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic053.webp",
+        "localPath": "gallery/zzz/Relic053.webp",
+        "sha256": "ed0445295066141288c31550ff596e951878ed2325142ac13c84efa473b47b50",
+        "etag": "\"dld8rgo2sohg-3w6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo2sohg-3w6\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5046|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5046,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic053.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic053.webp",
+        "localPath": "gallery/zzz/Relic053.webp",
+        "sha256": "ed0445295066141288c31550ff596e951878ed2325142ac13c84efa473b47b50",
+        "etag": "\"dld8rgo2sohg-3w6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo2sohg-3w6\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5046|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5046,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic053.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Banyue] Scorching Karma"
+    },
+    "detail": {
+      "id": 1350173,
+      "name": "[Banyue] Scorching Karma",
+      "desc": "For each 1 Energy or Adrenaline other squad members consume, if Banyue is not in <color=#FFFFFF>Visage of Wrath</color> state, he will recover 0.3 <color=#FFFFFF>Wrathful Fires</color>. With at least 120 <color=#FFFFFF>Wrathful Fires</color>, Banyue's next switch-in will directly trigger <color=#FFFFFF>Quick Assist</color>. When coming on-field through this method with at least 120 <color=#FFFFFF>Wrathful Fires</color>, Banyue immediately enters <color=#FFFFFF>Visage of Wrath</color> state and increases his <color=#FF5521>Fire DMG</color> by <color=#2BAD00>60%</color> for 20s.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic053.png"
+    }
+  }
+}

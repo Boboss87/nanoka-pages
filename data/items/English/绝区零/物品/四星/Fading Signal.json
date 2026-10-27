@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "117",
+    "name": "Fading Signal",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/GachaPoint3.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/GachaPoint3.webp",
+        "localPath": "gallery/zzz/GachaPoint3.webp",
+        "sha256": "141f7755784f0c5acee8b1eec7bbf9361668309655a076294180deefb4557332",
+        "etag": "\"dld8rg7542ii-87a\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7542ii-87a\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10630|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10630,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/GachaPoint3.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/GachaPoint3.webp",
+        "localPath": "gallery/zzz/GachaPoint3.webp",
+        "sha256": "141f7755784f0c5acee8b1eec7bbf9361668309655a076294180deefb4557332",
+        "etag": "\"dld8rg7542ii-87a\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7542ii-87a\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10630|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10630,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/GachaPoint3.png",
+      "rank": 4,
+      "class": 1,
+      "name": "Fading Signal"
+    },
+    "detail": {
+      "id": 117,
+      "name": "Fading Signal",
+      "desc": "Can be exchanged for valuable items in the Signal Shop.",
+      "desc2": "When converting Signals, fragments of residual echoes are collected, resembling murmurs, making it difficult to distinguish their meanings. Even though recording and assembling them can be very difficult, if achievable, some additional information can still be extracted from them.",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/GachaPoint3.png"
+    }
+  }
+}

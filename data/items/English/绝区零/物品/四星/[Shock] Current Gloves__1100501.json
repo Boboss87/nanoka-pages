@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1100501",
+    "name": "[Shock] Current Gloves",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardElectro03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardElectro03.webp",
+        "localPath": "gallery/zzz/CardElectro03.webp",
+        "sha256": "259567c26e9c3900cac30ed32faa018331c435ef48277771529d53c7f2011967",
+        "etag": "\"dld8rfql4g1y-dua\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfql4g1y-dua\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17938|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17938,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardElectro03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardElectro03.webp",
+        "localPath": "gallery/zzz/CardElectro03.webp",
+        "sha256": "259567c26e9c3900cac30ed32faa018331c435ef48277771529d53c7f2011967",
+        "etag": "\"dld8rfql4g1y-dua\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfql4g1y-dua\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17938|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17938,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardElectro03.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Shock] Current Gloves"
+    },
+    "detail": {
+      "id": 1100501,
+      "name": "[Shock] Current Gloves",
+      "desc": "<color=#2EB6FF>Shock</color> DMG increases by <color=#2BAD00>75%</color>.",
+      "desc2": "Gloves that release a shocking voltage. Remember what these gloves look like, and be careful when shaking hands.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardElectro03.png"
+    }
+  }
+}

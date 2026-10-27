@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000208",
+    "name": "[Energy] Sharp Smile",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardEDrink01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardEDrink01.webp",
+        "localPath": "gallery/zzz/CardEDrink01.webp",
+        "sha256": "af78c52dfd2ef782c221de73418814a242e623ffb4dbc22c2bcf2e2ba00fe2f1",
+        "etag": "\"dld8rfqjxksj-cf2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqjxksj-cf2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16094|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16094,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardEDrink01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardEDrink01.webp",
+        "localPath": "gallery/zzz/CardEDrink01.webp",
+        "sha256": "af78c52dfd2ef782c221de73418814a242e623ffb4dbc22c2bcf2e2ba00fe2f1",
+        "etag": "\"dld8rfqjxksj-cf2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqjxksj-cf2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16094|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16094,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardEDrink01.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[Energy] Sharp Smile"
+    },
+    "detail": {
+      "id": 1000208,
+      "name": "[Energy] Sharp Smile",
+      "desc": "Basic Attack Energy Generation Rate increases by <color=#2BAD00>20%</color>.",
+      "desc2": "No additives and sugar free. Who wouldn't love a combo like this?",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardEDrink01.png"
+    }
+  }
+}

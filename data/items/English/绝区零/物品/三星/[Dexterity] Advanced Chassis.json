@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1310201",
+    "name": "[Dexterity] Advanced Chassis",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardZone01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardZone01.webp",
+        "localPath": "gallery/zzz/CardZone01.webp",
+        "sha256": "ebd2146c5033026eb44feaf55179640c4daebf196ec00b256c2eb9d3a07b9925",
+        "etag": "\"dld8rfr8cdnn-dvm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr8cdnn-dvm\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17986|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17986,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardZone01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardZone01.webp",
+        "localPath": "gallery/zzz/CardZone01.webp",
+        "sha256": "ebd2146c5033026eb44feaf55179640c4daebf196ec00b256c2eb9d3a07b9925",
+        "etag": "\"dld8rfr8cdnn-dvm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr8cdnn-dvm\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17986|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17986,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardZone01.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Dexterity] Advanced Chassis"
+    },
+    "detail": {
+      "id": 1310201,
+      "name": "[Dexterity] Advanced Chassis",
+      "desc": "The Agent <color=#2BAD00>gains an extra dodge</color>. Their <color=#2BAD00>ATK increases by 300</color> for 5s when a <color=#FFFFFF>Dodge Counter</color> is triggered.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardZone01.png"
+    }
+  }
+}

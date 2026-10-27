@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1350082",
+    "name": "[Yixuan] Resonance of the Spirit",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic036.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic036.webp",
+        "localPath": "gallery/zzz/Relic036.webp",
+        "sha256": "ab661c24b13896fcf2126c000a01c129eafef6177eb399c449d4b5200399eabe",
+        "etag": "\"dld8rgo0exym-4di\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo0exym-4di\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5670|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5670,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic036.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic036.webp",
+        "localPath": "gallery/zzz/Relic036.webp",
+        "sha256": "ab661c24b13896fcf2126c000a01c129eafef6177eb399c449d4b5200399eabe",
+        "etag": "\"dld8rgo0exym-4di\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo0exym-4di\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5670|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5670,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic036.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Yixuan] Resonance of the Spirit"
+    },
+    "detail": {
+      "id": 1350082,
+      "name": "[Yixuan] Resonance of the Spirit",
+      "desc": "Replace Quick Assist with EX Special Attack: Qingming Eruption - Break. When Basic Attack: Qingming Eruption hits an enemy or after launching EX Special Attack and Ultimate, Yixuan's <color=#2BAD00>Sheer DMG additionally increases by 20%</color>, stacking up to 3 times and lasting 12s. Repeated triggers reset the duration.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic036.png"
+    }
+  }
+}

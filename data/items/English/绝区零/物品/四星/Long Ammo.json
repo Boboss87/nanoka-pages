@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1343507",
+    "name": "Long Ammo",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconEndlessSummerMagazine03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconEndlessSummerMagazine03.webp",
+        "localPath": "gallery/zzz/IconEndlessSummerMagazine03.webp",
+        "sha256": "a0a29ad4dee0209c11106c7e4429c1a6914188993dfd969b18074765ec79bb11",
+        "etag": "\"dld8rg7ls86e-69c\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7ls86e-69c\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=8112|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8112,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconEndlessSummerMagazine03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconEndlessSummerMagazine03.webp",
+        "localPath": "gallery/zzz/IconEndlessSummerMagazine03.webp",
+        "sha256": "a0a29ad4dee0209c11106c7e4429c1a6914188993dfd969b18074765ec79bb11",
+        "etag": "\"dld8rg7ls86e-69c\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7ls86e-69c\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=8112|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8112,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconEndlessSummerMagazine03.png",
+      "rank": 4,
+      "class": 97,
+      "name": "Long Ammo"
+    },
+    "detail": {
+      "id": 1343507,
+      "name": "Long Ammo",
+      "desc": "Type: Attacks entire row or column, target-piercing\nHit Radius: Large\nRoF: Slow\nCapacity: 8\nActive Skill: The next shot is fired sideways with greatly increased coverage",
+      "desc2": "",
+      "class": {
+        "97": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconEndlessSummerMagazine03.png"
+    }
+  }
+}

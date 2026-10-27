@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4360107",
+    "name": "Porcelume Plate Decor · Solitary Bloom",
+    "rarity": "五星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 5,
+      "class": 130,
+      "name": "Porcelume Plate Decor · Solitary Bloom"
+    },
+    "detail": {
+      "id": 4360107,
+      "name": "Porcelume Plate Decor · Solitary Bloom",
+      "desc": "A Porcelume plate fired from Lumite ore with refined fire essence — a Waifei Peninsula cultural specialty, Buyan-certified. It's recommended for display only, but they say any herbal tea served in it cools you down and clears the heat even better.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": ""
+    }
+  }
+}

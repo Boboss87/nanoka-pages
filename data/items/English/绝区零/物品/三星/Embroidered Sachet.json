@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1340075",
+    "name": "Embroidered Sachet",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard63.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard63.webp",
+        "localPath": "gallery/zzz/CardChessboard63.webp",
+        "sha256": "32020605ee56a6e1c253578a1fd9234a3f4ccf2b9a6a4599f2ada70d8ec3c05a",
+        "etag": "\"dld8rfqblhyl-9ue\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqblhyl-9ue\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=12758|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12758,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard63.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard63.webp",
+        "localPath": "gallery/zzz/CardChessboard63.webp",
+        "sha256": "32020605ee56a6e1c253578a1fd9234a3f4ccf2b9a6a4599f2ada70d8ec3c05a",
+        "etag": "\"dld8rfqblhyl-9ue\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqblhyl-9ue\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=12758|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12758,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard63.png",
+      "rank": 3,
+      "class": 31,
+      "name": "Embroidered Sachet"
+    },
+    "detail": {
+      "id": 1340075,
+      "name": "Embroidered Sachet",
+      "desc": "When an Agent is attacked by a monster's Miasma Corruption attack, the accumulated <color=#FFAF2C>Miasma Contamination</color> value reduces by 20%.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard63.png"
+    }
+  }
+}

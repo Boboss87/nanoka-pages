@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "400018",
+    "name": "Integrated Supply II",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill12.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivePropsSkill12.webp",
+        "localPath": "gallery/zzz/ActivePropsSkill12.webp",
+        "sha256": "22c7a86c8c771797ea333bc35f6d9c2ee1861c77b1dce151ea559293bcff99bd",
+        "etag": "\"dld8rfnvh8lj-3f6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnvh8lj-3f6\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=4434|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4434,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill12.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivePropsSkill12.webp",
+        "localPath": "gallery/zzz/ActivePropsSkill12.webp",
+        "sha256": "22c7a86c8c771797ea333bc35f6d9c2ee1861c77b1dce151ea559293bcff99bd",
+        "etag": "\"dld8rfnvh8lj-3f6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnvh8lj-3f6\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=4434|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4434,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill12.png",
+      "rank": 2,
+      "class": 15,
+      "name": "Integrated Supply II"
+    },
+    "detail": {
+      "id": 400018,
+      "name": "Integrated Supply II",
+      "desc": "<color=#2BAD00>Fully restores all members' HP</color>, <color=#2BAD00>removes all traps</color>, and <color=#2BAD00>obtain 1 random Resonium</color>.",
+      "desc2": "This multi-functional supply plug-in provides a large amount of Recovery Medicine and Detection Devices... and even a Resonium!",
+      "class": {
+        "15": "HOLLOW ITEM"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill12.png"
+    }
+  }
+}

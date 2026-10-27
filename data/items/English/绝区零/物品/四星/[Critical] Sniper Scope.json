@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000301",
+    "name": "[Critical] Sniper Scope",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGun06.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardGun06.webp",
+        "localPath": "gallery/zzz/CardGun06.webp",
+        "sha256": "064d9e4d38e04ae29d9d939e647a237986d1bc46ab3cb60362ca08fd8acb1fcb",
+        "etag": "\"dld8rfqop1u8-cdw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqop1u8-cdw\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16052|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16052,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGun06.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardGun06.webp",
+        "localPath": "gallery/zzz/CardGun06.webp",
+        "sha256": "064d9e4d38e04ae29d9d939e647a237986d1bc46ab3cb60362ca08fd8acb1fcb",
+        "etag": "\"dld8rfqop1u8-cdw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqop1u8-cdw\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16052|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16052,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGun06.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Critical] Sniper Scope"
+    },
+    "detail": {
+      "id": 1000301,
+      "name": "[Critical] Sniper Scope",
+      "desc": "Landing a critical hit increases the Agent's CRIT DMG by <color=#2BAD00>4%</color> for 10s, stacking up to 10 times. Repeated triggers reset the duration.",
+      "desc2": "Take it easy. Aim and then shoot. If you miss, it's because you are in too much of a hurry.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGun06.png"
+    }
+  }
+}

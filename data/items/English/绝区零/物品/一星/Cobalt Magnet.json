@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4151003",
+    "name": "Cobalt Magnet",
+    "rarity": "一星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianProspectingMaterial01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianProspectingMaterial01.webp",
+        "localPath": "gallery/zzz/SuibianProspectingMaterial01.webp",
+        "sha256": "ff60d89510f5d3a85104a0f34dfb1875731dc8ed13010ff62c6ab3505b7de278",
+        "etag": "\"dld8rgofw8d2-5cs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgofw8d2-5cs\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6940|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6940,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianProspectingMaterial01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianProspectingMaterial01.webp",
+        "localPath": "gallery/zzz/SuibianProspectingMaterial01.webp",
+        "sha256": "ff60d89510f5d3a85104a0f34dfb1875731dc8ed13010ff62c6ab3505b7de278",
+        "etag": "\"dld8rgofw8d2-5cs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgofw8d2-5cs\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6940|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6940,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianProspectingMaterial01.png",
+      "rank": 1,
+      "class": 90,
+      "name": "Cobalt Magnet"
+    },
+    "detail": {
+      "id": 4151003,
+      "name": "Cobalt Magnet",
+      "desc": "Materials needed for crafting the Ether Compass.",
+      "desc2": "A high-performance permanent magnetic material resistant to high temperatures.",
+      "class": {
+        "90": "Resource"
+      },
+      "rarity": 1,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianProspectingMaterial01.png"
+    }
+  }
+}

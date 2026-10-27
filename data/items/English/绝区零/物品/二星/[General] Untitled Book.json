@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1310916",
+    "name": "[General] Untitled Book",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard50.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard50.webp",
+        "localPath": "gallery/zzz/CardChessboard50.webp",
+        "sha256": "40e2230dfc693e46f63b4866cb582fc946fd6ff63af57b70335b6ce88d4b313d",
+        "etag": "\"dld8rfqb02bw-9ua\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqb02bw-9ua\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=12754|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12754,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard50.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard50.webp",
+        "localPath": "gallery/zzz/CardChessboard50.webp",
+        "sha256": "40e2230dfc693e46f63b4866cb582fc946fd6ff63af57b70335b6ce88d4b313d",
+        "etag": "\"dld8rfqb02bw-9ua\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqb02bw-9ua\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=12754|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12754,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard50.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[General] Untitled Book"
+    },
+    "detail": {
+      "id": 1310916,
+      "name": "[General] Untitled Book",
+      "desc": "<color=#FFFFFF>Dodge Counter</color> <color=#2BAD00>DMG increases by 30%</color> and <color=#2BAD00>Daze inflicted increases by 15%</color>.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard50.png"
+    }
+  }
+}

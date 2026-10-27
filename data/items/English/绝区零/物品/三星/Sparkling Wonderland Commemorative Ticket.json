@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "2090019",
+    "name": "Sparkling Wonderland Commemorative Ticket",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ZZZFesTicket_Mark.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ZZZFesTicket_Mark.webp",
+        "localPath": "gallery/zzz/ZZZFesTicket_Mark.webp",
+        "sha256": "7768cfc845b40c4f49dd52cfdbffde23c28ee79c0f69403d1d5b9f6ea5ed7f2e",
+        "etag": "\"dld8rgr06j54-7ge\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr06j54-7ge\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9662|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9662,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ZZZFesTicket_Mark.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ZZZFesTicket_Mark.webp",
+        "localPath": "gallery/zzz/ZZZFesTicket_Mark.webp",
+        "sha256": "7768cfc845b40c4f49dd52cfdbffde23c28ee79c0f69403d1d5b9f6ea5ed7f2e",
+        "etag": "\"dld8rgr06j54-7ge\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr06j54-7ge\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9662|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9662,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ZZZFesTicket_Mark.png",
+      "rank": 3,
+      "class": 20,
+      "name": "Sparkling Wonderland Commemorative Ticket"
+    },
+    "detail": {
+      "id": 2090019,
+      "name": "Sparkling Wonderland Commemorative Ticket",
+      "desc": "The commemorative reward for 2025 Zenless Zone Zero FES.",
+      "desc2": "While hard at work on Inter-Knot commissions and tirelessly saving New Eridu, pulling out this old ticket stub brings back the wild rhythm that once set your heart pounding.\n\"Welcome to New Eridu — Where Humanity Rises Anew!\"",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ZZZFesTicket_Mark.png"
+    }
+  }
+}

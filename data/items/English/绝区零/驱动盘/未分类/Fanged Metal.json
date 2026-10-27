@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "equipment",
+    "pageFolder": "驱动盘",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/equipment.json",
+    "sourcePath": "3.3.12+19634983/equipment.json",
+    "sourceLocale": null,
+    "localeMode": "embedded",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/equipment/32600.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "32600",
+    "name": "Fanged Metal",
+    "rarity": "未分类",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitFangedMetal.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitFangedMetal.webp",
+        "localPath": "gallery/zzz/SuitFangedMetal.webp",
+        "sha256": "de9deb6e3444d9f049f6443a2056186fa0ec0c9199d5786331c6879db277c97d",
+        "etag": "\"dld8rgon1fxl-86a\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgon1fxl-86a\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10594|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10594,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitFangedMetal.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitFangedMetal.webp",
+        "localPath": "gallery/zzz/SuitFangedMetal.webp",
+        "sha256": "de9deb6e3444d9f049f6443a2056186fa0ec0c9199d5786331c6879db277c97d",
+        "etag": "\"dld8rgon1fxl-86a\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgon1fxl-86a\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10594|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10594,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon2",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitFangedMetal.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitFangedMetal.webp",
+        "localPath": "gallery/zzz/SuitFangedMetal.webp",
+        "sha256": "de9deb6e3444d9f049f6443a2056186fa0ec0c9199d5786331c6879db277c97d",
+        "etag": "\"dld8rgon1fxl-86a\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgon1fxl-86a\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10594|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10594,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitFangedMetal.png",
+      "en": {
+        "name": "Fanged Metal",
+        "desc2": "<color=#F0D12B>Physical DMG</color> +10%",
+        "desc4": "Whenever a squad member inflicts <color=#F0D12B>Assault</color> on an enemy, the equipper deals 35% additional DMG to the target for 12s."
+      },
+      "ko": {
+        "name": "송곳니 메탈",
+        "desc2": "<color=#F0D12B>물리 피해</color>+10%",
+        "desc4": "파티 내 임의의 캐릭터가 적에게 <color=#F0D12B>[강타]</color> 효과 부여 시 착용자가 타깃에게 주는 피해가 35% 증가한다. 지속 시간: 12초"
+      },
+      "zh": {
+        "name": "獠牙重金属",
+        "desc2": "<color=#F0D12B>物理伤害</color>+10%。",
+        "desc4": "队伍中任意角色对敌人施加<color=#F0D12B>[强击]</color>效果时，装备者对目标造成的伤害提升35%，持续12秒。"
+      },
+      "ja": {
+        "name": "獣牙のヘヴィメタル",
+        "desc2": "<color=#F0D12B>物理属性ダメージ</color>+10%。",
+        "desc4": "任意のメンバーが敵に<color=#F0D12B>[強撃]</color>効果を付与した時、装備者がターゲットに与えるダメージ+35%、継続時間12秒。"
+      }
+    },
+    "detail": {
+      "id": 32600,
+      "name": "Fanged Metal",
+      "desc2": "<color=#F0D12B>Physical DMG</color> +10%",
+      "desc4": "Whenever a squad member inflicts <color=#F0D12B>Assault</color> on an enemy, the equipper deals 35% additional DMG to the target for 12s.",
+      "story": "A Drive Disc burned with specialized Ether technology offering personalized attribute amplification to the user.",
+      "icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitFangedMetal.png",
+      "icon2": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitFangedMetal.png"
+    }
+  }
+}

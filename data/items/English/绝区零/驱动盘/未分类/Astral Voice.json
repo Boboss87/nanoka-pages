@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "equipment",
+    "pageFolder": "驱动盘",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/equipment.json",
+    "sourcePath": "3.3.12+19634983/equipment.json",
+    "sourceLocale": null,
+    "localeMode": "embedded",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/equipment/32800.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "32800",
+    "name": "Astral Voice",
+    "rarity": "未分类",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitAstralVoice.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitAstralVoice.webp",
+        "localPath": "gallery/zzz/SuitAstralVoice.webp",
+        "sha256": "c38bbd1ceb7f81b52ecf5c7ceef0e3031c5ae4bb59f6a1b5e6b84d51a20df0c7",
+        "etag": "\"dld8rgomg0av-8lq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgomg0av-8lq\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11150|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11150,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitAstralVoice.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitAstralVoice.webp",
+        "localPath": "gallery/zzz/SuitAstralVoice.webp",
+        "sha256": "c38bbd1ceb7f81b52ecf5c7ceef0e3031c5ae4bb59f6a1b5e6b84d51a20df0c7",
+        "etag": "\"dld8rgomg0av-8lq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgomg0av-8lq\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11150|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11150,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon2",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitAstralVoice.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitAstralVoice.webp",
+        "localPath": "gallery/zzz/SuitAstralVoice.webp",
+        "sha256": "c38bbd1ceb7f81b52ecf5c7ceef0e3031c5ae4bb59f6a1b5e6b84d51a20df0c7",
+        "etag": "\"dld8rgomg0av-8lq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgomg0av-8lq\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11150|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11150,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitAstralVoice.png",
+      "en": {
+        "name": "Astral Voice",
+        "desc2": "ATK +10%",
+        "desc4": "Whenever any squad member enters the field using a <color=#FFFFFF>Quick Assist</color>, all squad members gain 1 stack of <color=#FFFFFF>Astral</color>, up to a maximum of 3 stacks, and lasting 15s. Repeated triggers reset the duration. Each stack of <color=#FFFFFF>Astral</color> increases the DMG dealt by the character entering the field using a <color=#FFFFFF>Quick Assist</color> by 8%. Passive effects of the same name do not stack."
+      },
+      "ko": {
+        "name": "고요 속의 별",
+        "desc2": "공격력+10%",
+        "desc4": "파티 내 임의의 캐릭터가 <color=#FFFFFF>[빠른 지원]</color>을 통해 전장에 진입할 경우, 파티 내 모든 캐릭터가 <color=#FFFFFF>[별]</color>을 1스택 획득한다. 최대 중첩: 3스택, 지속 시간: 15초, 중복 발동 시 지속 시간이 갱신되며, <color=#FFFFFF>[별]</color>을 1스택 보유할 때마다 <color=#FFFFFF>[빠른 지원]</color>으로 전장에 진입하는 캐릭터가 주는 피해가 8% 증가한다. 이름이 같은 패시브 효과끼리 중첩되지 않는다."
+      },
+      "zh": {
+        "name": "静听嘉音",
+        "desc2": "攻击力+10%。",
+        "desc4": "队伍中任意角色通过<color=#FFFFFF>[快速支援]</color>入场时，全队角色获得1层<color=#FFFFFF>[嘉音]</color>，最多叠加3层，持续15秒，重复触发时刷新持续时间，每拥有1层<color=#FFFFFF>[嘉音]</color>，通过<color=#FFFFFF>[快速支援]</color>入场的角色造成的伤害提升8%，同名被动效果之间不可叠加。"
+      },
+      "ja": {
+        "name": "静寂のアストラ",
+        "desc2": "攻撃力+10%。",
+        "desc4": "任意のメンバーが<color=#FFFFFF>『クイック支援』</color>で出場した時、メンバー全員が<color=#FFFFFF>「天籟」</color>を1重獲得する。最大3重まで重ね掛け可能、継続時間15秒、重複して発動すると継続時間が更新される。<color=#FFFFFF>「天籟」</color>1重につき、<color=#FFFFFF>『クイック支援』</color>で出場したメンバーの与ダメージ+8%、同じパッシブ効果は重ね掛け不可。"
+      }
+    },
+    "detail": {
+      "id": 32800,
+      "name": "Astral Voice",
+      "desc2": "ATK +10%",
+      "desc4": "Whenever any squad member enters the field using a <color=#FFFFFF>Quick Assist</color>, all squad members gain 1 stack of <color=#FFFFFF>Astral</color>, up to a maximum of 3 stacks, and lasting 15s. Repeated triggers reset the duration. Each stack of <color=#FFFFFF>Astral</color> increases the DMG dealt by the character entering the field using a <color=#FFFFFF>Quick Assist</color> by 8%. Passive effects of the same name do not stack.",
+      "story": "Drive Discs made by a Hollow Raider and Astra Yao fan that record a signature motif in Astra's works. Meanwhile, on the back, the Hollow Raider's own story is printed there.",
+      "icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitAstralVoice.png",
+      "icon2": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitAstralVoice.png"
+    }
+  }
+}

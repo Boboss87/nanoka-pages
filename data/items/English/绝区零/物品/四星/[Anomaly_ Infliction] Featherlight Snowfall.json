@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1360104",
+    "name": "[Anomaly: Infliction] Featherlight Snowfall",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic071.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic071.webp",
+        "localPath": "gallery/zzz/Relic071.webp",
+        "sha256": "aa0f4316a6afea3cc3d8395e8dedc6a0dc3dc889caab01695f8756c3e4558e2d",
+        "etag": "\"dld8rgo3zjqv-4ho\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo3zjqv-4ho\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5820|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5820,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic071.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic071.webp",
+        "localPath": "gallery/zzz/Relic071.webp",
+        "sha256": "aa0f4316a6afea3cc3d8395e8dedc6a0dc3dc889caab01695f8756c3e4558e2d",
+        "etag": "\"dld8rgo3zjqv-4ho\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo3zjqv-4ho\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5820|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5820,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic071.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Anomaly: Infliction] Featherlight Snowfall"
+    },
+    "detail": {
+      "id": 1360104,
+      "name": "[Anomaly: Infliction] Featherlight Snowfall",
+      "desc": "<color=#FFFFFF>Auxiliary Assist</color>: Vivian accumulates Energy over time.With enough energy, press Auxiliary Assist to summon Vivian to launch an <color=#FFFFFF>Auxiliary Assist</color> attack on enemies. Upon hitting enemies affected by Attribute Anomaly, inflicts the <color=#FFFFFF>Abloom</color> effect on them and <color=#2BAD00>an additional instance of Attribute Anomaly DMG</color> at a ratio based on the original Attribute Anomaly DMG of <color=#FE437E>6,129%</color> / <color=#2EB6FF>3,040%</color> / <color=#FF5521>7,600%</color> / <color=#F0D12B>533%</color>/<color=#98EFF0>760%</color>/<color=#A6C5FD>304%</color>.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic071.png"
+    }
+  }
+}

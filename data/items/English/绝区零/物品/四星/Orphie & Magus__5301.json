@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "5301",
+    "name": "Orphie & Magus",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece48.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece48.webp",
+        "localPath": "gallery/zzz/IconRolePiece48.webp",
+        "sha256": "0a8b62e16c0022c14603d532d62538763668cb7b0b7cdcb32168f2deabfc6b06",
+        "etag": "\"dld8rgdermlk-8kg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgdermlk-8kg\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11104|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11104,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece48.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece48.webp",
+        "localPath": "gallery/zzz/IconRolePiece48.webp",
+        "sha256": "0a8b62e16c0022c14603d532d62538763668cb7b0b7cdcb32168f2deabfc6b06",
+        "etag": "\"dld8rgdermlk-8kg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgdermlk-8kg\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11104|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11104,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece48.png",
+      "rank": 4,
+      "class": 4,
+      "name": "Orphie & Magus"
+    },
+    "detail": {
+      "id": 5301,
+      "name": "Orphie & Magus",
+      "desc": "Used to unlock Agent's Mindscape Cinema",
+      "desc2": "Snapshots from Orphie & Magus's daily life and from in combat, recording important moments before and after they became an Agent.\nThese images also provide insights into their fighting style and favorite weapons, helping to better understand their strengths.\n\nThe picture is of Orphie, asleep and hugging Magus, also in sleep mode. Looking closer, the edges of this photo seem to be charred...",
+      "class": {
+        "4": "AGENT ARCHIVE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece48.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1001046",
+    "name": "[Bundle Code] Bug Shield",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard43.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard43.webp",
+        "localPath": "gallery/zzz/CardChessboard43.webp",
+        "sha256": "2c3654aad5c84b78d33f0b5e0c4108d9e6f8a159fa16975ae17148da172150a1",
+        "etag": "\"dld8rfqaemp6-axy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqaemp6-axy\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14182|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14182,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard43.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard43.webp",
+        "localPath": "gallery/zzz/CardChessboard43.webp",
+        "sha256": "2c3654aad5c84b78d33f0b5e0c4108d9e6f8a159fa16975ae17148da172150a1",
+        "etag": "\"dld8rfqaemp6-axy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqaemp6-axy\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14182|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14182,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard43.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Bundle Code] Bug Shield"
+    },
+    "detail": {
+      "id": 1001046,
+      "name": "[Bundle Code] Bug Shield",
+      "desc": "Gives the selected Bangboo a new skill: <color=#2BAD00>Negate the first DMG received in each round</color>.",
+      "desc2": "Gift code given to players who took part in the initial test, as a token of appreciation for their enthusiastic ratings and honest feedback.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard43.png"
+    }
+  }
+}

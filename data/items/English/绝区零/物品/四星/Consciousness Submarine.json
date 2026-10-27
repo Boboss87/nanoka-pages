@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1343030",
+    "name": "Consciousness Submarine",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardToy08.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardToy08.webp",
+        "localPath": "gallery/zzz/CardToy08.webp",
+        "sha256": "c43e6f0c3fffecbf0cf28625cdd37987c3f2441062cf892e12ac689113921b7d",
+        "etag": "\"dld8rfr5yn4t-cus\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr5yn4t-cus\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16660|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16660,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardToy08.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardToy08.webp",
+        "localPath": "gallery/zzz/CardToy08.webp",
+        "sha256": "c43e6f0c3fffecbf0cf28625cdd37987c3f2441062cf892e12ac689113921b7d",
+        "etag": "\"dld8rfr5yn4t-cus\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr5yn4t-cus\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16660|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16660,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardToy08.png",
+      "rank": 4,
+      "class": 86,
+      "name": "Consciousness Submarine"
+    },
+    "detail": {
+      "id": 1343030,
+      "name": "Consciousness Submarine",
+      "desc": "While \"Dreamland Equipment\" Glimmering Whiskers is firing, \"Dreamland Equipment\" Meteor Blazing Gun's <color=#FFAF2C>fire rate doubles</color>. This buff ends 2 seconds after stopping firing.",
+      "desc2": "",
+      "class": {
+        "86": "BANGBOO RESONIUM"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardToy08.png"
+    }
+  }
+}

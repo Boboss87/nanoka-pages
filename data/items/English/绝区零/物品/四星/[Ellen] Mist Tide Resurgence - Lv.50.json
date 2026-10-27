@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4326021",
+    "name": "[Ellen] Mist Tide Resurgence - Lv.50",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_002.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_002.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_002.webp",
+        "sha256": "0ae428070235ef2343a8a6b5cd98ea66f945dedbf762bf8392e84b3c9c1a28e4",
+        "etag": "\"dld8rgrdvinf-6kw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrdvinf-6kw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8528|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8528,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_002.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_002.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_002.webp",
+        "sha256": "0ae428070235ef2343a8a6b5cd98ea66f945dedbf762bf8392e84b3c9c1a28e4",
+        "etag": "\"dld8rgrdvinf-6kw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrdvinf-6kw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8528|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8528,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_002.png",
+      "rank": 4,
+      "class": 132,
+      "name": "[Ellen] Mist Tide Resurgence - Lv.50"
+    },
+    "detail": {
+      "id": 4326021,
+      "name": "[Ellen] Mist Tide Resurgence - Lv.50",
+      "desc": "Ellen's exclusive Tactical Prism.\nWhile Roaming is active, the Cacophony Soundscape's Corruption is reduced to 70% of its original value.\nWhen Ellen uses an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>, she <color=#2BAD00>leaves Icy Mist on the ground</color>, dealing continuous <color=#98EFF0>Ice DMG</color> for 15s. Agents inside <color=#FFFFFF>Icy Mist</color> gain <color=#2BAD00>increased Anti-Interrupt Level</color> and take <color=#2BAD00>30% less DMG</color>. These effects persist for 5s after leaving <color=#FFFFFF>Icy Mist</color>. When Ellen hits an enemy inside <color=#FFFFFF>Icy Mist</color>, <color=#FFFFFF>Icy Mist</color> deals one additional instance of DMG.",
+      "desc2": "",
+      "class": {
+        "132": "LABYRINTH"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_002.png"
+    }
+  }
+}

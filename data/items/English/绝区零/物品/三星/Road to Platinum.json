@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3301031",
+    "name": "Road to Platinum",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CallingcardActivityCollaboration08.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CallingcardActivityCollaboration08.webp",
+        "localPath": "gallery/zzz/CallingcardActivityCollaboration08.webp",
+        "sha256": "92ed5fcf43ae774134affa991e50738eac6dad73db1543ddaf42f87137d39e53",
+        "etag": "\"dld8rfpw47k5-7t2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpw47k5-7t2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10118|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10118,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CallingcardActivityCollaboration08.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CallingcardActivityCollaboration08.webp",
+        "localPath": "gallery/zzz/CallingcardActivityCollaboration08.webp",
+        "sha256": "92ed5fcf43ae774134affa991e50738eac6dad73db1543ddaf42f87137d39e53",
+        "etag": "\"dld8rfpw47k5-7t2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpw47k5-7t2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10118|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10118,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CallingcardActivityCollaboration08.png",
+      "rank": 3,
+      "class": 65,
+      "name": "Road to Platinum"
+    },
+    "detail": {
+      "id": 3301031,
+      "name": "Road to Platinum",
+      "desc": "\"Zenless Zone Zero Collector's Edition Physical Gift Box\" commemorative namecard.",
+      "desc2": "Every story along the way is worth remembering. That's why we keep chasing that final Platinum Trophy.",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CallingcardActivityCollaboration08.png"
+    }
+  }
+}

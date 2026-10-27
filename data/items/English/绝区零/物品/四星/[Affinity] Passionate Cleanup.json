@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000955",
+    "name": "[Affinity] Passionate Cleanup",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1061.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1061.webp",
+        "localPath": "gallery/zzz/CardDailyUse1061.webp",
+        "sha256": "0b361d690f81976e2f7fe70c03978b152a4e46a5f7602c542aff838e88c96487",
+        "etag": "\"dld8rfqeko45-c0g\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqeko45-c0g\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15568|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15568,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1061.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1061.webp",
+        "localPath": "gallery/zzz/CardDailyUse1061.webp",
+        "sha256": "0b361d690f81976e2f7fe70c03978b152a4e46a5f7602c542aff838e88c96487",
+        "etag": "\"dld8rfqeko45-c0g\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqeko45-c0g\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15568|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15568,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1061.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Affinity] Passionate Cleanup"
+    },
+    "detail": {
+      "id": 1000955,
+      "name": "[Affinity] Passionate Cleanup",
+      "desc": "Corin has evoked the Mindscape: <color=#FFAF2C>[Accumulated Release]</color>.\nAccumulated Release: When Corin's extended slash hits an enemy, she obtains a stack of Charge (max 40 stacks).\nDuring a <color=#FFFFFF>Dodge Counter</color>, <color=#FFFFFF>Special Attack</color>, <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Quick Assist</color>, or <color=#FFFFFF>Assist Follow-Up</color>, when her chainsaw detonation hits an enemy, consumes all stacks of Charge. Each stack consumed causes the attack to deal an additional 3% of ATK as DMG.",
+      "desc2": "With the uplifting effects of genuine compliments and rejuvenating sleep, Corin is now brimming with enthusiasm, even in her spirited \"Sorry!\"",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1061.png"
+    }
+  }
+}

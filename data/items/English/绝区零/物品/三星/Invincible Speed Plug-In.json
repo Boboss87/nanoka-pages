@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1353004",
+    "name": "Invincible Speed Plug-In",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MonsterFantasy_Item_Data_4.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/MonsterFantasy_Item_Data_4.webp",
+        "localPath": "gallery/zzz/MonsterFantasy_Item_Data_4.webp",
+        "sha256": "90e81cdb84dc2dbdbaff4403feaf624d17b44521a4467ca96d3fd806d7977b53",
+        "etag": "\"dld8rgkwhbd5-7cy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgkwhbd5-7cy\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9538|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9538,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MonsterFantasy_Item_Data_4.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/MonsterFantasy_Item_Data_4.webp",
+        "localPath": "gallery/zzz/MonsterFantasy_Item_Data_4.webp",
+        "sha256": "90e81cdb84dc2dbdbaff4403feaf624d17b44521a4467ca96d3fd806d7977b53",
+        "etag": "\"dld8rgkwhbd5-7cy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgkwhbd5-7cy\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9538|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9538,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MonsterFantasy_Item_Data_4.png",
+      "rank": 3,
+      "class": 101,
+      "name": "Invincible Speed Plug-In"
+    },
+    "detail": {
+      "id": 1353004,
+      "name": "Invincible Speed Plug-In",
+      "desc": "The fastest ally gains full starting Energy.",
+      "desc2": "",
+      "class": {
+        "101": "AUXILIARY PLUG-IN"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MonsterFantasy_Item_Data_4.png"
+    }
+  }
+}

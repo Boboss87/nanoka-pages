@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1342502",
+    "name": "\"Dreamland Equipment\" Fireworks Dual Box",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardTech03.webp",
+        "localPath": "gallery/zzz/CardTech03.webp",
+        "sha256": "976418d58964f077f0774686d46e439d0d7ada19dd6e683ec7602a1150ce288b",
+        "etag": "\"dld8rfr3kwlz-d8c\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr3kwlz-d8c\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17148|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17148,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardTech03.webp",
+        "localPath": "gallery/zzz/CardTech03.webp",
+        "sha256": "976418d58964f077f0774686d46e439d0d7ada19dd6e683ec7602a1150ce288b",
+        "etag": "\"dld8rfr3kwlz-d8c\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr3kwlz-d8c\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17148|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17148,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech03.png",
+      "rank": 4,
+      "class": 85,
+      "name": "\"Dreamland Equipment\" Fireworks Dual Box"
+    },
+    "detail": {
+      "id": 1342502,
+      "name": "\"Dreamland Equipment\" Fireworks Dual Box",
+      "desc": "Missile pods that can be installed on Tully's shoulders that will launch <color=#E48600>auto-tracking missiles</color> that automatically fire a small number of missiles at intervals during combat.\n\nWhen an Agent activates their <color=#E48600>EX Special Attack</color>, it will use <color=#E48600>Maximum Firepower</color> to launch a massive missile barrage.\n\nCan be upgraded using <color=#E48600>Shadow Pursuit Dreamland Resonium</color> obtained from the <color=#E48600>modification workshop</color>.",
+      "desc2": "",
+      "class": {
+        "85": "BANGBOO GEAR"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech03.png"
+    }
+  }
+}

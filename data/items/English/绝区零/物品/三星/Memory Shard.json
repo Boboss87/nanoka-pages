@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "123",
+    "name": "Memory Shard",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/HarumasaActivityToken.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/HarumasaActivityToken.webp",
+        "localPath": "gallery/zzz/HarumasaActivityToken.webp",
+        "sha256": "c3f45df619f70f56fef9926b57f0e7cbc685449fdfa97450d1528354a629ccb3",
+        "etag": "\"dld8rg7838o2-8ya\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7838o2-8ya\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11602|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11602,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/HarumasaActivityToken.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/HarumasaActivityToken.webp",
+        "localPath": "gallery/zzz/HarumasaActivityToken.webp",
+        "sha256": "c3f45df619f70f56fef9926b57f0e7cbc685449fdfa97450d1528354a629ccb3",
+        "etag": "\"dld8rg7838o2-8ya\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7838o2-8ya\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11602|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11602,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/HarumasaActivityToken.png",
+      "rank": 3,
+      "class": 1,
+      "name": "Memory Shard"
+    },
+    "detail": {
+      "id": 123,
+      "name": "Memory Shard",
+      "desc": "Obtain from the limited-time event \"Windchaser Harumasa.\"\nUsed to redeem special rewards in the event.",
+      "desc2": "That is the scar after the wound healed, it is the badge of all his past experiences.",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/HarumasaActivityToken.png"
+    }
+  }
+}

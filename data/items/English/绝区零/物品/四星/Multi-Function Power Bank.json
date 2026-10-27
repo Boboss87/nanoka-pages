@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4231002",
+    "name": "Multi-Function Power Bank",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialGeneralA_1.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovMaterialGeneralA_1.webp",
+        "localPath": "gallery/zzz/BangkovMaterialGeneralA_1.webp",
+        "sha256": "6e755383d6a63549b5a27363f708bba019a10923951edb081bca256ebf568433",
+        "etag": "\"dld8rfpml9gs-5qs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpml9gs-5qs\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7444|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7444,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialGeneralA_1.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovMaterialGeneralA_1.webp",
+        "localPath": "gallery/zzz/BangkovMaterialGeneralA_1.webp",
+        "sha256": "6e755383d6a63549b5a27363f708bba019a10923951edb081bca256ebf568433",
+        "etag": "\"dld8rfpml9gs-5qs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpml9gs-5qs\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7444|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7444,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialGeneralA_1.png",
+      "rank": 4,
+      "class": 123,
+      "name": "Multi-Function Power Bank"
+    },
+    "detail": {
+      "id": 4231002,
+      "name": "Multi-Function Power Bank",
+      "desc": "A themed portable charging device from Bootopia.",
+      "desc2": "BKItem_4231002_Story",
+      "class": {
+        "123": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialGeneralA_1.png"
+    }
+  }
+}

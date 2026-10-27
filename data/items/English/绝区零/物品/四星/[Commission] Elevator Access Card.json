@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4360099",
+    "name": "[Commission] Elevator Access Card",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Key_007.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Key_007.webp",
+        "localPath": "gallery/zzz/Zenkov_Key_007.webp",
+        "sha256": "49ff6b8b175b2db330ede7415c20541d8a6cb51882f8f278a4a4e12f6a781917",
+        "etag": "\"dld8rgr6qb2x-6vg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr6qb2x-6vg\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8908|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8908,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Key_007.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Key_007.webp",
+        "localPath": "gallery/zzz/Zenkov_Key_007.webp",
+        "sha256": "49ff6b8b175b2db330ede7415c20541d8a6cb51882f8f278a4a4e12f6a781917",
+        "etag": "\"dld8rgr6qb2x-6vg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr6qb2x-6vg\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8908|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8908,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Key_007.png",
+      "rank": 4,
+      "class": 130,
+      "name": "[Commission] Elevator Access Card"
+    },
+    "detail": {
+      "id": 4360099,
+      "name": "[Commission] Elevator Access Card",
+      "desc": "Opens the large elevator to the Lower Level of Suburbs Illusion. The back of the card appears to list the booking hotline for Bunless Bae Town's logistics company, Hops and Skips...",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Key_007.png"
+    }
+  }
+}

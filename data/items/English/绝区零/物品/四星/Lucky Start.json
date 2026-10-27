@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3300002",
+    "name": "Lucky Start",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard03.webp",
+        "localPath": "gallery/zzz/Callingcard03.webp",
+        "sha256": "50654f70f9b292fd5bbe7a7b534e5337fa407a90fec2122caa1b2d5cd7bc1b7f",
+        "etag": "\"dld8rfppkfmc-7py\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfppkfmc-7py\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10006|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10006,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard03.webp",
+        "localPath": "gallery/zzz/Callingcard03.webp",
+        "sha256": "50654f70f9b292fd5bbe7a7b534e5337fa407a90fec2122caa1b2d5cd7bc1b7f",
+        "etag": "\"dld8rfppkfmc-7py\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfppkfmc-7py\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10006|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10006,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard03.png",
+      "rank": 4,
+      "class": 65,
+      "name": "Lucky Start"
+    },
+    "detail": {
+      "id": 3300002,
+      "name": "Lucky Start",
+      "desc": "A commemorative namecard for the New Eridu City Fund: Premium Plan.",
+      "desc2": "Howl is waiting for you — go across the street to pick up a little luck and start your day in New Eridu!",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard03.png"
+    }
+  }
+}

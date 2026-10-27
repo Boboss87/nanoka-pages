@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000311",
+    "name": "[Critical] Laser Scope",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGun11.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardGun11.webp",
+        "localPath": "gallery/zzz/CardGun11.webp",
+        "sha256": "0c81dc956e8f3558bf568e2c6aef08673e4820fa55f9ad1690f014a81580d0ac",
+        "etag": "\"dld8rfqqhcqc-buw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqqhcqc-buw\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15368|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15368,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGun11.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardGun11.webp",
+        "localPath": "gallery/zzz/CardGun11.webp",
+        "sha256": "0c81dc956e8f3558bf568e2c6aef08673e4820fa55f9ad1690f014a81580d0ac",
+        "etag": "\"dld8rfqqhcqc-buw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqqhcqc-buw\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15368|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15368,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGun11.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[Critical] Laser Scope"
+    },
+    "detail": {
+      "id": 1000311,
+      "name": "[Critical] Laser Scope",
+      "desc": "Each non-critical hit increases the Agent's CRIT Rate by <color=#2BAD00>3%</color>. This effect is reset after the Agent triggers a critical hit.",
+      "desc2": "Precise, and with clear intent.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGun11.png"
+    }
+  }
+}

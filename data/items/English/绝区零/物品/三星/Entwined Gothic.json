@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1342112",
+    "name": "Entwined Gothic",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/RiduBoo/RiduBooItemIcon/UnPacker/RidubooPart_011_Scarf.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RidubooPart_011_Scarf.webp",
+        "localPath": "gallery/zzz/RidubooPart_011_Scarf.webp",
+        "sha256": "269d1c167c282b3934bc06c6a3ef7c60f6db9828b5dd610747ae64f55c538f1c",
+        "etag": "\"dld8rgo6ypwf-2uo\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo6ypwf-2uo\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=3696|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 3696,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/RiduBoo/RiduBooItemIcon/UnPacker/RidubooPart_011_Scarf.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RidubooPart_011_Scarf.webp",
+        "localPath": "gallery/zzz/RidubooPart_011_Scarf.webp",
+        "sha256": "269d1c167c282b3934bc06c6a3ef7c60f6db9828b5dd610747ae64f55c538f1c",
+        "etag": "\"dld8rgo6ypwf-2uo\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo6ypwf-2uo\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=3696|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 3696,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/RiduBoo/RiduBooItemIcon/UnPacker/RidubooPart_011_Scarf.png",
+      "rank": 3,
+      "class": 84,
+      "name": "Entwined Gothic"
+    },
+    "detail": {
+      "id": 1342112,
+      "name": "Entwined Gothic",
+      "desc": "\"Eous, Eous, what happens if you don't have a scarf?\"\n\"En-nah... (It'll expose the water hole...)\"\n\"Sorry, I'll polish it for you again...\"",
+      "desc2": "",
+      "class": {
+        "84": "BANGBOO EXTRAS"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/RiduBoo/RiduBooItemIcon/UnPacker/RidubooPart_011_Scarf.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1191",
+    "name": "Ellen",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece21.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece21.webp",
+        "localPath": "gallery/zzz/IconRolePiece21.webp",
+        "sha256": "a5083c8a99546c0a07f94f7c0a2979e1e33669b5be3feb74c64738b5958e3571",
+        "etag": "\"dld8rgde66yv-8a6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgde66yv-8a6\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10734|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10734,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece21.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece21.webp",
+        "localPath": "gallery/zzz/IconRolePiece21.webp",
+        "sha256": "a5083c8a99546c0a07f94f7c0a2979e1e33669b5be3feb74c64738b5958e3571",
+        "etag": "\"dld8rgde66yv-8a6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgde66yv-8a6\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10734|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10734,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece21.png",
+      "rank": 4,
+      "class": 3,
+      "name": "Ellen"
+    },
+    "detail": {
+      "id": 1191,
+      "name": "Ellen",
+      "desc": "Use it to obtain the Agent or unlock the Agent's Mindscapes.",
+      "desc2": "Snapshots from Ellen's daily life and from in combat, recording important moments before and after she became an Agent.\nThese images also provide insights into her fighting style and favorite weapons, helping to better understand her strengths.\n\nEllen looks serious and a little stiff. Some of her poses... look as though other girls from her school had a hand in coaching her.",
+      "class": {
+        "3": "AGENT"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece21.png"
+    }
+  }
+}

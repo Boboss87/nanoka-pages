@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1359017",
+    "name": "Starlight Knight Flying Kick Theme",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconWallpaperPiece08.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconWallpaperPiece08.webp",
+        "localPath": "gallery/zzz/IconWallpaperPiece08.webp",
+        "sha256": "bc05886d099d72b8613bfc0507e3b7ca81f174e5561f4e729c3ee32332380987",
+        "etag": "\"dld8rgeehog6-8lm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgeehog6-8lm\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11146|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11146,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconWallpaperPiece08.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconWallpaperPiece08.webp",
+        "localPath": "gallery/zzz/IconWallpaperPiece08.webp",
+        "sha256": "bc05886d099d72b8613bfc0507e3b7ca81f174e5561f4e729c3ee32332380987",
+        "etag": "\"dld8rgeehog6-8lm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgeehog6-8lm\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11146|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11146,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconWallpaperPiece08.png",
+      "rank": 4,
+      "class": 109,
+      "name": "Starlight Knight Flying Kick Theme"
+    },
+    "detail": {
+      "id": 1359017,
+      "name": "Starlight Knight Flying Kick Theme",
+      "desc": "\"New Eridu City Fund: Premium Plan\" commemorative theme. Once obtained, it can be equipped and displayed in the Function Menu.",
+      "desc2": "The starlit hero will take out enemies with the most impressive moves!",
+      "class": {
+        "109": "THEME"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconWallpaperPiece08.png"
+    }
+  }
+}

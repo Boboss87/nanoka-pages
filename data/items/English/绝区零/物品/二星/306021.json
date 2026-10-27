@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "306021",
+    "name": "306021",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/ItemIcon/UnPacker/IconParts.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconParts.webp",
+        "localPath": "gallery/zzz/IconParts.webp",
+        "sha256": "9ecb00493177db62e4fb948fef629bd820f90421e141360f3a62574dcf275774",
+        "etag": "\"dld8rg7qjp82-2u2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7qjp82-2u2\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=3674|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 3674,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/ItemIcon/UnPacker/IconParts.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconParts.webp",
+        "localPath": "gallery/zzz/IconParts.webp",
+        "sha256": "9ecb00493177db62e4fb948fef629bd820f90421e141360f3a62574dcf275774",
+        "etag": "\"dld8rg7qjp82-2u2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7qjp82-2u2\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=3674|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 3674,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/ItemIcon/UnPacker/IconParts.png",
+      "rank": 2,
+      "class": 22,
+      "name": ""
+    },
+    "detail": {
+      "id": 306021,
+      "name": "",
+      "desc": "",
+      "desc2": "",
+      "class": {
+        "22": "CLUE ITEM"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/ItemIcon/UnPacker/IconParts.png"
+    }
+  }
+}

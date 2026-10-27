@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "54015",
+    "name": "Snap",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece30.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconBangbooPiece30.webp",
+        "localPath": "gallery/zzz/IconBangbooPiece30.webp",
+        "sha256": "f00f5f76fa063a8b173d833669f108f7c8bb5ea07167d57ed9b3f1cd243fef6d",
+        "etag": "\"dld8rg7cuppr-8ac\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7cuppr-8ac\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10740|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10740,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece30.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconBangbooPiece30.webp",
+        "localPath": "gallery/zzz/IconBangbooPiece30.webp",
+        "sha256": "f00f5f76fa063a8b173d833669f108f7c8bb5ea07167d57ed9b3f1cd243fef6d",
+        "etag": "\"dld8rg7cuppr-8ac\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7cuppr-8ac\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10740|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10740,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece30.png",
+      "rank": 4,
+      "class": 8,
+      "name": "Snap"
+    },
+    "detail": {
+      "id": 54015,
+      "name": "Snap",
+      "desc": "Obtain this Bangboo model or authorization to perform the Bangboo's core update.",
+      "desc2": "Its flash only shines for true superstars.",
+      "class": {
+        "8": "BANGBOO"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece30.png"
+    }
+  }
+}

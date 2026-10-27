@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1351010",
+    "name": "Caramel Dream",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver1_7/Flower/UnPacker/SLot2_7.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SLot2_7.webp",
+        "localPath": "gallery/zzz/SLot2_7.webp",
+        "sha256": "c9eb6bc5206dcaec6d23b4b9408d94c0b394bc11af1ed9a9d485786b5d94b608",
+        "etag": "\"dld8rgobq6y3-ba0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgobq6y3-ba0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=14616|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14616,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver1_7/Flower/UnPacker/SLot2_7.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SLot2_7.webp",
+        "localPath": "gallery/zzz/SLot2_7.webp",
+        "sha256": "c9eb6bc5206dcaec6d23b4b9408d94c0b394bc11af1ed9a9d485786b5d94b608",
+        "etag": "\"dld8rgobq6y3-ba0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgobq6y3-ba0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=14616|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14616,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver1_7/Flower/UnPacker/SLot2_7.png",
+      "rank": 2,
+      "class": 93,
+      "name": "Caramel Dream"
+    },
+    "detail": {
+      "id": 1351010,
+      "name": "Caramel Dream",
+      "desc": "Caramel Dream makes one feel as though they are immersed in the sweetness of a fairy tale.",
+      "desc2": "",
+      "class": {
+        "93": "DEW"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver1_7/Flower/UnPacker/SLot2_7.png"
+    }
+  }
+}

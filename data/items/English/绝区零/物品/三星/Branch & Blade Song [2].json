@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "32732",
+    "name": "Branch & Blade Song [2]",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitBranch&BladeSong_A.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitBranch&BladeSong_A.webp",
+        "localPath": "gallery/zzz/ItemSuitBranch&BladeSong_A.webp",
+        "sha256": "bc4a9e0c156327c0dae5fc8d35904ac5f65eede18abecdbbc642e086da93f33d",
+        "etag": "\"dld8rgel1gdz-7ie\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgel1gdz-7ie\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9734|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9734,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitBranch&BladeSong_A.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitBranch&BladeSong_A.webp",
+        "localPath": "gallery/zzz/ItemSuitBranch&BladeSong_A.webp",
+        "sha256": "bc4a9e0c156327c0dae5fc8d35904ac5f65eede18abecdbbc642e086da93f33d",
+        "etag": "\"dld8rgel1gdz-7ie\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgel1gdz-7ie\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9734|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9734,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitBranch&BladeSong_A.png",
+      "rank": 3,
+      "class": 7,
+      "name": "Branch & Blade Song [2]"
+    },
+    "detail": {
+      "id": 32732,
+      "name": "Branch & Blade Song [2]",
+      "desc": "Equip to increase Agents' combat capabilities",
+      "desc2": "\"West he went, now mature, where the croaks of frogs occupy the walls. A single strike sends astonishment through the crowds, for what they once knew was merely the stars they could see from the bottom of a well.\"",
+      "class": {
+        "7": "DISK"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitBranch&BladeSong_A.png"
+    }
+  }
+}

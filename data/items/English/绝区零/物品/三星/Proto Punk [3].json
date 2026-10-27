@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "31933",
+    "name": "Proto Punk [3]",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitProtoPunk_A.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitProtoPunk_A.webp",
+        "localPath": "gallery/zzz/ItemSuitProtoPunk_A.webp",
+        "sha256": "3189502959fc8a2c7872c025f775892474cf4a8771d75951f62412f18d5fcbe6",
+        "etag": "\"dld8rgess3l7-77y\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgess3l7-77y\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9358|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9358,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitProtoPunk_A.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitProtoPunk_A.webp",
+        "localPath": "gallery/zzz/ItemSuitProtoPunk_A.webp",
+        "sha256": "3189502959fc8a2c7872c025f775892474cf4a8771d75951f62412f18d5fcbe6",
+        "etag": "\"dld8rgess3l7-77y\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgess3l7-77y\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9358|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9358,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitProtoPunk_A.png",
+      "rank": 3,
+      "class": 7,
+      "name": "Proto Punk [3]"
+    },
+    "detail": {
+      "id": 31933,
+      "name": "Proto Punk [3]",
+      "desc": "Equip to increase Agents' combat capabilities",
+      "desc2": "This Drive Disc contains track three from Proto Punk. The melody that emanates with the rotation of the W-engine is purely wild.",
+      "class": {
+        "7": "DISK"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitProtoPunk_A.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1311005",
+    "name": "[Mobile] Kids' Lunchbox",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardSwitch05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardSwitch05.webp",
+        "localPath": "gallery/zzz/CardSwitch05.webp",
+        "sha256": "b38580269c28d8e6261cd0235ccd9d8668a69374d0f9f2665f31598fb649976f",
+        "etag": "\"dld8rfr2zgz9-e0w\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr2zgz9-e0w\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=18176|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 18176,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardSwitch05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardSwitch05.webp",
+        "localPath": "gallery/zzz/CardSwitch05.webp",
+        "sha256": "b38580269c28d8e6261cd0235ccd9d8668a69374d0f9f2665f31598fb649976f",
+        "etag": "\"dld8rfr2zgz9-e0w\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr2zgz9-e0w\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=18176|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 18176,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardSwitch05.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[Mobile] Kids' Lunchbox"
+    },
+    "detail": {
+      "id": 1311005,
+      "name": "[Mobile] Kids' Lunchbox",
+      "desc": "The active character's <color=#2BAD00>Energy Generation Rate increases by 10% and Decibel Generation Rate increases by 10%</color>.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardSwitch05.png"
+    }
+  }
+}

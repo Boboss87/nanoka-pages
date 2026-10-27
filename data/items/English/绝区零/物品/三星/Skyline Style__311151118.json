@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "311151118",
+    "name": "Skyline Style",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A5DynamicLoad/PlayerAccessory/UnPacker/icon_Belle_Back_Pendant_Default.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Belle_Back_Pendant_Default.webp",
+        "localPath": "gallery/zzz/icon_Belle_Back_Pendant_Default.webp",
+        "sha256": "dc1eb0e1958d0e46f97d0e58397ffef66de88bb0eebf83a211c102ea1e3f1b0f",
+        "etag": "\"dld8rgrimzp4-828\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrimzp4-828\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10448|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10448,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A5DynamicLoad/PlayerAccessory/UnPacker/icon_Belle_Back_Pendant_Default.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Belle_Back_Pendant_Default.webp",
+        "localPath": "gallery/zzz/icon_Belle_Back_Pendant_Default.webp",
+        "sha256": "dc1eb0e1958d0e46f97d0e58397ffef66de88bb0eebf83a211c102ea1e3f1b0f",
+        "etag": "\"dld8rgrimzp4-828\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrimzp4-828\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10448|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10448,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A5DynamicLoad/PlayerAccessory/UnPacker/icon_Belle_Back_Pendant_Default.png",
+      "rank": 3,
+      "class": 95,
+      "name": "Skyline Style"
+    },
+    "detail": {
+      "id": 311151118,
+      "name": "Skyline Style",
+      "desc": "A Proxy accessory that can be worn with some of Belle's Proxy outfits.",
+      "desc2": "",
+      "class": {
+        "95": "OUTFIT ACCESSORIES"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A5DynamicLoad/PlayerAccessory/UnPacker/icon_Belle_Back_Pendant_Default.png"
+    }
+  }
+}

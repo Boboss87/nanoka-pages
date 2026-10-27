@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "400027",
+    "name": "Handheld Xenon Flashlight",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill23.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivePropsSkill23.webp",
+        "localPath": "gallery/zzz/ActivePropsSkill23.webp",
+        "sha256": "67982ab2ec31f3c69e51b5fbd975a855cc1f3ca77bde58c692ee4210298ef5e6",
+        "etag": "\"dld8rfnvh8lj-310\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnvh8lj-310\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=3924|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 3924,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill23.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivePropsSkill23.webp",
+        "localPath": "gallery/zzz/ActivePropsSkill23.webp",
+        "sha256": "67982ab2ec31f3c69e51b5fbd975a855cc1f3ca77bde58c692ee4210298ef5e6",
+        "etag": "\"dld8rfnvh8lj-310\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnvh8lj-310\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=3924|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 3924,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill23.png",
+      "rank": 3,
+      "class": 15,
+      "name": "Handheld Xenon Flashlight"
+    },
+    "detail": {
+      "id": 400027,
+      "name": "Handheld Xenon Flashlight",
+      "desc": "Produces a bright light that can be used to <color=#2BAD00>remove unidentified organisms within the 4 tiles around you</color>.",
+      "desc2": "A highly luminous light source filled with an inert gas mixture that emits intense light with a color temperature similar to that of the sun.",
+      "class": {
+        "15": "HOLLOW ITEM"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill23.png"
+    }
+  }
+}

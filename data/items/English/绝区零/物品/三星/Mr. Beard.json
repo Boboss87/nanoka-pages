@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "412011308",
+    "name": "Mr. Beard",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Head_Earring_07.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Wise_Head_Earring_07.webp",
+        "localPath": "gallery/zzz/icon_Wise_Head_Earring_07.webp",
+        "sha256": "bfb750d24d7eb172673276e5e8b277151cba3a22aa872c9fa81397092c87d12a",
+        "etag": "\"dld8rgrnegqs-66e\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrnegqs-66e\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8006|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8006,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Head_Earring_07.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Wise_Head_Earring_07.webp",
+        "localPath": "gallery/zzz/icon_Wise_Head_Earring_07.webp",
+        "sha256": "bfb750d24d7eb172673276e5e8b277151cba3a22aa872c9fa81397092c87d12a",
+        "etag": "\"dld8rgrnegqs-66e\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrnegqs-66e\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8006|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8006,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Head_Earring_07.png",
+      "rank": 3,
+      "class": 95,
+      "name": "Mr. Beard"
+    },
+    "detail": {
+      "id": 412011308,
+      "name": "Mr. Beard",
+      "desc": "A Proxy accessory that can be worn with some of Wise's Proxy outfits.",
+      "desc2": "You're allowed to wear earrings at school? Aurelia Academy's dress code is surprisingly relaxed... Oh, and could I have a back-row window seat?",
+      "class": {
+        "95": "OUTFIT ACCESSORIES"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Head_Earring_07.png"
+    }
+  }
+}

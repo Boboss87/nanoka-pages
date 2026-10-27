@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1357556",
+    "name": "[3] Emergency Toolkit",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CoopCard15.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CoopCard15.webp",
+        "localPath": "gallery/zzz/CoopCard15.webp",
+        "sha256": "fcad7773f01493bb8d01e421dce2c2c16b7abe602c726ce8a6c1475f2e42ae97",
+        "etag": "\"dld8rfreapyq-ceu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfreapyq-ceu\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16086|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16086,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CoopCard15.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CoopCard15.webp",
+        "localPath": "gallery/zzz/CoopCard15.webp",
+        "sha256": "fcad7773f01493bb8d01e421dce2c2c16b7abe602c726ce8a6c1475f2e42ae97",
+        "etag": "\"dld8rfreapyq-ceu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfreapyq-ceu\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16086|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16086,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CoopCard15.png",
+      "rank": 3,
+      "class": 106,
+      "name": "[3] Emergency Toolkit"
+    },
+    "detail": {
+      "id": 1357556,
+      "name": "[3] Emergency Toolkit",
+      "desc": "When establishing a healing link with an Agent in Downed state, increases <color=#FFAF2C>rescue speed</color> by 30%.",
+      "desc2": "",
+      "class": {
+        "106": "TAROT CARD"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CoopCard15.png"
+    }
+  }
+}

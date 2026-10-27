@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1343012",
+    "name": "Electrifying Ring",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardTech04.webp",
+        "localPath": "gallery/zzz/CardTech04.webp",
+        "sha256": "ae9ac69f737cc5033dd92650b05739425a13a4c488ce8952167f2ff6cbaae18d",
+        "etag": "\"dld8rfr3kwlz-dfy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr3kwlz-dfy\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17422|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17422,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardTech04.webp",
+        "localPath": "gallery/zzz/CardTech04.webp",
+        "sha256": "ae9ac69f737cc5033dd92650b05739425a13a4c488ce8952167f2ff6cbaae18d",
+        "etag": "\"dld8rfr3kwlz-dfy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr3kwlz-dfy\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17422|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17422,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech04.png",
+      "rank": 3,
+      "class": 86,
+      "name": "Electrifying Ring"
+    },
+    "detail": {
+      "id": 1343012,
+      "name": "Electrifying Ring",
+      "desc": "\"Dreamland Equipment\" Fireworks Dual Box's <color=#FFAF2C>PEN Ratio increases by 20% per Rank</color>, and when an Agent activates an EX Special Attack, <color=#FFAF2C>2 additional missiles are fired</color>, increasing by 2 missiles per Rank.\nWhen an Agent activates an EX Special Attack, Tully will use Maximum Firepower.",
+      "desc2": "",
+      "class": {
+        "86": "BANGBOO RESONIUM"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech04.png"
+    }
+  }
+}

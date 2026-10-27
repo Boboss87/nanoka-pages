@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3311091",
+    "name": "Hoshimi Miyabi's Namecard",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "Hoshimi Miyabi's Namecard"
+    },
+    "detail": {
+      "id": 3311091,
+      "name": "Hoshimi Miyabi's Namecard",
+      "desc": "Get by unlocking Hoshimi Miyabi's Mindscape: Martial Discipline",
+      "desc2": "A card with the image of HSO Section 6's Chief printed on it.\nCompletely useless when actually trying to get in contact — after all, communication from within Hollows is difficult — this card is, nonetheless, an immense honor to possess. Both sides are imprinted with elegant and ancient-looking patterns, but the image doesn't seem to have anything to do with the Hoshimi family.",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "304015",
+    "name": "Ether Fuse",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EtherFuse.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/EtherFuse.webp",
+        "localPath": "gallery/zzz/EtherFuse.webp",
+        "sha256": "f32cb1d479093385d989f2b80409f9213ccc2720cb4e1015cca0884e6e226c07",
+        "etag": "\"dld8rfrhvbr0-6co\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrhvbr0-6co\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8232|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8232,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EtherFuse.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/EtherFuse.webp",
+        "localPath": "gallery/zzz/EtherFuse.webp",
+        "sha256": "f32cb1d479093385d989f2b80409f9213ccc2720cb4e1015cca0884e6e226c07",
+        "etag": "\"dld8rfrhvbr0-6co\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrhvbr0-6co\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8232|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8232,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EtherFuse.png",
+      "rank": 3,
+      "class": 20,
+      "name": "Ether Fuse"
+    },
+    "detail": {
+      "id": 304015,
+      "name": "Ether Fuse",
+      "desc": "An item obtained while on a commission in Hollow Zero. Take it to Cole on Sixth Street.",
+      "desc2": "A security device for Ether energy conversion work. It will automatically cut the power when there's an electricity leak or high temperature.",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EtherFuse.png"
+    }
+  }
+}

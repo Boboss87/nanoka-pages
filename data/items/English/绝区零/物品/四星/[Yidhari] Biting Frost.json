@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1350152",
+    "name": "[Yidhari] Biting Frost",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic051.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic051.webp",
+        "localPath": "gallery/zzz/Relic051.webp",
+        "sha256": "13fdc6d86d423b9855f540caf86fd7cc459118660f609224c44a95a085d22118",
+        "etag": "\"dld8rgo2sohg-3ya\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo2sohg-3ya\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5122|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5122,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic051.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic051.webp",
+        "localPath": "gallery/zzz/Relic051.webp",
+        "sha256": "13fdc6d86d423b9855f540caf86fd7cc459118660f609224c44a95a085d22118",
+        "etag": "\"dld8rgo2sohg-3ya\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo2sohg-3ya\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5122|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5122,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic051.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Yidhari] Biting Frost"
+    },
+    "detail": {
+      "id": 1350152,
+      "name": "[Yidhari] Biting Frost",
+      "desc": "When Yidhari consumes Adrenaline to activate <color=#FFFFFF>EX Special Attack</color>, she gains 4 stacks of <color=#FFFFFF>Frost Coil</color>: When <color=#FFFFFF>Basic Attacks</color> hit an enemy, consume <color=#FFFFFF>Frost Coil</color> to attack the target enemy. This effect can only be triggered once per 1s.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic051.png"
+    }
+  }
+}

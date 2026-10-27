@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "12012",
+    "name": "[Magnetic Storm] Charlie",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_B_Common_12.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_B_Common_12.webp",
+        "localPath": "gallery/zzz/Weapon_B_Common_12.webp",
+        "sha256": "8a2e566064e214a4df1d73ce58aab5fd04fd907c3cf81612d1c4762f61b13f90",
+        "etag": "\"dld8rgpc1ofe-opw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgpc1ofe-opw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=32036|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 32036,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_B_Common_12.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_B_Common_12.webp",
+        "localPath": "gallery/zzz/Weapon_B_Common_12.webp",
+        "sha256": "8a2e566064e214a4df1d73ce58aab5fd04fd907c3cf81612d1c4762f61b13f90",
+        "etag": "\"dld8rgpc1ofe-opw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgpc1ofe-opw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=32036|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 32036,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_B_Common_12.png",
+      "rank": 2,
+      "class": 5,
+      "name": "[Magnetic Storm] Charlie"
+    },
+    "detail": {
+      "id": 12012,
+      "name": "[Magnetic Storm] Charlie",
+      "desc": "Equip to increase Anomaly Agents' combat capabilities",
+      "desc2": "A high-capacity W-Engine that features a built-in generator, which allows it to keep a stable storage of electrical power.",
+      "class": {
+        "5": "W-ENGINE"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_B_Common_12.png"
+    }
+  }
+}

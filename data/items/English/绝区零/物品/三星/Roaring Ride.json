@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "13128",
+    "name": "Roaring Ride",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_1281.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_A_1281.webp",
+        "localPath": "gallery/zzz/Weapon_A_1281.webp",
+        "sha256": "1d4b98c24ffcaf316e9cbc34632676baa639b712f4c67d25dd4bb7aba173a551",
+        "etag": "\"dld8rgp2iqc1-108q\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgp2iqc1-108q\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=46970|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 46970,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_1281.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_A_1281.webp",
+        "localPath": "gallery/zzz/Weapon_A_1281.webp",
+        "sha256": "1d4b98c24ffcaf316e9cbc34632676baa639b712f4c67d25dd4bb7aba173a551",
+        "etag": "\"dld8rgp2iqc1-108q\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgp2iqc1-108q\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=46970|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 46970,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_1281.png",
+      "rank": 3,
+      "class": 5,
+      "name": "Roaring Ride"
+    },
+    "detail": {
+      "id": 13128,
+      "name": "Roaring Ride",
+      "desc": "Equip to increase Anomaly Agents' combat capabilities",
+      "desc2": "An energy W-Engine modded from spare parts of a truck's engine. It converts the original cylinder into an energy storage unit, which is highly advantageous.",
+      "class": {
+        "5": "W-ENGINE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_1281.png"
+    }
+  }
+}

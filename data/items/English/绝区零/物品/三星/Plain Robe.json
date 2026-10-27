@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4150018",
+    "name": "Plain Robe",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianAttireProduct02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianAttireProduct02.webp",
+        "localPath": "gallery/zzz/SuibianAttireProduct02.webp",
+        "sha256": "22337e410823203aae0864effddf11aafdbeebe526b73c4dae646e8c522c0b7b",
+        "etag": "\"dld8rgoepd3n-6fa\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoepd3n-6fa\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8326|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8326,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianAttireProduct02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianAttireProduct02.webp",
+        "localPath": "gallery/zzz/SuibianAttireProduct02.webp",
+        "sha256": "22337e410823203aae0864effddf11aafdbeebe526b73c4dae646e8c522c0b7b",
+        "etag": "\"dld8rgoepd3n-6fa\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoepd3n-6fa\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8326|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8326,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianAttireProduct02.png",
+      "rank": 3,
+      "class": 89,
+      "name": "Plain Robe"
+    },
+    "detail": {
+      "id": 4150018,
+      "name": "Plain Robe",
+      "desc": "Clothing crafted and sold at Suibian Temple.",
+      "desc2": "Robes worn daily by Yunkui Summit disciples — durable and fit for Hollow expeditions.",
+      "class": {
+        "89": "Product"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianAttireProduct02.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "307008",
+    "name": "Uncarved Pumpkin",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponStar_A_Common_22.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/WeaponStar_A_Common_22.webp",
+        "localPath": "gallery/zzz/WeaponStar_A_Common_22.webp",
+        "sha256": "bb025b96e983adb3c152ee7a390e8820d6a29df9a9b315e96de22654bb27b6bd",
+        "etag": "\"dm16zg138xt1-590\"",
+        "lastModified": "Sat, 10 Oct 2026 13:28:19 GMT",
+        "remoteKey": "etag=\"dm16zg138xt1-590\"|lastModified=Sat, 10 Oct 2026 13:28:19 GMT|bytes=6804|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6804,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponStar_A_Common_22.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/WeaponStar_A_Common_22.webp",
+        "localPath": "gallery/zzz/WeaponStar_A_Common_22.webp",
+        "sha256": "bb025b96e983adb3c152ee7a390e8820d6a29df9a9b315e96de22654bb27b6bd",
+        "etag": "\"dm16zg138xt1-590\"",
+        "lastModified": "Sat, 10 Oct 2026 13:28:19 GMT",
+        "remoteKey": "etag=\"dm16zg138xt1-590\"|lastModified=Sat, 10 Oct 2026 13:28:19 GMT|bytes=6804|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6804,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponStar_A_Common_22.png",
+      "rank": 3,
+      "class": 23,
+      "name": "Uncarved Pumpkin"
+    },
+    "detail": {
+      "id": 307008,
+      "name": "Uncarved Pumpkin",
+      "desc": "...",
+      "desc2": "...",
+      "class": {
+        "23": "SPECIAL W-ENGINE CORE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponStar_A_Common_22.png"
+    }
+  }
+}

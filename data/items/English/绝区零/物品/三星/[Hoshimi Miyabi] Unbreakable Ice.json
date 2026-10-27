@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1310502",
+    "name": "[Hoshimi Miyabi] Unbreakable Ice",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardMiyabi02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardMiyabi02.webp",
+        "localPath": "gallery/zzz/CardMiyabi02.webp",
+        "sha256": "676caff81a37b623f74d2238badf9b70115dc7019da1cb7d2e8a1ebc357a2e44",
+        "etag": "\"dld8rfqvu9eq-bdi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqvu9eq-bdi\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14742|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14742,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardMiyabi02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardMiyabi02.webp",
+        "localPath": "gallery/zzz/CardMiyabi02.webp",
+        "sha256": "676caff81a37b623f74d2238badf9b70115dc7019da1cb7d2e8a1ebc357a2e44",
+        "etag": "\"dld8rfqvu9eq-bdi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqvu9eq-bdi\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14742|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14742,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardMiyabi02.png",
+      "rank": 3,
+      "class": 80,
+      "name": "[Hoshimi Miyabi] Unbreakable Ice"
+    },
+    "detail": {
+      "id": 1310502,
+      "name": "[Hoshimi Miyabi] Unbreakable Ice",
+      "desc": "Enemies afflicted with <color=#FFFFFF>Icefire</color> <color=#2BAD00>take <color=#98EFF0>Frost DMG</color> equal to 50% of Hoshimi Miyabi's ATK each second</color>. Upon triggering <color=#FFFFFF>Frostburn - Break</color>, Hoshimi Miyabi can bypass the restrictions of <color=#FFFFFF>Frostburn</color> and <color=#2BAD00>immediately reapply <color=#FFFFFF>Icefire</color> to enemies</color>.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardMiyabi02.png"
+    }
+  }
+}

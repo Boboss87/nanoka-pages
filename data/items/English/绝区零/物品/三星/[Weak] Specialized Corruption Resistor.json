@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4336003",
+    "name": "[Weak] Specialized Corruption Resistor",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_EquipErosion_003.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_EquipErosion_003.webp",
+        "localPath": "gallery/zzz/Zenkov_EquipErosion_003.webp",
+        "sha256": "940d9c7bf83272c3754978fee6262c8297a58b1b35b7632736d7e9dbf4b2a9da",
+        "etag": "\"dld8rgr5jfti-5h4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr5jfti-5h4\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7096|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7096,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_EquipErosion_003.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_EquipErosion_003.webp",
+        "localPath": "gallery/zzz/Zenkov_EquipErosion_003.webp",
+        "sha256": "940d9c7bf83272c3754978fee6262c8297a58b1b35b7632736d7e9dbf4b2a9da",
+        "etag": "\"dld8rgr5jfti-5h4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr5jfti-5h4\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7096|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7096,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_EquipErosion_003.png",
+      "rank": 3,
+      "class": 133,
+      "name": "[Weak] Specialized Corruption Resistor"
+    },
+    "detail": {
+      "id": 4336003,
+      "name": "[Weak] Specialized Corruption Resistor",
+      "desc": "When equipped, this item reduces Corruption gained by the squad by <color=#2BAD00>40%</color> and DMG taken by Agents by <color=#2BAD00>30%</color>.",
+      "desc2": "",
+      "class": {
+        "133": "LABYRINTH"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_EquipErosion_003.png"
+    }
+  }
+}

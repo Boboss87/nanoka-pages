@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "equipment",
+    "pageFolder": "驱动盘",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/equipment.json",
+    "sourcePath": "3.3.12+19634983/equipment.json",
+    "sourceLocale": null,
+    "localeMode": "embedded",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/equipment/33800.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "33800",
+    "name": "Notes From the Chained",
+    "rarity": "未分类",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitNotesFromtheChained.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitNotesFromtheChained.webp",
+        "localPath": "gallery/zzz/SuitNotesFromtheChained.webp",
+        "sha256": "1680fd8c8baf2676100b9f413523e44dfcfc89c124af77f1cc1e87784e51d658",
+        "etag": "\"dld8rgonmvka-6lc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgonmvka-6lc\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8544|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8544,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitNotesFromtheChained.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitNotesFromtheChained.webp",
+        "localPath": "gallery/zzz/SuitNotesFromtheChained.webp",
+        "sha256": "1680fd8c8baf2676100b9f413523e44dfcfc89c124af77f1cc1e87784e51d658",
+        "etag": "\"dld8rgonmvka-6lc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgonmvka-6lc\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8544|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8544,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon2",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitNotesFromtheChained.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitNotesFromtheChained.webp",
+        "localPath": "gallery/zzz/SuitNotesFromtheChained.webp",
+        "sha256": "1680fd8c8baf2676100b9f413523e44dfcfc89c124af77f1cc1e87784e51d658",
+        "etag": "\"dld8rgonmvka-6lc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgonmvka-6lc\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8544|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8544,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitNotesFromtheChained.png",
+      "en": {
+        "name": "Notes From the Chained",
+        "desc2": "<color=#98EFF0>Ice DMG</color> +10%.",
+        "desc4": "When the equipper triggers <color=#FFFFFF>Abloom</color>, their Anomaly Proficiency increases by 48 for 30s; repeated triggers reset the duration. When the equipper triggers a <color=#FFFFFF>Freeze</color> effect, their All-Attribute Anomaly DMG and <color=#FFFFFF>Disorder</color> DMG increase by 16% for 30s; repeated triggers reset the duration."
+      },
+      "ko": {
+        "name": "수감자 수기",
+        "desc2": "<color=#98EFF0>얼음 속성 피해</color>+10%",
+        "desc4": "착용자가 <color=#FFFFFF>[난개]</color> 발동 시, 착용자의 이상 마스터리가 48pt 증가한다. 지속 시간: 30초, 중복 발동 시 지속 시간이 갱신된다. 착용자가 <color=#FFFFFF>[빙결]</color> 효과 발동 시, 착용자가 주는 모든 속성 이상 피해, <color=#FFFFFF>[혼돈]</color> 피해가 16% 증가한다. 지속 시간: 30초, 중복 발동 시 지속 시간이 갱신된다."
+      },
+      "zh": {
+        "name": "囚徒手记",
+        "desc2": "<color=#98EFF0>冰属性伤害</color>+10%。",
+        "desc4": "装备者触发<color=#FFFFFF>[异放]</color>时，装备者异常精通提升48点，持续30秒；重复触发时刷新持续时间；装备者触发<color=#FFFFFF>[冻结]</color>效果时，装备者造成的所有属性异常伤害、<color=#FFFFFF>[紊乱]</color>伤害提升16%，持续30秒，重复触发时刷新持续时间。"
+      },
+      "ja": {
+        "name": "獄中の手記",
+        "desc2": "<color=#98EFF0>氷属性ダメージ</color>+10%。",
+        "desc4": "装備者が<color=#FFFFFF>「狂咲」</color>を発動させた時、装備者の異常マスタリー+48Pt、継続時間30秒、重複して発動すると継続時間が更新される。装備者が<color=#FFFFFF>「凍結」</color>効果を発動させた時、装備者が与える全属性状態異常ダメージと<color=#FFFFFF>「混沌」</color>ダメージ+16%、継続時間30秒、重複して発動すると継続時間が更新される。"
+      }
+    },
+    "detail": {
+      "id": 33800,
+      "name": "Notes From the Chained",
+      "desc2": "<color=#98EFF0>Ice DMG</color> +10%.",
+      "desc4": "When the equipper triggers <color=#FFFFFF>Abloom</color>, their Anomaly Proficiency increases by 48 for 30s; repeated triggers reset the duration. When the equipper triggers a <color=#FFFFFF>Freeze</color> effect, their All-Attribute Anomaly DMG and <color=#FFFFFF>Disorder</color> DMG increase by 16% for 30s; repeated triggers reset the duration.",
+      "story": "A mysterious track posted on Inter-Knot by an anonymous creator, inspired by the hallucinations of a lost Hollow wanderer. The melody cuts off abruptly halfway through, yet its hauntingly precise evocation of the despair and disorientation of deep Hollow exploration made it a brief sensation.\nIt is said that an investigator, once lost, abandoned rescue efforts and instead followed the melody as his guide, wandering within the Hollow. The agony brought on by Corruption nearly blinded him, yet the tune continued to echo in his ears. In the end, he miraculously found a way out.\nLater, this investigator who returned from the abyss became a well-known composer and finished writing the second half of the melody.",
+      "icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitNotesFromtheChained.png",
+      "icon2": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitNotesFromtheChained.png"
+    }
+  }
+}

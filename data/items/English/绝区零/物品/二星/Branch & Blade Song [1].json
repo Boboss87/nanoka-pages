@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "32721",
+    "name": "Branch & Blade Song [1]",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitBranch&BladeSong_B.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitBranch&BladeSong_B.webp",
+        "localPath": "gallery/zzz/ItemSuitBranch&BladeSong_B.webp",
+        "sha256": "0080790943ce1ace990a3e301051143eb48927273b3f782b62c4e4c836a3f011",
+        "etag": "\"dld8rgel1gdz-7k0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgel1gdz-7k0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9792|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9792,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitBranch&BladeSong_B.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitBranch&BladeSong_B.webp",
+        "localPath": "gallery/zzz/ItemSuitBranch&BladeSong_B.webp",
+        "sha256": "0080790943ce1ace990a3e301051143eb48927273b3f782b62c4e4c836a3f011",
+        "etag": "\"dld8rgel1gdz-7k0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgel1gdz-7k0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9792|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9792,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitBranch&BladeSong_B.png",
+      "rank": 2,
+      "class": 7,
+      "name": "Branch & Blade Song [1]"
+    },
+    "detail": {
+      "id": 32721,
+      "name": "Branch & Blade Song [1]",
+      "desc": "Equip to increase Agents' combat capabilities",
+      "desc2": "\"East he went, in his youth, encountering evil monkeys on the barren roads. A spring branch from a tree to serve as his blade, driving away the beasts that plagued the people.\"",
+      "class": {
+        "7": "DISK"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitBranch&BladeSong_B.png"
+    }
+  }
+}

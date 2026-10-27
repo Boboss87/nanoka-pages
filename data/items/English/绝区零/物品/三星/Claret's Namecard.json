@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3311611",
+    "name": "Claret's Namecard",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "Claret's Namecard"
+    },
+    "detail": {
+      "id": 3311611,
+      "name": "Claret's Namecard",
+      "desc": "Get by unlocking Claret's Mindscape: Oath Written in Frosting",
+      "desc2": "A namecard featuring the master of Flint Workshop.\nThe workshop's emblem and Claret's name are engraved against a rustic backdrop, with intricate, elaborate patterns that are easily mistaken for Porcelloy craftsmanship. Claret, however, clearly has no interest in wasting Porcelloy on such trivial decoration.",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

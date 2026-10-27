@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4350525",
+    "name": "[Blueprint] [Zhao] Frostmist Enigma - Lv.60",
+    "rarity": "五星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_026_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_026_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_026_Blueprint.webp",
+        "sha256": "df017a90a23b910fd81a7272d884202b4d5f9ec05fb63c47069dbcbd9783b791",
+        "etag": "\"dld8rgrg996a-800\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrg996a-800\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10368|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10368,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_026_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_026_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_026_Blueprint.webp",
+        "sha256": "df017a90a23b910fd81a7272d884202b4d5f9ec05fb63c47069dbcbd9783b791",
+        "etag": "\"dld8rgrg996a-800\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrg996a-800\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10368|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10368,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_026_Blueprint.png",
+      "rank": 5,
+      "class": 130,
+      "name": "[Blueprint] [Zhao] Frostmist Enigma - Lv.60"
+    },
+    "detail": {
+      "id": 4350525,
+      "name": "[Blueprint] [Zhao] Frostmist Enigma - Lv.60",
+      "desc": "This Blueprint can be used to unlock Zhao's exclusive Tactical Prism crafting at the Smart Workshop. It can be purchased from Boojee's Store - Season Limited.\nItem Effect: When there are 2 or 1 surviving Agents in the squad, extraction time is reduced by 30%/60%.\nWhen Zhao activates Ether Veil, she recovers 30 Frostbite Points and <color=#2BAD00>increases ATK by 25%</color> for all squad members, lasting 50s.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_026_Blueprint.png"
+    }
+  }
+}

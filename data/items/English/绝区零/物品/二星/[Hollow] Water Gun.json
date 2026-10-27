@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1001011",
+    "name": "[Hollow] Water Gun",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard06.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard06.webp",
+        "localPath": "gallery/zzz/CardChessboard06.webp",
+        "sha256": "be7d47c9117a89abc169d04926a85e5edb96c6d6ed8bab453fa4aa0e0061bd1c",
+        "etag": "\"dld8rfq6u0wx-aba\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq6u0wx-aba\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=13366|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13366,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard06.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard06.webp",
+        "localPath": "gallery/zzz/CardChessboard06.webp",
+        "sha256": "be7d47c9117a89abc169d04926a85e5edb96c6d6ed8bab453fa4aa0e0061bd1c",
+        "etag": "\"dld8rfq6u0wx-aba\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq6u0wx-aba\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=13366|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13366,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard06.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[Hollow] Water Gun"
+    },
+    "detail": {
+      "id": 1001011,
+      "name": "[Hollow] Water Gun",
+      "desc": "Entering combat events <color=#2BAD00>does not</color> increase your Pressure.",
+      "desc2": "I may not be hurt, but my feelings are.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard06.png"
+    }
+  }
+}

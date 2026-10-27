@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "13111",
+    "name": "Drill Rig - Red Axis",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_1111.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_A_1111.webp",
+        "localPath": "gallery/zzz/Weapon_A_1111.webp",
+        "sha256": "418426cc8882d45287398405cb551c72100d61e520e218c2ed6356abcd593422",
+        "etag": "\"dld8rgp1bv2m-zz0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgp1bv2m-zz0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=46620|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 46620,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_1111.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_A_1111.webp",
+        "localPath": "gallery/zzz/Weapon_A_1111.webp",
+        "sha256": "418426cc8882d45287398405cb551c72100d61e520e218c2ed6356abcd593422",
+        "etag": "\"dld8rgp1bv2m-zz0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgp1bv2m-zz0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=46620|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 46620,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_1111.png",
+      "rank": 3,
+      "class": 5,
+      "name": "Drill Rig - Red Axis"
+    },
+    "detail": {
+      "id": 13111,
+      "name": "Drill Rig - Red Axis",
+      "desc": "Equip to increase Attack Agents' combat capabilities",
+      "desc2": "Originally a rev-enhanced W-Engine, it has been modified by Anton with the most expensive rotary drill parts that allow it to exceed its output limits.",
+      "class": {
+        "5": "W-ENGINE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_1111.png"
+    }
+  }
+}

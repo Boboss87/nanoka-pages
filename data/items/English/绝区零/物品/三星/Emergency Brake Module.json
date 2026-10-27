@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4200801",
+    "name": "Emergency Brake Module",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialAreaRollerCoaster_Guide.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovMaterialAreaRollerCoaster_Guide.webp",
+        "localPath": "gallery/zzz/BangkovMaterialAreaRollerCoaster_Guide.webp",
+        "sha256": "991128cd0f60a6758334e72631665a22b101759e3e31445fc7169df59e9d4b63",
+        "etag": "\"dld8rfpksykn-560\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpksykn-560\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=6696|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6696,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialAreaRollerCoaster_Guide.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovMaterialAreaRollerCoaster_Guide.webp",
+        "localPath": "gallery/zzz/BangkovMaterialAreaRollerCoaster_Guide.webp",
+        "sha256": "991128cd0f60a6758334e72631665a22b101759e3e31445fc7169df59e9d4b63",
+        "etag": "\"dld8rfpksykn-560\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpksykn-560\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=6696|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6696,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialAreaRollerCoaster_Guide.png",
+      "rank": 3,
+      "class": 120,
+      "name": "Emergency Brake Module"
+    },
+    "detail": {
+      "id": 4200801,
+      "name": "Emergency Brake Module",
+      "desc": "<color=#FFFFFF>Obtained from Roller Coaster Area Investigation, used to activate Talents.</color>\nA module that, in theory, shouldn't have been taken away from the control room.",
+      "desc2": "BKItem_4200801_Story",
+      "class": {
+        "120": null
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialAreaRollerCoaster_Guide.png"
+    }
+  }
+}

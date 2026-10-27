@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1350052",
+    "name": "[Corin] Tea Break Time",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic031.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic031.webp",
+        "localPath": "gallery/zzz/Relic031.webp",
+        "sha256": "966793b5f778f2a1108f3200829e46b26267055d377ea527f56139c0686f1fbd",
+        "etag": "\"dld8rgo0exym-3fw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo0exym-3fw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4460|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4460,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic031.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic031.webp",
+        "localPath": "gallery/zzz/Relic031.webp",
+        "sha256": "966793b5f778f2a1108f3200829e46b26267055d377ea527f56139c0686f1fbd",
+        "etag": "\"dld8rgo0exym-3fw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo0exym-3fw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4460|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4460,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic031.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Corin] Tea Break Time"
+    },
+    "detail": {
+      "id": 1350052,
+      "name": "[Corin] Tea Break Time",
+      "desc": "Corin's <color=#FFFFFF>Dash Attack</color> and <color=#FFFFFF>Quick Assist</color> are replaced with <color=#FFFFFF>Dash Attack: Oopsy-Daisy! - Modified</color>. Hold the <color=#FFFFFF>Basic Attack</color> button to maintain sprint state, which ends after hitting enemies 30 times with consecutive chainsaw slashes or upon releasing the button. <color=#FFFFFF>Dash Attack: Oopsy-Daisy! - Modified</color> will <color=#2BAD00>reduce enemy DEF by 3%</color> when it hits, stacking up to 10 times and lasting 15s. Repeated triggers reset the duration.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic031.png"
+    }
+  }
+}

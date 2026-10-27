@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "412011181",
+    "name": "The Crane Calls Home",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Chest_Badge_Default.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Wise_Chest_Badge_Default.webp",
+        "localPath": "gallery/zzz/icon_Wise_Chest_Badge_Default.webp",
+        "sha256": "42ecd1f27e0f40f48d9eb06754c5749c17a6c2447c1658adf7f6217c04b17f6e",
+        "etag": "\"dld8rgrm7lhd-fy6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrm7lhd-fy6\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=20670|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 20670,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Chest_Badge_Default.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Wise_Chest_Badge_Default.webp",
+        "localPath": "gallery/zzz/icon_Wise_Chest_Badge_Default.webp",
+        "sha256": "42ecd1f27e0f40f48d9eb06754c5749c17a6c2447c1658adf7f6217c04b17f6e",
+        "etag": "\"dld8rgrm7lhd-fy6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrm7lhd-fy6\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=20670|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 20670,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Chest_Badge_Default.png",
+      "rank": 3,
+      "class": 95,
+      "name": "The Crane Calls Home"
+    },
+    "detail": {
+      "id": 412011181,
+      "name": "The Crane Calls Home",
+      "desc": "A Proxy accessory that can be worn with some of Wise's Proxy outfits.",
+      "desc2": "The Cloud Crane soaring through the Nine Heavens keeps its resolve, and Suibian Temple... um... what was it... Suibian Temple is where the mind evolves!",
+      "class": {
+        "95": "OUTFIT ACCESSORIES"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Chest_Badge_Default.png"
+    }
+  }
+}

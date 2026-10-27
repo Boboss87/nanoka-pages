@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000915",
+    "name": "[General] Fruit Peeler",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse19.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse19.webp",
+        "localPath": "gallery/zzz/CardDailyUse19.webp",
+        "sha256": "722c1be0029545136eb7c9bd23db7dc1db89fb784e61093ffe7879225469ce89",
+        "etag": "\"dld8rfqiqpj4-9h8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqiqpj4-9h8\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=12284|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12284,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse19.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse19.webp",
+        "localPath": "gallery/zzz/CardDailyUse19.webp",
+        "sha256": "722c1be0029545136eb7c9bd23db7dc1db89fb784e61093ffe7879225469ce89",
+        "etag": "\"dld8rfqiqpj4-9h8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqiqpj4-9h8\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=12284|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12284,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse19.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[General] Fruit Peeler"
+    },
+    "detail": {
+      "id": 1000915,
+      "name": "[General] Fruit Peeler",
+      "desc": "Agents deal <color=#2BAD00>20%</color> more DMG to elites.",
+      "desc2": "Seeing coils of apple peels totally unbroken produces a meaningless pride.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse19.png"
+    }
+  }
+}

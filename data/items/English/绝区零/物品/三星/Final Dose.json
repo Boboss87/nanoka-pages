@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3202006",
+    "name": "Final Dose",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile2006.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemProfile2006.webp",
+        "localPath": "gallery/zzz/ItemProfile2006.webp",
+        "sha256": "17dc6d3859766ab4f8feea179c76d895caaeb2774f9db94d8215d2434c71ca7b",
+        "etag": "\"dld8rgeinpv5-6uq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgeinpv5-6uq\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8882|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8882,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile2006.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemProfile2006.webp",
+        "localPath": "gallery/zzz/ItemProfile2006.webp",
+        "sha256": "17dc6d3859766ab4f8feea179c76d895caaeb2774f9db94d8215d2434c71ca7b",
+        "etag": "\"dld8rgeinpv5-6uq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgeinpv5-6uq\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8882|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8882,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile2006.png",
+      "rank": 3,
+      "class": 64,
+      "name": "Final Dose"
+    },
+    "detail": {
+      "id": 3202006,
+      "name": "Final Dose",
+      "desc": "Commemorative avatar for reaching the designated investigation level in \"Hollow Zero: Lost Void.\"",
+      "desc2": "Accept this gift from the shadows, and perhaps you'll find the strength to escape being \"lost.\"\nBut more likely: you'll remain lucid, battling like a cornered beast... only to join the ranks of your foes, becoming the next howl in the shadows.",
+      "class": {
+        "64": "PROFILE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile2006.png"
+    }
+  }
+}

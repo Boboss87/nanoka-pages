@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "equipment",
+    "pageFolder": "驱动盘",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/equipment.json",
+    "sourcePath": "3.3.12+19634983/equipment.json",
+    "sourceLocale": null,
+    "localeMode": "embedded",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/equipment/32200.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "32200",
+    "name": "Inferno Metal",
+    "rarity": "未分类",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitInfernoMetal.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitInfernoMetal.webp",
+        "localPath": "gallery/zzz/SuitInfernoMetal.webp",
+        "sha256": "2442e3737730296c03efaddbc473b20bbeddeb35e331218b6bdaab83ad485c19",
+        "etag": "\"dld8rgon1fxl-5rw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgon1fxl-5rw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7484|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7484,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitInfernoMetal.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitInfernoMetal.webp",
+        "localPath": "gallery/zzz/SuitInfernoMetal.webp",
+        "sha256": "2442e3737730296c03efaddbc473b20bbeddeb35e331218b6bdaab83ad485c19",
+        "etag": "\"dld8rgon1fxl-5rw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgon1fxl-5rw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7484|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7484,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon2",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitInfernoMetal.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitInfernoMetal.webp",
+        "localPath": "gallery/zzz/SuitInfernoMetal.webp",
+        "sha256": "2442e3737730296c03efaddbc473b20bbeddeb35e331218b6bdaab83ad485c19",
+        "etag": "\"dld8rgon1fxl-5rw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgon1fxl-5rw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7484|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7484,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitInfernoMetal.png",
+      "en": {
+        "name": "Inferno Metal",
+        "desc2": "<color=#FF5521>Fire DMG</color> +10%",
+        "desc4": "Upon hitting a <color=#FF5521>Burning</color> enemy, the equipper's CRIT Rate is increased by 28% for 8s."
+      },
+      "ko": {
+        "name": "불지옥 메탈",
+        "desc2": "<color=#FF5521>불 속성 피해</color>+10%",
+        "desc4": "공격이 <color=#FF5521>[연소]</color> 상태의 적에게 명중 시 착용자의 치명타 확률이 28% 증가한다. 지속 시간: 8초"
+      },
+      "zh": {
+        "name": "炎狱重金属",
+        "desc2": "<color=#FF5521>火属性伤害</color>+10%。",
+        "desc4": "攻击命中处于<color=#FF5521>[灼烧]</color>状态下的敌人时，装备者的暴击率提升28%，持续8秒。"
+      },
+      "ja": {
+        "name": "炎獄のヘヴィメタル",
+        "desc2": "<color=#FF5521>炎属性ダメージ</color>+10%。",
+        "desc4": "<color=#FF5521>[熱傷]</color>状態の敵に攻撃が命中した時、装備者の会心率+28%、継続時間8秒。"
+      }
+    },
+    "detail": {
+      "id": 32200,
+      "name": "Inferno Metal",
+      "desc2": "<color=#FF5521>Fire DMG</color> +10%",
+      "desc4": "Upon hitting a <color=#FF5521>Burning</color> enemy, the equipper's CRIT Rate is increased by 28% for 8s.",
+      "story": "A Drive Disc burned with specialized Ether technology offering personalized attribute amplification to the user.",
+      "icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitInfernoMetal.png",
+      "icon2": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitInfernoMetal.png"
+    }
+  }
+}

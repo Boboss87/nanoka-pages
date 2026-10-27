@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4350333",
+    "name": "[Blueprint][Soldier 0 - Anby] Thunder Strike - Lv.50",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "placeholder",
+        "placeholder": true,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_033_Blueprint.png",
+        "remoteUrl": null,
+        "localPath": "gallery/_placeholder/unknown.svg",
+        "sha256": "25fe1ba8bf237af8dc0157859efb518fa04c23b8e55ca4c05ec8292eebc2122e",
+        "etag": null,
+        "lastModified": null,
+        "remoteKey": null,
+        "contentType": "image/svg+xml",
+        "bytes": 520,
+        "retryable": false,
+        "retryOnNextRun": true,
+        "placeholderReason": "remote_missing",
+        "failedCandidateCount": 2,
+        "error": "missing: 404 unknown content-type; missing: 404 unknown content-type"
+      },
+      {
+        "fieldPath": "detail.desc.IconMap.Icon_Normal",
+        "kind": "icon_map",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "<IconMap:Icon_Normal>",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Icon_Normal.webp",
+        "localPath": "gallery/zzz/Icon_Normal.webp",
+        "sha256": "4f7078ee9d3a5e61be8ce9d3fd3f68b91de0880ba80ee43ea51b64394c158602",
+        "etag": "\"dld8rgefojpl-10m\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgefojpl-10m\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=1318|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 1318,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "placeholder",
+        "placeholder": true,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_033_Blueprint.png",
+        "remoteUrl": null,
+        "localPath": "gallery/_placeholder/unknown.svg",
+        "sha256": "25fe1ba8bf237af8dc0157859efb518fa04c23b8e55ca4c05ec8292eebc2122e",
+        "etag": null,
+        "lastModified": null,
+        "remoteKey": null,
+        "contentType": "image/svg+xml",
+        "bytes": 520,
+        "retryable": false,
+        "retryOnNextRun": true,
+        "placeholderReason": "remote_missing",
+        "failedCandidateCount": 2,
+        "error": "missing: 404 unknown content-type; missing: 404 unknown content-type"
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_033_Blueprint.png",
+      "rank": 4,
+      "class": 130,
+      "name": "[Blueprint][Soldier 0 - Anby] Thunder Strike - Lv.50"
+    },
+    "detail": {
+      "id": 4350333,
+      "name": "[Blueprint][Soldier 0 - Anby] Thunder Strike - Lv.50",
+      "desc": "Use this Blueprint at the Smart Workshop to unlock the recipe for Soldier 0 - Anby's exclusive Tactical Prism. Obtained through investigations or purchased from Boojee's Store - Permanent Store - Blueprint Direct Sale.\nItem Effect: \"Etheric Phantom - Scorpse\" deals 30% increased DMG to Bosses. When there are 1/2/3 Defense Force Faction characters in the squad, Aftershocks from the whole squad's Agents deal 30%/50%/50% increased DMG to Bosses.\nAfter Soldier 0 - Anby launches <color=#FFFFFF>[Special Attack: Azure Flash]</color>, she can press <IconMap:Icon_Normal> to chain into the fifth hit of <color=#FFFFFF>[Basic Attack: Penetrating Shock]</color>, <color=#FFFFFF>[Silver Star]</color>'s <color=#2BAD00>Charge Efficiency increases by 15%</color>, and each stack of <color=#FFFFFF>[White Thunder]</color> gained triggers one instance of <color=#FFFFFF>[White Thunder]</color>'s additional DMG, which deals <color=#2BAD00>extra DMG equal to 500% of her ATK</color>. <color=#FFFFFF>[White Thunder]</color>'s additional DMG triggered this way will not trigger <color=#FFFFFF>[Special Attack: Thunder Smite]</color>.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_033_Blueprint.png"
+    }
+  }
+}

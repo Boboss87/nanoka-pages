@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3302004",
+    "name": "Thousand Wishes of Dawn",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard22.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard22.webp",
+        "localPath": "gallery/zzz/Callingcard22.webp",
+        "sha256": "4b4bc84cb9d49697c8ac1c464ec64159e7b265bb1f3165a8217c8a77a16a8432",
+        "etag": "\"dld8rfpq5v92-7k4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpq5v92-7k4\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9796|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9796,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard22.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard22.webp",
+        "localPath": "gallery/zzz/Callingcard22.webp",
+        "sha256": "4b4bc84cb9d49697c8ac1c464ec64159e7b265bb1f3165a8217c8a77a16a8432",
+        "etag": "\"dld8rfpq5v92-7k4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpq5v92-7k4\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9796|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9796,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard22.png",
+      "rank": 3,
+      "class": 65,
+      "name": "Thousand Wishes of Dawn"
+    },
+    "detail": {
+      "id": 3302004,
+      "name": "Thousand Wishes of Dawn",
+      "desc": "A commemorative namecard from increasing the Suibian Temple Restoration Level in \"As Time Passes: A Decade of Suibian Temple\"",
+      "desc2": "Every fold of the skyletter hides murmurs of the mortal world, bobbing and undulating on the horizon, until they vanish.\nOnce the night wind carries away the last glow of sunlight, the tides formed from heartbeats calm, people realize... Those unspoken blessings of peace and safe return have been read by the clouds countless times.",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard22.png"
+    }
+  }
+}

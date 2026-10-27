@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4350013",
+    "name": "[Blueprint] Advanced Blade of the Other: Rush",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_EquipPyrois_008_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_EquipPyrois_008_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_EquipPyrois_008_Blueprint.webp",
+        "sha256": "0be450f24630ff6d5cc692f25f1bc6d36875f124d25cf96adb7ee503eaee3afb",
+        "etag": "\"dld8rgr64vg7-5k8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr64vg7-5k8\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7208|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7208,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_EquipPyrois_008_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_EquipPyrois_008_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_EquipPyrois_008_Blueprint.webp",
+        "sha256": "0be450f24630ff6d5cc692f25f1bc6d36875f124d25cf96adb7ee503eaee3afb",
+        "etag": "\"dld8rgr64vg7-5k8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr64vg7-5k8\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7208|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7208,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_EquipPyrois_008_Blueprint.png",
+      "rank": 2,
+      "class": 130,
+      "name": "[Blueprint] Advanced Blade of the Other: Rush"
+    },
+    "detail": {
+      "id": 4350013,
+      "name": "[Blueprint] Advanced Blade of the Other: Rush",
+      "desc": "Use this Blueprint at the Smart Workshop to unlock the recipe for this item. Purchased from Boojee's Store - Permanent Store - Blueprint Direct Sale.\n\nItem Effect: When equipped, this item grants three Alter Skills: Perfect Block, Phase Dash, and Powerful Slash.\n\n[Phase Dash Enhancement]\nRestore 1 use of Blade of the Other upon defeating a boss enemy.\n\nAgainst enemies at <color=#CF4029>Lv. 40 or higher</color>, <color=#CF4029>Powerslash</color> deals <color=#CF4029>50%</color> less DMG.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_EquipPyrois_008_Blueprint.png"
+    }
+  }
+}

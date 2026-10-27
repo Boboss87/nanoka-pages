@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "415",
+    "name": "Stellar Trek's Letter",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Activity_RunLetter07.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Activity_RunLetter07.webp",
+        "localPath": "gallery/zzz/Activity_RunLetter07.webp",
+        "sha256": "58b8b745cbdbbf67083602fc9d9fb6cfa0ff5a56526e8077fea01a4322a062a3",
+        "etag": "\"dld8rfnx9jho-6tk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnx9jho-6tk\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8840|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8840,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Activity_RunLetter07.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Activity_RunLetter07.webp",
+        "localPath": "gallery/zzz/Activity_RunLetter07.webp",
+        "sha256": "58b8b745cbdbbf67083602fc9d9fb6cfa0ff5a56526e8077fea01a4322a062a3",
+        "etag": "\"dld8rfnx9jho-6tk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnx9jho-6tk\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8840|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8840,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Activity_RunLetter07.png",
+      "rank": 3,
+      "class": 1,
+      "name": "Stellar Trek's Letter"
+    },
+    "detail": {
+      "id": 415,
+      "name": "Stellar Trek's Letter",
+      "desc": "A token from the clothing store. Give it to Sjal during the 141 Friendship Fair event in exchange for rewards.",
+      "desc2": "Trek Leisurely Among the Stars!",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Activity_RunLetter07.png"
+    }
+  }
+}

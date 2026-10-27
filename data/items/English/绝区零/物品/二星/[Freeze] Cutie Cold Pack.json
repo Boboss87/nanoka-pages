@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1001111",
+    "name": "[Freeze] Cutie Cold Pack",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardFrozen10.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardFrozen10.webp",
+        "localPath": "gallery/zzz/CardFrozen10.webp",
+        "sha256": "d26cc8c3f0adfbe09084c10cb4b126abb9c1f6c606c96f9d719dad151f92c36a",
+        "etag": "\"dld8rfqni6ks-b9o\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqni6ks-b9o\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14604|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14604,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardFrozen10.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardFrozen10.webp",
+        "localPath": "gallery/zzz/CardFrozen10.webp",
+        "sha256": "d26cc8c3f0adfbe09084c10cb4b126abb9c1f6c606c96f9d719dad151f92c36a",
+        "etag": "\"dld8rfqni6ks-b9o\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqni6ks-b9o\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14604|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14604,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardFrozen10.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[Freeze] Cutie Cold Pack"
+    },
+    "detail": {
+      "id": 1001111,
+      "name": "[Freeze] Cutie Cold Pack",
+      "desc": "Agent <color=#98EFF0>Ice DMG</color> increases by <color=#2BAD00>15%</color>.",
+      "desc2": "Everyone loves it for its ice-cold touch. It's even popular among cats and dogs.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardFrozen10.png"
+    }
+  }
+}

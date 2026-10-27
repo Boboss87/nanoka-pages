@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "110005",
+    "name": "Sycophant's Refinement",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "ExBigBoss005",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ExBigBoss005.webp",
+        "localPath": "gallery/zzz/ExBigBoss005.webp",
+        "sha256": "be83300d1af4ddd693574a48882fa79115d94d5133a7d9afeb4662b8a5e626b6",
+        "etag": "\"dld8rftbyirs-khtc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rftbyirs-khtc\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=956208|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 956208,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "ExBigBoss005",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ExBigBoss005.webp",
+        "localPath": "gallery/zzz/ExBigBoss005.webp",
+        "sha256": "be83300d1af4ddd693574a48882fa79115d94d5133a7d9afeb4662b8a5e626b6",
+        "etag": "\"dld8rftbyirs-khtc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rftbyirs-khtc\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=956208|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 956208,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "ExBigBoss005",
+      "rank": 4,
+      "class": 10,
+      "name": "Sycophant's Refinement",
+      "boss": true
+    },
+    "detail": {
+      "id": 110005,
+      "name": "Sycophant's Refinement",
+      "desc": "An important item required to upgrade your Agent's advanced Core Skills.",
+      "desc2": "A rare form of Etheric coagulum obtained from \"Sacrifice\" Bringer. There is no explanation, and further investigation is prohibited. This is Ether in a bizarre form, whispering to those who desire it of the consequences of greed.",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 4,
+      "icon_path": "ExBigBoss005",
+      "boss": true
+    }
+  }
+}

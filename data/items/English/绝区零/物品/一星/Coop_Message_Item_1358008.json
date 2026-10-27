@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1358008",
+    "name": "Coop_Message_Item_1358008",
+    "rarity": "一星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 1,
+      "class": 108,
+      "name": "Coop_Message_Item_1358008"
+    },
+    "detail": {
+      "id": 1358008,
+      "name": "Coop_Message_Item_1358008",
+      "desc": "Coop_Message_Item_Desc_1358008",
+      "desc2": "",
+      "class": {
+        "108": "STICKER"
+      },
+      "rarity": 1,
+      "icon_path": ""
+    }
+  }
+}

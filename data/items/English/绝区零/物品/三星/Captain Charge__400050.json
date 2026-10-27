@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "400050",
+    "name": "Captain Charge",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill44.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivePropsSkill44.webp",
+        "localPath": "gallery/zzz/ActivePropsSkill44.webp",
+        "sha256": "ec15f715207c67d3622fa6483f3c089313076ff3a4444e7e26b613a7cf490ebe",
+        "etag": "\"dld8rfnw2o89-3je\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnw2o89-3je\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=4586|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4586,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill44.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivePropsSkill44.webp",
+        "localPath": "gallery/zzz/ActivePropsSkill44.webp",
+        "sha256": "ec15f715207c67d3622fa6483f3c089313076ff3a4444e7e26b613a7cf490ebe",
+        "etag": "\"dld8rfnw2o89-3je\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnw2o89-3je\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=4586|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4586,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill44.png",
+      "rank": 3,
+      "class": 15,
+      "name": "Captain Charge"
+    },
+    "detail": {
+      "id": 400050,
+      "name": "Captain Charge",
+      "desc": "Consumes energy to break through rocky obstacles. Offers further increased destruction speed and destroys extremely hard obstacles.",
+      "desc2": "",
+      "class": {
+        "15": "HOLLOW ITEM"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill44.png"
+    }
+  }
+}

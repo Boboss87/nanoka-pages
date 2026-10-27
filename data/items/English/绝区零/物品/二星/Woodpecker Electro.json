@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "831020",
+    "name": "Woodpecker Electro",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitWoodpeckerElectro_B.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitWoodpeckerElectro_B.webp",
+        "localPath": "gallery/zzz/ItemSuitWoodpeckerElectro_B.webp",
+        "sha256": "a609298e3aa30f2f755e3b6e4d053d0913d56c486ee66b7fac57f93fa3b63c88",
+        "etag": "\"dld8rgezxb5q-7h2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgezxb5q-7h2\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9686|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9686,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitWoodpeckerElectro_B.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitWoodpeckerElectro_B.webp",
+        "localPath": "gallery/zzz/ItemSuitWoodpeckerElectro_B.webp",
+        "sha256": "a609298e3aa30f2f755e3b6e4d053d0913d56c486ee66b7fac57f93fa3b63c88",
+        "etag": "\"dld8rgezxb5q-7h2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgezxb5q-7h2\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9686|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9686,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitWoodpeckerElectro_B.png",
+      "rank": 2,
+      "class": 28,
+      "name": "Woodpecker Electro"
+    },
+    "detail": {
+      "id": 831020,
+      "name": "Woodpecker Electro",
+      "desc": "",
+      "desc2": "A Drive Disc so hot it's gone viral. Even ordinary citizens who don't enter the Hollows will do anything to get their hands on it. The tunes burned on it are absolutely captivating.",
+      "class": {
+        "28": "DISK"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitWoodpeckerElectro_B.png"
+    }
+  }
+}

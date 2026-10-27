@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "100223",
+    "name": "Advanced Anomaly Certification Seal",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AvatarRankBuff02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AvatarRankBuff02.webp",
+        "localPath": "gallery/zzz/AvatarRankBuff02.webp",
+        "sha256": "5a8103a7e6ffc2c5bf658e26bc14179639f67985c28aa0e7324b8e96bbda8dad",
+        "etag": "\"dld8rfo08pn8-7by\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfo08pn8-7by\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9502|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9502,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AvatarRankBuff02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AvatarRankBuff02.webp",
+        "localPath": "gallery/zzz/AvatarRankBuff02.webp",
+        "sha256": "5a8103a7e6ffc2c5bf658e26bc14179639f67985c28aa0e7324b8e96bbda8dad",
+        "etag": "\"dld8rfo08pn8-7by\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfo08pn8-7by\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9502|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9502,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AvatarRankBuff02.png",
+      "rank": 2,
+      "class": 10,
+      "name": "Advanced Anomaly Certification Seal"
+    },
+    "detail": {
+      "id": 100223,
+      "name": "Advanced Anomaly Certification Seal",
+      "desc": "Increases the Agent level cap for Anomaly-specialty Agents to 40.",
+      "desc2": "Whether in the eyes of investigators or Hollow Raiders, this certification seal indicates the owner's rich experience in Anomaly tactics. The seal itself also contains a small amount of benign Ether inside which can be useful when improving an Agent's combat abilities.",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AvatarRankBuff02.png"
+    }
+  }
+}

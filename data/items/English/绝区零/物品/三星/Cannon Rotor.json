@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "14001",
+    "name": "Cannon Rotor",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_Common_01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_S_Common_01.webp",
+        "localPath": "gallery/zzz/Weapon_S_Common_01.webp",
+        "sha256": "a2893b83dadb1858a404cfdf26a820b6caa8cc77a6c45a18d0c7eb7147b0ca65",
+        "etag": "\"dld8rgqnoew7-uca\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgqnoew7-uca\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=39322|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 39322,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_Common_01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_S_Common_01.webp",
+        "localPath": "gallery/zzz/Weapon_S_Common_01.webp",
+        "sha256": "a2893b83dadb1858a404cfdf26a820b6caa8cc77a6c45a18d0c7eb7147b0ca65",
+        "etag": "\"dld8rgqnoew7-uca\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgqnoew7-uca\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=39322|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 39322,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_Common_01.png",
+      "rank": 3,
+      "class": 5,
+      "name": "Cannon Rotor"
+    },
+    "detail": {
+      "id": 14001,
+      "name": "Cannon Rotor",
+      "desc": "Equip to increase Attack Agents' combat capabilities",
+      "desc2": "A high-performance supercomputing W-Engine, capable of collecting real-time battlefield data and equipped with mini cannons.",
+      "class": {
+        "5": "W-ENGINE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_Common_01.png"
+    }
+  }
+}

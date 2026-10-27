@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "401",
+    "name": "Doggy Voucher",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ArcadeGameToken01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ArcadeGameToken01.webp",
+        "localPath": "gallery/zzz/ArcadeGameToken01.webp",
+        "sha256": "39c50918a10572e7856556f89b4a5da4141bf4bd47565d2fd51fb006893c94ff",
+        "etag": "\"dld8rfnx9jho-7ci\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnx9jho-7ci\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9522|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9522,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ArcadeGameToken01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ArcadeGameToken01.webp",
+        "localPath": "gallery/zzz/ArcadeGameToken01.webp",
+        "sha256": "39c50918a10572e7856556f89b4a5da4141bf4bd47565d2fd51fb006893c94ff",
+        "etag": "\"dld8rfnx9jho-7ci\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnx9jho-7ci\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9522|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9522,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ArcadeGameToken01.png",
+      "rank": 3,
+      "class": 1,
+      "name": "Doggy Voucher"
+    },
+    "detail": {
+      "id": 401,
+      "name": "Doggy Voucher",
+      "desc": "A voucher obtained in the Soul Hounds III special event. Can exchange for rewards at the Godfinger Arcade.",
+      "desc2": "When you gaze long into an abyss, the abyss gazes also into you.",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ArcadeGameToken01.png"
+    }
+  }
+}

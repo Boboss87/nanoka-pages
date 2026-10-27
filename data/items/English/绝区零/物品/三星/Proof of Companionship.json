@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3321411",
+    "name": "Proof of Companionship",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "Proof of Companionship"
+    },
+    "detail": {
+      "id": 3321411,
+      "name": "Proof of Companionship",
+      "desc": "Get by unlocking Ukinami Yuzuha's Mindscape: Put Down Roots.",
+      "desc2": "A student ID card with Ukinami Yuzuha's name and photo. It was retired when the school upgraded to chip-based cards.\n\"Even though we've got new IDs, the school's pretty lax — most of us still use both. With this, you could walk right in like you're one of us. I've actually always wanted to see what it'd be like to be classmates for a day.\"",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

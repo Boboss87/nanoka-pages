@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "53012",
+    "name": "Booressure",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece17.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconBangbooPiece17.webp",
+        "localPath": "gallery/zzz/IconBangbooPiece17.webp",
+        "sha256": "22e1fe25b2af43e493fb334bc5a007c8b995893f104fe98dfe21c70c1a9953bd",
+        "etag": "\"dld8rg7c9a31-8va\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7c9a31-8va\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11494|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11494,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece17.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconBangbooPiece17.webp",
+        "localPath": "gallery/zzz/IconBangbooPiece17.webp",
+        "sha256": "22e1fe25b2af43e493fb334bc5a007c8b995893f104fe98dfe21c70c1a9953bd",
+        "etag": "\"dld8rg7c9a31-8va\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7c9a31-8va\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11494|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11494,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece17.png",
+      "rank": 3,
+      "class": 8,
+      "name": "Booressure"
+    },
+    "detail": {
+      "id": 53012,
+      "name": "Booressure",
+      "desc": "Obtain this Bangboo model or authorization to perform the Bangboo's core update.",
+      "desc2": "Understanding the mood of a conversation is key to becoming a Bangboo social expert.",
+      "class": {
+        "8": "BANGBOO"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece17.png"
+    }
+  }
+}

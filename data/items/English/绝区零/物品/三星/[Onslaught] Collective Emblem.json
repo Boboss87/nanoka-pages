@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1001412",
+    "name": "[Onslaught] Collective Emblem",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardUtensil00.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardUtensil00.webp",
+        "localPath": "gallery/zzz/CardUtensil00.webp",
+        "sha256": "bce3b2aca1726cd6f1be3244fbd6bfba8cac7135d74b15eac6f73cb5b349fbf4",
+        "etag": "\"dld8rfr75ie8-co8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr75ie8-co8\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16424|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16424,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardUtensil00.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardUtensil00.webp",
+        "localPath": "gallery/zzz/CardUtensil00.webp",
+        "sha256": "bce3b2aca1726cd6f1be3244fbd6bfba8cac7135d74b15eac6f73cb5b349fbf4",
+        "etag": "\"dld8rfr75ie8-co8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr75ie8-co8\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16424|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16424,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardUtensil00.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Onslaught] Collective Emblem"
+    },
+    "detail": {
+      "id": 1001412,
+      "name": "[Onslaught] Collective Emblem",
+      "desc": "Increases the chance for [Onslaught] Resonia to appear.",
+      "desc2": "Kindred spirits gather, and emblems fall into groups.\nHooks, axes, hammers, chisels, shovels, saws, scissors... We've got all the tools.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardUtensil00.png"
+    }
+  }
+}

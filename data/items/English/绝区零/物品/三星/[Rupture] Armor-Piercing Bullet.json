@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1006001",
+    "name": "[Rupture] Armor-Piercing Bullet",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardRuin.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardRuin.webp",
+        "localPath": "gallery/zzz/CardRuin.webp",
+        "sha256": "896dcd2a034bd424535f94df6fdb22cd9b290446028fe1cd0b89d1788b4efa8b",
+        "etag": "\"dld8rfqy7zxk-c2s\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqy7zxk-c2s\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15652|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15652,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardRuin.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardRuin.webp",
+        "localPath": "gallery/zzz/CardRuin.webp",
+        "sha256": "896dcd2a034bd424535f94df6fdb22cd9b290446028fe1cd0b89d1788b4efa8b",
+        "etag": "\"dld8rfqy7zxk-c2s\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqy7zxk-c2s\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15652|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15652,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardRuin.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Rupture] Armor-Piercing Bullet"
+    },
+    "detail": {
+      "id": 1006001,
+      "name": "[Rupture] Armor-Piercing Bullet",
+      "desc": "Agent Sheer DMG <color=#2BAD00>increases by 15%</color>.",
+      "desc2": "Depleted uranium alloy, straight to the core.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardRuin.png"
+    }
+  }
+}

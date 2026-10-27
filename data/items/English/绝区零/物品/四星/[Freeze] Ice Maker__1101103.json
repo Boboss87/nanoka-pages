@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1101103",
+    "name": "[Freeze] Ice Maker",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardFrozen09.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardFrozen09.webp",
+        "localPath": "gallery/zzz/CardFrozen09.webp",
+        "sha256": "4dbe8d10be0acd5e521c517ae99e678bcd958c372a882b7a2afadf9a543ebd81",
+        "etag": "\"dld8rfqni6ks-ba6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqni6ks-ba6\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14622|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14622,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardFrozen09.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardFrozen09.webp",
+        "localPath": "gallery/zzz/CardFrozen09.webp",
+        "sha256": "4dbe8d10be0acd5e521c517ae99e678bcd958c372a882b7a2afadf9a543ebd81",
+        "etag": "\"dld8rfqni6ks-ba6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqni6ks-ba6\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14622|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14622,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardFrozen09.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Freeze] Ice Maker"
+    },
+    "detail": {
+      "id": 1101103,
+      "name": "[Freeze] Ice Maker",
+      "desc": "<color=#98EFF0>Freezing</color> an enemy increases all squad members' CRIT DMG by <color=#2BAD00>60%</color> for 15s.",
+      "desc2": "Work hard turning the handle until you work up a sweat and a thirst. That's when the true value of ice cubes becomes apparent.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardFrozen09.png"
+    }
+  }
+}

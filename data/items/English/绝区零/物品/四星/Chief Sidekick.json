@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "14157",
+    "name": "Chief Sidekick",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1571.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_S_1571.webp",
+        "localPath": "gallery/zzz/Weapon_S_1571.webp",
+        "sha256": "67be79e0f9f85b75a4d64b28e59560256946801333fc31eac114a0545c0b657b",
+        "etag": "\"dld8rgqibi7t-unq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgqibi7t-unq\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=39734|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 39734,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1571.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_S_1571.webp",
+        "localPath": "gallery/zzz/Weapon_S_1571.webp",
+        "sha256": "67be79e0f9f85b75a4d64b28e59560256946801333fc31eac114a0545c0b657b",
+        "etag": "\"dld8rgqibi7t-unq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgqibi7t-unq\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=39734|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 39734,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1571.png",
+      "rank": 4,
+      "class": 5,
+      "name": "Chief Sidekick"
+    },
+    "detail": {
+      "id": 14157,
+      "name": "Chief Sidekick",
+      "desc": "Equip to increase Stun Agents' combat capabilities",
+      "desc2": "Nhe-nha ehn ne! (Through fire and flames for Lady Norma!)",
+      "class": {
+        "5": "W-ENGINE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1571.png"
+    }
+  }
+}

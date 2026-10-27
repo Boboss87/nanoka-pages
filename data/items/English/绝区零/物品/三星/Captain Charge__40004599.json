@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "40004599",
+    "name": "Captain Charge",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/ItemIcon/UnPacker/IconUpgradeBox03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconUpgradeBox03.webp",
+        "localPath": "gallery/zzz/IconUpgradeBox03.webp",
+        "sha256": "d1be52b463293ec354b2905cbf22e8983ca533845a53e4bf69347fd1b2845bf3",
+        "etag": "\"dld8rgedw8tg-6p4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgedw8tg-6p4\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8680|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8680,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/ItemIcon/UnPacker/IconUpgradeBox03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconUpgradeBox03.webp",
+        "localPath": "gallery/zzz/IconUpgradeBox03.webp",
+        "sha256": "d1be52b463293ec354b2905cbf22e8983ca533845a53e4bf69347fd1b2845bf3",
+        "etag": "\"dld8rgedw8tg-6p4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgedw8tg-6p4\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8680|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8680,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/ItemIcon/UnPacker/IconUpgradeBox03.png",
+      "rank": 3,
+      "class": 37,
+      "name": "Captain Charge"
+    },
+    "detail": {
+      "id": 40004599,
+      "name": "Captain Charge",
+      "desc": "It increases the destructive efficiency and power to the maximum, and can consume Ether energy to perform \"charge skills\".",
+      "desc2": "",
+      "class": {
+        "37": "HOLLOW ONLY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/ItemIcon/UnPacker/IconUpgradeBox03.png"
+    }
+  }
+}

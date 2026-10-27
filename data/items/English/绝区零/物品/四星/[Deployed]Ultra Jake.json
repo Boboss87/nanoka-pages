@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1044022",
+    "name": "[Deployed]Ultra Jake",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooUltraboo.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBangbooUltraboo.webp",
+        "localPath": "gallery/zzz/CardBangbooUltraboo.webp",
+        "sha256": "89e90121e1f730332813f60bf02e9364f59e5ad4541f7da9f7bb45067cf4a5f9",
+        "etag": "\"dld8rfq3uurd-bg8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq3uurd-bg8\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14840|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14840,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooUltraboo.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBangbooUltraboo.webp",
+        "localPath": "gallery/zzz/CardBangbooUltraboo.webp",
+        "sha256": "89e90121e1f730332813f60bf02e9364f59e5ad4541f7da9f7bb45067cf4a5f9",
+        "etag": "\"dld8rfq3uurd-bg8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq3uurd-bg8\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14840|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14840,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooUltraboo.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Deployed]Ultra Jake"
+    },
+    "detail": {
+      "id": 1044022,
+      "name": "[Deployed]Ultra Jake",
+      "desc": "Active Skill: Upon activating this skill, enters a Flying state and continuously fires at the target enemy, dealing <color=#FF5521>Fire DMG</color> and accumulating <color=#FF5521>Fire Anomaly Buildup</color>.",
+      "desc2": "<color=#FFFFFF>Bangboo Chain Attack: Fires a charged hand cannon, dealing massive <color=#FF5521>Fire DMG</color> to enemies in range and accumulating <color=#FF5521>Fire Anomaly Buildup</color>.</color>",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooUltraboo.png"
+    }
+  }
+}

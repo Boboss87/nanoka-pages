@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4151043",
+    "name": "Rubber",
+    "rarity": "一星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianAttireMaterial03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianAttireMaterial03.webp",
+        "localPath": "gallery/zzz/SuibianAttireMaterial03.webp",
+        "sha256": "43fe37951b30db7900695270a24732f47b8239a106035e6b55e1c688ecf31bc4",
+        "etag": "\"dld8rgoepd3n-69g\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoepd3n-69g\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8116|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8116,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianAttireMaterial03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianAttireMaterial03.webp",
+        "localPath": "gallery/zzz/SuibianAttireMaterial03.webp",
+        "sha256": "43fe37951b30db7900695270a24732f47b8239a106035e6b55e1c688ecf31bc4",
+        "etag": "\"dld8rgoepd3n-69g\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoepd3n-69g\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8116|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8116,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianAttireMaterial03.png",
+      "rank": 1,
+      "class": 90,
+      "name": "Rubber"
+    },
+    "detail": {
+      "id": 4151043,
+      "name": "Rubber",
+      "desc": "Materials needed for crafting the Focused Bracers.",
+      "desc2": "Natural rubber with high elasticity and pressure distribution.",
+      "class": {
+        "90": "Resource"
+      },
+      "rarity": 1,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianAttireMaterial03.png"
+    }
+  }
+}

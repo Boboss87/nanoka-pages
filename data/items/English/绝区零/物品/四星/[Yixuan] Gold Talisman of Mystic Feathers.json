@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1350083",
+    "name": "[Yixuan] Gold Talisman of Mystic Feathers",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic037.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic037.webp",
+        "localPath": "gallery/zzz/Relic037.webp",
+        "sha256": "10679703e62c5162c9750b0d59152c09a34b3b20c7be6f351b3ff35434fd536e",
+        "etag": "\"dld8rgo0exym-40o\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo0exym-40o\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5208|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5208,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic037.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic037.webp",
+        "localPath": "gallery/zzz/Relic037.webp",
+        "sha256": "10679703e62c5162c9750b0d59152c09a34b3b20c7be6f351b3ff35434fd536e",
+        "etag": "\"dld8rgo0exym-40o\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo0exym-40o\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5208|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5208,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic037.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Yixuan] Gold Talisman of Mystic Feathers"
+    },
+    "detail": {
+      "id": 1350083,
+      "name": "[Yixuan] Gold Talisman of Mystic Feathers",
+      "desc": "While charging EX Special Attack: Ink Manifestation, Perfect Block can be triggered, after which additionally restores 15 Technique Points and gains <color=#2BAD00>18% DMG boost</color> that lasts for 15s. Each Perfect Block against an enemy increases the next Ultimate <color=#2BAD00>DMG by 20%</color>, stacking up to 3 times.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic037.png"
+    }
+  }
+}

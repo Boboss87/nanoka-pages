@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000953",
+    "name": "[Affinity] Hostile Wake-Over",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1191.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1191.webp",
+        "localPath": "gallery/zzz/CardDailyUse1191.webp",
+        "sha256": "f2bfff7ed53d9f8e27862ab610309cd199ce7158ea87045918e71b51009088a6",
+        "etag": "\"dld8rfqeko45-bbg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqeko45-bbg\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14668|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14668,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1191.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1191.webp",
+        "localPath": "gallery/zzz/CardDailyUse1191.webp",
+        "sha256": "f2bfff7ed53d9f8e27862ab610309cd199ce7158ea87045918e71b51009088a6",
+        "etag": "\"dld8rfqeko45-bbg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqeko45-bbg\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14668|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14668,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1191.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Affinity] Hostile Wake-Over"
+    },
+    "detail": {
+      "id": 1000953,
+      "name": "[Affinity] Hostile Wake-Over",
+      "desc": "Ellen has evoked the Mindscape: <color=#FFAF2C>[Arctic Ocean Predator]</color>. After launching a Dash Attack or Dodge Counter, your character can <color=#2BAD00>immediately follow up with</color> certain attacks near the end of the Basic Attack combo.\nArctic Ocean Predator: The 3rd hit of <color=#FFFFFF>Basic Attack: Flash Freeze Trimming</color> can be directly followed up with <color=#FFFFFF>EX Special Attack: Sharknami</color>. For each point of <color=#FFFFFF>Flash Freeze Charge</color> when using an <color=#FFFFFF>EX Special Attack</color>, the current attack's CRIT DMG is increased by 20%, up to a max of 60%.",
+      "desc2": "The bad news is that Ellen did not get a good night's sleep. The good news is that she's now refreshed and eager to clear any obstacles for the next night's quality sleep.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1191.png"
+    }
+  }
+}

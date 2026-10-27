@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "834140",
+    "name": "Feathered Fate",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitFeatheredFate_S.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitFeatheredFate_S.webp",
+        "localPath": "gallery/zzz/ItemSuitFeatheredFate_S.webp",
+        "sha256": "731583bfa45ca79034c324095434fa13eea29397a2315df89b7be4a16baee27b",
+        "etag": "\"dld8rgepsxfo-7j8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgepsxfo-7j8\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9764|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9764,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitFeatheredFate_S.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitFeatheredFate_S.webp",
+        "localPath": "gallery/zzz/ItemSuitFeatheredFate_S.webp",
+        "sha256": "731583bfa45ca79034c324095434fa13eea29397a2315df89b7be4a16baee27b",
+        "etag": "\"dld8rgepsxfo-7j8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgepsxfo-7j8\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9764|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9764,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitFeatheredFate_S.png",
+      "rank": 4,
+      "class": 28,
+      "name": "Feathered Fate"
+    },
+    "detail": {
+      "id": 834140,
+      "name": "Feathered Fate",
+      "desc": "",
+      "desc2": "An ancient folk song. Some claim it's been sung since the founding of Eridu, though no historical records support that claim.",
+      "class": {
+        "28": "DISK"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitFeatheredFate_S.png"
+    }
+  }
+}

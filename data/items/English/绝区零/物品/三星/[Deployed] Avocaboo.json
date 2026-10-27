@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1043008",
+    "name": "[Deployed] Avocaboo",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooAvocaboo.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBangbooAvocaboo.webp",
+        "localPath": "gallery/zzz/CardBangbooAvocaboo.webp",
+        "sha256": "faf118efa1d4f7311641aa0a408646c028535f99f78773ebdabba42089ef9b5a",
+        "etag": "\"dld8rfq0volu-bhy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq0volu-bhy\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14902|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14902,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooAvocaboo.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBangbooAvocaboo.webp",
+        "localPath": "gallery/zzz/CardBangbooAvocaboo.webp",
+        "sha256": "faf118efa1d4f7311641aa0a408646c028535f99f78773ebdabba42089ef9b5a",
+        "etag": "\"dld8rfq0volu-bhy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq0volu-bhy\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14902|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14902,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooAvocaboo.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Deployed] Avocaboo"
+    },
+    "detail": {
+      "id": 1043008,
+      "name": "[Deployed] Avocaboo",
+      "desc": "Active Skill: Shoots juice bullets at the character currently on the battlefield. If the bullet misses, the juice will remain on the ground for a while. Characters coming into contact with the juice will recover HP. The recovery effect can only trigger up to 15 times per combat.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooAvocaboo.png"
+    }
+  }
+}

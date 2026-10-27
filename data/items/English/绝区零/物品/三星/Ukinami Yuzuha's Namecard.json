@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3311411",
+    "name": "Ukinami Yuzuha's Namecard",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "Ukinami Yuzuha's Namecard"
+    },
+    "detail": {
+      "id": 3311411,
+      "name": "Ukinami Yuzuha's Namecard",
+      "desc": "Get by unlocking Ukinami Yuzuha's Mindscape: Fairytale of the Haunted City.",
+      "desc2": "A business card from Mystic Wares, with Ukinami Yuzuha's name and phone number handwritten on the back.\nCall the number, and you'll be greeted by Baorong's deep, booming voice as the custom ringtone. It's a bit startling, but according to Yuzuha, it's not a prank — it's just an effective way to fend off telemarketers.",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

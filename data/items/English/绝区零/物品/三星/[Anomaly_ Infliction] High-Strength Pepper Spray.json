@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1370303",
+    "name": "[Anomaly: Infliction] High-Strength Pepper Spray",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardAnomalyS203.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardAnomalyS203.webp",
+        "localPath": "gallery/zzz/CardAnomalyS203.webp",
+        "sha256": "f9d94b8c22f178724c6f65a619185ae9e6ff6b82073a2b9d44b30f89753076a9",
+        "etag": "\"dld8rfpxb2tk-cn8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpxb2tk-cn8\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16388|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16388,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardAnomalyS203.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardAnomalyS203.webp",
+        "localPath": "gallery/zzz/CardAnomalyS203.webp",
+        "sha256": "f9d94b8c22f178724c6f65a619185ae9e6ff6b82073a2b9d44b30f89753076a9",
+        "etag": "\"dld8rfpxb2tk-cn8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpxb2tk-cn8\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16388|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16388,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardAnomalyS203.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Anomaly: Infliction] High-Strength Pepper Spray"
+    },
+    "detail": {
+      "id": 1370303,
+      "name": "[Anomaly: Infliction] High-Strength Pepper Spray",
+      "desc": "When an Attribute Anomaly is triggered, the whole squad either <color=#2BAD00>recovers 7 Energy</color>, <color=#2BAD00>recovers 9 Adrenaline</color>, or <color=#2BAD00>recovers 7 Sharpness</color>. This effect can trigger once every 5s.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardAnomalyS203.png"
+    }
+  }
+}

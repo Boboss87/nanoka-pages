@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1001406",
+    "name": "[Onslaught] Steel File",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardUtensil06.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardUtensil06.webp",
+        "localPath": "gallery/zzz/CardUtensil06.webp",
+        "sha256": "d8ff5b64302eb59e8d36d19c446280b9489a3290d48541091fc6e89ab13f5c61",
+        "etag": "\"dld8rfr7qy0x-cgi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr7qy0x-cgi\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16146|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16146,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardUtensil06.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardUtensil06.webp",
+        "localPath": "gallery/zzz/CardUtensil06.webp",
+        "sha256": "d8ff5b64302eb59e8d36d19c446280b9489a3290d48541091fc6e89ab13f5c61",
+        "etag": "\"dld8rfr7qy0x-cgi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr7qy0x-cgi\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16146|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16146,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardUtensil06.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Onslaught] Steel File"
+    },
+    "detail": {
+      "id": 1001406,
+      "name": "[Onslaught] Steel File",
+      "desc": "Triggering Perfect Assist increases the Agent's <color=#F0D12B>Physical DMG</color> by <color=#2BAD00>30%</color> for 15s.",
+      "desc2": "The term \"grind\" beautifully encapsulates the idea of complete and extreme destruction.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardUtensil06.png"
+    }
+  }
+}

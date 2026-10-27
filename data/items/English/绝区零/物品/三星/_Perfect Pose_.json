@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3321081",
+    "name": "\"Perfect Pose\"",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "\"Perfect Pose\""
+    },
+    "detail": {
+      "id": 3321081,
+      "name": "\"Perfect Pose\"",
+      "desc": "Get by unlocking Billy's Mindscape: Starlight Hero",
+      "desc2": "A card with Billy's personal photo printed on it.\n\"Proxy! How'd ya like my perfect pose... Hey hey hey, c'mon now! I say, c'mon now — I can't hold this all day! Ah!\"\n\"Didja geddit, didja geddit? Did you manage to get my high-density alloy abs in the shot?\"",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

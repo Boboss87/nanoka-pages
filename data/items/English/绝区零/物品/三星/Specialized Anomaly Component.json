@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "101032",
+    "name": "Specialized Anomaly Component",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponRankBuff03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/WeaponRankBuff03.webp",
+        "localPath": "gallery/zzz/WeaponRankBuff03.webp",
+        "sha256": "01b996cb57553e3d58de60d2e0ace33071d4f41987607098e7d5152350b4161f",
+        "etag": "\"dld8rgox5tnn-6s8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgox5tnn-6s8\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8792|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8792,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponRankBuff03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/WeaponRankBuff03.webp",
+        "localPath": "gallery/zzz/WeaponRankBuff03.webp",
+        "sha256": "01b996cb57553e3d58de60d2e0ace33071d4f41987607098e7d5152350b4161f",
+        "etag": "\"dld8rgox5tnn-6s8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgox5tnn-6s8\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8792|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8792,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponRankBuff03.png",
+      "rank": 3,
+      "class": 10,
+      "name": "Specialized Anomaly Component"
+    },
+    "detail": {
+      "id": 101032,
+      "name": "Specialized Anomaly Component",
+      "desc": "Increases an Anomaly model W-Engine's level cap to 60.",
+      "desc2": "A specialized W-Engine component crafted from composite Etheric matter. Equipped with adaptive frequency modulation, enabling resonance with Ether across a spectrum of complex environments, it ensures consistent and superior sonic power delivery for Anomaly model W-Engines.",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponRankBuff03.png"
+    }
+  }
+}

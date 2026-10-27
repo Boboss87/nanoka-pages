@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3301015",
+    "name": "\"To Be Continued\"",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard31.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard31.webp",
+        "localPath": "gallery/zzz/Callingcard31.webp",
+        "sha256": "bcd2d96925d8b0486635fbd23319e8dc6ab77963c4c40aed6b70eae1e144d61f",
+        "etag": "\"dld8rfpqravr-7dk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpqravr-7dk\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9560|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9560,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard31.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard31.webp",
+        "localPath": "gallery/zzz/Callingcard31.webp",
+        "sha256": "bcd2d96925d8b0486635fbd23319e8dc6ab77963c4c40aed6b70eae1e144d61f",
+        "etag": "\"dld8rfpqravr-7dk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpqravr-7dk\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9560|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9560,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard31.png",
+      "rank": 3,
+      "class": 65,
+      "name": "\"To Be Continued\""
+    },
+    "detail": {
+      "id": 3301015,
+      "name": "\"To Be Continued\"",
+      "desc": "A namecard reward for the limited-time event \"Neo Golden Mecha.\"\nLimited-time reward.",
+      "desc2": "To give wings to an unfinished dream, waiting for it to become a shooting star beneath the night sky. To boast before my younger, naive self, swearing I'd witness the brightest dawn.\nAnd when I look back, that golden dream still stands, watching beyond the horizon — we never truly left our childhood behind.\n\"Golden Mecha, stand tall upon the earth!\"",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard31.png"
+    }
+  }
+}

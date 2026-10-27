@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4334404",
+    "name": "Etheric Phantom: Primordial Nightmare",
+    "rarity": "五星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_MonsterSkill_008_Z.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_MonsterSkill_008_Z.webp",
+        "localPath": "gallery/zzz/Zenkov_MonsterSkill_008_Z.webp",
+        "sha256": "4291f0ed02c469efd5d8e50fdc04b7ec63a10042452aa235f16f0249a6b4c67f",
+        "etag": "\"dld8rgrc37rb-81g\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrc37rb-81g\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10420|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10420,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_MonsterSkill_008_Z.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_MonsterSkill_008_Z.webp",
+        "localPath": "gallery/zzz/Zenkov_MonsterSkill_008_Z.webp",
+        "sha256": "4291f0ed02c469efd5d8e50fdc04b7ec63a10042452aa235f16f0249a6b4c67f",
+        "etag": "\"dld8rgrc37rb-81g\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrc37rb-81g\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10420|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10420,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_MonsterSkill_008_Z.png",
+      "rank": 5,
+      "class": 133,
+      "name": "Etheric Phantom: Primordial Nightmare"
+    },
+    "detail": {
+      "id": 4334404,
+      "name": "Etheric Phantom: Primordial Nightmare",
+      "desc": "Use this item to transform into a phantom of the <color=#FFAF2C>Primordial Nightmare</color>, dealing DMG equal to <color=#2BAD00>100%</color>/<color=#2BAD00>100%</color>/<color=#2BAD00>35%</color> of Max HP to normal/elite/boss enemies, respectively.",
+      "desc2": "",
+      "class": {
+        "133": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_MonsterSkill_008_Z.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "32926",
+    "name": "Shadow Harmony [6]",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitShadow_B.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitShadow_B.webp",
+        "localPath": "gallery/zzz/ItemSuitShadow_B.webp",
+        "sha256": "d0141fbf757e8120ee006bb290092f37b2d72feadc279513a3eebfe2416c353b",
+        "etag": "\"dld8rgev5u42-7r8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgev5u42-7r8\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10052|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10052,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitShadow_B.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitShadow_B.webp",
+        "localPath": "gallery/zzz/ItemSuitShadow_B.webp",
+        "sha256": "d0141fbf757e8120ee006bb290092f37b2d72feadc279513a3eebfe2416c353b",
+        "etag": "\"dld8rgev5u42-7r8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgev5u42-7r8\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10052|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10052,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitShadow_B.png",
+      "rank": 2,
+      "class": 7,
+      "name": "Shadow Harmony [6]"
+    },
+    "detail": {
+      "id": 32926,
+      "name": "Shadow Harmony [6]",
+      "desc": "Equip to increase Agents' combat capabilities",
+      "desc2": "Your reason fades, it falls away,\nLike madness creeping, here to stay.\nYour twisted arms grow fierce and tight,\nLike danger lurking out of sight.\nYou've locked yourself in endless night,\nWhere even I can't reach your light.\nYou shut me out, you look away,\nSo let me speak before I stray...\nWhen light returns and breaks the gloom,\nYour shadow slips back into view.\nNo matter what, love, hate, or fear,\nI'll stay right here—I'm always near.",
+      "class": {
+        "7": "DISK"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitShadow_B.png"
+    }
+  }
+}

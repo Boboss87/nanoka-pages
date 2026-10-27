@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4200000",
+    "name": "A Tale Through the Looking Glass",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Activity_Note01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Activity_Note01.webp",
+        "localPath": "gallery/zzz/Activity_Note01.webp",
+        "sha256": "5aae1a42e6e6813927018dec7cbf13a1c89b8ce25f330a231b8aca90dee85b8d",
+        "etag": "\"dld8rfnwo3uy-6iy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnwo3uy-6iy\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8458|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8458,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Activity_Note01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Activity_Note01.webp",
+        "localPath": "gallery/zzz/Activity_Note01.webp",
+        "sha256": "5aae1a42e6e6813927018dec7cbf13a1c89b8ce25f330a231b8aca90dee85b8d",
+        "etag": "\"dld8rfnwo3uy-6iy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnwo3uy-6iy\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8458|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8458,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Activity_Note01.png",
+      "rank": 3,
+      "class": 72,
+      "name": "A Tale Through the Looking Glass"
+    },
+    "detail": {
+      "id": 4200000,
+      "name": "A Tale Through the Looking Glass",
+      "desc": "The story written by you and Zi Xu — it truly exists.",
+      "desc2": "You had a dream. Or perhaps, you've been inside the dream from the beginning. Stories once moved you, frightened you, made you shed tears — and in doing so, they became part of your life in reality. Where, then, does the line between fiction and reality lie?",
+      "class": {
+        "72": "MESSAGE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Activity_Note01.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "101015",
+    "name": "Rupture Component",
+    "rarity": "一星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponRankRuin01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/WeaponRankRuin01.webp",
+        "localPath": "gallery/zzz/WeaponRankRuin01.webp",
+        "sha256": "237e609d95ec82936380f3a9984b21fce910494a84a0303b3496791634ba107b",
+        "etag": "\"dld8rgoxr9ad-6ma\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoxr9ad-6ma\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8578|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8578,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponRankRuin01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/WeaponRankRuin01.webp",
+        "localPath": "gallery/zzz/WeaponRankRuin01.webp",
+        "sha256": "237e609d95ec82936380f3a9984b21fce910494a84a0303b3496791634ba107b",
+        "etag": "\"dld8rgoxr9ad-6ma\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoxr9ad-6ma\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8578|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8578,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponRankRuin01.png",
+      "rank": 1,
+      "class": 10,
+      "name": "Rupture Component"
+    },
+    "detail": {
+      "id": 101015,
+      "name": "Rupture Component",
+      "desc": "Increases a Rupture model W-Engine's level cap to 20.",
+      "desc2": "A W-Engine Component made of special metal materials, boasting excellent energy conversion efficiency. It provides ample power support for Rupture model W-Engines.",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 1,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponRankRuin01.png"
+    }
+  }
+}

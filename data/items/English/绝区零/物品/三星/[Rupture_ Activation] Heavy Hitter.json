@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1370502",
+    "name": "[Rupture: Activation] Heavy Hitter",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardRuptureS202.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardRuptureS202.webp",
+        "localPath": "gallery/zzz/CardRuptureS202.webp",
+        "sha256": "9c74cd0e800318417d155c92bc8b678712c6768e5e007814bbcb7b1b97a9ea35",
+        "etag": "\"dld8rfqy7zxk-c72\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqy7zxk-c72\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15806|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15806,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardRuptureS202.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardRuptureS202.webp",
+        "localPath": "gallery/zzz/CardRuptureS202.webp",
+        "sha256": "9c74cd0e800318417d155c92bc8b678712c6768e5e007814bbcb7b1b97a9ea35",
+        "etag": "\"dld8rfqy7zxk-c72\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqy7zxk-c72\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15806|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15806,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardRuptureS202.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Rupture: Activation] Heavy Hitter"
+    },
+    "detail": {
+      "id": 1370502,
+      "name": "[Rupture: Activation] Heavy Hitter",
+      "desc": "<color=#2BAD00>DMG increases by 37.5%</color> when Agent HP drops below 70%.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardRuptureS202.png"
+    }
+  }
+}

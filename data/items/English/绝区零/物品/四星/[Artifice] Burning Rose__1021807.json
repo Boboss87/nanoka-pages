@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1021807",
+    "name": "[Artifice] Burning Rose",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSample07.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardSample07.webp",
+        "localPath": "gallery/zzz/CardSample07.webp",
+        "sha256": "65edb19361d2dc5d4ceff2b79ad5c8d195316ddf43c688a628e284b2bea69907",
+        "etag": "\"dld8rfqytfka-ayo\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqytfka-ayo\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14208|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14208,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSample07.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardSample07.webp",
+        "localPath": "gallery/zzz/CardSample07.webp",
+        "sha256": "65edb19361d2dc5d4ceff2b79ad5c8d195316ddf43c688a628e284b2bea69907",
+        "etag": "\"dld8rfqytfka-ayo\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqytfka-ayo\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14208|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14208,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSample07.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Artifice] Burning Rose"
+    },
+    "detail": {
+      "id": 1021807,
+      "name": "[Artifice] Burning Rose",
+      "desc": "Attribute Anomaly DMG increases by <color=#2BAD00>60%</color>.",
+      "desc2": "A beautiful rose that can ignite and burn. Actually, it's just a fake flower with a fire starter in the stem.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSample07.png"
+    }
+  }
+}

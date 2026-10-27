@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4360003",
+    "name": "Porcelume Rings",
+    "rarity": "五星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_003.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_003.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_003.webp",
+        "sha256": "52aa732f33cc783a1b987ded1ebb3b7cd599f3d0b240d57f5cce2f629241cfbe",
+        "etag": "\"dld8rgr0ryrt-6ai\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr0ryrt-6ai\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8154|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8154,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_003.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_003.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_003.webp",
+        "sha256": "52aa732f33cc783a1b987ded1ebb3b7cd599f3d0b240d57f5cce2f629241cfbe",
+        "etag": "\"dld8rgr0ryrt-6ai\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr0ryrt-6ai\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8154|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8154,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_003.png",
+      "rank": 5,
+      "class": 130,
+      "name": "Porcelume Rings"
+    },
+    "detail": {
+      "id": 4360003,
+      "name": "Porcelume Rings",
+      "desc": "A ring made from Porcelume and certified by Buyan as a cultural specialty of the Waifei Peninsula. Rumor has it that wearing ten at once will earn you a special nickname among the locals: \"Moneybags!\"",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_003.png"
+    }
+  }
+}

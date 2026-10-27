@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3202016",
+    "name": "Simulated Annihilation: Terminus",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfileHardCoreBoss001.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemProfileHardCoreBoss001.webp",
+        "localPath": "gallery/zzz/ItemProfileHardCoreBoss001.webp",
+        "sha256": "bc949ac83a5ca9bdb4c05eb5a6cc2f8aba6eb8ac0529fdf6495f5de17b85534d",
+        "etag": "\"dld8rgejul4k-7og\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgejul4k-7og\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9952|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9952,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfileHardCoreBoss001.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemProfileHardCoreBoss001.webp",
+        "localPath": "gallery/zzz/ItemProfileHardCoreBoss001.webp",
+        "sha256": "bc949ac83a5ca9bdb4c05eb5a6cc2f8aba6eb8ac0529fdf6495f5de17b85534d",
+        "etag": "\"dld8rgejul4k-7og\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgejul4k-7og\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9952|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9952,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfileHardCoreBoss001.png",
+      "rank": 3,
+      "class": 64,
+      "name": "Simulated Annihilation: Terminus"
+    },
+    "detail": {
+      "id": 3202016,
+      "name": "Simulated Annihilation: Terminus",
+      "desc": "Annihilation Simulacrum commemorative avatar.",
+      "desc2": "\"Venture into certain death and seize the one who stands against ten thousand!\"\n\"...Uhh, Belle, this is only a data exercise. Maybe tone down the dramatic energy a little...\"",
+      "class": {
+        "64": "PROFILE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfileHardCoreBoss001.png"
+    }
+  }
+}

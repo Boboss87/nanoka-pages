@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1370103",
+    "name": "[Attack: Eradication] Total Eradication",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardAttackS203.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardAttackS203.webp",
+        "localPath": "gallery/zzz/CardAttackS203.webp",
+        "sha256": "d4ea1db096fbc4b69e3081d770d1cfe7833562b5093539ef5e87b41f57a62e20",
+        "etag": "\"dld8rfpz3dpp-csc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpz3dpp-csc\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16572|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16572,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardAttackS203.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardAttackS203.webp",
+        "localPath": "gallery/zzz/CardAttackS203.webp",
+        "sha256": "d4ea1db096fbc4b69e3081d770d1cfe7833562b5093539ef5e87b41f57a62e20",
+        "etag": "\"dld8rfpz3dpp-csc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpz3dpp-csc\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16572|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16572,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardAttackS203.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Attack: Eradication] Total Eradication"
+    },
+    "detail": {
+      "id": 1370103,
+      "name": "[Attack: Eradication] Total Eradication",
+      "desc": "Agents <color=#2BAD00>ignore 20% of enemy DEF</color>.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardAttackS203.png"
+    }
+  }
+}

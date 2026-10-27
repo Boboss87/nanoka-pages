@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "equipment",
+    "pageFolder": "驱动盘",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/equipment.json",
+    "sourcePath": "3.3.12+19634983/equipment.json",
+    "sourceLocale": null,
+    "localeMode": "embedded",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/equipment/31200.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "31200",
+    "name": "Shockstar Disco",
+    "rarity": "未分类",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitShockstarDisco.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitShockstarDisco.webp",
+        "localPath": "gallery/zzz/SuitShockstarDisco.webp",
+        "sha256": "ba14a2ede5982ce91fad2f01c4fa9447e24b46aa36af93abb24ce1677380bff4",
+        "etag": "\"dld8rgoq0m35-76g\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoq0m35-76g\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9304|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9304,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitShockstarDisco.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitShockstarDisco.webp",
+        "localPath": "gallery/zzz/SuitShockstarDisco.webp",
+        "sha256": "ba14a2ede5982ce91fad2f01c4fa9447e24b46aa36af93abb24ce1677380bff4",
+        "etag": "\"dld8rgoq0m35-76g\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoq0m35-76g\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9304|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9304,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon2",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitShockstarDisco.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitShockstarDisco.webp",
+        "localPath": "gallery/zzz/SuitShockstarDisco.webp",
+        "sha256": "ba14a2ede5982ce91fad2f01c4fa9447e24b46aa36af93abb24ce1677380bff4",
+        "etag": "\"dld8rgoq0m35-76g\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoq0m35-76g\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9304|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9304,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitShockstarDisco.png",
+      "en": {
+        "name": "Shockstar Disco",
+        "desc2": "Impact +6%",
+        "desc4": "<color=#FFFFFF>Basic Attacks</color>, <color=#FFFFFF>Dash Attacks</color>, and <color=#FFFFFF>Dodge Counters</color> inflict 20% more Daze to the main target."
+      },
+      "ko": {
+        "name": "쇼크스타 디스코",
+        "desc2": "충격력+6%",
+        "desc4": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[대시 공격]</color>, <color=#FFFFFF>[회피 반격]</color>이 주요 공격 타깃에게 주는 그로기 수치가 20% 증가한다."
+      },
+      "zh": {
+        "name": "震星迪斯科",
+        "desc2": "冲击力+6%。",
+        "desc4": "<color=#FFFFFF>[普通攻击]</color>、<color=#FFFFFF>[冲刺攻击]</color>、<color=#FFFFFF>[闪避反击]</color>对主要攻击目标造成的失衡值提升20%。"
+      },
+      "ja": {
+        "name": "ショックスター・ディスコ",
+        "desc2": "衝撃力+6%。",
+        "desc4": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『ダッシュ攻撃』</color>、<color=#FFFFFF>『回避反撃』</color>がメインターゲットに与えるブレイク値+20%。"
+      }
+    },
+    "detail": {
+      "id": 31200,
+      "name": "Shockstar Disco",
+      "desc2": "Impact +6%",
+      "desc4": "<color=#FFFFFF>Basic Attacks</color>, <color=#FFFFFF>Dash Attacks</color>, and <color=#FFFFFF>Dodge Counters</color> inflict 20% more Daze to the main target.",
+      "story": "A Drive Disc designed with algorithmic optimization for W-Engine compatibility, improving auxiliary performance.",
+      "icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitShockstarDisco.png",
+      "icon2": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitShockstarDisco.png"
+    }
+  }
+}

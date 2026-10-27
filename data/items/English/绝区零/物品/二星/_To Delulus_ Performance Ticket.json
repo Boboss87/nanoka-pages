@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "304068",
+    "name": "\"To Delulus\" Performance Ticket",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AngelConcertTicket.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AngelConcertTicket.webp",
+        "localPath": "gallery/zzz/AngelConcertTicket.webp",
+        "sha256": "b5fbc169219ac10505d8908612bc0e29fbdddb32fa279290a828bf4571d7e9fa",
+        "etag": "\"dld8rfnx9jho-67e\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnx9jho-67e\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8042|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8042,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AngelConcertTicket.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AngelConcertTicket.webp",
+        "localPath": "gallery/zzz/AngelConcertTicket.webp",
+        "sha256": "b5fbc169219ac10505d8908612bc0e29fbdddb32fa279290a828bf4571d7e9fa",
+        "etag": "\"dld8rfnx9jho-67e\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnx9jho-67e\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8042|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8042,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AngelConcertTicket.png",
+      "rank": 2,
+      "class": 20,
+      "name": "\"To Delulus\" Performance Ticket"
+    },
+    "detail": {
+      "id": 304068,
+      "name": "\"To Delulus\" Performance Ticket",
+      "desc": "Tickets prepared by the Angels of Delusion for \"Delulus\" coming to watch the Gilded Carrot Day performance. Make sure you're there on time and dive into the world of delusion with them together!",
+      "desc2": "Help the Angels of Delusion hand out the tickets to their friends.",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AngelConcertTicket.png"
+    }
+  }
+}

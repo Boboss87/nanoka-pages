@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1358040",
+    "name": "Voice Emote: Could It Be...?",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconEmoji/UnPacker/IconEmoji20004.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconEmoji20004.webp",
+        "localPath": "gallery/zzz/IconEmoji20004.webp",
+        "sha256": "654817f0e38af0de3258c867c7bfe74d4f1971734b148f7e3f04950c1d9663e3",
+        "etag": "\"dld8rg7l6sjp-8fk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7l6sjp-8fk\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10928|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10928,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconEmoji/UnPacker/IconEmoji20004.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconEmoji20004.webp",
+        "localPath": "gallery/zzz/IconEmoji20004.webp",
+        "sha256": "654817f0e38af0de3258c867c7bfe74d4f1971734b148f7e3f04950c1d9663e3",
+        "etag": "\"dld8rg7l6sjp-8fk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7l6sjp-8fk\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10928|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10928,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconEmoji/UnPacker/IconEmoji20004.png",
+      "rank": 4,
+      "class": 108,
+      "name": "Voice Emote: Could It Be...?"
+    },
+    "detail": {
+      "id": 1358040,
+      "name": "Voice Emote: Could It Be...?",
+      "desc": "An emote that automatically plays the Agent's corresponding voice line. It can be equipped and used in \"Divine Maze: Joint Investigation\" and in chat.\nDuring \"Joint Investigation,\" you can send this emote to the whole squad through the <color=#FFAF2C>Emote button on the right</color> in each stage.",
+      "desc2": "",
+      "class": {
+        "108": "STICKER"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconEmoji/UnPacker/IconEmoji20004.png"
+    }
+  }
+}

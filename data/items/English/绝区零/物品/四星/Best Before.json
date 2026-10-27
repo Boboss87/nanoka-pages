@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3209001",
+    "name": "Best Before",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfileActivityCollaboration05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemProfileActivityCollaboration05.webp",
+        "localPath": "gallery/zzz/ItemProfileActivityCollaboration05.webp",
+        "sha256": "919e01e646a6a8c06936e09964d91b28993b302af2b4efd54901b8901b1a2ada",
+        "etag": "\"dld8rgej95hv-85s\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgej95hv-85s\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10576|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10576,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfileActivityCollaboration05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemProfileActivityCollaboration05.webp",
+        "localPath": "gallery/zzz/ItemProfileActivityCollaboration05.webp",
+        "sha256": "919e01e646a6a8c06936e09964d91b28993b302af2b4efd54901b8901b1a2ada",
+        "etag": "\"dld8rgej95hv-85s\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgej95hv-85s\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10576|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10576,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfileActivityCollaboration05.png",
+      "rank": 4,
+      "class": 64,
+      "name": "Best Before"
+    },
+    "detail": {
+      "id": 3209001,
+      "name": "Best Before",
+      "desc": "Commemorative avatar for the Operation Yum collab event.",
+      "desc2": "Perfectly controlled heat, perfectly balanced flavor. The perfect meal, served up by Bangboo culinary experts!\nBest enjoyed right now!",
+      "class": {
+        "64": "PROFILE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfileActivityCollaboration05.png"
+    }
+  }
+}

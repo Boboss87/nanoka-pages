@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "20114",
+    "name": "Potential Silhouette: Lycaon",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconRoleAwaken_1141.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRoleAwaken_1141.webp",
+        "localPath": "gallery/zzz/IconRoleAwaken_1141.webp",
+        "sha256": "e4f97eee62927971c803ae4cef6829d98b1d4f060ab6fcc39909b202798b2c9e",
+        "etag": "\"dld8rgas3lap-7n4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgas3lap-7n4\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9904|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9904,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconRoleAwaken_1141.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRoleAwaken_1141.webp",
+        "localPath": "gallery/zzz/IconRoleAwaken_1141.webp",
+        "sha256": "e4f97eee62927971c803ae4cef6829d98b1d4f060ab6fcc39909b202798b2c9e",
+        "etag": "\"dld8rgas3lap-7n4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgas3lap-7n4\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9904|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9904,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconRoleAwaken_1141.png",
+      "rank": 4,
+      "class": 6,
+      "name": "Potential Silhouette: Lycaon"
+    },
+    "detail": {
+      "id": 20114,
+      "name": "Potential Silhouette: Lycaon",
+      "desc": "Used to awaken Lycaon's potential. Can be exchanged in the Potential Archive store.",
+      "desc2": "A sharp, clean silhouette capturing an Agent's potential \"ideal self.\"\n\nTo execute housekeeping services with precision and grace, to uphold the justice they believe in, and to protect everything they hold dear — the \"Elegant Attendant\" never slacks off.",
+      "class": {
+        "6": "AGENT SILHOUETTE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconRoleAwaken_1141.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4326014",
+    "name": "[Promeia] Whirlwind Judgment - Lv.50",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_014.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_014.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_014.webp",
+        "sha256": "da4bdf143a0809c332ae65e4892ffcbff2106c1b4df37a95b45abc0459028054",
+        "etag": "\"dld8rgrf2dwv-6y8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrf2dwv-6y8\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9008|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9008,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_014.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_014.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_014.webp",
+        "sha256": "da4bdf143a0809c332ae65e4892ffcbff2106c1b4df37a95b45abc0459028054",
+        "etag": "\"dld8rgrf2dwv-6y8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrf2dwv-6y8\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9008|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9008,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_014.png",
+      "rank": 4,
+      "class": 132,
+      "name": "[Promeia] Whirlwind Judgment - Lv.50"
+    },
+    "detail": {
+      "id": 4326014,
+      "name": "[Promeia] Whirlwind Judgment - Lv.50",
+      "desc": "Promeia's exclusive Tactical Prism.\nWhile Cacophony Soundscape is active, Promeia's DMG increases by 15%.\nWhen Promeia triggers <color=#FFFFFF>EX Special Attack: Execution - Merciless Judgment</color>, she <color=#2BAD00>restores 15 additional</color> <color=#FFFFFF>Corrosive Chill</color>, and when triggering <color=#FFFFFF>EX Special Attack: Execution - Shrouded in Shadow</color>, she <color=#2BAD00>recovers 15 additional</color> <color=#FFFFFF>Corrosive Chill</color>. When triggering <color=#FFFFFF>Abloom</color>, her <color=#2BAD00>Abloom DMG increases by 6%</color>, stacking up to 10 times, lasting 60s.",
+      "desc2": "",
+      "class": {
+        "132": "LABYRINTH"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_014.png"
+    }
+  }
+}

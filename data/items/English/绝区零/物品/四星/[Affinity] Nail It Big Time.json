@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000973",
+    "name": "[Affinity] Nail It Big Time",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1351.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1351.webp",
+        "localPath": "gallery/zzz/CardDailyUse1351.webp",
+        "sha256": "4321ed1928a26d8a4e302f8e5b12037493799b0d334e68f163d8ef5ebe393f86",
+        "etag": "\"dld8rfqfrjdk-dg0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqfrjdk-dg0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17424|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17424,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1351.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1351.webp",
+        "localPath": "gallery/zzz/CardDailyUse1351.webp",
+        "sha256": "4321ed1928a26d8a4e302f8e5b12037493799b0d334e68f163d8ef5ebe393f86",
+        "etag": "\"dld8rfqfrjdk-dg0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqfrjdk-dg0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17424|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17424,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1351.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Affinity] Nail It Big Time"
+    },
+    "detail": {
+      "id": 1000973,
+      "name": "[Affinity] Nail It Big Time",
+      "desc": "Pulchra has evoked the Mindscape Cinema: <color=#FFAF2C>[Behind the Mask]</color>.\n[Behind the Mask]: <color=#FFFFFF>Special Attack: Rending Claw - Nightmare Shadow's</color> DMG is increased by 15%, and the number of times the repeated attack can trigger is increased by 2. <color=#FFFFFF>Additional Ability: Business Partner</color>'s <color=#FFFFFF>Binding Trap</color> effect now also applies to all damage types, not just <color=#FFFFFF>Aftershock</color> DMG.",
+      "desc2": "Pulchra, brimming with fighting spirit, pulled out various eyeshadows, lipsticks, and compacts... \"Are these disguise bombs?\" \"They're hot-selling resale items. Hold onto them carefully - if they break, they'll lose their value.\"",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1351.png"
+    }
+  }
+}

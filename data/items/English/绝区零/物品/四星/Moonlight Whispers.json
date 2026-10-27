@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3115811",
+    "name": "Moonlight Whispers",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_RemielleMoonlightWhispers.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Skin_RemielleMoonlightWhispers.webp",
+        "localPath": "gallery/zzz/Skin_RemielleMoonlightWhispers.webp",
+        "sha256": "27c91e931bf5f863553951fd79a9ce19315836fef1151aa04987da9e5eed8584",
+        "etag": "\"dld8rgocx27i-6ji\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgocx27i-6ji\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8478|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8478,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_RemielleMoonlightWhispers.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Skin_RemielleMoonlightWhispers.webp",
+        "localPath": "gallery/zzz/Skin_RemielleMoonlightWhispers.webp",
+        "sha256": "27c91e931bf5f863553951fd79a9ce19315836fef1151aa04987da9e5eed8584",
+        "etag": "\"dld8rgocx27i-6ji\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgocx27i-6ji\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8478|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8478,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_RemielleMoonlightWhispers.png",
+      "rank": 4,
+      "class": 63,
+      "name": "Moonlight Whispers"
+    },
+    "detail": {
+      "id": 3115811,
+      "name": "Moonlight Whispers",
+      "desc": "Remielle's Outfit.",
+      "desc2": "Since the sun has never shown mercy, let us embrace the fall alongside the moonlit night.\nYou say it's difficult to differentiate between jokes and deception?\nThen let's have another round of our Q&A game, my dear partner in crime.",
+      "class": {
+        "63": "DRESS"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_RemielleMoonlightWhispers.png"
+    }
+  }
+}

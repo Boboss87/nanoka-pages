@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "126",
+    "name": "Used Battery",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/141WasteBattery.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/141WasteBattery.webp",
+        "localPath": "gallery/zzz/141WasteBattery.webp",
+        "sha256": "87562a9c831bad42fec1455f2d6f2ecf86fe5021da4d3d054b0497b871c04053",
+        "etag": "\"dld8rfntoxpf-686\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfntoxpf-686\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8070|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8070,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/141WasteBattery.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/141WasteBattery.webp",
+        "localPath": "gallery/zzz/141WasteBattery.webp",
+        "sha256": "87562a9c831bad42fec1455f2d6f2ecf86fe5021da4d3d054b0497b871c04053",
+        "etag": "\"dld8rfntoxpf-686\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfntoxpf-686\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8070|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8070,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/141WasteBattery.png",
+      "rank": 3,
+      "class": 1,
+      "name": "Used Battery"
+    },
+    "detail": {
+      "id": 126,
+      "name": "Used Battery",
+      "desc": "Obtained after consuming any amount of Battery Charge for the first time each day during the 141 Eco-Art Exhibition event. Used to exchange for rewards at Sjal's booth in Failume Heights.",
+      "desc2": "To implement the environmental protection campaign, Buy, Ask, and Give Change's average daily step count has exceeded thirty thousand — please take out your used batteries and help save these Bangboo!",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/141WasteBattery.png"
+    }
+  }
+}

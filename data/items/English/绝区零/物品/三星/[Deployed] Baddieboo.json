@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1043013",
+    "name": "[Deployed] Baddieboo",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooBaddieboo.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBangbooBaddieboo.webp",
+        "localPath": "gallery/zzz/CardBangbooBaddieboo.webp",
+        "sha256": "f35ea28a1cde03287e3e7def900e6d20bdb990b8c7646b1d78a704b5db431b99",
+        "etag": "\"dld8rfq0volu-clm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq0volu-clm\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16330|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16330,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooBaddieboo.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBangbooBaddieboo.webp",
+        "localPath": "gallery/zzz/CardBangbooBaddieboo.webp",
+        "sha256": "f35ea28a1cde03287e3e7def900e6d20bdb990b8c7646b1d78a704b5db431b99",
+        "etag": "\"dld8rfq0volu-clm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq0volu-clm\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16330|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16330,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooBaddieboo.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Deployed] Baddieboo"
+    },
+    "detail": {
+      "id": 1043013,
+      "name": "[Deployed] Baddieboo",
+      "desc": "Active Skill: Sends rockets and molotov cocktails at the target enemy, dealing <color=#FF5521>Fire DMG</color>.",
+      "desc2": "<color=#FFFFFF>Bangboo Chain Attack: Jumps forward and fires a rocket, dealing <color=#FF5521>Fire DMG</color> to enemies in a large area ahead.</color>",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooBaddieboo.png"
+    }
+  }
+}

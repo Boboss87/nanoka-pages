@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3321121",
+    "name": "\"Careful Contemplation\"",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "\"Careful Contemplation\""
+    },
+    "detail": {
+      "id": 3321121,
+      "name": "\"Careful Contemplation\"",
+      "desc": "Get by unlocking Ben's Mindscape: Wild Spirit",
+      "desc2": "A card with Ben's personal photo printed on it.\n\"Hmm? Do I look very serious right now?\"\n\"I'm in a slight pickle... 26 Dennies are missing from last month's accounts, and I can't seem to figure out how...\"",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

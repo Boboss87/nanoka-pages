@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3950023",
+    "name": "TowerDefence_Item_Data",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconGarage/UnPacker/TransformChip02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/TransformChip02.webp",
+        "localPath": "gallery/zzz/TransformChip02.webp",
+        "sha256": "2b5141c23238bed194c54c6891ed3301ce4c2182b0d26f50363a9dc7f6cc4d40",
+        "etag": "\"dld8rgoseclz-6ly\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoseclz-6ly\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8566|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8566,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconGarage/UnPacker/TransformChip02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/TransformChip02.webp",
+        "localPath": "gallery/zzz/TransformChip02.webp",
+        "sha256": "2b5141c23238bed194c54c6891ed3301ce4c2182b0d26f50363a9dc7f6cc4d40",
+        "etag": "\"dld8rgoseclz-6ly\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoseclz-6ly\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8566|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8566,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconGarage/UnPacker/TransformChip02.png",
+      "rank": 3,
+      "class": 79,
+      "name": "TowerDefence_Item_Data"
+    },
+    "detail": {
+      "id": 3950023,
+      "name": "TowerDefence_Item_Data",
+      "desc": "Congratulations on leading the Bangboo to victory over the Ethereals! Although this happened in the VR exam field, the test score already shows — you're an outstanding combat assistant!",
+      "desc2": "",
+      "class": {
+        "79": "BANGBOO ITEM"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconGarage/UnPacker/TransformChip02.png"
+    }
+  }
+}

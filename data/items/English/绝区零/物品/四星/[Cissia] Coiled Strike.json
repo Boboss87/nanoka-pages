@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1350231",
+    "name": "[Cissia] Coiled Strike",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic082.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic082.webp",
+        "localPath": "gallery/zzz/Relic082.webp",
+        "sha256": "432604139f0f4caaf5048fb3d629ace94b9de54a11fca4cb782c92116ed9c0dd",
+        "etag": "\"dld8rgo3zjqv-32c\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo3zjqv-32c\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=3972|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 3972,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic082.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic082.webp",
+        "localPath": "gallery/zzz/Relic082.webp",
+        "sha256": "432604139f0f4caaf5048fb3d629ace94b9de54a11fca4cb782c92116ed9c0dd",
+        "etag": "\"dld8rgo3zjqv-32c\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo3zjqv-32c\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=3972|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 3972,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic082.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Cissia] Coiled Strike"
+    },
+    "detail": {
+      "id": 1350231,
+      "name": "[Cissia] Coiled Strike",
+      "desc": "When activating <color=#FFFFFF>Basic Attack: Serpent's Kiss</color>, based on the time the character is airborne, <color=#2BAD00>the skill's CRIT DMG increases by 15%, and it deals 1 additional instance of <color=#2EB6FF>Electric DMG</color> equal to 450% of ATK</color>. This effect stacks up to 3 times and lasts until the skill ends.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic082.png"
+    }
+  }
+}

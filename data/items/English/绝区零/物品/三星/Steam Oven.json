@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "13005",
+    "name": "Steam Oven",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_Common_05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_A_Common_05.webp",
+        "localPath": "gallery/zzz/Weapon_A_Common_05.webp",
+        "sha256": "faa2e0477e5c19f190043f2b43d89963fd1cd1eb8850fabe15dd077aa0bf162f",
+        "etag": "\"dld8rgp3pllg-vi0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgp3pllg-vi0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=40824|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 40824,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_Common_05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_A_Common_05.webp",
+        "localPath": "gallery/zzz/Weapon_A_Common_05.webp",
+        "sha256": "faa2e0477e5c19f190043f2b43d89963fd1cd1eb8850fabe15dd077aa0bf162f",
+        "etag": "\"dld8rgp3pllg-vi0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgp3pllg-vi0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=40824|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 40824,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_Common_05.png",
+      "rank": 3,
+      "class": 5,
+      "name": "Steam Oven"
+    },
+    "detail": {
+      "id": 13005,
+      "name": "Steam Oven",
+      "desc": "Equip to increase Stun Agents' combat capabilities",
+      "desc2": "A high-power W-Engine that boasts a cutting-edge energy conversion system. It collects excess heat and supplies it to the steamer.",
+      "class": {
+        "5": "W-ENGINE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_Common_05.png"
+    }
+  }
+}

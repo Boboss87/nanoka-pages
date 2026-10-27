@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1360105",
+    "name": "[Stun: Knock] One and Done",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic068.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic068.webp",
+        "localPath": "gallery/zzz/Relic068.webp",
+        "sha256": "9ce64dc29bd6add079be2da1f78dce79cbb66cd4c7f9627e5954a75684b87d1e",
+        "etag": "\"dld8rgo3zjqv-2v0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo3zjqv-2v0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=3708|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 3708,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic068.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic068.webp",
+        "localPath": "gallery/zzz/Relic068.webp",
+        "sha256": "9ce64dc29bd6add079be2da1f78dce79cbb66cd4c7f9627e5954a75684b87d1e",
+        "etag": "\"dld8rgo3zjqv-2v0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo3zjqv-2v0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=3708|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 3708,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic068.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Stun: Knock] One and Done"
+    },
+    "detail": {
+      "id": 1360105,
+      "name": "[Stun: Knock] One and Done",
+      "desc": "<color=#FFFFFF>Auxiliary Assist</color>: Lighter accumulates Energy over time, starting with 75 Charge. With enough Energy, press Auxiliary Assist to summon Lighter to launch an <color=#FFFFFF>Auxiliary Assist</color> attack on enemies. Hitting enemies inflicts the <color=#FFFFFF>Collapse</color> effect. Enemies inflicted with the <color=#FFFFFF>Collapse</color> effect have their <color=#2BAD00>Stunned duration extended by 3s after being Dazed</color>. The <color=#FFFFFF>Collapse</color> effect ends when the enemies recover from the Stunned state. When Lighter's <color=#FFFFFF>Auxiliary Assist</color> hits normal/Elite/Boss enemies, it <color=#2BAD00>directly accumulates 100%/30%/15% Daze</color> respectively.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic068.png"
+    }
+  }
+}

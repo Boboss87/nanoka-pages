@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1001109",
+    "name": "[Freeze] Portable Cooler",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardFrozen03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardFrozen03.webp",
+        "localPath": "gallery/zzz/CardFrozen03.webp",
+        "sha256": "0e4da5fb6889df4789c38714628b1fe357208cf017c9712187c87b94a5c1082b",
+        "etag": "\"dld8rfqni6ks-bxu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqni6ks-bxu\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15474|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15474,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardFrozen03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardFrozen03.webp",
+        "localPath": "gallery/zzz/CardFrozen03.webp",
+        "sha256": "0e4da5fb6889df4789c38714628b1fe357208cf017c9712187c87b94a5c1082b",
+        "etag": "\"dld8rfqni6ks-bxu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqni6ks-bxu\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15474|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15474,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardFrozen03.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[Freeze] Portable Cooler"
+    },
+    "detail": {
+      "id": 1001109,
+      "name": "[Freeze] Portable Cooler",
+      "desc": "<color=#98EFF0>Freeze</color> lasts <color=#2BAD00>2</color>s longer.",
+      "desc2": "A must-have item for professional anglers. Besides fish, there are some other strange things inside.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardFrozen03.png"
+    }
+  }
+}

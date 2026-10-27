@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "305014",
+    "name": "Button",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0008.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconQuestItem_Abyss_0008.webp",
+        "localPath": "gallery/zzz/IconQuestItem_Abyss_0008.webp",
+        "sha256": "dc666f6c4e3cd0d7006a7c732fccf4e22228e9695aaaab06a46edb278f8e69d0",
+        "etag": "\"dld8rg7sc047-3zs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7sc047-3zs\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=5176|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5176,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0008.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconQuestItem_Abyss_0008.webp",
+        "localPath": "gallery/zzz/IconQuestItem_Abyss_0008.webp",
+        "sha256": "dc666f6c4e3cd0d7006a7c732fccf4e22228e9695aaaab06a46edb278f8e69d0",
+        "etag": "\"dld8rg7sc047-3zs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7sc047-3zs\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=5176|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5176,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0008.png",
+      "rank": 2,
+      "class": 22,
+      "name": "Button"
+    },
+    "detail": {
+      "id": 305014,
+      "name": "Button",
+      "desc": "Looks like just a normal button.",
+      "desc2": "It's in the style of those buttons on the overcoats popular among boys' uniforms throughout New Eridu high schools.\nThe button has the initials \"D.R.\" scrawled lightly into it in acrylic ink.",
+      "class": {
+        "22": "CLUE ITEM"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0008.png"
+    }
+  }
+}

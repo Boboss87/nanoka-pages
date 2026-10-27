@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1359024",
+    "name": "\"Good Morning, Dear Partner in Crime\" Pendant",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconPendantPiece11.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconPendantPiece11.webp",
+        "localPath": "gallery/zzz/IconPendantPiece11.webp",
+        "sha256": "3a8fe24e07c4a20a34142b4099b5d5a027e2526f425475155ded24042b628962",
+        "etag": "\"dld8rg7r54us-7le\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7r54us-7le\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9842|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9842,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconPendantPiece11.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconPendantPiece11.webp",
+        "localPath": "gallery/zzz/IconPendantPiece11.webp",
+        "sha256": "3a8fe24e07c4a20a34142b4099b5d5a027e2526f425475155ded24042b628962",
+        "etag": "\"dld8rg7r54us-7le\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7r54us-7le\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9842|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9842,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconPendantPiece11.png",
+      "rank": 4,
+      "class": 110,
+      "name": "\"Good Morning, Dear Partner in Crime\" Pendant"
+    },
+    "detail": {
+      "id": 1359024,
+      "name": "\"Good Morning, Dear Partner in Crime\" Pendant",
+      "desc": "Limited-time \"Filmgoer Thank-You Gift\" exclusive theme. Once obtained, it can be equipped and displayed in the Function Menu.",
+      "desc2": "Whether it was last night, tonight, or the night to come, may you sleep well every night.",
+      "class": {
+        "110": "PENDANT"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconPendantPiece11.png"
+    }
+  }
+}

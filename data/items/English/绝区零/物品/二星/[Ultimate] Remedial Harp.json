@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1310106",
+    "name": "[Ultimate] Remedial Harp",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardDecibels08.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDecibels08.webp",
+        "localPath": "gallery/zzz/CardDecibels08.webp",
+        "sha256": "e8d4bdc441dba271619de5001d519d3d4a9521076e8a0e50942b43fce46cd8fe",
+        "etag": "\"dld8rfqjc55t-e7u\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqjc55t-e7u\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=18426|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 18426,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardDecibels08.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDecibels08.webp",
+        "localPath": "gallery/zzz/CardDecibels08.webp",
+        "sha256": "e8d4bdc441dba271619de5001d519d3d4a9521076e8a0e50942b43fce46cd8fe",
+        "etag": "\"dld8rfqjc55t-e7u\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqjc55t-e7u\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=18426|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 18426,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardDecibels08.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[Ultimate] Remedial Harp"
+    },
+    "detail": {
+      "id": 1310106,
+      "name": "[Ultimate] Remedial Harp",
+      "desc": "When launching an <color=#FFFFFF>Ultimate</color>, if the Agent has a shield, <color=#2BAD00>they recover 5% HP</color>. If not, <color=#2BAD00>they gain a shield equal to 15% of their Max HP</color> for 7s.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardDecibels08.png"
+    }
+  }
+}

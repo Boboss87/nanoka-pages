@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1350182",
+    "name": "[Ye Shunguang] Clang of Jade",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic062.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic062.webp",
+        "localPath": "gallery/zzz/Relic062.webp",
+        "sha256": "f6818cfcfedb39186e18d6a55f5786f4618036923d18b598cd3e3d88c4b5bead",
+        "etag": "\"dld8rgo2sohg-3ry\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo2sohg-3ry\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4894|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4894,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic062.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic062.webp",
+        "localPath": "gallery/zzz/Relic062.webp",
+        "sha256": "f6818cfcfedb39186e18d6a55f5786f4618036923d18b598cd3e3d88c4b5bead",
+        "etag": "\"dld8rgo2sohg-3ry\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo2sohg-3ry\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4894|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4894,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic062.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Ye Shunguang] Clang of Jade"
+    },
+    "detail": {
+      "id": 1350182,
+      "name": "[Ye Shunguang] Clang of Jade",
+      "desc": "After Ye Shunguang activates Ether Veil: Verdict, <color=#2BAD00>all squad members will use Veil Vulnerability bonus when attacking</color>, instead of Stun DMG Multiplier, and the Veil Vulnerability bonus cap is reduced by 85%. Enlightened Mind state duration doesn't pause while off-field anymore.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic062.png"
+    }
+  }
+}

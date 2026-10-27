@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "104001",
+    "name": "Prototype Seal",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Item_SpecialMaterial_Avatar.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Item_SpecialMaterial_Avatar.webp",
+        "localPath": "gallery/zzz/Item_SpecialMaterial_Avatar.webp",
+        "sha256": "4d61a61819424010f4eccf0ca3ae5f11ed3a701cd088544d0e8d4dd58654cc99",
+        "etag": "\"dld8rgf146f5-6y8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgf146f5-6y8\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9008|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9008,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Item_SpecialMaterial_Avatar.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Item_SpecialMaterial_Avatar.webp",
+        "localPath": "gallery/zzz/Item_SpecialMaterial_Avatar.webp",
+        "sha256": "4d61a61819424010f4eccf0ca3ae5f11ed3a701cd088544d0e8d4dd58654cc99",
+        "etag": "\"dld8rgf146f5-6y8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgf146f5-6y8\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9008|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9008,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Item_SpecialMaterial_Avatar.png",
+      "rank": 3,
+      "class": 71,
+      "name": "Prototype Seal"
+    },
+    "detail": {
+      "id": 104001,
+      "name": "Prototype Seal",
+      "desc": "<color=#FFAF2C>[Universal Agent Breakthrough Item]</color>Can be used in place of Certification Seals when you don't have enough. A different number of Prototype Seals must be used to substitute different rarities of Certification Seals.",
+      "desc2": "A fairly simple seal made through basic forging techniques. It's popular amongst Agents for its low-key style and matte finish.",
+      "class": {
+        "71": "RESOURCE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Item_SpecialMaterial_Avatar.png"
+    }
+  }
+}

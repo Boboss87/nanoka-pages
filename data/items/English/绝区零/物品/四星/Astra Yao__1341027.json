@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1341027",
+    "name": "Astra Yao",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1311.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1311.webp",
+        "localPath": "gallery/zzz/CardDailyUse1311.webp",
+        "sha256": "2894891ced5c9f2a9458af89e09bfd8976a7b23ad91e11b2e3e38c25e1f41d6a",
+        "etag": "\"dld8rfqfrjdk-bpa\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqfrjdk-bpa\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15166|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15166,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1311.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1311.webp",
+        "localPath": "gallery/zzz/CardDailyUse1311.webp",
+        "sha256": "2894891ced5c9f2a9458af89e09bfd8976a7b23ad91e11b2e3e38c25e1f41d6a",
+        "etag": "\"dld8rfqfrjdk-bpa\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqfrjdk-bpa\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15166|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15166,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1311.png",
+      "rank": 4,
+      "class": 83,
+      "name": "Astra Yao"
+    },
+    "detail": {
+      "id": 1341027,
+      "name": "Astra Yao",
+      "desc": "Use Ether Dewdrops on Astra Yao",
+      "desc2": "",
+      "class": {
+        "83": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1311.png"
+    }
+  }
+}

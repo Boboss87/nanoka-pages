@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3321361",
+    "name": "The Bloom of Asphodels",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "The Bloom of Asphodels"
+    },
+    "detail": {
+      "id": 3321361,
+      "name": "The Bloom of Asphodels",
+      "desc": "Get by unlocking Trigger's Mindscape: Beyond the River of the Dead",
+      "desc2": "A card featuring a private photo of Trigger.\n\"Proxy, please come a little closer... close enough that you won't slip through my fingers.\"\n\"I want to remember the outline of the person who trusted me with their back... Is this selfish? If it is, then let me be a little selfish.\"",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

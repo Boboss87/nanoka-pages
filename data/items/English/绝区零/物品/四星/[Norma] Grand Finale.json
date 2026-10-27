@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1350272",
+    "name": "[Norma] Grand Finale",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic092.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic092.webp",
+        "localPath": "gallery/zzz/Relic092.webp",
+        "sha256": "a740bb67c0bd69ccbeef3bcfcc18a3980b5f54af27063c431892e14923998db0",
+        "etag": "\"dld8rgo4kzdk-332\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo4kzdk-332\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=3998|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 3998,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic092.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic092.webp",
+        "localPath": "gallery/zzz/Relic092.webp",
+        "sha256": "a740bb67c0bd69ccbeef3bcfcc18a3980b5f54af27063c431892e14923998db0",
+        "etag": "\"dld8rgo4kzdk-332\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo4kzdk-332\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=3998|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 3998,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic092.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Norma] Grand Finale"
+    },
+    "detail": {
+      "id": 1350272,
+      "name": "[Norma] Grand Finale",
+      "desc": "When squadmates activate an <color=#FFFFFF>Ultimate</color>, Norma <color=#2BAD00>immediately gains 100% Preheated Chamber</color>. Can be triggered at most once every 40s;\nWhen any Agent in the squad activates a <color=#FFFFFF>Chain Attack</color>, the corresponding Agent's <color=#2BAD00>Decibel Generation Rate increases 25%</color> for 15s. Repeated triggers reset the duration.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic092.png"
+    }
+  }
+}

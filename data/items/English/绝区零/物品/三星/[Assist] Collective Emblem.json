@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1001614",
+    "name": "[Assist] Collective Emblem",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMagic00.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardMagic00.webp",
+        "localPath": "gallery/zzz/CardMagic00.webp",
+        "sha256": "2ecadebabbcef67c6e34bb02ef495dd686937534c7dbeef1d2e8c92ef8b5ab1e",
+        "etag": "\"dld8rfqs9nmh-ags\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqs9nmh-ags\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=13564|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13564,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMagic00.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardMagic00.webp",
+        "localPath": "gallery/zzz/CardMagic00.webp",
+        "sha256": "2ecadebabbcef67c6e34bb02ef495dd686937534c7dbeef1d2e8c92ef8b5ab1e",
+        "etag": "\"dld8rfqs9nmh-ags\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqs9nmh-ags\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=13564|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13564,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMagic00.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Assist] Collective Emblem"
+    },
+    "detail": {
+      "id": 1001614,
+      "name": "[Assist] Collective Emblem",
+      "desc": "Increases the chance for [Assist] Resonia to appear.",
+      "desc2": "Kindred spirits gather, and emblems fall into groups.\nEven a hero needs the help of three friends.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMagic00.png"
+    }
+  }
+}

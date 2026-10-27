@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1350251",
+    "name": "[Promeia] Whirlwind Judgment",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic086.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic086.webp",
+        "localPath": "gallery/zzz/Relic086.webp",
+        "sha256": "7e41996e5d08cd7a1837c44544cfb3f67a2da0f770759645e1fc9c9a56f98384",
+        "etag": "\"dld8rgo3zjqv-3oi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo3zjqv-3oi\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4770|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4770,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic086.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic086.webp",
+        "localPath": "gallery/zzz/Relic086.webp",
+        "sha256": "7e41996e5d08cd7a1837c44544cfb3f67a2da0f770759645e1fc9c9a56f98384",
+        "etag": "\"dld8rgo3zjqv-3oi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo3zjqv-3oi\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4770|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4770,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic086.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Promeia] Whirlwind Judgment"
+    },
+    "detail": {
+      "id": 1350251,
+      "name": "[Promeia] Whirlwind Judgment",
+      "desc": "When Promeia triggers <color=#FFFFFF>EX Special Attack: Execution - Merciless Judgment</color>, she <color=#2BAD00>recovers 15 additional</color> <color=#FFFFFF>Corrosive Chill</color>, and when triggering <color=#FFFFFF>EX Special Attack: Execution - Shrouded in Shadow</color>, she <color=#2BAD00>recovers 15 additional</color> <color=#FFFFFF>Corrosive Chill</color>. When triggering <color=#FFFFFF>Abloom</color>, her <color=#2BAD00>Abloom DMG increases by 6%</color>, stacking up to 10 times, lasting 60s.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic086.png"
+    }
+  }
+}

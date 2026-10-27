@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "12013",
+    "name": "[Identity] Base",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_B_Common_13.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_B_Common_13.webp",
+        "localPath": "gallery/zzz/Weapon_B_Common_13.webp",
+        "sha256": "8f5a710644bc67b27bed4eee499a818f83e0dc09f828d99937fe87726bd6d224",
+        "etag": "\"dld8rgpdtzbj-qli\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgpdtzbj-qli\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=34470|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 34470,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_B_Common_13.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_B_Common_13.webp",
+        "localPath": "gallery/zzz/Weapon_B_Common_13.webp",
+        "sha256": "8f5a710644bc67b27bed4eee499a818f83e0dc09f828d99937fe87726bd6d224",
+        "etag": "\"dld8rgpdtzbj-qli\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgpdtzbj-qli\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=34470|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 34470,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_B_Common_13.png",
+      "rank": 2,
+      "class": 5,
+      "name": "[Identity] Base"
+    },
+    "detail": {
+      "id": 12013,
+      "name": "[Identity] Base",
+      "desc": "Equip to increase Defense Agents' combat capabilities",
+      "desc2": "A W-Engine with a component structure adjusted according to specific parameters. It can enhance the defensive capabilities of those who have a certain style of combat.",
+      "class": {
+        "5": "W-ENGINE"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_B_Common_13.png"
+    }
+  }
+}

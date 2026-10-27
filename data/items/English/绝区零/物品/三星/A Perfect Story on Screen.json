@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3301021",
+    "name": "A Perfect Story on Screen",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard38.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard38.webp",
+        "localPath": "gallery/zzz/Callingcard38.webp",
+        "sha256": "4108118549c814cd3fe4a20857453fccade60465b2c85cde290977d064ba9d49",
+        "etag": "\"dld8rfprcqih-7z6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfprcqih-7z6\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10338|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10338,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard38.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard38.webp",
+        "localPath": "gallery/zzz/Callingcard38.webp",
+        "sha256": "4108118549c814cd3fe4a20857453fccade60465b2c85cde290977d064ba9d49",
+        "etag": "\"dld8rfprcqih-7z6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfprcqih-7z6\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10338|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10338,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard38.png",
+      "rank": 3,
+      "class": 65,
+      "name": "A Perfect Story on Screen"
+    },
+    "detail": {
+      "id": 3301021,
+      "name": "A Perfect Story on Screen",
+      "desc": "\"Gravitational Storytime\" commemorative namecard.",
+      "desc2": "A ticket stub from \"Gravitational Storytime\" that bears witness to time spent with someone important — time called \"togetherness.\"\nThe Gilded Carrot Day screening story reaches a perfect ending, and the memories spun by \"Gravity\" will shine for all time.",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard38.png"
+    }
+  }
+}

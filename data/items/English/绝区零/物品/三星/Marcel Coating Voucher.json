@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1360001",
+    "name": "Marcel Coating Voucher",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/RiduBoo/RiduBooItemIcon/UnPacker/ActivityMarcelRemake_BangbooSkinVoucher.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivityMarcelRemake_BangbooSkinVoucher.webp",
+        "localPath": "gallery/zzz/ActivityMarcelRemake_BangbooSkinVoucher.webp",
+        "sha256": "88ab64768adb953be35ffdd1d7ad8143141a1931a3dfd98cc92f199d0d29c49f",
+        "etag": "\"dld8rfnwo3uy-5rq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnwo3uy-5rq\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7478|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7478,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/RiduBoo/RiduBooItemIcon/UnPacker/ActivityMarcelRemake_BangbooSkinVoucher.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivityMarcelRemake_BangbooSkinVoucher.webp",
+        "localPath": "gallery/zzz/ActivityMarcelRemake_BangbooSkinVoucher.webp",
+        "sha256": "88ab64768adb953be35ffdd1d7ad8143141a1931a3dfd98cc92f199d0d29c49f",
+        "etag": "\"dld8rfnwo3uy-5rq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnwo3uy-5rq\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7478|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7478,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/RiduBoo/RiduBooItemIcon/UnPacker/ActivityMarcelRemake_BangbooSkinVoucher.png",
+      "rank": 3,
+      "class": 1,
+      "name": "Marcel Coating Voucher"
+    },
+    "detail": {
+      "id": 1360001,
+      "name": "Marcel Coating Voucher",
+      "desc": "Can be obtained by participating in the limited-time \"Grand Marcel Adventure\" event, used to redeem Eous outfits available in the event.",
+      "desc2": "A special offering from the Marcel Group. Redeem this voucher for the trendiest Bangboo outfit.",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/RiduBoo/RiduBooItemIcon/UnPacker/ActivityMarcelRemake_BangbooSkinVoucher.png"
+    }
+  }
+}

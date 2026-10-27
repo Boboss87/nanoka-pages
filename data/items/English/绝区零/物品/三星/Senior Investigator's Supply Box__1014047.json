@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1014047",
+    "name": "Senior Investigator's Supply Box",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BangbooBreakthrough03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangbooBreakthrough03.webp",
+        "localPath": "gallery/zzz/BangbooBreakthrough03.webp",
+        "sha256": "1f92a8b0414ca7bf7284480173514713bf01aa5903b81c3898d15557e258f688",
+        "etag": "\"dld8rfop8y51-6dg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfop8y51-6dg\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8260|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8260,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BangbooBreakthrough03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangbooBreakthrough03.webp",
+        "localPath": "gallery/zzz/BangbooBreakthrough03.webp",
+        "sha256": "1f92a8b0414ca7bf7284480173514713bf01aa5903b81c3898d15557e258f688",
+        "etag": "\"dld8rfop8y51-6dg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfop8y51-6dg\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8260|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8260,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BangbooBreakthrough03.png",
+      "rank": 3,
+      "class": 29,
+      "name": "Senior Investigator's Supply Box"
+    },
+    "detail": {
+      "id": 1014047,
+      "name": "Senior Investigator's Supply Box",
+      "desc": "Supply box contains Trainee Investigator Logs, W-Engine Batteries, and Dennies.",
+      "desc2": "<color=#FFFFFF>A container holding advanced Agent upgrade materials.</color>\nA smart mind is an investigator's most powerful weapon, and the materials in this chest provide efficient ways to use this weapon.",
+      "class": {
+        "29": "INFO"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BangbooBreakthrough03.png"
+    }
+  }
+}

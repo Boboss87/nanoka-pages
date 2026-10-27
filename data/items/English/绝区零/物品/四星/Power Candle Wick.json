@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "222",
+    "name": "Power Candle Wick",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CandleCore.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CandleCore.webp",
+        "localPath": "gallery/zzz/CandleCore.webp",
+        "sha256": "393caf8d4448b7c6aae6f1b839d33ace0e15e78f647e875d0896b24a83d99ed6",
+        "etag": "\"dm16zg0z2wdm-6fy\"",
+        "lastModified": "Sat, 10 Oct 2026 13:28:19 GMT",
+        "remoteKey": "etag=\"dm16zg0z2wdm-6fy\"|lastModified=Sat, 10 Oct 2026 13:28:19 GMT|bytes=8350|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8350,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CandleCore.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CandleCore.webp",
+        "localPath": "gallery/zzz/CandleCore.webp",
+        "sha256": "393caf8d4448b7c6aae6f1b839d33ace0e15e78f647e875d0896b24a83d99ed6",
+        "etag": "\"dm16zg0z2wdm-6fy\"",
+        "lastModified": "Sat, 10 Oct 2026 13:28:19 GMT",
+        "remoteKey": "etag=\"dm16zg0z2wdm-6fy\"|lastModified=Sat, 10 Oct 2026 13:28:19 GMT|bytes=8350|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8350,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CandleCore.png",
+      "rank": 4,
+      "class": 147,
+      "name": "Power Candle Wick"
+    },
+    "detail": {
+      "id": 222,
+      "name": "Power Candle Wick",
+      "desc": "A material obtainable from the Spookies Tactics Table and Spookies Big Big Box.",
+      "desc2": "",
+      "class": {
+        "147": "LABYRINTH"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CandleCore.png"
+    }
+  }
+}

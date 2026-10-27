@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "2090007",
+    "name": "\"Peerless Player\" Customized Controller",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ChickenGamepad_Mark.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ChickenGamepad_Mark.webp",
+        "localPath": "gallery/zzz/ChickenGamepad_Mark.webp",
+        "sha256": "65aea86c4188b1a87cb351cd5b0d1cb0bbf36fe526094285b2568a130aaea7fc",
+        "etag": "\"dld8rfra4ojs-6xm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfra4ojs-6xm\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8986|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8986,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ChickenGamepad_Mark.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ChickenGamepad_Mark.webp",
+        "localPath": "gallery/zzz/ChickenGamepad_Mark.webp",
+        "sha256": "65aea86c4188b1a87cb351cd5b0d1cb0bbf36fe526094285b2568a130aaea7fc",
+        "etag": "\"dld8rfra4ojs-6xm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfra4ojs-6xm\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8986|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8986,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ChickenGamepad_Mark.png",
+      "rank": 3,
+      "class": 20,
+      "name": "\"Peerless Player\" Customized Controller"
+    },
+    "detail": {
+      "id": 2090007,
+      "name": "\"Peerless Player\" Customized Controller",
+      "desc": "The commemorative reward for the collab event \"GameSir × Zenless Zone Zero.\"",
+      "desc2": "A controller customized for the Hollow Deep Dive System, loved by everyone in the family. Naturally, this leads to frequent arguments in the first-floor workshop over \"who used the controller last night and didn't charge it?\" — somehow, these debates always end up featuring the AI making excuses and the occasional \"Ehn-ne-ehn-nah\" noises.",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ChickenGamepad_Mark.png"
+    }
+  }
+}

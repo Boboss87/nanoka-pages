@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4320276",
+    "name": "Legendary Gear: Defense - Lv. 60",
+    "rarity": "五星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponZ_009.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponZ_009.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponZ_009.webp",
+        "sha256": "b08b5f1809f2a6dcd506ac75f715a1e86471efd3e23f00e346f093aa0de8784b",
+        "etag": "\"dld8rgrimzp4-7ks\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrimzp4-7ks\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9820|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9820,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponZ_009.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponZ_009.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponZ_009.webp",
+        "sha256": "b08b5f1809f2a6dcd506ac75f715a1e86471efd3e23f00e346f093aa0de8784b",
+        "etag": "\"dld8rgrimzp4-7ks\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrimzp4-7ks\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9820|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9820,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponZ_009.png",
+      "rank": 5,
+      "class": 132,
+      "name": "Legendary Gear: Defense - Lv. 60"
+    },
+    "detail": {
+      "id": 4320276,
+      "name": "Legendary Gear: Defense - Lv. 60",
+      "desc": "Increases Decibel Generation Rate by <color=#2BAD00>20%</color>. When an Agent uses a <color=#FFFFFF>Defensive Assist</color>, all squad members recover <color=#2BAD00>2</color> Energy, and the enemy's DEF decreases by <color=#2BAD00>20%</color> for <color=#2BAD00>10</color>s. Repeated triggers reset the duration.",
+      "desc2": "",
+      "class": {
+        "132": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponZ_009.png"
+    }
+  }
+}

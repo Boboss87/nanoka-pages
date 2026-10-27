@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1358037",
+    "name": "Voice Emote: Help Me! Help Me!",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconEmoji/UnPacker/IconEmoji20003.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconEmoji20003.webp",
+        "localPath": "gallery/zzz/IconEmoji20003.webp",
+        "sha256": "af0ed0327fedb86c37116d0b51353fcdff1e415e57c0459e24ef09ead9760a30",
+        "etag": "\"dld8rg7l6sjp-7o4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7l6sjp-7o4\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9940|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9940,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconEmoji/UnPacker/IconEmoji20003.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconEmoji20003.webp",
+        "localPath": "gallery/zzz/IconEmoji20003.webp",
+        "sha256": "af0ed0327fedb86c37116d0b51353fcdff1e415e57c0459e24ef09ead9760a30",
+        "etag": "\"dld8rg7l6sjp-7o4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7l6sjp-7o4\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9940|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9940,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconEmoji/UnPacker/IconEmoji20003.png",
+      "rank": 4,
+      "class": 108,
+      "name": "Voice Emote: Help Me! Help Me!"
+    },
+    "detail": {
+      "id": 1358037,
+      "name": "Voice Emote: Help Me! Help Me!",
+      "desc": "An emote that automatically plays the Agent's corresponding voice line. It can be equipped and used in \"Divine Maze: Joint Investigation\" and in chat.\nDuring \"Joint Investigation,\" you can send this emote to the whole squad through the <color=#FFAF2C>Emote button on the right</color> in each stage.",
+      "desc2": "",
+      "class": {
+        "108": "STICKER"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconEmoji/UnPacker/IconEmoji20003.png"
+    }
+  }
+}

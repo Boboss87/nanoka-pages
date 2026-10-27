@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3311441",
+    "name": "Komano Manato's Namecard",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "Komano Manato's Namecard"
+    },
+    "detail": {
+      "id": 3311441,
+      "name": "Komano Manato's Namecard",
+      "desc": "Get by unlocking Komano Manato's Mindscape: Enter the Realm of Urban Legends",
+      "desc2": "A card printed with an image of Sailume Bay's unofficial mediator.\nThis business card can smooth over a number of minor issues, but its use is limited to certain areas of Waifei Peninsula. During Manato's make-up exams, the card functions merely as a simple referral.\nA sketch of a \"grand and imposing\" canine Thiren was drawn on the back, though in crayon, making it feel a little less threatening.",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

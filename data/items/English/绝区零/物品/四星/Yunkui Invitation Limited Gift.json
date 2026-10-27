@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "2000034",
+    "name": "Yunkui Invitation Limited Gift",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Testgift.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Testgift.webp",
+        "localPath": "gallery/zzz/Testgift.webp",
+        "sha256": "cbdb4696a1843f59a172fb5c75c0165ac7718a2615466c06b09587b0f214c1a6",
+        "etag": "\"dld8rgoseclz-88u\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoseclz-88u\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10686|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10686,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Testgift.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Testgift.webp",
+        "localPath": "gallery/zzz/Testgift.webp",
+        "sha256": "cbdb4696a1843f59a172fb5c75c0165ac7718a2615466c06b09587b0f214c1a6",
+        "etag": "\"dld8rgoseclz-88u\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoseclz-88u\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10686|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10686,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Testgift.png",
+      "rank": 4,
+      "class": 51,
+      "name": "Yunkui Invitation Limited Gift"
+    },
+    "detail": {
+      "id": 2000034,
+      "name": "Yunkui Invitation Limited Gift",
+      "desc": "Purchase to obtain Denny ×100,000 and Encrypted Master Tape ×10.",
+      "desc2": "",
+      "class": {
+        "51": "GIFT"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Testgift.png"
+    }
+  }
+}

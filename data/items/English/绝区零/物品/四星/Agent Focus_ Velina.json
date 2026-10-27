@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "5561",
+    "name": "Agent Focus: Velina",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece63.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece63.webp",
+        "localPath": "gallery/zzz/IconRolePiece63.webp",
+        "sha256": "cfa4fbf4dd92c97966360a8e25c6b23e23af7892cbcf541cf9eecfc0bb1f144a",
+        "etag": "\"dld8rgdgjxhp-8no\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgdgjxhp-8no\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11220|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11220,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece63.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece63.webp",
+        "localPath": "gallery/zzz/IconRolePiece63.webp",
+        "sha256": "cfa4fbf4dd92c97966360a8e25c6b23e23af7892cbcf541cf9eecfc0bb1f144a",
+        "etag": "\"dld8rgdgjxhp-8no\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgdgjxhp-8no\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11220|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11220,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece63.png",
+      "rank": 4,
+      "class": 4,
+      "name": "Agent Focus: Velina"
+    },
+    "detail": {
+      "id": 5561,
+      "name": "Agent Focus: Velina",
+      "desc": "Used to unlock Agent's Mindscape Cinema",
+      "desc2": "Snapshots from Velina's daily life and from in combat, recording important moments before and after she became an Agent.\nThese images also provide insights into her fighting style and favorite weapons, helping to better understand her strengths.\n\nA gilded tea party invitation, its words restrained and dignified, elegant handwriting exuding the delicate fragrance of black tea.",
+      "class": {
+        "4": "AGENT ARCHIVE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece63.png"
+    }
+  }
+}

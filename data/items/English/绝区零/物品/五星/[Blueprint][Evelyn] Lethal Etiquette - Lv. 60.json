@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4350519",
+    "name": "[Blueprint][Evelyn] Lethal Etiquette - Lv. 60",
+    "rarity": "五星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_004_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_004_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_004_Blueprint.webp",
+        "sha256": "30083f25c8e6f65191c733ede9fe27bf8da8838d7e39504298be1124f676ce33",
+        "etag": "\"dld8rgrdvinf-8vu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrdvinf-8vu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11514|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11514,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_004_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_004_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_004_Blueprint.webp",
+        "sha256": "30083f25c8e6f65191c733ede9fe27bf8da8838d7e39504298be1124f676ce33",
+        "etag": "\"dld8rgrdvinf-8vu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrdvinf-8vu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11514|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11514,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_004_Blueprint.png",
+      "rank": 5,
+      "class": 130,
+      "name": "[Blueprint][Evelyn] Lethal Etiquette - Lv. 60"
+    },
+    "detail": {
+      "id": 4350519,
+      "name": "[Blueprint][Evelyn] Lethal Etiquette - Lv. 60",
+      "desc": "This blueprint can be used to unlock the crafting of Evelyn's exclusive Tactical Prism at the Smart Workshop. Purchase them from Boojee's Store - Season Limited.\nItem Effect: After using Phase Dash, Evelyn recovers 1 Burning Tether Point.\nWhen any squad member's <color=#FFFFFF>Aftershock</color>, <color=#FFFFFF>Quick Assist</color>, or <color=#FFFFFF>Perfect Assist</color> hits enemies, Evelyn restores <color=#FFFFFF>Burning Embers</color>. When Evelyn consumes <color=#FFFFFF>Burning Tether Points</color> to activate <color=#FFFFFF>Chain Attack: Lunalux - Snare</color>, it will be replaced by <color=#FFFFFF>Chain Attack: Lunalux - Entanglement</color>, significantly reducing skill duration. When Evelyn's <color=#FFFFFF>Chain Attack</color> hits enemies, <color=#2BAD00>the skill's DMG increases by 80%</color>.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_004_Blueprint.png"
+    }
+  }
+}

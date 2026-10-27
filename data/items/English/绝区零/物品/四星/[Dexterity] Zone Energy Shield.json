@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1320202",
+    "name": "[Dexterity] Zone Energy Shield",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic007.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic007.webp",
+        "localPath": "gallery/zzz/Relic007.webp",
+        "sha256": "dccf425bd3c8556e166b61648b434a670cd1434ba5d9c8c9ec18274ccff03636",
+        "etag": "\"dld8rgnz82p6-3py\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnz82p6-3py\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4822|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4822,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic007.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic007.webp",
+        "localPath": "gallery/zzz/Relic007.webp",
+        "sha256": "dccf425bd3c8556e166b61648b434a670cd1434ba5d9c8c9ec18274ccff03636",
+        "etag": "\"dld8rgnz82p6-3py\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnz82p6-3py\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4822|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4822,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic007.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Dexterity] Zone Energy Shield"
+    },
+    "detail": {
+      "id": 1320202,
+      "name": "[Dexterity] Zone Energy Shield",
+      "desc": "When in combat, all squad members <color=#2BAD00>gain 1 Dexterity Charge</color> (up to 32) every 0.5s. When taking DMG and losing HP, all <color=#FFFFFF>Dexterity Charge</color> will be consumed. When Dexterity Charge consumed is greater or equal to 8/16/24, <color=#2BAD00>Dexterity State</color> will last for 2/4/8s. With 32 <color=#FFFFFF>Dexterity Charge</color>, all Charge is consumed when an enemy is hit, <color=#2BAD00>entering Dexterity State</color> for 16s. In <color=#FFFFFF>Dexterity State</color>, all squad members' <color=#2BAD00>ATK is increased by 60%</color>. When an attack hits an enemy, <color=#FFFFFF>Dexterity Curse</color> is inflicted on the target. <color=#FFFFFF>Dexterity Curse</color> is calculated when exiting <color=#FFFFFF>Dexterity State</color>, dealing <color=#2BAD00>additional DMG to enemies equal to 10% of DMG accumulated</color> during <color=#FFFFFF>Dexterity Curse</color>.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic007.png"
+    }
+  }
+}

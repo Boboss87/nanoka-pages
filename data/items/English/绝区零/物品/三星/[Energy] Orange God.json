@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000206",
+    "name": "[Energy] Orange God",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardEDrink05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardEDrink05.webp",
+        "localPath": "gallery/zzz/CardEDrink05.webp",
+        "sha256": "0fb57332e5906a1aa677aa9277072a40a4d9fc9c6d6e4eb5ff46a9ca23d70b84",
+        "etag": "\"dld8rfqkj0f9-cga\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqkj0f9-cga\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16138|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16138,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardEDrink05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardEDrink05.webp",
+        "localPath": "gallery/zzz/CardEDrink05.webp",
+        "sha256": "0fb57332e5906a1aa677aa9277072a40a4d9fc9c6d6e4eb5ff46a9ca23d70b84",
+        "etag": "\"dld8rfqkj0f9-cga\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqkj0f9-cga\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16138|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16138,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardEDrink05.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Energy] Orange God"
+    },
+    "detail": {
+      "id": 1000206,
+      "name": "[Energy] Orange God",
+      "desc": "Triggering Perfect Dodge generates 6 Energy for the Agent. This effect can trigger once every <color=#2BAD00>10s</color>.",
+      "desc2": "This orange juice is popular among girls. Each can packs the nutritional punch of thirty oranges. \"We carefully choose only the finest oranges. One of ours is as good as ten of another kind. That means with just three oranges, you're getting the nutrients of thirty!\"",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardEDrink05.png"
+    }
+  }
+}

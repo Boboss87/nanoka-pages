@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "429",
+    "name": "Mystery Points",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_5/AntiqueToken/UnPacker/ItemIcon/AntiqueExp.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AntiqueExp.webp",
+        "localPath": "gallery/zzz/AntiqueExp.webp",
+        "sha256": "946d45c8ad71d993a033c89a0342f8bdabb9271c0c711b6e94d61628c7ecaa47",
+        "etag": "\"dld8rfnx9jho-6ee\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnx9jho-6ee\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8294|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8294,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_5/AntiqueToken/UnPacker/ItemIcon/AntiqueExp.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AntiqueExp.webp",
+        "localPath": "gallery/zzz/AntiqueExp.webp",
+        "sha256": "946d45c8ad71d993a033c89a0342f8bdabb9271c0c711b6e94d61628c7ecaa47",
+        "etag": "\"dld8rfnx9jho-6ee\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnx9jho-6ee\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8294|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8294,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_5/AntiqueToken/UnPacker/ItemIcon/AntiqueExp.png",
+      "rank": 3,
+      "class": 1,
+      "name": "Mystery Points"
+    },
+    "detail": {
+      "id": 429,
+      "name": "Mystery Points",
+      "desc": "Used to raise your Mystery Level and trade for rewards at the Buyan store.",
+      "desc2": "Records the stories and achievements you've gathered along your journey of discovery.",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_5/AntiqueToken/UnPacker/ItemIcon/AntiqueExp.png"
+    }
+  }
+}

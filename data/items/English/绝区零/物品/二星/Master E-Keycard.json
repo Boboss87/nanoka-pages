@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "304053",
+    "name": "Master E-Keycard",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/JaneMastercard.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/JaneMastercard.webp",
+        "localPath": "gallery/zzz/JaneMastercard.webp",
+        "sha256": "00f2f78d20c99b3e6181a6c2c11b735897931b5bdae4250d9d160d6ac93d47de",
+        "etag": "\"dld8rgf1pm1v-a7c\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgf1pm1v-a7c\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=13224|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13224,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/JaneMastercard.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/JaneMastercard.webp",
+        "localPath": "gallery/zzz/JaneMastercard.webp",
+        "sha256": "00f2f78d20c99b3e6181a6c2c11b735897931b5bdae4250d9d160d6ac93d47de",
+        "etag": "\"dld8rgf1pm1v-a7c\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgf1pm1v-a7c\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=13224|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13224,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/JaneMastercard.png",
+      "rank": 2,
+      "class": 20,
+      "name": "Master E-Keycard"
+    },
+    "detail": {
+      "id": 304053,
+      "name": "Master E-Keycard",
+      "desc": "A master keycard that can be used on most mid-to-large electronic machines. It can be used to open the final mechanism leading to the Lion's Den.",
+      "desc2": "The master keycard stored in the NEPS equipment room is a low-level asset. This renders most — or rather, all criminal syndicate hideout defenses based on an outdated IT system obsolete.",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/JaneMastercard.png"
+    }
+  }
+}

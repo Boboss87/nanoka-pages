@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "13004",
+    "name": "Starlight Engine",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_Common_04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_A_Common_04.webp",
+        "localPath": "gallery/zzz/Weapon_A_Common_04.webp",
+        "sha256": "216908c611039d379e93ddc9ab43468ae0693482e4a94b0f779746bd6174c3a0",
+        "etag": "\"dld8rgp3pllg-om6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgp3pllg-om6\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=31902|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 31902,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_Common_04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_A_Common_04.webp",
+        "localPath": "gallery/zzz/Weapon_A_Common_04.webp",
+        "sha256": "216908c611039d379e93ddc9ab43468ae0693482e4a94b0f779746bd6174c3a0",
+        "etag": "\"dld8rgp3pllg-om6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgp3pllg-om6\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=31902|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 31902,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_Common_04.png",
+      "rank": 3,
+      "class": 5,
+      "name": "Starlight Engine"
+    },
+    "detail": {
+      "id": 13004,
+      "name": "Starlight Engine",
+      "desc": "Equip to increase Attack Agents' combat capabilities",
+      "desc2": "A damage-type W-Engine made of special Etheric matter. When its user is attacked, it builds up energy.",
+      "class": {
+        "5": "W-ENGINE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_Common_04.png"
+    }
+  }
+}

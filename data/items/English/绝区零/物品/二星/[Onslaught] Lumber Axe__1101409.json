@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1101409",
+    "name": "[Onslaught] Lumber Axe",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardUtensil09.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardUtensil09.webp",
+        "localPath": "gallery/zzz/CardUtensil09.webp",
+        "sha256": "94c01a99f3cd90ab70247a0b397e784fffbb1231a4945a1239275f96c2c35fdf",
+        "etag": "\"dld8rfr7qy0x-bzi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr7qy0x-bzi\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15534|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15534,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardUtensil09.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardUtensil09.webp",
+        "localPath": "gallery/zzz/CardUtensil09.webp",
+        "sha256": "94c01a99f3cd90ab70247a0b397e784fffbb1231a4945a1239275f96c2c35fdf",
+        "etag": "\"dld8rfr7qy0x-bzi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr7qy0x-bzi\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15534|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15534,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardUtensil09.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[Onslaught] Lumber Axe"
+    },
+    "detail": {
+      "id": 1101409,
+      "name": "[Onslaught] Lumber Axe",
+      "desc": "Triggering <color=#F0D12B>Assault</color> generates <color=#2BAD00>8</color> Energy for the Agent.",
+      "desc2": "Once you've found the best spot for chopping, each blow will become more effortless than the last.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardUtensil09.png"
+    }
+  }
+}

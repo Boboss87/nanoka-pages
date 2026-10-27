@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "423",
+    "name": "Flower Shop Revenue",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Floristrevenue.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Floristrevenue.webp",
+        "localPath": "gallery/zzz/Floristrevenue.webp",
+        "sha256": "cf8a221b55a46e26f7b52e8dec8ba13614905585990335d0bccbe1cfac5348db",
+        "etag": "\"dld8rg74imvt-77k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg74imvt-77k\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9344|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9344,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Floristrevenue.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Floristrevenue.webp",
+        "localPath": "gallery/zzz/Floristrevenue.webp",
+        "sha256": "cf8a221b55a46e26f7b52e8dec8ba13614905585990335d0bccbe1cfac5348db",
+        "etag": "\"dld8rg74imvt-77k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg74imvt-77k\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9344|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9344,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Floristrevenue.png",
+      "rank": 3,
+      "class": 1,
+      "name": "Flower Shop Revenue"
+    },
+    "detail": {
+      "id": 423,
+      "name": "Flower Shop Revenue",
+      "desc": "Revenue earned during the flower shop's operation. It turns out that the temporary manager of Dew Gardening Shop has quite the talent for both \"floristry\" and \"business\"!",
+      "desc2": "",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Floristrevenue.png"
+    }
+  }
+}

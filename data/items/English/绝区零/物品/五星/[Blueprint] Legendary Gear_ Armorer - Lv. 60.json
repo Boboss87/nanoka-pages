@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4350240",
+    "name": "[Blueprint] Legendary Gear: Armorer - Lv. 60",
+    "rarity": "五星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponZ_010_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponZ_010_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponZ_010_Blueprint.webp",
+        "sha256": "7928009d94b00f2b6a057c05bc54d3859d915e28a398cc7e563dfe6768bb8d5b",
+        "etag": "\"dld8rgrimzp4-8cw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrimzp4-8cw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10832|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10832,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponZ_010_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponZ_010_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponZ_010_Blueprint.webp",
+        "sha256": "7928009d94b00f2b6a057c05bc54d3859d915e28a398cc7e563dfe6768bb8d5b",
+        "etag": "\"dld8rgrimzp4-8cw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrimzp4-8cw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10832|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10832,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponZ_010_Blueprint.png",
+      "rank": 5,
+      "class": 130,
+      "name": "[Blueprint] Legendary Gear: Armorer - Lv. 60"
+    },
+    "detail": {
+      "id": 4350240,
+      "name": "[Blueprint] Legendary Gear: Armorer - Lv. 60",
+      "desc": "This Blueprint can be used to unlock Armorer Gear crafting at the Smart Workshop. Obtained through investigations or purchased from Boojee's Store - Permanent Store - Blueprint Direct Sale.\n\nItem Effect: Agent DEF increases by <color=#2BAD00>20%</color>. When the Agent's attacks hit an enemy, CRIT Rate increases by <color=#2BAD00>25%</color> for <color=#2BAD00>10</color>s. Repeated triggers reset the duration. If CRIT Rate exceeds <color=#2BAD00>100%</color>, each 1% above the threshold increases the Agent's Sharp DMG by <color=#2BAD00>0.3%</color>.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponZ_010_Blueprint.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "400042",
+    "name": "HollowItemName_400042",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill21.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivePropsSkill21.webp",
+        "localPath": "gallery/zzz/ActivePropsSkill21.webp",
+        "sha256": "10a55270c6f8560c2dba00a49941f68bd6d81fb39f74d81789d7aa489ea36a63",
+        "etag": "\"dld8rfnvh8lj-57s\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnvh8lj-57s\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=6760|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6760,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill21.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivePropsSkill21.webp",
+        "localPath": "gallery/zzz/ActivePropsSkill21.webp",
+        "sha256": "10a55270c6f8560c2dba00a49941f68bd6d81fb39f74d81789d7aa489ea36a63",
+        "etag": "\"dld8rfnvh8lj-57s\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnvh8lj-57s\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=6760|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6760,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill21.png",
+      "rank": 3,
+      "class": 15,
+      "name": "HollowItemName_400042"
+    },
+    "detail": {
+      "id": 400042,
+      "name": "HollowItemName_400042",
+      "desc": "HollowItemDes_400042",
+      "desc2": "",
+      "class": {
+        "15": "HOLLOW ITEM"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill21.png"
+    }
+  }
+}

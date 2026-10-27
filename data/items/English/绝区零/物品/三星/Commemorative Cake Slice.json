@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "2090009",
+    "name": "Commemorative Cake Slice",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/PlayerBirthdayCake_2nd.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/PlayerBirthdayCake_2nd.webp",
+        "localPath": "gallery/zzz/PlayerBirthdayCake_2nd.webp",
+        "sha256": "0d6dbe0d8db96ba9687bca83f890c4acce91aef62e12114caf04a3695f36c6cf",
+        "etag": "\"dld8rgnvngwx-71i\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnvngwx-71i\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9126|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9126,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/PlayerBirthdayCake_2nd.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/PlayerBirthdayCake_2nd.webp",
+        "localPath": "gallery/zzz/PlayerBirthdayCake_2nd.webp",
+        "sha256": "0d6dbe0d8db96ba9687bca83f890c4acce91aef62e12114caf04a3695f36c6cf",
+        "etag": "\"dld8rgnvngwx-71i\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnvngwx-71i\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9126|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9126,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/PlayerBirthdayCake_2nd.png",
+      "rank": 3,
+      "class": 20,
+      "name": "Commemorative Cake Slice"
+    },
+    "detail": {
+      "id": 2090009,
+      "name": "Commemorative Cake Slice",
+      "desc": "A cake slice made by the Phaethon Birthday Preparatory Alliance; its precise cooking method was formulated after being searched and compared by Ridu's most advanced AI assistant.",
+      "desc2": "By the time you see this cake, you've already missed the epic scene of Eous, Lil Six, and 18 standing on each other's shoulders to reach the kitchen utensils, and somehow managing to bake this cake under Fairy's guidance without blowing up the kitchen in the process.\nHowever, {M#Belle}{F#Wise} might have recorded it on video, so why don't you go ask {M#her}{F#him}... maybe you can still find it?",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/PlayerBirthdayCake_2nd.png"
+    }
+  }
+}

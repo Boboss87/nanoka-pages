@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "425",
+    "name": "Angler Commemorative Coin",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/FishCoin.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/FishCoin.webp",
+        "localPath": "gallery/zzz/FishCoin.webp",
+        "sha256": "bdad67e88b77af953438f002f6e9b3714a38b55e444ad665f2f7a2caf6121449",
+        "etag": "\"dld8rg74imvt-6yc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg74imvt-6yc\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9012|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9012,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/FishCoin.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/FishCoin.webp",
+        "localPath": "gallery/zzz/FishCoin.webp",
+        "sha256": "bdad67e88b77af953438f002f6e9b3714a38b55e444ad665f2f7a2caf6121449",
+        "etag": "\"dld8rg74imvt-6yc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg74imvt-6yc\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9012|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9012,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/FishCoin.png",
+      "rank": 3,
+      "class": 1,
+      "name": "Angler Commemorative Coin"
+    },
+    "detail": {
+      "id": 425,
+      "name": "Angler Commemorative Coin",
+      "desc": "Penguinboo Empy from Fantasy Resort is a master Bangboo fisher at Port Elpis, and he's well acquainted with the old-timers at the Port Elpis Fishing Association.",
+      "desc2": "With Empy acting as go-between, the Fishing Association has agreed that the Bangboo would be able to buy more advanced fishing gear, aquarium decorations, and various other items at discounted prices as long as they sell their catches to the association. To facilitate the transactions further, the association has even specially created a unique currency for the Bangboo — the Angler Commemorative Coin.",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/FishCoin.png"
+    }
+  }
+}

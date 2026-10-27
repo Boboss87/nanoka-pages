@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4000004",
+    "name": "Mewmew's Ballet Twins Road Notes",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/PoliceOfficerLetter06.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/PoliceOfficerLetter06.webp",
+        "localPath": "gallery/zzz/PoliceOfficerLetter06.webp",
+        "sha256": "b6743033393255bcb299b712f576f98c3675e4e28bc54dc904192af5973fbcdc",
+        "etag": "\"dld8rgnw8wjn-c6y\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnw8wjn-c6y\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=15802|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15802,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/PoliceOfficerLetter06.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/PoliceOfficerLetter06.webp",
+        "localPath": "gallery/zzz/PoliceOfficerLetter06.webp",
+        "sha256": "b6743033393255bcb299b712f576f98c3675e4e28bc54dc904192af5973fbcdc",
+        "etag": "\"dld8rgnw8wjn-c6y\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnw8wjn-c6y\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=15802|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15802,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/PoliceOfficerLetter06.png",
+      "rank": 3,
+      "class": 72,
+      "name": "Mewmew's Ballet Twins Road Notes"
+    },
+    "detail": {
+      "id": 4000004,
+      "name": "Mewmew's Ballet Twins Road Notes",
+      "desc": "A copy of Officer Mewmew's notes that contains information about Bangboo at the Ballet Twins requiring help.",
+      "desc2": "Contains Bangboo requests for help collected from all over the place.",
+      "class": {
+        "72": "MESSAGE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/PoliceOfficerLetter06.png"
+    }
+  }
+}

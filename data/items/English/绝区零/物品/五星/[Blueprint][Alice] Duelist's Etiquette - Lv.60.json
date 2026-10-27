@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4350532",
+    "name": "[Blueprint][Alice] Duelist's Etiquette - Lv.60",
+    "rarity": "五星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "placeholder",
+        "placeholder": true,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_032_Blueprint.png",
+        "remoteUrl": null,
+        "localPath": "gallery/_placeholder/unknown.svg",
+        "sha256": "25fe1ba8bf237af8dc0157859efb518fa04c23b8e55ca4c05ec8292eebc2122e",
+        "etag": null,
+        "lastModified": null,
+        "remoteKey": null,
+        "contentType": "image/svg+xml",
+        "bytes": 520,
+        "retryable": false,
+        "retryOnNextRun": true,
+        "placeholderReason": "remote_missing",
+        "failedCandidateCount": 2,
+        "error": "missing: 404 unknown content-type; missing: 404 unknown content-type"
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "placeholder",
+        "placeholder": true,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_032_Blueprint.png",
+        "remoteUrl": null,
+        "localPath": "gallery/_placeholder/unknown.svg",
+        "sha256": "25fe1ba8bf237af8dc0157859efb518fa04c23b8e55ca4c05ec8292eebc2122e",
+        "etag": null,
+        "lastModified": null,
+        "remoteKey": null,
+        "contentType": "image/svg+xml",
+        "bytes": 520,
+        "retryable": false,
+        "retryOnNextRun": true,
+        "placeholderReason": "remote_missing",
+        "failedCandidateCount": 2,
+        "error": "missing: 404 unknown content-type; missing: 404 unknown content-type"
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_032_Blueprint.png",
+      "rank": 5,
+      "class": 130,
+      "name": "[Blueprint][Alice] Duelist's Etiquette - Lv.60"
+    },
+    "detail": {
+      "id": 4350532,
+      "name": "[Blueprint][Alice] Duelist's Etiquette - Lv.60",
+      "desc": "This blueprint unlocks the crafting of Alice's exclusive Tactical Prism at the Smart Workshop. Obtainable through investigation and exploration, or purchasable from Boojee's Store - Permanent Store - Season Limited.\nItem Effect: Increases this unit's Anomaly Buildup Rate by 8% and Anomaly Proficiency by 8. For every 22k Gear Coins held, gain 1 extra stack of this effect, stacking up to 4 times.\nWhen the 5th hit of Alice's <color=#FFFFFF>[Basic Attack]</color>, <color=#FFFFFF>[EX Special Attack]</color>, <color=#FFFFFF>[Chain Attack]</color>, or <color=#FFFFFF>[Ultimate]</color> hits an enemy, accumulate <color=#FFFFFF>[Marks]</color>. When an attack hits an enemy with full <color=#FFFFFF>[Marks]</color>, consume all <color=#FFFFFF>[Marks]</color> to trigger <color=#F0D12B>[Polarity Assault]</color> and cause all DMG dealt by this unit to ignore 30% of the target's DMG RES for 30s.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_032_Blueprint.png"
+    }
+  }
+}

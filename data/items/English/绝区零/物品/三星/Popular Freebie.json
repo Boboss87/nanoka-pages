@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3301004",
+    "name": "Popular Freebie",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard08.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard08.webp",
+        "localPath": "gallery/zzz/Callingcard08.webp",
+        "sha256": "9c066d8b361e0de2983d535be680f392d78ed484a39d779b4a49a8d8b2bc0a53",
+        "etag": "\"dld8rfppkfmc-7r6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfppkfmc-7r6\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10050|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10050,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard08.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard08.webp",
+        "localPath": "gallery/zzz/Callingcard08.webp",
+        "sha256": "9c066d8b361e0de2983d535be680f392d78ed484a39d779b4a49a8d8b2bc0a53",
+        "etag": "\"dld8rfppkfmc-7r6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfppkfmc-7r6\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10050|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10050,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard08.png",
+      "rank": 3,
+      "class": 65,
+      "name": "Popular Freebie"
+    },
+    "detail": {
+      "id": 3301004,
+      "name": "Popular Freebie",
+      "desc": "Obtain via limited-time event",
+      "desc2": "A freebie from \"The Ridu Tour\" magazine... Considering how a reader has to buy the full volume to get this freebie, each one signifies an impressive profit for the magazine raked in by this event.",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard08.png"
+    }
+  }
+}

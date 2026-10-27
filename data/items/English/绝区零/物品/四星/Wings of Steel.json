@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000990",
+    "name": "Wings of Steel",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1501.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1501.webp",
+        "localPath": "gallery/zzz/CardDailyUse1501.webp",
+        "sha256": "cd79512d2a4ae8416e85e9b1e1ae08924a4573278a94d84138f4d16bef7c20ee",
+        "etag": "\"dld8rfqhju9p-d34\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqhju9p-d34\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16960|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16960,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1501.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1501.webp",
+        "localPath": "gallery/zzz/CardDailyUse1501.webp",
+        "sha256": "cd79512d2a4ae8416e85e9b1e1ae08924a4573278a94d84138f4d16bef7c20ee",
+        "etag": "\"dld8rfqhju9p-d34\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqhju9p-d34\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16960|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16960,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1501.png",
+      "rank": 4,
+      "class": 31,
+      "name": "Wings of Steel"
+    },
+    "detail": {
+      "id": 1000990,
+      "name": "Wings of Steel",
+      "desc": "Aria has evoked the Mindscape: <color=#FFAF2C>Energetic Sound Waves</color>.\nEnergetic Sound Waves：When Aria's <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Special Attack</color>, or <color=#FFFFFF>EX Special Attack</color> deals DMG to enemies, it ignores 10% of the target's <color=#FE437E>Ether Anomaly Buildup RES</color>. Additionally, when Aria triggers <color=#FFFFFF>Abloom</color>, it has a chance to trigger a critical hit. The base CRIT Rate is 25%, and CRIT DMG is 25%. If initial Anomaly Mastery exceeds 100, each additional point of initial Anomaly Mastery increases this effect's CRIT Rate by 0.5%.",
+      "desc2": "I'll protect every single one of your delusions — whether on stage or on the battlefield, same as always.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1501.png"
+    }
+  }
+}

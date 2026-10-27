@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "412011120",
+    "name": "Scarlet Snowglow",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Head_Hat_03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Wise_Head_Hat_03.webp",
+        "localPath": "gallery/zzz/icon_Wise_Head_Hat_03.webp",
+        "sha256": "eaa68b1c1bea2dd4a209bb8649fe75473e5fa6575d2ef6fff0421b2a147ae795",
+        "etag": "\"dld8rgrolc07-6ke\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrolc07-6ke\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8510|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8510,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Head_Hat_03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Wise_Head_Hat_03.webp",
+        "localPath": "gallery/zzz/icon_Wise_Head_Hat_03.webp",
+        "sha256": "eaa68b1c1bea2dd4a209bb8649fe75473e5fa6575d2ef6fff0421b2a147ae795",
+        "etag": "\"dld8rgrolc07-6ke\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrolc07-6ke\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8510|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8510,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Head_Hat_03.png",
+      "rank": 3,
+      "class": 95,
+      "name": "Scarlet Snowglow"
+    },
+    "detail": {
+      "id": 412011120,
+      "name": "Scarlet Snowglow",
+      "desc": "A Proxy accessory that can be worn with some of Wise's Proxy outfits.",
+      "desc2": "A white hat pure as snow, red threads like flames, a gleaming silver buckle, and effortlessly flowing mystic power.",
+      "class": {
+        "95": "OUTFIT ACCESSORIES"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Head_Hat_03.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000976",
+    "name": "[Affinity] Guarding Tranquility",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1371.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1371.webp",
+        "localPath": "gallery/zzz/CardDailyUse1371.webp",
+        "sha256": "637f27fdcba7385c14f940a1bb5a81a912ec3a75b504a430fe6f6599ed1d1f6d",
+        "etag": "\"dld8rfqfrjdk-cp2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqfrjdk-cp2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16454|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16454,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1371.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1371.webp",
+        "localPath": "gallery/zzz/CardDailyUse1371.webp",
+        "sha256": "637f27fdcba7385c14f940a1bb5a81a912ec3a75b504a430fe6f6599ed1d1f6d",
+        "etag": "\"dld8rfqfrjdk-cp2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqfrjdk-cp2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16454|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16454,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1371.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Affinity] Guarding Tranquility"
+    },
+    "detail": {
+      "id": 1000976,
+      "name": "[Affinity] Guarding Tranquility",
+      "desc": "Yixuan has evoked the Mindscape: <color=#FFAF2C>[Spiritual Path]</color>.\n[Spiritual Path]: Upon entering combat, CRIT Rate increases by 10% and immediately gain 120 <color=#FFFFFF>Technique Points</color>. In Investigation Zone Mode, this effect can only trigger once every 180s. When any squad member lands a hit on an enemy, Yixuan automatically summons an extra lightning strike, dealing DMG equal to 50% of her Sheer Force and restoring 5 additional Adrenaline. This can trigger once every 6s.",
+      "desc2": "\"True training is like drawing spring water beneath the moon — you touch the surface gently, leaving the moon's reflection undisturbed, not stirring the stars into chaos.\"\nShe's always behind you, quietly shielding you from it all, steady and serene, as if it were nothing.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1371.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "221",
+    "name": "Outpost Trust",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/SocialForumExp.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SocialForumExp.webp",
+        "localPath": "gallery/zzz/SocialForumExp.webp",
+        "sha256": "1881988c4b3ca74badbfd5f4c98655a22dc6dccf150703cff6d23b926785c7bf",
+        "etag": "\"dld8rgodihu8-6wc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgodihu8-6wc\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8940|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8940,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/SocialForumExp.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SocialForumExp.webp",
+        "localPath": "gallery/zzz/SocialForumExp.webp",
+        "sha256": "1881988c4b3ca74badbfd5f4c98655a22dc6dccf150703cff6d23b926785c7bf",
+        "etag": "\"dld8rgodihu8-6wc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgodihu8-6wc\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8940|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8940,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/SocialForumExp.png",
+      "rank": 3,
+      "class": 2,
+      "name": "Outpost Trust"
+    },
+    "detail": {
+      "id": 221,
+      "name": "Outpost Trust",
+      "desc": "Used to increase Permission Level, obtainable by completing commissions from other Proxies.",
+      "desc2": "Leveling up your Permission Level unlocks new titles and adds more items to the Points Exchange shop.",
+      "class": {
+        "2": "RESOURCE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/SocialForumExp.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "31843",
+    "name": "Chaos Jazz [3]",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitChaosJazz_S.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitChaosJazz_S.webp",
+        "localPath": "gallery/zzz/ItemSuitChaosJazz_S.webp",
+        "sha256": "c09ac9b4120638288f733d73522523feb3d1ed430c91807242abfe5e26cab1f6",
+        "etag": "\"dld8rgem8bne-716\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgem8bne-716\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9114|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9114,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitChaosJazz_S.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitChaosJazz_S.webp",
+        "localPath": "gallery/zzz/ItemSuitChaosJazz_S.webp",
+        "sha256": "c09ac9b4120638288f733d73522523feb3d1ed430c91807242abfe5e26cab1f6",
+        "etag": "\"dld8rgem8bne-716\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgem8bne-716\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9114|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9114,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitChaosJazz_S.png",
+      "rank": 4,
+      "class": 7,
+      "name": "Chaos Jazz [3]"
+    },
+    "detail": {
+      "id": 31843,
+      "name": "Chaos Jazz [3]",
+      "desc": "Equip to increase Agents' combat capabilities",
+      "desc2": "This Drive Disc contains track three from Chaos Jazz. The melody that emanates with the rotation of the W-Engine is chaotic and disorderly.",
+      "class": {
+        "7": "DISK"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitChaosJazz_S.png"
+    }
+  }
+}

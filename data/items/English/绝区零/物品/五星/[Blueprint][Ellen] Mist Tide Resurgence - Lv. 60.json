@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4350521",
+    "name": "[Blueprint][Ellen] Mist Tide Resurgence - Lv. 60",
+    "rarity": "五星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_002_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_002_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_002_Blueprint.webp",
+        "sha256": "9e3bc7ad13c3dd5c5bed7b5187507050047d7ae69446fdb43cb4ac2e9c41d279",
+        "etag": "\"dld8rgrdvinf-808\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrdvinf-808\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10376|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10376,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_002_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_002_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_002_Blueprint.webp",
+        "sha256": "9e3bc7ad13c3dd5c5bed7b5187507050047d7ae69446fdb43cb4ac2e9c41d279",
+        "etag": "\"dld8rgrdvinf-808\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrdvinf-808\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10376|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10376,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_002_Blueprint.png",
+      "rank": 5,
+      "class": 130,
+      "name": "[Blueprint][Ellen] Mist Tide Resurgence - Lv. 60"
+    },
+    "detail": {
+      "id": 4350521,
+      "name": "[Blueprint][Ellen] Mist Tide Resurgence - Lv. 60",
+      "desc": "This blueprint can be used to unlock the crafting of Ellen's exclusive Tactical Prism at the Smart Workshop. Purchase them from Boojee's Store - Season Limited.\nItem Effect: While Roaming is active, the Cacophony Soundscape's Corruption is reduced to 70% of its original value.\nWhen Ellen uses an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>, she <color=#2BAD00>leaves Icy Mist on the ground</color>, dealing continuous <color=#98EFF0>Ice DMG</color> for 15s. Agents inside <color=#FFFFFF>Icy Mist</color> gain <color=#2BAD00>increased Anti-Interrupt Level</color> and take <color=#2BAD00>30% less DMG</color>. These effects persist for 5s after leaving <color=#FFFFFF>Icy Mist</color>. When Ellen hits an enemy inside <color=#FFFFFF>Icy Mist</color>, <color=#FFFFFF>Icy Mist</color> deals one additional instance of DMG.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_002_Blueprint.png"
+    }
+  }
+}

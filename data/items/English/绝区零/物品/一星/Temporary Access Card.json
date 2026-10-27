@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4200305",
+    "name": "Temporary Access Card",
+    "rarity": "一星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialGeneralC_2.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovMaterialGeneralC_2.webp",
+        "localPath": "gallery/zzz/BangkovMaterialGeneralC_2.webp",
+        "sha256": "348dc93c9f97ee4206b6f2e260c81f29da5b99e8297520748139e06195b64419",
+        "etag": "\"dld8rfpml9gs-5qu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpml9gs-5qu\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7446|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7446,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialGeneralC_2.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovMaterialGeneralC_2.webp",
+        "localPath": "gallery/zzz/BangkovMaterialGeneralC_2.webp",
+        "sha256": "348dc93c9f97ee4206b6f2e260c81f29da5b99e8297520748139e06195b64419",
+        "etag": "\"dld8rfpml9gs-5qu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpml9gs-5qu\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7446|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7446,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialGeneralC_2.png",
+      "rank": 1,
+      "class": 120,
+      "name": "Temporary Access Card"
+    },
+    "detail": {
+      "id": 4200305,
+      "name": "Temporary Access Card",
+      "desc": "<color=#FFFFFF>Can be exchanged for Marcel Coins.</color>\nAn access card issued to temporary employees.",
+      "desc2": "BKItem_4200305_Story",
+      "class": {
+        "120": null
+      },
+      "rarity": 1,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialGeneralC_2.png"
+    }
+  }
+}

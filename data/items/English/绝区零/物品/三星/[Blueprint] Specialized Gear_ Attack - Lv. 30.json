@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4350201",
+    "name": "[Blueprint] Specialized Gear: Attack - Lv. 30",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponA_001_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponA_001_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponA_001_Blueprint.webp",
+        "sha256": "71dbe217ccafe94e8109580d98a8e5189e665fae7947db68f1849126f36746e3",
+        "etag": "\"dld8rgrcone0-85k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrcone0-85k\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10568|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10568,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponA_001_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponA_001_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponA_001_Blueprint.webp",
+        "sha256": "71dbe217ccafe94e8109580d98a8e5189e665fae7947db68f1849126f36746e3",
+        "etag": "\"dld8rgrcone0-85k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrcone0-85k\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10568|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10568,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponA_001_Blueprint.png",
+      "rank": 3,
+      "class": 130,
+      "name": "[Blueprint] Specialized Gear: Attack - Lv. 30"
+    },
+    "detail": {
+      "id": 4350201,
+      "name": "[Blueprint] Specialized Gear: Attack - Lv. 30",
+      "desc": "Use this Blueprint at the Smart Workshop to unlock the recipe for this item. Purchased from Boojee's Store - Permanent Store - Blueprint Direct Sale.\n\nItem Effect: After triggering a Perfect Dodge, all Agents' ATK increases by <color=#2BAD00>15%</color> for <color=#2BAD00>15</color>s. Repeated triggers reset the duration.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponA_001_Blueprint.png"
+    }
+  }
+}

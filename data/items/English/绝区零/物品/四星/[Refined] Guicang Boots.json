@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4150062",
+    "name": "[Refined] Guicang Boots",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianAttireProduct01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianAttireProduct01.webp",
+        "localPath": "gallery/zzz/SuibianAttireProduct01.webp",
+        "sha256": "f7c20dccd1b9f54ed5a5ea1c6e3d7dba8c3882e9dd12cf2fb520d7f49f7d0fa4",
+        "etag": "\"dld8rgoepd3n-5xu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoepd3n-5xu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7698|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7698,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianAttireProduct01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianAttireProduct01.webp",
+        "localPath": "gallery/zzz/SuibianAttireProduct01.webp",
+        "sha256": "f7c20dccd1b9f54ed5a5ea1c6e3d7dba8c3882e9dd12cf2fb520d7f49f7d0fa4",
+        "etag": "\"dld8rgoepd3n-5xu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoepd3n-5xu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7698|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7698,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianAttireProduct01.png",
+      "rank": 4,
+      "class": 89,
+      "name": "[Refined] Guicang Boots"
+    },
+    "detail": {
+      "id": 4150062,
+      "name": "[Refined] Guicang Boots",
+      "desc": "Clothes refined at Suibian Temple.",
+      "desc2": "Simple shoes commonly worn by Yunkui Summit disciples — well-suited for navigating the Hollow.",
+      "class": {
+        "89": "Product"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianAttireProduct01.png"
+    }
+  }
+}

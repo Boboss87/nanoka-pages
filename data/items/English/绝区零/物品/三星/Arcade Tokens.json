@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4200001",
+    "name": "Arcade Tokens",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovCoinSpecial.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovCoinSpecial.webp",
+        "localPath": "gallery/zzz/BangkovCoinSpecial.webp",
+        "sha256": "d616c29bc44d3041a1871d6ca0014fad09abdb37e1f29673d94303fe08c632b0",
+        "etag": "\"dld8rfpif81t-6sa\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpif81t-6sa\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8794|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8794,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovCoinSpecial.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovCoinSpecial.webp",
+        "localPath": "gallery/zzz/BangkovCoinSpecial.webp",
+        "sha256": "d616c29bc44d3041a1871d6ca0014fad09abdb37e1f29673d94303fe08c632b0",
+        "etag": "\"dld8rfpif81t-6sa\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpif81t-6sa\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8794|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8794,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovCoinSpecial.png",
+      "rank": 3,
+      "class": 120,
+      "name": "Arcade Tokens"
+    },
+    "detail": {
+      "id": 4200001,
+      "name": "Arcade Tokens",
+      "desc": "<color=#FFFFFF>Has recycling and circulation value</color>, essential for activating amusement park attractions.\nScattered throughout Bootopia in limited quantities, making them pretty hard to find.",
+      "desc2": "BKItem_4200001_Story",
+      "class": {
+        "120": null
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovCoinSpecial.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1342511",
+    "name": "\"Dreamland Equipment\" Meteor Blazing Gun",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGun07.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardGun07.webp",
+        "localPath": "gallery/zzz/CardGun07.webp",
+        "sha256": "ccf4fab1f52bcc8742eec27c2525973c8650d812b66a198f128bb0f1a6befe1d",
+        "etag": "\"dld8rfqqhcqc-cfq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqqhcqc-cfq\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16118|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16118,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGun07.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardGun07.webp",
+        "localPath": "gallery/zzz/CardGun07.webp",
+        "sha256": "ccf4fab1f52bcc8742eec27c2525973c8650d812b66a198f128bb0f1a6befe1d",
+        "etag": "\"dld8rfqqhcqc-cfq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqqhcqc-cfq\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16118|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16118,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGun07.png",
+      "rank": 4,
+      "class": 87,
+      "name": "\"Dreamland Equipment\" Meteor Blazing Gun"
+    },
+    "detail": {
+      "id": 1342511,
+      "name": "\"Dreamland Equipment\" Meteor Blazing Gun",
+      "desc": "A machine gun can be implanted on Tully's chest, firing out <color=#E48600>powerful projectiles</color>, but with a <color=#E48600>limited magazine capacity</color>. After firing all bullets in the magazine, it will <color=#E48600>reload</color>, and once reloaded can <color=#E48600>continue attacking</color>.\n\nWith each <color=#E48600>reload</color>, Tully will load projectiles corresponding to an attribute type of a randomly selected Agent in the squad.\n\nCan be upgraded using <color=#E48600>Projectile Dreamland Resonium</color> obtained from the <color=#E48600>modification workshop</color>.",
+      "desc2": "",
+      "class": {
+        "87": "BANGBOO GEAR"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGun07.png"
+    }
+  }
+}

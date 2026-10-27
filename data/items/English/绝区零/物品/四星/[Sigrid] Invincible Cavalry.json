@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1350301",
+    "name": "[Sigrid] Invincible Cavalry",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic101.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic101.webp",
+        "localPath": "gallery/zzz/Relic101.webp",
+        "sha256": "70249b6c467cc6d3401b0395b30d22e8352de364ad6c5cadc2ad7bad7efd1cb3",
+        "etag": "\"dld8rgo56f0a-2ka\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo56f0a-2ka\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=3322|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 3322,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.desc.IconMap.Icon_Normal",
+        "kind": "icon_map",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "<IconMap:Icon_Normal>",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Icon_Normal.webp",
+        "localPath": "gallery/zzz/Icon_Normal.webp",
+        "sha256": "4f7078ee9d3a5e61be8ce9d3fd3f68b91de0880ba80ee43ea51b64394c158602",
+        "etag": "\"dld8rgefojpl-10m\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgefojpl-10m\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=1318|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 1318,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic101.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic101.webp",
+        "localPath": "gallery/zzz/Relic101.webp",
+        "sha256": "70249b6c467cc6d3401b0395b30d22e8352de364ad6c5cadc2ad7bad7efd1cb3",
+        "etag": "\"dld8rgo56f0a-2ka\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo56f0a-2ka\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=3322|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 3322,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic101.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Sigrid] Invincible Cavalry"
+    },
+    "detail": {
+      "id": 1350301,
+      "name": "[Sigrid] Invincible Cavalry",
+      "desc": "Unlocks <color=#FFFFFF>Converging Spear: Vanquisher</color>: When there are no remaining uses of <color=#FFFFFF>Basic Attack: Converging Spear</color>, hold <IconMap:Icon_Normal> to unleash <color=#FFFFFF>Converging Spear: Vanquisher</color>, dealing <color=#98EFF0>Ice DMG</color>.\nIf the character gets hit at the moment <color=#FFFFFF>Converging Spear: Vanquisher</color> is activated, block can be triggered. Each successful block trigger negates the incoming attack's DMG, resets <color=#FFFFFF>Aerial Patrol Spear</color>, increases the Daze dealt by the next <color=#FFFFFF>Basic Attack: Converging Spear</color> by 100%, and grants one use of <color=#FFFFFF>Basic Attack: Converging Spear</color>. After a successful block, press <IconMap:Icon_Normal> to trigger the corresponding stage of <color=#FFFFFF>Basic Attack: Converging Spear</color>.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic101.png"
+    }
+  }
+}

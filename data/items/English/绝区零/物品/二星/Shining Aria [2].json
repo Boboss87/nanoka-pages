@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "33622",
+    "name": "Shining Aria [2]",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitShiningAria_B.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitShiningAria_B.webp",
+        "localPath": "gallery/zzz/ItemSuitShiningAria_B.webp",
+        "sha256": "8e2a3244e5001957316d5b065ea4a2122ab719ffca891e246a10b45a7ec5cd0b",
+        "etag": "\"dld8rgev5u42-76q\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgev5u42-76q\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9314|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9314,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitShiningAria_B.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitShiningAria_B.webp",
+        "localPath": "gallery/zzz/ItemSuitShiningAria_B.webp",
+        "sha256": "8e2a3244e5001957316d5b065ea4a2122ab719ffca891e246a10b45a7ec5cd0b",
+        "etag": "\"dld8rgev5u42-76q\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgev5u42-76q\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9314|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9314,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitShiningAria_B.png",
+      "rank": 2,
+      "class": 7,
+      "name": "Shining Aria [2]"
+    },
+    "detail": {
+      "id": 33622,
+      "name": "Shining Aria [2]",
+      "desc": "Equip to increase Agents' combat capabilities",
+      "desc2": "\"Imperfect dreams in my hand, warming softly where I stand\nI believe someday they'll land right beside you, just as planned\n(By your side!)\"",
+      "class": {
+        "7": "DISK"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitShiningAria_B.png"
+    }
+  }
+}

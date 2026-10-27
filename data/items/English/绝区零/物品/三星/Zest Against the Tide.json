@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "412011109",
+    "name": "Zest Against the Tide",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Chest_Badge_02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Wise_Chest_Badge_02.webp",
+        "localPath": "gallery/zzz/icon_Wise_Chest_Badge_02.webp",
+        "sha256": "7167f3f144fa4d181c4a360845d431fd6e95feb0880c70a99e532a3d6508bda8",
+        "etag": "\"dld8rgrm7lhd-7f0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrm7lhd-7f0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9612|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9612,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Chest_Badge_02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Wise_Chest_Badge_02.webp",
+        "localPath": "gallery/zzz/icon_Wise_Chest_Badge_02.webp",
+        "sha256": "7167f3f144fa4d181c4a360845d431fd6e95feb0880c70a99e532a3d6508bda8",
+        "etag": "\"dld8rgrm7lhd-7f0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrm7lhd-7f0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9612|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9612,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Chest_Badge_02.png",
+      "rank": 3,
+      "class": 95,
+      "name": "Zest Against the Tide"
+    },
+    "detail": {
+      "id": 412011109,
+      "name": "Zest Against the Tide",
+      "desc": "A Proxy accessory that can be worn with some of Wise's Proxy outfits.",
+      "desc2": "What should I do? I feel like I actually want to exercise after putting it on. Does this design have some kind of hypnotic effect?",
+      "class": {
+        "95": "OUTFIT ACCESSORIES"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Chest_Badge_02.png"
+    }
+  }
+}

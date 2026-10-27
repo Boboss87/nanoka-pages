@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "5211",
+    "name": "Agent Focus: Rina",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece22.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece22.webp",
+        "localPath": "gallery/zzz/IconRolePiece22.webp",
+        "sha256": "cceb90235f7667416509eb51ec3fb81738fb40fd242f4ef10a16cbdc8c0e3853",
+        "etag": "\"dld8rgde66yv-84s\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgde66yv-84s\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10540|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10540,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece22.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece22.webp",
+        "localPath": "gallery/zzz/IconRolePiece22.webp",
+        "sha256": "cceb90235f7667416509eb51ec3fb81738fb40fd242f4ef10a16cbdc8c0e3853",
+        "etag": "\"dld8rgde66yv-84s\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgde66yv-84s\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10540|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10540,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece22.png",
+      "rank": 4,
+      "class": 4,
+      "name": "Agent Focus: Rina"
+    },
+    "detail": {
+      "id": 5211,
+      "name": "Agent Focus: Rina",
+      "desc": "Used to unlock Agent's Mindscape Cinema",
+      "desc2": "Snapshots from Rina's daily life and from in combat, recording important moments before and after she became an Agent.\nThese images also provide insights into her fighting style and favorite weapons, helping to better understand her strengths.\n\nThere's a smiling emoji drawn on the back, which looks like some kind of friendly greeting... Only looks like.",
+      "class": {
+        "4": "AGENT ARCHIVE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece22.png"
+    }
+  }
+}

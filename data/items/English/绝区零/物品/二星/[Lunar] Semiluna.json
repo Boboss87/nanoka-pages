@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "12016",
+    "name": "[Lunar] Semiluna",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_B_Common_16.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_B_Common_16.webp",
+        "localPath": "gallery/zzz/Weapon_B_Common_16.webp",
+        "sha256": "2fc2032a4d1f5c470fcedb16b87302b921a128766f6d64fa76fd5a5413abe8c5",
+        "etag": "\"dld8rgpdtzbj-qby\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgpdtzbj-qby\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=34126|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 34126,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_B_Common_16.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_B_Common_16.webp",
+        "localPath": "gallery/zzz/Weapon_B_Common_16.webp",
+        "sha256": "2fc2032a4d1f5c470fcedb16b87302b921a128766f6d64fa76fd5a5413abe8c5",
+        "etag": "\"dld8rgpdtzbj-qby\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgpdtzbj-qby\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=34126|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 34126,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_B_Common_16.png",
+      "rank": 2,
+      "class": 5,
+      "name": "[Lunar] Semiluna"
+    },
+    "detail": {
+      "id": 12016,
+      "name": "[Lunar] Semiluna",
+      "desc": "Equip to increase Armorer Agents' combat capabilities",
+      "desc2": "A cost-effective choice for newcomers exploring Hollows.",
+      "class": {
+        "5": "W-ENGINE"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_B_Common_16.png"
+    }
+  }
+}

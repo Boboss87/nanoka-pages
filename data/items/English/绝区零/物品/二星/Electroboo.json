@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4160003",
+    "name": "Electroboo",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooElectroboo.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBangbooElectroboo.webp",
+        "localPath": "gallery/zzz/CardBangbooElectroboo.webp",
+        "sha256": "70e93517a1347ba46f9fc661f69db957ecc80e046156195b45350c0117494dba",
+        "etag": "\"dld8rfq22jv8-bq2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq22jv8-bq2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15194|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15194,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooElectroboo.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBangbooElectroboo.webp",
+        "localPath": "gallery/zzz/CardBangbooElectroboo.webp",
+        "sha256": "70e93517a1347ba46f9fc661f69db957ecc80e046156195b45350c0117494dba",
+        "etag": "\"dld8rfq22jv8-bq2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq22jv8-bq2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15194|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15194,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooElectroboo.png",
+      "rank": 2,
+      "class": 112,
+      "name": "Electroboo"
+    },
+    "detail": {
+      "id": 4160003,
+      "name": "Electroboo",
+      "desc": "Bangboo who can help craft, sell, or be dispatched on adventures at Suibian Temple.",
+      "desc2": "",
+      "class": {
+        "112": "BANGBOO"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooElectroboo.png"
+    }
+  }
+}

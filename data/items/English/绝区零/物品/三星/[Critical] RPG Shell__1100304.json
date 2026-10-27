@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1100304",
+    "name": "[Critical] RPG Shell",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGun01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardGun01.webp",
+        "localPath": "gallery/zzz/CardGun01.webp",
+        "sha256": "6897dca1aee0b2b0be4ac0ad87859ed3c98720b9406a36b6e238427dc81b26a1",
+        "etag": "\"dld8rfqo3m7i-by2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqo3m7i-by2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15482|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15482,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGun01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardGun01.webp",
+        "localPath": "gallery/zzz/CardGun01.webp",
+        "sha256": "6897dca1aee0b2b0be4ac0ad87859ed3c98720b9406a36b6e238427dc81b26a1",
+        "etag": "\"dld8rfqo3m7i-by2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqo3m7i-by2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15482|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15482,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGun01.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Critical] RPG Shell"
+    },
+    "detail": {
+      "id": 1100304,
+      "name": "[Critical] RPG Shell",
+      "desc": "Triggering a critical hit increases Daze inflicted by the Agent by <color=#2BAD00>15%</color> for 3s.",
+      "desc2": "Regular soldiers should get out of the way!",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGun01.png"
+    }
+  }
+}

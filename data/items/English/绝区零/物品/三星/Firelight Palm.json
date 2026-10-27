@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3321311",
+    "name": "Firelight Palm",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "Firelight Palm"
+    },
+    "detail": {
+      "id": 3321311,
+      "name": "Firelight Palm",
+      "desc": "Get by unlocking Astra Yao's Mindscape: We Are the World",
+      "desc2": "A card with a personal photo of Astra Yao.\n\"The criteria for choosing gems? It's certainly not boring numbers like clarity, craftsmanship, or weight~\"\n\"But if you're too shy to even look me in the eye, how would you ever know the real reason they're being given to you?\"",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4350311",
+    "name": "[Blueprint][Sigrid] Dancing Spearhead - Lv. 50",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_019_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_019_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_019_Blueprint.webp",
+        "sha256": "907b01733f637dbf768ddb03a2af14b7573cff3196c5604d3361937898355864",
+        "etag": "\"dld8rgrfntjk-81k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrfntjk-81k\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10424|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10424,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.desc.IconMap.Icon_Normal",
+        "kind": "icon_map",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "<IconMap:Icon_Normal>",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Icon_Normal.webp",
+        "localPath": "gallery/zzz/Icon_Normal.webp",
+        "sha256": "4f7078ee9d3a5e61be8ce9d3fd3f68b91de0880ba80ee43ea51b64394c158602",
+        "etag": "\"dld8rgefojpl-10m\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgefojpl-10m\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=1318|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 1318,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_019_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_019_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_019_Blueprint.webp",
+        "sha256": "907b01733f637dbf768ddb03a2af14b7573cff3196c5604d3361937898355864",
+        "etag": "\"dld8rgrfntjk-81k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrfntjk-81k\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10424|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10424,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_019_Blueprint.png",
+      "rank": 4,
+      "class": 130,
+      "name": "[Blueprint][Sigrid] Dancing Spearhead - Lv. 50"
+    },
+    "detail": {
+      "id": 4350311,
+      "name": "[Blueprint][Sigrid] Dancing Spearhead - Lv. 50",
+      "desc": "This blueprint can be used to unlock the crafting of Sigrid's exclusive Tactical Prism at the Smart Workshop. Obtained through investigations or purchased from Boojee's Store - Permanent Store - Blueprint Direct Sale.\nItem Effect: All squad members gain 15% Cacophony Shield reduction efficiency. The duration of the Stunned state inflicted on The Hound - Ulidim when any squad member attacks it and causes it to become Stunned is increased by 3s. DMG dealt by all squad members to The Hound - Ulidim is increased by 30%.\nWhile in the <color=#FFFFFF>Aerial Patrol Spear</color> state, the Energy Cost of <color=#FFFFFF>EX Special Attack</color> is reduced to <color=#FFFFFF>40</color>; when hit by an enemy attack while using <color=#FFFFFF>EX Special Attack</color>, Sigrid will block with her shield. If the block is successful, the incoming attack DMG is negated, her own attacks ignore <color=#2BAD00>12%</color> of the target's DEF for <color=#FFFFFF>30</color>s, the <color=#FFFFFF>Aerial Patrol Spear</color> state is refreshed, and she gains one use of <color=#FFFFFF>Basic Attack: Converging Spear</color>; after a successful block, press <IconMap:Icon_Normal> to trigger the corresponding stage of <color=#FFFFFF>Basic Attack: Converging Spear</color>.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_019_Blueprint.png"
+    }
+  }
+}

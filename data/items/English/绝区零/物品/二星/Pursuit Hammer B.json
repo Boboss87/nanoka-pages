@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4221019",
+    "name": "Pursuit Hammer B",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovWeaponPursue_1.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovWeaponPursue_1.webp",
+        "localPath": "gallery/zzz/BangkovWeaponPursue_1.webp",
+        "sha256": "7b2db2699adfda77cde2d8d8741dcfbd7332a9d92b24127e52833cf9e8e615cd",
+        "etag": "\"dld8rfpml9gs-5hs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpml9gs-5hs\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7120|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7120,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovWeaponPursue_1.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovWeaponPursue_1.webp",
+        "localPath": "gallery/zzz/BangkovWeaponPursue_1.webp",
+        "sha256": "7b2db2699adfda77cde2d8d8741dcfbd7332a9d92b24127e52833cf9e8e615cd",
+        "etag": "\"dld8rfpml9gs-5hs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpml9gs-5hs\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7120|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7120,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovWeaponPursue_1.png",
+      "rank": 2,
+      "class": 122,
+      "name": "Pursuit Hammer B"
+    },
+    "detail": {
+      "id": 4221019,
+      "name": "Pursuit Hammer B",
+      "desc": "<color=#FFFFFF>Weapons placed in Equipment Slots will lose Corruption Resistance at the end of each run. When it reaches zero, all bonuses are lost.</color>\nA commemorative Bangboo weapon sold exclusively at Marcel's Bootopia that improves Bangboo follow-up attacks.",
+      "desc2": "BKItem_4221019_Story",
+      "class": {
+        "122": null
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovWeaponPursue_1.png"
+    }
+  }
+}

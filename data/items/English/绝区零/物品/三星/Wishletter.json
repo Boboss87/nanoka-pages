@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "132",
+    "name": "Wishletter",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianPrestige.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianPrestige.webp",
+        "localPath": "gallery/zzz/SuibianPrestige.webp",
+        "sha256": "31c5e650cfa909ba4cb258f0a152885417b26d86ef9857e6baca43c1f6e76887",
+        "etag": "\"dld8rgofw8d2-73a\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgofw8d2-73a\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9190|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9190,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianPrestige.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianPrestige.webp",
+        "localPath": "gallery/zzz/SuibianPrestige.webp",
+        "sha256": "31c5e650cfa909ba4cb258f0a152885417b26d86ef9857e6baca43c1f6e76887",
+        "etag": "\"dld8rgofw8d2-73a\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgofw8d2-73a\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9190|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9190,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianPrestige.png",
+      "rank": 3,
+      "class": 1,
+      "name": "Wishletter"
+    },
+    "detail": {
+      "id": 132,
+      "name": "Wishletter",
+      "desc": "Souvenir from praying at Suibian Temple.",
+      "desc2": "The delicate crepe paper cradles patterns painted with vermilion, each crease holding unspoken wishes. The moment they are released from one's fingertips, those unvoiced prayers transform into threads of light as they ascend, casting gentle shadows through the clouds — like silken cords descending from the heavens, waiting to bind earthly warmth to the highest skies.",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianPrestige.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "5081",
+    "name": "Agent Focus: Billy",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece10.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece10.webp",
+        "localPath": "gallery/zzz/IconRolePiece10.webp",
+        "sha256": "ce3bf2bff46e53c0fa00de665293287364e6f0245848824e32f1120120577a6e",
+        "etag": "\"dld8rgdczbpg-8bm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgdczbpg-8bm\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10786|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10786,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece10.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece10.webp",
+        "localPath": "gallery/zzz/IconRolePiece10.webp",
+        "sha256": "ce3bf2bff46e53c0fa00de665293287364e6f0245848824e32f1120120577a6e",
+        "etag": "\"dld8rgdczbpg-8bm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgdczbpg-8bm\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10786|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10786,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece10.png",
+      "rank": 3,
+      "class": 4,
+      "name": "Agent Focus: Billy"
+    },
+    "detail": {
+      "id": 5081,
+      "name": "Agent Focus: Billy",
+      "desc": "Used to unlock Agent's Mindscape Cinema",
+      "desc2": "Snapshots from Billy's daily life and from in combat, recording important moments before and after he became an Agent. These images also provide insights into his fighting style and favorite weapons, helping to better understand his strengths. HD wallpapers of Monica, gunstock close-ups, posters of Monica's new film, gun barrel close-ups, album covers featuring Monica, Monica Monica...",
+      "class": {
+        "4": "AGENT ARCHIVE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece10.png"
+    }
+  }
+}

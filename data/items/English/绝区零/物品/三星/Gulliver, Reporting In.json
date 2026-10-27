@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3301006",
+    "name": "Gulliver, Reporting In",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard13.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard13.webp",
+        "localPath": "gallery/zzz/Callingcard13.webp",
+        "sha256": "59ff5f139de00c7a0ff687541d3e329bc96ef88a44e632684f32bf6b210516c4",
+        "etag": "\"dld8rfppkfmc-7ua\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfppkfmc-7ua\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10162|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10162,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard13.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard13.webp",
+        "localPath": "gallery/zzz/Callingcard13.webp",
+        "sha256": "59ff5f139de00c7a0ff687541d3e329bc96ef88a44e632684f32bf6b210516c4",
+        "etag": "\"dld8rfppkfmc-7ua\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfppkfmc-7ua\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10162|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10162,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard13.png",
+      "rank": 3,
+      "class": 65,
+      "name": "Gulliver, Reporting In"
+    },
+    "detail": {
+      "id": 3301006,
+      "name": "Gulliver, Reporting In",
+      "desc": "A namecard reward for Version 1.4 \"A Storm of Falling Stars\" pre-registration event.",
+      "desc2": "Allow me to introduce the liaison officer dispatched by Section 6 for this special commission.\nIts gaze is bright, it's got a steady and precise shot, it's steady and meticulous, and friendly and reliable. It is... Agent Gulliver!",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard13.png"
+    }
+  }
+}

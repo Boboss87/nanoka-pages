@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "201",
+    "name": "Inter-Knot Credit",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ProxyEXP.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ProxyEXP.webp",
+        "localPath": "gallery/zzz/ProxyEXP.webp",
+        "sha256": "a3d6c590dc6a66c7b760af5950ed949de1505e1e40aac030afa3697a5870c222",
+        "etag": "\"dld8rgnw8wjn-7mg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnw8wjn-7mg\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9880|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9880,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ProxyEXP.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ProxyEXP.webp",
+        "localPath": "gallery/zzz/ProxyEXP.webp",
+        "sha256": "a3d6c590dc6a66c7b760af5950ed949de1505e1e40aac030afa3697a5870c222",
+        "etag": "\"dld8rgnw8wjn-7mg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnw8wjn-7mg\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9880|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9880,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ProxyEXP.png",
+      "rank": 2,
+      "class": 2,
+      "name": "Inter-Knot Credit"
+    },
+    "detail": {
+      "id": 201,
+      "name": "Inter-Knot Credit",
+      "desc": "Virtual credit used on Inter-Knot. Your Inter-Knot Level will increase with enough Credit.",
+      "desc2": "\"In the world of Proxies, reputation is more precious than Dennies. Because without it, the means of earning Dennies are vastly limited...\"",
+      "class": {
+        "2": "RESOURCE"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ProxyEXP.png"
+    }
+  }
+}

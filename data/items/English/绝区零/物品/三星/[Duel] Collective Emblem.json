@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000713",
+    "name": "[Duel] Collective Emblem",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBlunt00.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBlunt00.webp",
+        "localPath": "gallery/zzz/CardBlunt00.webp",
+        "sha256": "78d4f5889c374e0424afee4be61b68463bb9f4e8b56df8a713701ee4b999c095",
+        "etag": "\"dld8rfq3uurd-ats\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq3uurd-ats\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14032|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14032,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBlunt00.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBlunt00.webp",
+        "localPath": "gallery/zzz/CardBlunt00.webp",
+        "sha256": "78d4f5889c374e0424afee4be61b68463bb9f4e8b56df8a713701ee4b999c095",
+        "etag": "\"dld8rfq3uurd-ats\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq3uurd-ats\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14032|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14032,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBlunt00.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Duel] Collective Emblem"
+    },
+    "detail": {
+      "id": 1000713,
+      "name": "[Duel] Collective Emblem",
+      "desc": "Increases the chance for [Duel] Resonia to appear.",
+      "desc2": "Kindred spirits gather, and emblems fall into groups.\nSince a duel is inevitable, let's make sure we have every advantage on our side.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBlunt00.png"
+    }
+  }
+}

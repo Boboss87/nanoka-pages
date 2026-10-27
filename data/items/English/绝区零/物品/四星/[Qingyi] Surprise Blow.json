@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1357023",
+    "name": "[Qingyi] Surprise Blow",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic059.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic059.webp",
+        "localPath": "gallery/zzz/Relic059.webp",
+        "sha256": "0634991cd49da9d6fcb4132df182ab555bd3b3c6f92acd4d786b88a96688388e",
+        "etag": "\"dld8rgo2sohg-3oq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo2sohg-3oq\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4778|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4778,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic059.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic059.webp",
+        "localPath": "gallery/zzz/Relic059.webp",
+        "sha256": "0634991cd49da9d6fcb4132df182ab555bd3b3c6f92acd4d786b88a96688388e",
+        "etag": "\"dld8rgo2sohg-3oq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo2sohg-3oq\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4778|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4778,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic059.png",
+      "rank": 4,
+      "class": 105,
+      "name": "[Qingyi] Surprise Blow"
+    },
+    "detail": {
+      "id": 1357023,
+      "name": "[Qingyi] Surprise Blow",
+      "desc": "When <color=#FFAF2C>Basic Attack: Enchanted Moonlit Blossoms's Finishing Move</color> hits an enemy, it increases the user's <color=#31CC00>Daze dealt by 20%</color> for 8s. During this time, Qingyi's <color=#FFAF2C>Basic Attack: Penultimate, Basic Attack: Enchanted Blossoms, and Basic Attack: Enchanted Moonlit Blossoms</color> deal <color=#31CC00>15% increased CRIT DMG</color>.",
+      "desc2": "",
+      "class": {
+        "105": "WEAPON"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic059.png"
+    }
+  }
+}

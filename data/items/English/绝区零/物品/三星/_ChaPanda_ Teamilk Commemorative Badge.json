@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "2090017",
+    "name": "\"ChaPanda\" Teamilk Commemorative Badge",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Chapanda_Mark.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Chapanda_Mark.webp",
+        "localPath": "gallery/zzz/Chapanda_Mark.webp",
+        "sha256": "c12e75903d9db7c9bd74d99fc46176a7817b7c849787408f8d0556131f250dd3",
+        "etag": "\"dld8rfr9j8x2-77k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr9j8x2-77k\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9344|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9344,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Chapanda_Mark.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Chapanda_Mark.webp",
+        "localPath": "gallery/zzz/Chapanda_Mark.webp",
+        "sha256": "c12e75903d9db7c9bd74d99fc46176a7817b7c849787408f8d0556131f250dd3",
+        "etag": "\"dld8rfr9j8x2-77k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr9j8x2-77k\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9344|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9344,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Chapanda_Mark.png",
+      "rank": 3,
+      "class": 20,
+      "name": "\"ChaPanda\" Teamilk Commemorative Badge"
+    },
+    "detail": {
+      "id": 2090017,
+      "name": "\"ChaPanda\" Teamilk Commemorative Badge",
+      "desc": "The commemorative reward for the collab event \"ChaPanda × Zenless Zone Zero.\"",
+      "desc2": "Savor the aroma and rich flavor of tea — no reason needed!\nThis commemorative badge is exquisite and beautiful, perfect for home decoration, itabag accessories, showing off your taste and understanding of beverages, or marking your Bangboo to avoid mix-ups with others. Word on the street says some batches even have Resonium effects — but try at your own risk!",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Chapanda_Mark.png"
+    }
+  }
+}

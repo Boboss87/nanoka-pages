@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3114011",
+    "name": "Sea of Thyme",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_AliceSeaofThyme.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Skin_AliceSeaofThyme.webp",
+        "localPath": "gallery/zzz/Skin_AliceSeaofThyme.webp",
+        "sha256": "0b012cb553ca646b292e2cf93bdb40ebd126a5c82391f0c5bde498952a1232a7",
+        "etag": "\"dld8rgocbmkt-7f8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgocbmkt-7f8\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9620|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9620,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_AliceSeaofThyme.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Skin_AliceSeaofThyme.webp",
+        "localPath": "gallery/zzz/Skin_AliceSeaofThyme.webp",
+        "sha256": "0b012cb553ca646b292e2cf93bdb40ebd126a5c82391f0c5bde498952a1232a7",
+        "etag": "\"dld8rgocbmkt-7f8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgocbmkt-7f8\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9620|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9620,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_AliceSeaofThyme.png",
+      "rank": 4,
+      "class": 63,
+      "name": "Sea of Thyme"
+    },
+    "detail": {
+      "id": 3114011,
+      "name": "Sea of Thyme",
+      "desc": "Alice's Outfit.",
+      "desc2": "Though it wasn't completely symmetrical, she did not mind this gift from a dear friend.\nThe girl pushed open the locked door and walked along the pink beach after the sudden downpour, the cool waves brushing over her ankles. There were no unknowns left to frighten her.",
+      "class": {
+        "63": "DRESS"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_AliceSeaofThyme.png"
+    }
+  }
+}

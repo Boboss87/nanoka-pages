@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3201019",
+    "name": "Berry Party",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1019.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemProfile1019.webp",
+        "localPath": "gallery/zzz/ItemProfile1019.webp",
+        "sha256": "c156c14a44f41012e341710a584b689992609b0ab36743b8c99b60eabbe54c13",
+        "etag": "\"dld8rgei2a8g-8aw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgei2a8g-8aw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10760|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10760,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1019.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemProfile1019.webp",
+        "localPath": "gallery/zzz/ItemProfile1019.webp",
+        "sha256": "c156c14a44f41012e341710a584b689992609b0ab36743b8c99b60eabbe54c13",
+        "etag": "\"dld8rgei2a8g-8aw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgei2a8g-8aw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10760|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10760,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1019.png",
+      "rank": 4,
+      "class": 64,
+      "name": "Berry Party"
+    },
+    "detail": {
+      "id": 3201019,
+      "name": "Berry Party",
+      "desc": "A commemorative avatar for the New Eridu City Fund: Growth Plan.",
+      "desc2": "In Booastrum, the clear skies might let you down. A Bangboo might even get the wrong idea.\nBut berries never will.\nStrawberries, raspberries, and blueberries, whether sweet, tangy, or delightfully sour, will always sweeten your Cream Party.",
+      "class": {
+        "64": "PROFILE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1019.png"
+    }
+  }
+}

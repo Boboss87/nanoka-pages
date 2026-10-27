@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4200602",
+    "name": "Lifeguard Whistle",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialAreaBeachB_1.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovMaterialAreaBeachB_1.webp",
+        "localPath": "gallery/zzz/BangkovMaterialAreaBeachB_1.webp",
+        "sha256": "995c605bde03d1741d89f351aafe8fbe916951d85bbfd501a415081dfbc039d2",
+        "etag": "\"dld8rfpk7ixy-4q4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpk7ixy-4q4\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=6124|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6124,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialAreaBeachB_1.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovMaterialAreaBeachB_1.webp",
+        "localPath": "gallery/zzz/BangkovMaterialAreaBeachB_1.webp",
+        "sha256": "995c605bde03d1741d89f351aafe8fbe916951d85bbfd501a415081dfbc039d2",
+        "etag": "\"dld8rfpk7ixy-4q4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpk7ixy-4q4\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=6124|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6124,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialAreaBeachB_1.png",
+      "rank": 2,
+      "class": 120,
+      "name": "Lifeguard Whistle"
+    },
+    "detail": {
+      "id": 4200602,
+      "name": "Lifeguard Whistle",
+      "desc": "<color=#FFFFFF>Obtained from Island Area Investigation, used to activate Talents.</color>\nSomething sounds seriously off when you blow into it.",
+      "desc2": "BKItem_4200602_Story",
+      "class": {
+        "120": null
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialAreaBeachB_1.png"
+    }
+  }
+}

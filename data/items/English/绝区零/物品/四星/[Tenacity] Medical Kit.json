@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1002402",
+    "name": "[Tenacity] Medical Kit",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTenacity01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardTenacity01.webp",
+        "localPath": "gallery/zzz/CardTenacity01.webp",
+        "sha256": "59fa71bbb7b86923cb8cc7121fe7d43a19fa974a25db971cc022f6e2e98a4ef6",
+        "etag": "\"dld8rfr4rrve-ccc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr4rrve-ccc\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15996|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15996,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTenacity01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardTenacity01.webp",
+        "localPath": "gallery/zzz/CardTenacity01.webp",
+        "sha256": "59fa71bbb7b86923cb8cc7121fe7d43a19fa974a25db971cc022f6e2e98a4ef6",
+        "etag": "\"dld8rfr4rrve-ccc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr4rrve-ccc\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15996|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15996,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTenacity01.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Tenacity] Medical Kit"
+    },
+    "detail": {
+      "id": 1002402,
+      "name": "[Tenacity] Medical Kit",
+      "desc": "When an Agent is attacked, the DMG is <color=#2BAD00>shared between all squad members</color>. When any off-field Agent has less than 10% HP, they will share DMG but not lose HP.",
+      "desc2": "From large items like first-aid supplies to small items like cold medications, it all fits inside.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTenacity01.png"
+    }
+  }
+}

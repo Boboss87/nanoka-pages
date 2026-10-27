@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "201200",
+    "name": "Mini Cargo Truck",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/DeviceTreasureCar.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/DeviceTreasureCar.webp",
+        "localPath": "gallery/zzz/DeviceTreasureCar.webp",
+        "sha256": "8047dba7a700af5ce2ebf7139c15773301eed722e3bf0562a8eda1785a74bce1",
+        "etag": "\"dld8rfrfhl85-7t0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrfhl85-7t0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10116|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10116,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/DeviceTreasureCar.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/DeviceTreasureCar.webp",
+        "localPath": "gallery/zzz/DeviceTreasureCar.webp",
+        "sha256": "8047dba7a700af5ce2ebf7139c15773301eed722e3bf0562a8eda1785a74bce1",
+        "etag": "\"dld8rfrfhl85-7t0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrfhl85-7t0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10116|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10116,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/DeviceTreasureCar.png",
+      "rank": 4,
+      "class": 29,
+      "name": "Mini Cargo Truck"
+    },
+    "detail": {
+      "id": 201200,
+      "name": "Mini Cargo Truck",
+      "desc": "Mini Cargo Trucks may contain Dennies, materials, items, or even Polychromes and other rewards.",
+      "desc2": "The Mini Cargo Truck: Your sturdiest safety net. A general logistics vehicle used by the HIA to deliver all kinds of supplies to aid investigators in harvesting Ether resources. Some lost Mini Cargo Trucks will end up as a sweet bonus for Hollow Raiders looking around for loot.\nIf you see a lost Mini Cargo Truck, please use whatever is inside as you see fit... It's not like they'll fight back.",
+      "class": {
+        "29": "INFO"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/DeviceTreasureCar.png"
+    }
+  }
+}

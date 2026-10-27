@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "14003",
+    "name": "Six Shooter",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_Common_03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_S_Common_03.webp",
+        "localPath": "gallery/zzz/Weapon_S_Common_03.webp",
+        "sha256": "f3761ad0f4f518b320fffda8f70f193d4bcd0c9e15408ff8abc82a1ae31af857",
+        "etag": "\"dld8rgqnoew7-tkq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgqnoew7-tkq\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=38330|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 38330,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_Common_03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_S_Common_03.webp",
+        "localPath": "gallery/zzz/Weapon_S_Common_03.webp",
+        "sha256": "f3761ad0f4f518b320fffda8f70f193d4bcd0c9e15408ff8abc82a1ae31af857",
+        "etag": "\"dld8rgqnoew7-tkq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgqnoew7-tkq\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=38330|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 38330,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_Common_03.png",
+      "rank": 3,
+      "class": 5,
+      "name": "Six Shooter"
+    },
+    "detail": {
+      "id": 14003,
+      "name": "Six Shooter",
+      "desc": "Equip to increase Stun Agents' combat capabilities",
+      "desc2": "A special W-Engine modeled after a revolver. It can load bullet-shaped condensed Ether batteries, which release a great amount of power when fired.",
+      "class": {
+        "5": "W-ENGINE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_Common_03.png"
+    }
+  }
+}

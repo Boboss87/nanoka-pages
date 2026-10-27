@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "448",
+    "name": "Lucky: Skyward Soar Boo",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BlindBoxJackPot_03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BlindBoxJackPot_03.webp",
+        "localPath": "gallery/zzz/BlindBoxJackPot_03.webp",
+        "sha256": "beff123e4ef83d66623d2549ce265b5444f5e4297022d8cdc47d33a18a604dfd",
+        "etag": "\"dld8rfpoyzzm-7ua\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpoyzzm-7ua\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10162|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10162,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BlindBoxJackPot_03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BlindBoxJackPot_03.webp",
+        "localPath": "gallery/zzz/BlindBoxJackPot_03.webp",
+        "sha256": "beff123e4ef83d66623d2549ce265b5444f5e4297022d8cdc47d33a18a604dfd",
+        "etag": "\"dld8rfpoyzzm-7ua\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpoyzzm-7ua\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10162|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10162,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BlindBoxJackPot_03.png",
+      "rank": 4,
+      "class": 1,
+      "name": "Lucky: Skyward Soar Boo"
+    },
+    "detail": {
+      "id": 448,
+      "name": "Lucky: Skyward Soar Boo",
+      "desc": "A single Bangboo Badge from the \"Lucky\" series, obtained from the \"Gilded Surprise, Wonderful Boo-ns\" Event Phase 1.",
+      "desc2": "\"Light up the sky with pretty fireworks, and luck will fall down like snow, right?\"\n—The careful ehn-ne sounds from a Bangboo cautiously lighting fireworks.",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BlindBoxJackPot_03.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1351008",
+    "name": "Bellflower",
+    "rarity": "一星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver1_7/Flower/UnPacker/SLot2_2.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SLot2_2.webp",
+        "localPath": "gallery/zzz/SLot2_2.webp",
+        "sha256": "52c612cdd913a279e8fd7cb49b950b887fa910598fbda398c5fd718101a0363d",
+        "etag": "\"dld8rgobq6y3-9mm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgobq6y3-9mm\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=12478|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12478,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver1_7/Flower/UnPacker/SLot2_2.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SLot2_2.webp",
+        "localPath": "gallery/zzz/SLot2_2.webp",
+        "sha256": "52c612cdd913a279e8fd7cb49b950b887fa910598fbda398c5fd718101a0363d",
+        "etag": "\"dld8rgobq6y3-9mm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgobq6y3-9mm\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=12478|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12478,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver1_7/Flower/UnPacker/SLot2_2.png",
+      "rank": 1,
+      "class": 93,
+      "name": "Bellflower"
+    },
+    "detail": {
+      "id": 1351008,
+      "name": "Bellflower",
+      "desc": "The bellflower represents unwavering faith, which evokes resilience and protection.",
+      "desc2": "",
+      "class": {
+        "93": "DEW"
+      },
+      "rarity": 1,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver1_7/Flower/UnPacker/SLot2_2.png"
+    }
+  }
+}

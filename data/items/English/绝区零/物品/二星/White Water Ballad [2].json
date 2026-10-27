@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "33522",
+    "name": "White Water Ballad [2]",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitWhiteWaterBallad_B.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitWhiteWaterBallad_B.webp",
+        "localPath": "gallery/zzz/ItemSuitWhiteWaterBallad_B.webp",
+        "sha256": "b63f51535f5a592940be17acb5e13c79672d176a18d3773b293235225f326065",
+        "etag": "\"dld8rgezbvj1-7to\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgezbvj1-7to\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10140|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10140,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitWhiteWaterBallad_B.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitWhiteWaterBallad_B.webp",
+        "localPath": "gallery/zzz/ItemSuitWhiteWaterBallad_B.webp",
+        "sha256": "b63f51535f5a592940be17acb5e13c79672d176a18d3773b293235225f326065",
+        "etag": "\"dld8rgezbvj1-7to\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgezbvj1-7to\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10140|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10140,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitWhiteWaterBallad_B.png",
+      "rank": 2,
+      "class": 7,
+      "name": "White Water Ballad [2]"
+    },
+    "detail": {
+      "id": 33522,
+      "name": "White Water Ballad [2]",
+      "desc": "Equip to increase Agents' combat capabilities",
+      "desc2": "\"His sword cast starlight, like startled swan in flight. Through the wide Qingming realm he wandered in light.\"",
+      "class": {
+        "7": "DISK"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitWhiteWaterBallad_B.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1350181",
+    "name": "[Ye Shunguang] Frosted Blade",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic063.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic063.webp",
+        "localPath": "gallery/zzz/Relic063.webp",
+        "sha256": "bfc46e9d75e2198636521c51669b8c2f0e5fd173c7cf3db66ceafb4675490a87",
+        "etag": "\"dld8rgo2sohg-3zw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo2sohg-3zw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5180|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5180,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic063.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic063.webp",
+        "localPath": "gallery/zzz/Relic063.webp",
+        "sha256": "bfc46e9d75e2198636521c51669b8c2f0e5fd173c7cf3db66ceafb4675490a87",
+        "etag": "\"dld8rgo2sohg-3zw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo2sohg-3zw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5180|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5180,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic063.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Ye Shunguang] Frosted Blade"
+    },
+    "detail": {
+      "id": 1350181,
+      "name": "[Ye Shunguang] Frosted Blade",
+      "desc": "After entering Enlightened Mind, upon first using Basic Attack: Enlightened Mind - Sunderlight Maximum, <color=#2BAD00>automatically triggers Chain Attack: Enlightened Mind - Lure Thunder</color>, and <color=#2BAD00>gains 45% Physical RES ignore</color> for 15s.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic063.png"
+    }
+  }
+}

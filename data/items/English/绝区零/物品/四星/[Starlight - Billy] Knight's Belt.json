@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1350242",
+    "name": "[Starlight - Billy] Knight's Belt",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic090.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic090.webp",
+        "localPath": "gallery/zzz/Relic090.webp",
+        "sha256": "dee9fb4b7140e93c9ba1bf08181dcb217fb6e07304dd3dadfc22ca868b6cdc96",
+        "etag": "\"dld8rgo4kzdk-3pk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo4kzdk-3pk\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4808|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4808,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.desc.IconMap.Icon_Normal",
+        "kind": "icon_map",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "<IconMap:Icon_Normal>",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Icon_Normal.webp",
+        "localPath": "gallery/zzz/Icon_Normal.webp",
+        "sha256": "4f7078ee9d3a5e61be8ce9d3fd3f68b91de0880ba80ee43ea51b64394c158602",
+        "etag": "\"dld8rgefojpl-10m\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgefojpl-10m\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=1318|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 1318,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic090.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic090.webp",
+        "localPath": "gallery/zzz/Relic090.webp",
+        "sha256": "dee9fb4b7140e93c9ba1bf08181dcb217fb6e07304dd3dadfc22ca868b6cdc96",
+        "etag": "\"dld8rgo4kzdk-3pk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo4kzdk-3pk\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4808|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4808,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic090.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Starlight - Billy] Knight's Belt"
+    },
+    "detail": {
+      "id": 1350242,
+      "name": "[Starlight - Billy] Knight's Belt",
+      "desc": "After using <color=#FFFFFF>Dash Attack: Starlight Retribution</color>, hold <IconMap:Icon_Normal> to perform <color=#FFFFFF>Basic Attack: Stunt Show</color>, dealing <color=#F0D12B>Physical DMG</color> to surrounding enemies. This skill is a guaranteed CRIT. During this skill, <color=#2BAD00>CRIT DMG increases by 80%</color>, <color=#2BAD00>recovers 10 <color=#FFFFFF>Determination</color>/s</color>, and <color=#2BAD00>Anti-Interrupt Level increases</color>.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic090.png"
+    }
+  }
+}

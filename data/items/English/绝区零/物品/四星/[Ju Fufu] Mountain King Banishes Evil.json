@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1350091",
+    "name": "[Ju Fufu] Mountain King Banishes Evil",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic038.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic038.webp",
+        "localPath": "gallery/zzz/Relic038.webp",
+        "sha256": "0e4e525fb678b82638ae5926a3f57e321c3120908a1d0016f541ed11743b9b6a",
+        "etag": "\"dld8rgo10dlb-4gy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo10dlb-4gy\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5794|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5794,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic038.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic038.webp",
+        "localPath": "gallery/zzz/Relic038.webp",
+        "sha256": "0e4e525fb678b82638ae5926a3f57e321c3120908a1d0016f541ed11743b9b6a",
+        "etag": "\"dld8rgo10dlb-4gy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo10dlb-4gy\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5794|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5794,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic038.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Ju Fufu] Mountain King Banishes Evil"
+    },
+    "detail": {
+      "id": 1350091,
+      "name": "[Ju Fufu] Mountain King Banishes Evil",
+      "desc": "After Ju Fufu activates <color=#FFFFFF>Chain Attack: Suppressing Tiger Cauldron</color>, if she is not the currently active character, it will trigger a <color=#FFFFFF>Tag Assist</color>, performing the 4th hit of her <color=#FFFFFF>Basic Attack</color> around enemies. The skill's DMG is considered <color=#2BAD00>Aftershock DMG</color>. <color=#2BAD00>DMG dealt increases by 75%</color> and <color=#2BAD00>Daze dealt increased by 45%</color>.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic038.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "100232",
+    "name": "Buster Certification Seal",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AvatarRankStun03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AvatarRankStun03.webp",
+        "localPath": "gallery/zzz/AvatarRankStun03.webp",
+        "sha256": "2d8752a9567534885582c036908f655dc75807cbd367fae3b2df15bace31d7b6",
+        "etag": "\"dld8rfo0u59x-78k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfo0u59x-78k\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9380|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9380,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AvatarRankStun03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AvatarRankStun03.webp",
+        "localPath": "gallery/zzz/AvatarRankStun03.webp",
+        "sha256": "2d8752a9567534885582c036908f655dc75807cbd367fae3b2df15bace31d7b6",
+        "etag": "\"dld8rfo0u59x-78k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfo0u59x-78k\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9380|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9380,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AvatarRankStun03.png",
+      "rank": 3,
+      "class": 10,
+      "name": "Buster Certification Seal"
+    },
+    "detail": {
+      "id": 100232,
+      "name": "Buster Certification Seal",
+      "desc": "Increases the Agent level cap for Stun-specialty Agents to 60.",
+      "desc2": "A certification seal granted solely to the most outstanding in the field of Stun tactics. The seal itself also contains a small amount of benign Ether inside which can be useful when improving an Agent's combat abilities.",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AvatarRankStun03.png"
+    }
+  }
+}

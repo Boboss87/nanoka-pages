@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3301024",
+    "name": "Stargazy (Improved)",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard45.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard45.webp",
+        "localPath": "gallery/zzz/Callingcard45.webp",
+        "sha256": "725f8645323959e2ce8e6c68f74f3cb41aa08450bc7a71a1ff1af366e3eef66f",
+        "etag": "\"dld8rfpry656-7qk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpry656-7qk\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10028|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10028,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard45.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard45.webp",
+        "localPath": "gallery/zzz/Callingcard45.webp",
+        "sha256": "725f8645323959e2ce8e6c68f74f3cb41aa08450bc7a71a1ff1af366e3eef66f",
+        "etag": "\"dld8rfpry656-7qk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpry656-7qk\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10028|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10028,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard45.png",
+      "rank": 3,
+      "class": 65,
+      "name": "Stargazy (Improved)"
+    },
+    "detail": {
+      "id": 3301024,
+      "name": "Stargazy (Improved)",
+      "desc": "A birthday gift for a Proxy.",
+      "desc2": "Prepared by a local Bangboo chef based on a legendary recipe from the early days of Roscaelifer, this pastry tastes quite different from the original due to the recipe being lost to time, leaving everyone sighing in regret.\nLegend says it once had a romantic name: \"Stargazy.\"\n\nNote: No Eous units were harmed during the making of this cake!",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard45.png"
+    }
+  }
+}

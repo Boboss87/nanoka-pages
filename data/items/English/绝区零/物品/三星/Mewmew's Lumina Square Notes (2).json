@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4000006",
+    "name": "Mewmew's Lumina Square Notes (2)",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/PoliceOfficerLetter05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/PoliceOfficerLetter05.webp",
+        "localPath": "gallery/zzz/PoliceOfficerLetter05.webp",
+        "sha256": "5edfd5a6974407db5e0f80c5c19a0225a807533eba56397add843638b8fc0bd0",
+        "etag": "\"dld8rgnw8wjn-bri\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnw8wjn-bri\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=15246|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15246,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/PoliceOfficerLetter05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/PoliceOfficerLetter05.webp",
+        "localPath": "gallery/zzz/PoliceOfficerLetter05.webp",
+        "sha256": "5edfd5a6974407db5e0f80c5c19a0225a807533eba56397add843638b8fc0bd0",
+        "etag": "\"dld8rgnw8wjn-bri\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnw8wjn-bri\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=15246|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15246,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/PoliceOfficerLetter05.png",
+      "rank": 3,
+      "class": 72,
+      "name": "Mewmew's Lumina Square Notes (2)"
+    },
+    "detail": {
+      "id": 4000006,
+      "name": "Mewmew's Lumina Square Notes (2)",
+      "desc": "A copy of Officer Mewmew's notes that contains information about Bangboo at Lumina Square requiring help.",
+      "desc2": "Contains Bangboo requests for help collected from all over the place.",
+      "class": {
+        "72": "MESSAGE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/PoliceOfficerLetter05.png"
+    }
+  }
+}

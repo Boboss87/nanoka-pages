@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "530020",
+    "name": "Luckyboo Core",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece11.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconBangbooPiece11.webp",
+        "localPath": "gallery/zzz/IconBangbooPiece11.webp",
+        "sha256": "02573568d43c28331aae4f4016e97fd555de347022797d997de58407c1d01f7e",
+        "etag": "\"dld8rg7agz6w-8py\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7agz6w-8py\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11302|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11302,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece11.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconBangbooPiece11.webp",
+        "localPath": "gallery/zzz/IconBangbooPiece11.webp",
+        "sha256": "02573568d43c28331aae4f4016e97fd555de347022797d997de58407c1d01f7e",
+        "etag": "\"dld8rg7agz6w-8py\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7agz6w-8py\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11302|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11302,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece11.png",
+      "rank": 3,
+      "class": 9,
+      "name": "Luckyboo Core"
+    },
+    "detail": {
+      "id": 530020,
+      "name": "Luckyboo Core",
+      "desc": "Obtain this Bangboo model or authorization to perform the Bangboo's core update.",
+      "desc2": "Takes up quite a bit of space when placed on the counter.",
+      "class": {
+        "9": "BANGBOO CORE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece11.png"
+    }
+  }
+}

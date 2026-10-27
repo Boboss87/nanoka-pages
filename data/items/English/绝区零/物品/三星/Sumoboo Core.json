@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "530040",
+    "name": "Sumoboo Core",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconBangbooPiece05.webp",
+        "localPath": "gallery/zzz/IconBangbooPiece05.webp",
+        "sha256": "e309db537c389ab9047e13e588001c186d344170c67b61edbaf9039191146588",
+        "etag": "\"dld8rg7agz6w-8q4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7agz6w-8q4\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11308|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11308,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconBangbooPiece05.webp",
+        "localPath": "gallery/zzz/IconBangbooPiece05.webp",
+        "sha256": "e309db537c389ab9047e13e588001c186d344170c67b61edbaf9039191146588",
+        "etag": "\"dld8rg7agz6w-8q4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7agz6w-8q4\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11308|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11308,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece05.png",
+      "rank": 3,
+      "class": 9,
+      "name": "Sumoboo Core"
+    },
+    "detail": {
+      "id": 530040,
+      "name": "Sumoboo Core",
+      "desc": "Obtain this Bangboo model or authorization to perform the Bangboo's core update.",
+      "desc2": "A sumo wrestler never retreats!",
+      "class": {
+        "9": "BANGBOO CORE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece05.png"
+    }
+  }
+}

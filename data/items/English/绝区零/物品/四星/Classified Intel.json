@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4360008",
+    "name": "Classified Intel",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_008.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_008.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_008.webp",
+        "sha256": "7e57c64cec88ab3e5a80d676f508b39585d033d1ac13ace68557a4042c708e68",
+        "etag": "\"dld8rgr1deej-5qq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr1deej-5qq\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7442|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7442,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_008.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_008.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_008.webp",
+        "sha256": "7e57c64cec88ab3e5a80d676f508b39585d033d1ac13ace68557a4042c708e68",
+        "etag": "\"dld8rgr1deej-5qq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr1deej-5qq\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7442|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7442,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_008.png",
+      "rank": 4,
+      "class": 130,
+      "name": "Classified Intel"
+    },
+    "detail": {
+      "id": 4360008,
+      "name": "Classified Intel",
+      "desc": "A classified data terminal recovered from the Hollow. It appears to have belonged to a Defense Force unit. Unauthorized access is prohibited. But if you absolutely must peek, make it quick!",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_008.png"
+    }
+  }
+}

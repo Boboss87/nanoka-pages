@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1343016",
+    "name": "Particle Mask",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardTech05.webp",
+        "localPath": "gallery/zzz/CardTech05.webp",
+        "sha256": "22a6101a23e98514665f2ee9ad0b85273ccb53883b7d0fb36fe6e70c591ac17d",
+        "etag": "\"dld8rfr3kwlz-dq6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr3kwlz-dq6\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17790|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17790,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardTech05.webp",
+        "localPath": "gallery/zzz/CardTech05.webp",
+        "sha256": "22a6101a23e98514665f2ee9ad0b85273ccb53883b7d0fb36fe6e70c591ac17d",
+        "etag": "\"dld8rfr3kwlz-dq6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr3kwlz-dq6\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17790|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17790,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech05.png",
+      "rank": 2,
+      "class": 86,
+      "name": "Particle Mask"
+    },
+    "detail": {
+      "id": 1343016,
+      "name": "Particle Mask",
+      "desc": "When \"Dreamland Equipment\" Fireworks Dual Box critical hits, it applies a stack of Weakened to the target, <color=#FFAF2C>increasing the DMG dealt by 4.3% per Rank</color>, lasting10s, up to a maximum of 10 stacks.\nReapplying the debuff refreshes its duration.",
+      "desc2": "",
+      "class": {
+        "86": "BANGBOO RESONIUM"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech05.png"
+    }
+  }
+}

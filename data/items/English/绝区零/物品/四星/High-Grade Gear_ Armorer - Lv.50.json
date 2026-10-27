@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4325510",
+    "name": "High-Grade Gear: Armorer - Lv.50",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponS_011.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponS_011.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponS_011.webp",
+        "sha256": "6194a6575ebfe2f31c39b7f2fed71beee94a4aaa028e9a3115ba4ccf5b8b262c",
+        "etag": "\"dld8rgrhg4fp-8a2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrhg4fp-8a2\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10730|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10730,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponS_011.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponS_011.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponS_011.webp",
+        "sha256": "6194a6575ebfe2f31c39b7f2fed71beee94a4aaa028e9a3115ba4ccf5b8b262c",
+        "etag": "\"dld8rgrhg4fp-8a2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrhg4fp-8a2\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10730|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10730,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponS_011.png",
+      "rank": 4,
+      "class": 132,
+      "name": "High-Grade Gear: Armorer - Lv.50"
+    },
+    "detail": {
+      "id": 4325510,
+      "name": "High-Grade Gear: Armorer - Lv.50",
+      "desc": "DEF increases by <color=#2BAD00>15%</color>. When the Agent uses an EX Special Attack, Sharp DMG increases by <color=#2BAD00>15%</color> for <color=#2BAD00>20</color>s. Repeated triggers reset the duration.",
+      "desc2": "",
+      "class": {
+        "132": "LABYRINTH"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponS_011.png"
+    }
+  }
+}

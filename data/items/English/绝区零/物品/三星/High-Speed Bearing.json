@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4300424",
+    "name": "High-Speed Bearing",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Material_038.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Material_038.webp",
+        "localPath": "gallery/zzz/Zenkov_Material_038.webp",
+        "sha256": "e62ba7a99f202bbb3f75455ddf9a6c05783cac2fc7b97e1d7f33a5dad12d3ccd",
+        "etag": "\"dld8rgr9ph8g-5ou\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr9ph8g-5ou\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7374|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7374,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Material_038.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Material_038.webp",
+        "localPath": "gallery/zzz/Zenkov_Material_038.webp",
+        "sha256": "e62ba7a99f202bbb3f75455ddf9a6c05783cac2fc7b97e1d7f33a5dad12d3ccd",
+        "etag": "\"dld8rgr9ph8g-5ou\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr9ph8g-5ou\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7374|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7374,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Material_038.png",
+      "rank": 3,
+      "class": 130,
+      "name": "High-Speed Bearing"
+    },
+    "detail": {
+      "id": 4300424,
+      "name": "High-Speed Bearing",
+      "desc": "Used for hub and facility upgrades, blueprint research, and squad equipment crafting.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Material_038.png"
+    }
+  }
+}

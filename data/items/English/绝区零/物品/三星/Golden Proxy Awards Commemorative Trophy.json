@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "2090013",
+    "name": "Golden Proxy Awards Commemorative Trophy",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/GoldProxyTrophy_Mark.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/GoldProxyTrophy_Mark.webp",
+        "localPath": "gallery/zzz/GoldProxyTrophy_Mark.webp",
+        "sha256": "443442b87da3e1ac64db342bfce77dbcd7851805223dd58ea211ddf3dba438c0",
+        "etag": "\"dld8rg7542ii-60i\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7542ii-60i\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=7794|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7794,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/GoldProxyTrophy_Mark.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/GoldProxyTrophy_Mark.webp",
+        "localPath": "gallery/zzz/GoldProxyTrophy_Mark.webp",
+        "sha256": "443442b87da3e1ac64db342bfce77dbcd7851805223dd58ea211ddf3dba438c0",
+        "etag": "\"dld8rg7542ii-60i\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7542ii-60i\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=7794|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7794,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/GoldProxyTrophy_Mark.png",
+      "rank": 3,
+      "class": 20,
+      "name": "Golden Proxy Awards Commemorative Trophy"
+    },
+    "detail": {
+      "id": 2090013,
+      "name": "Golden Proxy Awards Commemorative Trophy",
+      "desc": "\"Golden Proxy Awards Annual Ceremony\" event commemorative reward.",
+      "desc2": "\"All these stories only happened because of you.\"",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/GoldProxyTrophy_Mark.png"
+    }
+  }
+}

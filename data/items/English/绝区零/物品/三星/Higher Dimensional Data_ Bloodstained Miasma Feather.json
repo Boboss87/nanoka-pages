@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "110514",
+    "name": "Higher Dimensional Data: Bloodstained Miasma Feather",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "ExSmallBoss014",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ExSmallBoss014.webp",
+        "localPath": "gallery/zzz/ExSmallBoss014.webp",
+        "sha256": "fe18ad168d8ea92249f365bf0b3bfcfa095078ab5f9d162f983ef581985c67a7",
+        "etag": "\"dld8rg5b0vhr-mjx0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg5b0vhr-mjx0\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=1052244|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 1052244,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "ExSmallBoss014",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ExSmallBoss014.webp",
+        "localPath": "gallery/zzz/ExSmallBoss014.webp",
+        "sha256": "fe18ad168d8ea92249f365bf0b3bfcfa095078ab5f9d162f983ef581985c67a7",
+        "etag": "\"dld8rg5b0vhr-mjx0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg5b0vhr-mjx0\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=1052244|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 1052244,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "ExSmallBoss014",
+      "rank": 3,
+      "class": 10,
+      "name": "Higher Dimensional Data: Bloodstained Miasma Feather",
+      "boss": true
+    },
+    "detail": {
+      "id": 110514,
+      "name": "Higher Dimensional Data: Bloodstained Miasma Feather",
+      "desc": "An item required to increase your Agent's Core Skill level.",
+      "desc2": "A data model built on the combat records of numerous investigators versus Sacrifice - Covenant Guardian, including the most penetrating impressions of it by the investigators. It's enough data to see it \"born and alive\" inside a VR system.",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 3,
+      "icon_path": "ExSmallBoss014",
+      "boss": true
+    }
+  }
+}

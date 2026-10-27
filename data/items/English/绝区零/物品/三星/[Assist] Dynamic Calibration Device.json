@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1001606",
+    "name": "[Assist] Dynamic Calibration Device",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMagic06.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardMagic06.webp",
+        "localPath": "gallery/zzz/CardMagic06.webp",
+        "sha256": "ec92b7fa8f450995115714e7e3f3103e97cdcde4d9b719fddc392a6fe50610a0",
+        "etag": "\"dld8rfqtgivw-ba4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqtgivw-ba4\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14620|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14620,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMagic06.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardMagic06.webp",
+        "localPath": "gallery/zzz/CardMagic06.webp",
+        "sha256": "ec92b7fa8f450995115714e7e3f3103e97cdcde4d9b719fddc392a6fe50610a0",
+        "etag": "\"dld8rfqtgivw-ba4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqtgivw-ba4\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14620|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14620,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMagic06.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Assist] Dynamic Calibration Device"
+    },
+    "detail": {
+      "id": 1001606,
+      "name": "[Assist] Dynamic Calibration Device",
+      "desc": "Triggering Perfect Assist grants all squad members <color=#2BAD00>1</color> stack of Insight.",
+      "desc2": "This device ensures visual calibration while moving quickly. While it can be a real game-changer in combat, it causes great strain on the operator's optic nerves.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMagic06.png"
+    }
+  }
+}

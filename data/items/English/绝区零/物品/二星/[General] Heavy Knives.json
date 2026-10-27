@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000930",
+    "name": "[General] Heavy Knives",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard33.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard33.webp",
+        "localPath": "gallery/zzz/CardChessboard33.webp",
+        "sha256": "6e5e5d4ea49b55608012e688a8c0158e308c6f5f36b2cc9dc1c8352c882af3d5",
+        "etag": "\"dld8rfq9t72h-8pq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq9t72h-8pq\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=11294|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11294,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard33.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard33.webp",
+        "localPath": "gallery/zzz/CardChessboard33.webp",
+        "sha256": "6e5e5d4ea49b55608012e688a8c0158e308c6f5f36b2cc9dc1c8352c882af3d5",
+        "etag": "\"dld8rfq9t72h-8pq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq9t72h-8pq\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=11294|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11294,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard33.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[General] Heavy Knives"
+    },
+    "detail": {
+      "id": 1000930,
+      "name": "[General] Heavy Knives",
+      "desc": "Enhances the Counter effect of all <color=#2BAD00>Strike-type</color> skills.",
+      "desc2": "A chef's understanding of the role and use of ingredients is crucial, as just wielding a brutal mallet will only leave a mess.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard33.png"
+    }
+  }
+}

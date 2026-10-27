@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1101602",
+    "name": "[Assist] Hydraulic Buffer",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMagic02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardMagic02.webp",
+        "localPath": "gallery/zzz/CardMagic02.webp",
+        "sha256": "487a327fbe621c4befda141264053278dacfc49a5f73a11a55798825e9cdc901",
+        "etag": "\"dld8rfqs9nmh-b2o\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqs9nmh-b2o\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14352|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14352,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMagic02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardMagic02.webp",
+        "localPath": "gallery/zzz/CardMagic02.webp",
+        "sha256": "487a327fbe621c4befda141264053278dacfc49a5f73a11a55798825e9cdc901",
+        "etag": "\"dld8rfqs9nmh-b2o\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqs9nmh-b2o\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14352|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14352,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMagic02.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Assist] Hydraulic Buffer"
+    },
+    "detail": {
+      "id": 1101602,
+      "name": "[Assist] Hydraulic Buffer",
+      "desc": "Assist Follow-Up DMG increases by <color=#2BAD00>100%</color>.",
+      "desc2": "During rescue operations, this device will provide a buffer for you and your teammates to make sure you don't collide with each other's bodies... or lips.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMagic02.png"
+    }
+  }
+}

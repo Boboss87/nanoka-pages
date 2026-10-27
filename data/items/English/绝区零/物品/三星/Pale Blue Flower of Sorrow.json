@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3321461",
+    "name": "Pale Blue Flower of Sorrow",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "Pale Blue Flower of Sorrow"
+    },
+    "detail": {
+      "id": 3321461,
+      "name": "Pale Blue Flower of Sorrow",
+      "desc": "Get by unlocking Seed's Mindscape: \"Theory of the Heart\"",
+      "desc2": "A card printed with a private photo of Seed.\n\"Guess the cockpit is still a bit too small for both of us... Stop squirming around, Proxy.\n\"Now I'm going to dim the lights... Keep your eyes closed until I say so!\n\"Okay... Proxy, promise me you won't freak out no matter what you see...\"\n\"...Check out this bioluminescent flower — I found it in the Hollow, it's a brand-new species~ Let's come up with a name for it together~\"",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

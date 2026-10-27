@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4151028",
+    "name": "[Fine] Refined Porcelume Ore",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianProspectingMaterial08.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianProspectingMaterial08.webp",
+        "localPath": "gallery/zzz/SuibianProspectingMaterial08.webp",
+        "sha256": "623bb6fe1d75d819fe9787f49e39f262bb4575d5c0c8f7be48186aa7c70d3e57",
+        "etag": "\"dld8rgoh33mh-5oi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoh33mh-5oi\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7362|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7362,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianProspectingMaterial08.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianProspectingMaterial08.webp",
+        "localPath": "gallery/zzz/SuibianProspectingMaterial08.webp",
+        "sha256": "623bb6fe1d75d819fe9787f49e39f262bb4575d5c0c8f7be48186aa7c70d3e57",
+        "etag": "\"dld8rgoh33mh-5oi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoh33mh-5oi\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7362|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7362,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianProspectingMaterial08.png",
+      "rank": 3,
+      "class": 90,
+      "name": "[Fine] Refined Porcelume Ore"
+    },
+    "detail": {
+      "id": 4151028,
+      "name": "[Fine] Refined Porcelume Ore",
+      "desc": "General materials needed for crafting specialized tools for exploring the Hollow.",
+      "desc2": "An evenly shaped Lumite ore in its advanced processing stage.",
+      "class": {
+        "90": "Resource"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianProspectingMaterial08.png"
+    }
+  }
+}

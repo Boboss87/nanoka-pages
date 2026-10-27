@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4000030",
+    "name": "Drift Bottle No.1",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/UltimateAnglerLetter01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/UltimateAnglerLetter01.webp",
+        "localPath": "gallery/zzz/UltimateAnglerLetter01.webp",
+        "sha256": "05be857d7050b5e1eab52240a165a5ededdbc58b61abb90d80e7f61739e878ef",
+        "etag": "\"dld8rgous34t-5ky\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgous34t-5ky\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7234|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7234,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/UltimateAnglerLetter01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/UltimateAnglerLetter01.webp",
+        "localPath": "gallery/zzz/UltimateAnglerLetter01.webp",
+        "sha256": "05be857d7050b5e1eab52240a165a5ededdbc58b61abb90d80e7f61739e878ef",
+        "etag": "\"dld8rgous34t-5ky\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgous34t-5ky\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7234|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7234,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/UltimateAnglerLetter01.png",
+      "rank": 3,
+      "class": 72,
+      "name": "Drift Bottle No.1"
+    },
+    "detail": {
+      "id": 4000030,
+      "name": "Drift Bottle No.1",
+      "desc": "The note inside the drifting bottle seems to be from a young man battling a serious illness. Seems like he's trying to share a secret with us. Below the note are some strange patterns — perhaps they point to a clue...",
+      "desc2": "A bottle carrying hopes and dreams drifts across the vast waves, only to be caught and become part of your story.",
+      "class": {
+        "72": "MESSAGE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/UltimateAnglerLetter01.png"
+    }
+  }
+}

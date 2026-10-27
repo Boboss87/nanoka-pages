@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000409",
+    "name": "[Shield] Warm Bracers",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardArmor01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardArmor01.webp",
+        "localPath": "gallery/zzz/CardArmor01.webp",
+        "sha256": "8f869c24b0fd49561822f0839fabfa81a20962b2cee9504a75cb9ebdd54f5cae",
+        "etag": "\"dld8rfpxwiga-cms\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpxwiga-cms\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16372|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16372,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardArmor01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardArmor01.webp",
+        "localPath": "gallery/zzz/CardArmor01.webp",
+        "sha256": "8f869c24b0fd49561822f0839fabfa81a20962b2cee9504a75cb9ebdd54f5cae",
+        "etag": "\"dld8rfpxwiga-cms\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpxwiga-cms\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16372|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16372,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardArmor01.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[Shield] Warm Bracers"
+    },
+    "detail": {
+      "id": 1000409,
+      "name": "[Shield] Warm Bracers",
+      "desc": "When attacked, if the Agent's HP is below 25%, immediately generate Shield equal to <color=#2BAD00>15%</color> of Max HP for 10s. (This effect can only be triggered once by each Agent in each combat.)",
+      "desc2": "It's not practical to hope it will stop damage. But graffiti lovers like wearing it to protect their wrists.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardArmor01.png"
+    }
+  }
+}

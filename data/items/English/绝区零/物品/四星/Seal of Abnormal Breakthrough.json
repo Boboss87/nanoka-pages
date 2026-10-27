@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1339933",
+    "name": "Seal of Abnormal Breakthrough",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact021.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Artifact021.webp",
+        "localPath": "gallery/zzz/Artifact021.webp",
+        "sha256": "b2e77a7f4bca3678423af51293555c6f2f5c92b9fabdcba90a3b5c86d15fa50b",
+        "etag": "\"dld8rfnz1udt-8r0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnz1udt-8r0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=11340|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11340,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact021.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Artifact021.webp",
+        "localPath": "gallery/zzz/Artifact021.webp",
+        "sha256": "b2e77a7f4bca3678423af51293555c6f2f5c92b9fabdcba90a3b5c86d15fa50b",
+        "etag": "\"dld8rfnz1udt-8r0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnz1udt-8r0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=11340|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11340,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact021.png",
+      "rank": 4,
+      "class": 81,
+      "name": "Seal of Abnormal Breakthrough"
+    },
+    "detail": {
+      "id": 1339933,
+      "name": "Seal of Abnormal Breakthrough",
+      "desc": "<color=#2BAD00>Increases Agent DMG dealt from Attribute Anomaly by 50%</color>.",
+      "desc2": "",
+      "class": {
+        "81": "HOLLOW ONLY"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact021.png"
+    }
+  }
+}

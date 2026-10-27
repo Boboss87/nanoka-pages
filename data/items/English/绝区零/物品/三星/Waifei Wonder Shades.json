@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "412011111",
+    "name": "Waifei Wonder Shades",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Head_Glass_02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Wise_Head_Glass_02.webp",
+        "localPath": "gallery/zzz/icon_Wise_Head_Glass_02.webp",
+        "sha256": "01c26a1847589a8203a2ef00ded58febadbf838fae7d8792bf8b3ce4febc0f2f",
+        "etag": "\"dld8rgrnegqs-4sy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrnegqs-4sy\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6226|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6226,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Head_Glass_02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Wise_Head_Glass_02.webp",
+        "localPath": "gallery/zzz/icon_Wise_Head_Glass_02.webp",
+        "sha256": "01c26a1847589a8203a2ef00ded58febadbf838fae7d8792bf8b3ce4febc0f2f",
+        "etag": "\"dld8rgrnegqs-4sy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrnegqs-4sy\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6226|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6226,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Head_Glass_02.png",
+      "rank": 3,
+      "class": 95,
+      "name": "Waifei Wonder Shades"
+    },
+    "detail": {
+      "id": 412011111,
+      "name": "Waifei Wonder Shades",
+      "desc": "A Proxy accessory that can be worn with some of Wise's Proxy outfits.",
+      "desc2": "As a Proxy, wearing photochromic glasses is perfectly reasonable and logical...",
+      "class": {
+        "95": "OUTFIT ACCESSORIES"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Head_Glass_02.png"
+    }
+  }
+}

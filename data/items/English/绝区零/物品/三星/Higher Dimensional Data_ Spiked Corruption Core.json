@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "110513",
+    "name": "Higher Dimensional Data: Spiked Corruption Core",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "ExSmallBoss013",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ExSmallBoss013.webp",
+        "localPath": "gallery/zzz/ExSmallBoss013.webp",
+        "sha256": "3276a863d0eba383e2f1c1dc2e2ab7be18b06c14214d8fc07423dd533a8e0ac3",
+        "etag": "\"dld8rg4rdjob-jf00\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg4rdjob-jf00\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=905904|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 905904,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "ExSmallBoss013",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ExSmallBoss013.webp",
+        "localPath": "gallery/zzz/ExSmallBoss013.webp",
+        "sha256": "3276a863d0eba383e2f1c1dc2e2ab7be18b06c14214d8fc07423dd533a8e0ac3",
+        "etag": "\"dld8rg4rdjob-jf00\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg4rdjob-jf00\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=905904|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 905904,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "ExSmallBoss013",
+      "rank": 3,
+      "class": 10,
+      "name": "Higher Dimensional Data: Spiked Corruption Core",
+      "boss": true
+    },
+    "detail": {
+      "id": 110513,
+      "name": "Higher Dimensional Data: Spiked Corruption Core",
+      "desc": "An item required to increase your Agent's Core Skill level.",
+      "desc2": "A data model built on the combat records of numerous investigators versus Miasma Walker - Scorpse, including their most profound impressions and evaluations of it. It's enough data to see it \"born and alive\" inside a VR system.",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 3,
+      "icon_path": "ExSmallBoss013",
+      "boss": true
+    }
+  }
+}

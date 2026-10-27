@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1441",
+    "name": "Manato",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece51.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece51.webp",
+        "localPath": "gallery/zzz/IconRolePiece51.webp",
+        "sha256": "9f41354978385ca56f96d6d6398a8e4c531e9f3aefce171cf271ff2cdc57cce9",
+        "etag": "\"dld8rgdfd28a-8ho\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgdfd28a-8ho\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11004|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11004,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece51.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece51.webp",
+        "localPath": "gallery/zzz/IconRolePiece51.webp",
+        "sha256": "9f41354978385ca56f96d6d6398a8e4c531e9f3aefce171cf271ff2cdc57cce9",
+        "etag": "\"dld8rgdfd28a-8ho\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgdfd28a-8ho\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11004|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11004,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece51.png",
+      "rank": 3,
+      "class": 3,
+      "name": "Manato"
+    },
+    "detail": {
+      "id": 1441,
+      "name": "Manato",
+      "desc": "Use it to obtain the Agent or unlock the Agent's Mindscapes.",
+      "desc2": "Snapshots from Komano Manato's daily life and from in combat, recording important moments before and after he became an Agent.\nThese images also provide insights into his fighting style and favorite weapons, helping to better understand his strengths.\n\nThough the sturdy Thiren wears only a thin undershirt even in winter—his seasonal shedding patterns make it easy to determine when each photo was taken.",
+      "class": {
+        "3": "AGENT"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece51.png"
+    }
+  }
+}

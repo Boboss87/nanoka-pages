@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1041",
+    "name": "Soldier 11",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece05.webp",
+        "localPath": "gallery/zzz/IconRolePiece05.webp",
+        "sha256": "bfdb3c05cca097e0d0a8d2b84a4c6d29950886ec078dc97e856cc72f6c17133a",
+        "etag": "\"dld8rgdcdw2q-8kk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgdcdw2q-8kk\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11108|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11108,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece05.webp",
+        "localPath": "gallery/zzz/IconRolePiece05.webp",
+        "sha256": "bfdb3c05cca097e0d0a8d2b84a4c6d29950886ec078dc97e856cc72f6c17133a",
+        "etag": "\"dld8rgdcdw2q-8kk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgdcdw2q-8kk\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11108|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11108,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece05.png",
+      "rank": 4,
+      "class": 3,
+      "name": "Soldier 11"
+    },
+    "detail": {
+      "id": 1041,
+      "name": "Soldier 11",
+      "desc": "Use it to obtain the Agent or unlock the Agent's Mindscapes.",
+      "desc2": "Snapshots from Soldier 11's daily life and from in combat, recording important moments before and after she became an Agent.\nThese images also provide insights into her fighting style and favorite weapons, helping to better understand her strengths.\n\nHand-picked by Soldier 11, they're few in number and do not betray any extraneous information.",
+      "class": {
+        "3": "AGENT"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece05.png"
+    }
+  }
+}

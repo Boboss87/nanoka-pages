@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1357564",
+    "name": "[3] Chain Takedown Support",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CoopCard11.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CoopCard11.webp",
+        "localPath": "gallery/zzz/CoopCard11.webp",
+        "sha256": "f7bdee5be7f76dc172e6ddc28cf7a8c3fb36e04c847df3016490fea4bb6f94de",
+        "etag": "\"dld8rfreapyq-a7e\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfreapyq-a7e\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=13226|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13226,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CoopCard11.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CoopCard11.webp",
+        "localPath": "gallery/zzz/CoopCard11.webp",
+        "sha256": "f7bdee5be7f76dc172e6ddc28cf7a8c3fb36e04c847df3016490fea4bb6f94de",
+        "etag": "\"dld8rfreapyq-a7e\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfreapyq-a7e\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=13226|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13226,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CoopCard11.png",
+      "rank": 3,
+      "class": 106,
+      "name": "[3] Chain Takedown Support"
+    },
+    "detail": {
+      "id": 1357564,
+      "name": "[3] Chain Takedown Support",
+      "desc": "Increases <color=#FFAF2C>Chain Meter recovery rate</color> by 20%. (Excluding natural recovery)",
+      "desc2": "",
+      "class": {
+        "106": "TAROT CARD"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CoopCard11.png"
+    }
+  }
+}

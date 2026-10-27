@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000950",
+    "name": "[Affinity] Exercise Before Dinner",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1131.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1131.webp",
+        "localPath": "gallery/zzz/CardDailyUse1131.webp",
+        "sha256": "d0d4c665b0bd8bd8cbafd0e566eece6468c30f0df9f3bd8880842d1ee8beac03",
+        "etag": "\"dld8rfqeko45-c8c\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqeko45-c8c\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15852|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15852,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1131.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1131.webp",
+        "localPath": "gallery/zzz/CardDailyUse1131.webp",
+        "sha256": "d0d4c665b0bd8bd8cbafd0e566eece6468c30f0df9f3bd8880842d1ee8beac03",
+        "etag": "\"dld8rfqeko45-c8c\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqeko45-c8c\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15852|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15852,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1131.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Affinity] Exercise Before Dinner"
+    },
+    "detail": {
+      "id": 1000950,
+      "name": "[Affinity] Exercise Before Dinner",
+      "desc": "Soukaku has evoked the Mindscape: <color=#FFAF2C>[Northern Wind]</color>. After launching a Dash Attack or Dodge Counter, your character can <color=#2BAD00>immediately follow up with</color> certain attacks near the end of the Basic Attack combo.\nNorthern Wind: While in the <color=#FFFFFF>Frosted Banner</color> state, the number of usable enhanced <color=#FFFFFF>Basic Attacks</color> and enhanced <color=#FFFFFF>Dash Attacks</color> is increased to 12, and also deal 45% more DMG.",
+      "desc2": "Soukaku radiates with an unprecedented level of energy, clearly driven to complete all her tasks before the restaurant closes.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1131.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1357560",
+    "name": "[3] Chain Attack Recovery",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CoopCard22.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CoopCard22.webp",
+        "localPath": "gallery/zzz/CoopCard22.webp",
+        "sha256": "9101f1897120673afeed95ab85b01f801065c4ac9e8a3b38565003793f13ab43",
+        "etag": "\"dld8rfrew5lg-bls\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrew5lg-bls\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15040|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15040,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CoopCard22.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CoopCard22.webp",
+        "localPath": "gallery/zzz/CoopCard22.webp",
+        "sha256": "9101f1897120673afeed95ab85b01f801065c4ac9e8a3b38565003793f13ab43",
+        "etag": "\"dld8rfrew5lg-bls\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrew5lg-bls\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15040|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15040,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CoopCard22.png",
+      "rank": 3,
+      "class": 106,
+      "name": "[3] Chain Attack Recovery"
+    },
+    "detail": {
+      "id": 1357560,
+      "name": "[3] Chain Attack Recovery",
+      "desc": "During <color=#FFAF2C>Chain Time</color>, all Agents' <color=#FFAF2C>HP recovery rate</color> increases by 50%.",
+      "desc2": "",
+      "class": {
+        "106": "TAROT CARD"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CoopCard22.png"
+    }
+  }
+}

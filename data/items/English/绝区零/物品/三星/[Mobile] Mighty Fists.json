@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1311002",
+    "name": "[Mobile] Mighty Fists",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardSwitch04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardSwitch04.webp",
+        "localPath": "gallery/zzz/CardSwitch04.webp",
+        "sha256": "b570835c87595f5c677a873f453e3fe742b1c1c66473ffc7b890ede61c050b38",
+        "etag": "\"dld8rfr2zgz9-d2o\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr2zgz9-d2o\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16944|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16944,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardSwitch04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardSwitch04.webp",
+        "localPath": "gallery/zzz/CardSwitch04.webp",
+        "sha256": "b570835c87595f5c677a873f453e3fe742b1c1c66473ffc7b890ede61c050b38",
+        "etag": "\"dld8rfr2zgz9-d2o\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr2zgz9-d2o\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16944|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16944,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardSwitch04.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Mobile] Mighty Fists"
+    },
+    "detail": {
+      "id": 1311002,
+      "name": "[Mobile] Mighty Fists",
+      "desc": "<color=#FFFFFF>Tag Assist</color> will execute normal enemies and Elite enemies with HP below 15%. When triggered, the whole squad's <color=#2BAD00>ATK increases by 10%</color> for 30s.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardSwitch04.png"
+    }
+  }
+}

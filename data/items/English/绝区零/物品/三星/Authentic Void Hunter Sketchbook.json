@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3301029",
+    "name": "Authentic Void Hunter Sketchbook",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard51.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard51.webp",
+        "localPath": "gallery/zzz/Callingcard51.webp",
+        "sha256": "7811e6ac42fc246c9a214e9f505e7c87cc7808014fb5cbe2c674b897d48e30c0",
+        "etag": "\"dld8rfpw47k5-7rq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpw47k5-7rq\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10070|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10070,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard51.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard51.webp",
+        "localPath": "gallery/zzz/Callingcard51.webp",
+        "sha256": "7811e6ac42fc246c9a214e9f505e7c87cc7808014fb5cbe2c674b897d48e30c0",
+        "etag": "\"dld8rfpw47k5-7rq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpw47k5-7rq\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10070|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10070,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard51.png",
+      "rank": 3,
+      "class": 65,
+      "name": "Authentic Void Hunter Sketchbook"
+    },
+    "detail": {
+      "id": 3301029,
+      "name": "Authentic Void Hunter Sketchbook",
+      "desc": "A namecard reward for the limited-time event \"First-Generation Void Hunter Returns.\"\nLimited-time reward.",
+      "desc2": "\"But! That's what Belle and Wise look like~\"\n\"I only added the tiniest bit of creative flair to make the picture more lively and expressive!\"",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard51.png"
+    }
+  }
+}

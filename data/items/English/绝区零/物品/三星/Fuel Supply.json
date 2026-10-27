@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3960005",
+    "name": "Fuel Supply",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBurn02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBurn02.webp",
+        "localPath": "gallery/zzz/CardBurn02.webp",
+        "sha256": "f3215c592c2ad0b224b3b14b778e8e9881f1bd33eac90c918237c59118c4fa1e",
+        "etag": "\"dld8rfq5n5ni-bnc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq5n5ni-bnc\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15096|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15096,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBurn02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBurn02.webp",
+        "localPath": "gallery/zzz/CardBurn02.webp",
+        "sha256": "f3215c592c2ad0b224b3b14b778e8e9881f1bd33eac90c918237c59118c4fa1e",
+        "etag": "\"dld8rfq5n5ni-bnc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq5n5ni-bnc\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15096|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15096,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBurn02.png",
+      "rank": 3,
+      "class": 99,
+      "name": "Fuel Supply"
+    },
+    "detail": {
+      "id": 3960005,
+      "name": "Fuel Supply",
+      "desc": "Each time Ether Power Canisters refresh, two additional Ether Power Canisters with increased explosion damage will appear.",
+      "desc2": "",
+      "class": {
+        "99": "ENHANCEMENT GEAR"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBurn02.png"
+    }
+  }
+}

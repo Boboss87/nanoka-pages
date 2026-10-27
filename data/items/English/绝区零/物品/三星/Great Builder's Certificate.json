@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3000104",
+    "name": "Great Builder's Certificate",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BPWeaponSelectNew.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BPWeaponSelectNew.webp",
+        "localPath": "gallery/zzz/BPWeaponSelectNew.webp",
+        "sha256": "b876efe47afdda26b4c6e6936eab378a58d575b7ae2671e2beda9218543435d7",
+        "etag": "\"dld8rfop8y51-9g6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfop8y51-9g6\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=12246|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12246,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BPWeaponSelectNew.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BPWeaponSelectNew.webp",
+        "localPath": "gallery/zzz/BPWeaponSelectNew.webp",
+        "sha256": "b876efe47afdda26b4c6e6936eab378a58d575b7ae2671e2beda9218543435d7",
+        "etag": "\"dld8rfop8y51-9g6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfop8y51-9g6\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=12246|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12246,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BPWeaponSelectNew.png",
+      "rank": 3,
+      "class": 62,
+      "name": "Great Builder's Certificate"
+    },
+    "detail": {
+      "id": 3000104,
+      "name": "Great Builder's Certificate",
+      "desc": "Activates City Fund Benefits once obtained. After activating City Fund Benefits, you can choose one of the following W-Engines: Bloodmarrow Coffer, Radiowave Journey, Cannon Rotor, Six Shooter, Electro-Lip Gloss, Unfettered Game Ball, and Spring Embrace.",
+      "desc2": "A voucher prepared by the organizers of the New Eridu City Fund, serving both as a ticket to the prize pool and proof of dedicated participation in the New Eridu City Fund program. It's a recognition of the hard work contributed by the dedicated core builders of New Eridu!",
+      "class": {
+        "62": "N.E.C.F."
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BPWeaponSelectNew.png"
+    }
+  }
+}

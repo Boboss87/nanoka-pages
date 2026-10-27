@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "2090020",
+    "name": "Hormel Beef Jerky",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/HormelTest.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/HormelTest.webp",
+        "localPath": "gallery/zzz/HormelTest.webp",
+        "sha256": "e414f5c5638a8624733bcea1ba623151f5bd69ef8df2bd47906b435163d373bc",
+        "etag": "\"dld8rg7838o2-7lo\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7838o2-7lo\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9852|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9852,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/HormelTest.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/HormelTest.webp",
+        "localPath": "gallery/zzz/HormelTest.webp",
+        "sha256": "e414f5c5638a8624733bcea1ba623151f5bd69ef8df2bd47906b435163d373bc",
+        "etag": "\"dld8rg7838o2-7lo\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7838o2-7lo\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9852|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9852,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/HormelTest.png",
+      "rank": 3,
+      "class": 51,
+      "name": "Hormel Beef Jerky"
+    },
+    "detail": {
+      "id": 2090020,
+      "name": "Hormel Beef Jerky",
+      "desc": "A Hormel collaboration event exclusive reward. Grants 60 Battery Charge upon use.",
+      "desc2": "Savor the flavor anytime, anywhere!\nOn a day trip? Eat this! Work got you dizzy? Eat this!\nBinge-watching and craving? Eat this! Hungry late at night? Eat this!\nA must-have wellness essential, highly recommended by Senior Sister Fufu!",
+      "class": {
+        "51": "GIFT"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/HormelTest.png"
+    }
+  }
+}

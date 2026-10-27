@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1330401",
+    "name": "Will to Overcome Adversity",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact004.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Artifact004.webp",
+        "localPath": "gallery/zzz/Artifact004.webp",
+        "sha256": "aee705ac66a69590014e4228a6f877cb30845404c4c2a29db036fe3aaac919f6",
+        "etag": "\"dld8rfnxuz4e-8js\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnxuz4e-8js\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=11080|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11080,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact004.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Artifact004.webp",
+        "localPath": "gallery/zzz/Artifact004.webp",
+        "sha256": "aee705ac66a69590014e4228a6f877cb30845404c4c2a29db036fe3aaac919f6",
+        "etag": "\"dld8rfnxuz4e-8js\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnxuz4e-8js\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=11080|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11080,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact004.png",
+      "rank": 4,
+      "class": 81,
+      "name": "Will to Overcome Adversity"
+    },
+    "detail": {
+      "id": 1330401,
+      "name": "Will to Overcome Adversity",
+      "desc": "When the Agent's HP is above 80%, <color=#CF4029>DMG dealt decreases by 40%</color>.\nWhen HP is below 50%, <color=#2BAD00>DMG dealt increases by 40%</color>.\nWhen HP is below 20%, <color=#2BAD00>CRIT Rate increases by an additional 15%</color> and <color=#2BAD00>CRIT DMG increases by an additional 30%</color>.",
+      "desc2": "",
+      "class": {
+        "81": "HOLLOW ONLY"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact004.png"
+    }
+  }
+}

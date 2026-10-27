@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "equipment",
+    "pageFolder": "驱动盘",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/equipment.json",
+    "sourcePath": "3.3.12+19634983/equipment.json",
+    "sourceLocale": null,
+    "localeMode": "embedded",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/equipment/34000.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "34000",
+    "name": "The Sky Ablaze",
+    "rarity": "未分类",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitTheSkyAblaze.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitTheSkyAblaze.webp",
+        "localPath": "gallery/zzz/SuitTheSkyAblaze.webp",
+        "sha256": "fd0a1356226da461b71e60536b8bc8bcb552dbbe1b9042449bce3e64118d334b",
+        "etag": "\"dld8rgoq0m35-8lc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoq0m35-8lc\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11136|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11136,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitTheSkyAblaze.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitTheSkyAblaze.webp",
+        "localPath": "gallery/zzz/SuitTheSkyAblaze.webp",
+        "sha256": "fd0a1356226da461b71e60536b8bc8bcb552dbbe1b9042449bce3e64118d334b",
+        "etag": "\"dld8rgoq0m35-8lc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoq0m35-8lc\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11136|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11136,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon2",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitTheSkyAblaze.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitTheSkyAblaze.webp",
+        "localPath": "gallery/zzz/SuitTheSkyAblaze.webp",
+        "sha256": "fd0a1356226da461b71e60536b8bc8bcb552dbbe1b9042449bce3e64118d334b",
+        "etag": "\"dld8rgoq0m35-8lc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoq0m35-8lc\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11136|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11136,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitTheSkyAblaze.png",
+      "en": {
+        "name": "The Sky Ablaze",
+        "desc2": "<color=#FE437E>Ether DMG</color> +10%.",
+        "desc4": "When the equipper is an <color=#FE437E>Ether</color> attribute Agent, their CRIT DMG increases by 30%. When the equipper uses an <color=#FFFFFF>EX Special Attack</color> or <color=#FFFFFF>Ultimate</color>, their ATK increases by 10% for 30s. Repeated triggers reset the duration."
+      },
+      "ko": {
+        "name": "새벽녘 여행기",
+        "desc2": "<color=#FE437E>에테르 피해</color>+10%",
+        "desc4": "착용자가 <color=#FE437E>에테르 속성</color> 에이전트일 때, 치명타 피해가 30% 증가한다. 착용자가 <color=#FFFFFF>[강화 특수 스킬]</color> 혹은 <color=#FFFFFF>[궁극기]</color> 시전 시, 착용자의 공격력이 10% 증가한다. 지속 시간: 30초, 중복 발동 시 지속 시간이 갱신된다."
+      },
+      "zh": {
+        "name": "拂晓行纪",
+        "desc2": "<color=#FE437E>以太伤害</color>+10%。",
+        "desc4": "装备者为<color=#FE437E>以太属性</color>代理人时，暴击伤害提升30%；装备者发动<color=#FFFFFF>[强化特殊技]</color>或<color=#FFFFFF>[终结技]</color>时，装备者的攻击力提升10%，持续30秒，重复触发时刷新持续时间。"
+      },
+      "ja": {
+        "name": "夜明けの紀行",
+        "desc2": "<color=#FE437E>エーテル属性ダメージ</color>+10%。",
+        "desc4": "<color=#FE437E>エーテル属性</color>エージェントが装備した時、会心ダメージ+30%。装備者が<color=#FFFFFF>『強化特殊スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動した時、自身の攻撃力+10%、継続時間30秒。重複して発動すると継続時間が更新される。"
+      }
+    },
+    "detail": {
+      "id": 34000,
+      "name": "The Sky Ablaze",
+      "desc2": "<color=#FE437E>Ether DMG</color> +10%.",
+      "desc4": "When the equipper is an <color=#FE437E>Ether</color> attribute Agent, their CRIT DMG increases by 30%. When the equipper uses an <color=#FFFFFF>EX Special Attack</color> or <color=#FFFFFF>Ultimate</color>, their ATK increases by 10% for 30s. Repeated triggers reset the duration.",
+      "story": "Composed by an unnamed musician of Roscaelifer who witnessed the spectacle of the sky ablaze within the Hollow. The blazing sun rises through the Ether, and the golden flames that scorch the horizon cascade from the sky — so the composer wrote on the back cover.",
+      "icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitTheSkyAblaze.png",
+      "icon2": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitTheSkyAblaze.png"
+    }
+  }
+}

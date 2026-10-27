@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "305033",
+    "name": "\"Withering\" Corruption Sample",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0017.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconQuestItem_Abyss_0017.webp",
+        "localPath": "gallery/zzz/IconQuestItem_Abyss_0017.webp",
+        "sha256": "21cd4b941d4766064d007ae35e17325859d8e85641fc2ffd20258b8e498c10e0",
+        "etag": "\"dld8rg7sxfqx-5nq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7sxfqx-5nq\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=7334|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7334,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0017.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconQuestItem_Abyss_0017.webp",
+        "localPath": "gallery/zzz/IconQuestItem_Abyss_0017.webp",
+        "sha256": "21cd4b941d4766064d007ae35e17325859d8e85641fc2ffd20258b8e498c10e0",
+        "etag": "\"dld8rg7sxfqx-5nq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7sxfqx-5nq\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=7334|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7334,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0017.png",
+      "rank": 2,
+      "class": 22,
+      "name": "\"Withering\" Corruption Sample"
+    },
+    "detail": {
+      "id": 305033,
+      "name": "\"Withering\" Corruption Sample",
+      "desc": "Small \"Withering\" Corruption Sample",
+      "desc2": "A very small \"Withering\" Corruption sample. It looks like a small fragment chipped off from a larger piece... Seems like the person who encountered the Ethereal did pretty much no damage to it. Let's just hope ran fast enough...",
+      "class": {
+        "22": "CLUE ITEM"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0017.png"
+    }
+  }
+}

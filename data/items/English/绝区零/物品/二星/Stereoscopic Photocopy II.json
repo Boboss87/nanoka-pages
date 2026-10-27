@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "400020",
+    "name": "Stereoscopic Photocopy II",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill14.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivePropsSkill14.webp",
+        "localPath": "gallery/zzz/ActivePropsSkill14.webp",
+        "sha256": "17efc46ef44847ddc889f8b94cf4270b3427253ddafc343d6c4b428376ad9b77",
+        "etag": "\"dld8rfnvh8lj-5fa\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnvh8lj-5fa\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7030|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7030,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill14.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivePropsSkill14.webp",
+        "localPath": "gallery/zzz/ActivePropsSkill14.webp",
+        "sha256": "17efc46ef44847ddc889f8b94cf4270b3427253ddafc343d6c4b428376ad9b77",
+        "etag": "\"dld8rfnvh8lj-5fa\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnvh8lj-5fa\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7030|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7030,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill14.png",
+      "rank": 2,
+      "class": 15,
+      "name": "Stereoscopic Photocopy II"
+    },
+    "detail": {
+      "id": 400020,
+      "name": "Stereoscopic Photocopy II",
+      "desc": "<color=#2BAD00>Triples</color> your currently held <color=#2BAD00>Gear Coins</color>.",
+      "desc2": "A plug-in that instantly copies Gear Coins. Bangboo merchants are strongly against this plug-in, but they can't tell the difference between the genuine coins and their replicas, so they can only repeatedly declare their opposition.",
+      "class": {
+        "15": "HOLLOW ITEM"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill14.png"
+    }
+  }
+}

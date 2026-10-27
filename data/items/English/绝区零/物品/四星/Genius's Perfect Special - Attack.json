@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4161011",
+    "name": "Genius's Perfect Special - Attack",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RABFactorItemAtkS.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RABFactorItemAtkS.webp",
+        "localPath": "gallery/zzz/RABFactorItemAtkS.webp",
+        "sha256": "05235832e83191c8602eb732021d065e73d0f995a7136401ab7cfb7b306d6797",
+        "etag": "\"dld8rgnxfrt2-6gy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnxfrt2-6gy\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8386|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8386,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RABFactorItemAtkS.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RABFactorItemAtkS.webp",
+        "localPath": "gallery/zzz/RABFactorItemAtkS.webp",
+        "sha256": "05235832e83191c8602eb732021d065e73d0f995a7136401ab7cfb7b306d6797",
+        "etag": "\"dld8rgnxfrt2-6gy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnxfrt2-6gy\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8386|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8386,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RABFactorItemAtkS.png",
+      "rank": 4,
+      "class": 113,
+      "name": "Genius's Perfect Special - Attack"
+    },
+    "detail": {
+      "id": 4161011,
+      "name": "Genius's Perfect Special - Attack",
+      "desc": "A special item used to reconstruct Attack Bangboo Modules. Can refresh 1 superior quality attack module for a Collaboorator.",
+      "desc2": "A cyber beverage exclusively for Collaboorators, painstakingly \"blended\" by Norma using code.\n\"Ehn-ne? (If I drink this, will I get a mod that boosts ATK?)\"\n(After a few sips...)\n\"Ehn-ne! Ehn-ne? Ehn-ne-ne! (That's disgusting! Who made this? Norma? Still disgusting!)\"",
+      "class": {
+        "113": "BANGBOO ITEM"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RABFactorItemAtkS.png"
+    }
+  }
+}

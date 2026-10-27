@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4152001",
+    "name": "Crafting Station",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianCraftBench.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianCraftBench.webp",
+        "localPath": "gallery/zzz/SuibianCraftBench.webp",
+        "sha256": "65aa1557eb4a8335d586d3531c2c84a2e1cdf2e4f6ea695a280a2beefe5831ca",
+        "etag": "\"dld8rgoepd3n-690\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoepd3n-690\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8100|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8100,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianCraftBench.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianCraftBench.webp",
+        "localPath": "gallery/zzz/SuibianCraftBench.webp",
+        "sha256": "65aa1557eb4a8335d586d3531c2c84a2e1cdf2e4f6ea695a280a2beefe5831ca",
+        "etag": "\"dld8rgoepd3n-690\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoepd3n-690\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8100|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8100,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianCraftBench.png",
+      "rank": 4,
+      "class": 91,
+      "name": "Crafting Station"
+    },
+    "detail": {
+      "id": 4152001,
+      "name": "Crafting Station",
+      "desc": "Obtain to unlock a new crafting queue at Suibian Temple.",
+      "desc2": "A crafting station where mortise and tenon joints emit a mystical glow.",
+      "class": {
+        "91": "Amenity"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianCraftBench.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1339910",
+    "name": "Double-Sided Armor",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact036.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Artifact036.webp",
+        "localPath": "gallery/zzz/Artifact036.webp",
+        "sha256": "b4d67b3916592a474f5dfd23f12ba2674c9cf3ac8db497f7b7b0626b5318ad3f",
+        "etag": "\"dld8rfnz1udt-808\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnz1udt-808\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10376|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10376,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact036.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Artifact036.webp",
+        "localPath": "gallery/zzz/Artifact036.webp",
+        "sha256": "b4d67b3916592a474f5dfd23f12ba2674c9cf3ac8db497f7b7b0626b5318ad3f",
+        "etag": "\"dld8rfnz1udt-808\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnz1udt-808\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10376|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10376,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact036.png",
+      "rank": 4,
+      "class": 81,
+      "name": "Double-Sided Armor"
+    },
+    "detail": {
+      "id": 1339910,
+      "name": "Double-Sided Armor",
+      "desc": "When entering a Combat area, all squad members lose <color=#CF4029>20%</color> of their current HP, gain <color=#2BAD00>10%</color> Max HP, and receive a shield equal to <color=#2BAD00>10%</color> of their Max HP. This effect can be triggered up to <color=#2BAD00>4</color> times in the current Hollow.",
+      "desc2": "",
+      "class": {
+        "81": "HOLLOW ONLY"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact036.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1357014",
+    "name": "General Gear - Energy Restoration Device",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemCoopEquip_006.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemCoopEquip_006.webp",
+        "localPath": "gallery/zzz/ItemCoopEquip_006.webp",
+        "sha256": "fd77d3e6427bd57914a1b5caf600bc1a383c926aecb8ae5b679686a18e4ebc38",
+        "etag": "\"dld8rgehgulq-7ic\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgehgulq-7ic\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9732|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9732,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemCoopEquip_006.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemCoopEquip_006.webp",
+        "localPath": "gallery/zzz/ItemCoopEquip_006.webp",
+        "sha256": "fd77d3e6427bd57914a1b5caf600bc1a383c926aecb8ae5b679686a18e4ebc38",
+        "etag": "\"dld8rgehgulq-7ic\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgehgulq-7ic\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9732|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9732,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemCoopEquip_006.png",
+      "rank": 3,
+      "class": 105,
+      "name": "General Gear - Energy Restoration Device"
+    },
+    "detail": {
+      "id": 1357014,
+      "name": "General Gear - Energy Restoration Device",
+      "desc": "Increases own <color=#FFAF2C>Energy Generation Rate</color> by 12.5%. Using a Chain Attack or Ultimate <color=#FFAF2C>restores 3 Energy for all squad members</color>.",
+      "desc2": "",
+      "class": {
+        "105": "WEAPON"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemCoopEquip_006.png"
+    }
+  }
+}

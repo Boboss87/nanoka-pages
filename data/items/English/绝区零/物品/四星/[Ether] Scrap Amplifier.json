@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1001901",
+    "name": "[Ether] Scrap Amplifier",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardTech01.webp",
+        "localPath": "gallery/zzz/CardTech01.webp",
+        "sha256": "3076d6fdd7bbb39834f81605be5a851b97c65f5dc294a822032ee61e259f1ff4",
+        "etag": "\"dld8rfr2zgz9-dh8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr2zgz9-dh8\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17468|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17468,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardTech01.webp",
+        "localPath": "gallery/zzz/CardTech01.webp",
+        "sha256": "3076d6fdd7bbb39834f81605be5a851b97c65f5dc294a822032ee61e259f1ff4",
+        "etag": "\"dld8rfr2zgz9-dh8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr2zgz9-dh8\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17468|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17468,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech01.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Ether] Scrap Amplifier"
+    },
+    "detail": {
+      "id": 1001901,
+      "name": "[Ether] Scrap Amplifier",
+      "desc": "Each point of Anomaly Proficiency increases the Agent's <color=#FE437E>Ether DMG</color> by <color=#2BAD00>0.2%</color>, up to a maximum increase of <color=#2BAD00>30%</color>.",
+      "desc2": "An operational amplifier regulates the cycling speed of the surrounding Ether. As for the malfunctioning ones... they are typically repurposed into wireless speakers.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech01.png"
+    }
+  }
+}

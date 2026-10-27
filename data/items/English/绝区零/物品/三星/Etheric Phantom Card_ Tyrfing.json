@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4360039",
+    "name": "Etheric Phantom Card: Tyrfing",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_CollectionA_002.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_CollectionA_002.webp",
+        "localPath": "gallery/zzz/Zenkov_CollectionA_002.webp",
+        "sha256": "6d57bf5021983148f9afa72a0885907d39156dbfaeb59407363768e01630326e",
+        "etag": "\"dld8rgr0ryrt-7am\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr0ryrt-7am\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9454|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9454,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_CollectionA_002.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_CollectionA_002.webp",
+        "localPath": "gallery/zzz/Zenkov_CollectionA_002.webp",
+        "sha256": "6d57bf5021983148f9afa72a0885907d39156dbfaeb59407363768e01630326e",
+        "etag": "\"dld8rgr0ryrt-7am\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr0ryrt-7am\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9454|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9454,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_CollectionA_002.png",
+      "rank": 3,
+      "class": 130,
+      "name": "Etheric Phantom Card: Tyrfing"
+    },
+    "detail": {
+      "id": 4360039,
+      "name": "Etheric Phantom Card: Tyrfing",
+      "desc": "The Tyrfing Card ranks at the bottom in power, but using enough copies at once may produce unexpected results.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_CollectionA_002.png"
+    }
+  }
+}

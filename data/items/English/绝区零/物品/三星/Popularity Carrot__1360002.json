@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1360002",
+    "name": "Popularity Carrot",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ActivityGildedCarrotDayCoin.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivityGildedCarrotDayCoin.webp",
+        "localPath": "gallery/zzz/ActivityGildedCarrotDayCoin.webp",
+        "sha256": "70300c16bfdf97849fab3678bbbcd0354e660b61ae066768ebebeb1292f8f2c9",
+        "etag": "\"dld8rfnwo3uy-5ue\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnwo3uy-5ue\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7574|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7574,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ActivityGildedCarrotDayCoin.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivityGildedCarrotDayCoin.webp",
+        "localPath": "gallery/zzz/ActivityGildedCarrotDayCoin.webp",
+        "sha256": "70300c16bfdf97849fab3678bbbcd0354e660b61ae066768ebebeb1292f8f2c9",
+        "etag": "\"dld8rfnwo3uy-5ue\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnwo3uy-5ue\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7574|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7574,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ActivityGildedCarrotDayCoin.png",
+      "rank": 3,
+      "class": 1,
+      "name": "Popularity Carrot"
+    },
+    "detail": {
+      "id": 1360002,
+      "name": "Popularity Carrot",
+      "desc": "\"Grand Marcel Adventure\" Competition Reward",
+      "desc2": "Someone once asked Joyous why he called the Hollow route data \"Carrot.\" He replied, \"Why not ask that woman why she made those machines look like rabbits?\"",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ActivityGildedCarrotDayCoin.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "230014",
+    "name": "Military Holo-Scan Accessory",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconGarage/UnPacker/TransformReclaim01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/TransformReclaim01.webp",
+        "localPath": "gallery/zzz/TransformReclaim01.webp",
+        "sha256": "8720844aa08f6c54692e08e6bb242da818faa1f3a24caececbcb6387a361b2ca",
+        "etag": "\"dld8rgotl7ve-71e\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgotl7ve-71e\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9122|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9122,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconGarage/UnPacker/TransformReclaim01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/TransformReclaim01.webp",
+        "localPath": "gallery/zzz/TransformReclaim01.webp",
+        "sha256": "8720844aa08f6c54692e08e6bb242da818faa1f3a24caececbcb6387a361b2ca",
+        "etag": "\"dld8rgotl7ve-71e\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgotl7ve-71e\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9122|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9122,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconGarage/UnPacker/TransformReclaim01.png",
+      "rank": 4,
+      "class": 16,
+      "name": "Military Holo-Scan Accessory"
+    },
+    "detail": {
+      "id": 230014,
+      "name": "Military Holo-Scan Accessory",
+      "desc": "Increases Combat Bangboo CRIT Rate by 45%.",
+      "desc2": "Accurately scans in all directions to quickly ascertain target weaknesses. Can also be used to measure distance.",
+      "class": {
+        "16": "BANGBOO PLUGIN"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconGarage/UnPacker/TransformReclaim01.png"
+    }
+  }
+}

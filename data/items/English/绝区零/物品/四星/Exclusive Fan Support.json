@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3201014",
+    "name": "Exclusive Fan Support",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1014.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemProfile1014.webp",
+        "localPath": "gallery/zzz/ItemProfile1014.webp",
+        "sha256": "a57ed157e4ade8c7a82c1798524fe2477edc4349586063d7b955b90bf597d238",
+        "etag": "\"dld8rgei2a8g-818\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgei2a8g-818\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10412|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10412,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1014.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemProfile1014.webp",
+        "localPath": "gallery/zzz/ItemProfile1014.webp",
+        "sha256": "a57ed157e4ade8c7a82c1798524fe2477edc4349586063d7b955b90bf597d238",
+        "etag": "\"dld8rgei2a8g-818\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgei2a8g-818\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10412|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10412,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1014.png",
+      "rank": 4,
+      "class": 64,
+      "name": "Exclusive Fan Support"
+    },
+    "detail": {
+      "id": 3201014,
+      "name": "Exclusive Fan Support",
+      "desc": "A commemorative avatar for the New Eridu City Fund: Growth Plan.",
+      "desc2": "\"Wise, you've gotta wave the glow stick to the beat! Just holding it up doesn't count!\"\n\"Left–right–left, up–left–down–down... Belle? What was it again? Give me a minute, I'll get the sequence down.\"",
+      "class": {
+        "64": "PROFILE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1014.png"
+    }
+  }
+}

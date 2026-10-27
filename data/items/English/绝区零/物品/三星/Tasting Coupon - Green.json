@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "304002",
+    "name": "Tasting Coupon - Green",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RamenCoupon03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RamenCoupon03.webp",
+        "localPath": "gallery/zzz/RamenCoupon03.webp",
+        "sha256": "b1d96fbe9c76536f106134a7288c0a72ba2192d9a73ef83288f76bd35734ca90",
+        "etag": "\"dld8rgnymn2h-6x2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnymn2h-6x2\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8966|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8966,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RamenCoupon03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RamenCoupon03.webp",
+        "localPath": "gallery/zzz/RamenCoupon03.webp",
+        "sha256": "b1d96fbe9c76536f106134a7288c0a72ba2192d9a73ef83288f76bd35734ca90",
+        "etag": "\"dld8rgnymn2h-6x2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnymn2h-6x2\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8966|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8966,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RamenCoupon03.png",
+      "rank": 3,
+      "class": 20,
+      "name": "Tasting Coupon - Green"
+    },
+    "detail": {
+      "id": 304002,
+      "name": "Tasting Coupon - Green",
+      "desc": "The rich texture of green peppers & tasty chicken!\nWith this coupon, Waterfall Soup invites you to a taste experience!",
+      "desc2": "",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RamenCoupon03.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3208001",
+    "name": "Crazy Support Day",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfileActivityCollaboration04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemProfileActivityCollaboration04.webp",
+        "localPath": "gallery/zzz/ItemProfileActivityCollaboration04.webp",
+        "sha256": "7919afd192e524c0bd9f65d40c658b7c4a59ca3d165ed83afde97b9992f843e1",
+        "etag": "\"dld8rgej95hv-6wk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgej95hv-6wk\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8948|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8948,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfileActivityCollaboration04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemProfileActivityCollaboration04.webp",
+        "localPath": "gallery/zzz/ItemProfileActivityCollaboration04.webp",
+        "sha256": "7919afd192e524c0bd9f65d40c658b7c4a59ca3d165ed83afde97b9992f843e1",
+        "etag": "\"dld8rgej95hv-6wk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgej95hv-6wk\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8948|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8948,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfileActivityCollaboration04.png",
+      "rank": 4,
+      "class": 64,
+      "name": "Crazy Support Day"
+    },
+    "detail": {
+      "id": 3208001,
+      "name": "Crazy Support Day",
+      "desc": "Commemorative avatar for the collaboration event with KFC.",
+      "desc2": "Help the monochromatic K Boss take some color photos! The secret...? Inject some pink angel Fandom Power!\nCrazy Fandom Day — don't you dare miss it!",
+      "class": {
+        "64": "PROFILE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfileActivityCollaboration04.png"
+    }
+  }
+}

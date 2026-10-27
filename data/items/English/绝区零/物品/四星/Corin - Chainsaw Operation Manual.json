@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1322501",
+    "name": "Corin - Chainsaw Operation Manual",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic031.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic031.webp",
+        "localPath": "gallery/zzz/Relic031.webp",
+        "sha256": "966793b5f778f2a1108f3200829e46b26267055d377ea527f56139c0686f1fbd",
+        "etag": "\"dld8rgo0exym-3fw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo0exym-3fw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4460|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4460,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.desc.IconMap.Icon_Normal",
+        "kind": "icon_map",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "<IconMap:Icon_Normal>",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Icon_Normal.webp",
+        "localPath": "gallery/zzz/Icon_Normal.webp",
+        "sha256": "4f7078ee9d3a5e61be8ce9d3fd3f68b91de0880ba80ee43ea51b64394c158602",
+        "etag": "\"dld8rgefojpl-10m\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgefojpl-10m\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=1318|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 1318,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic031.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic031.webp",
+        "localPath": "gallery/zzz/Relic031.webp",
+        "sha256": "966793b5f778f2a1108f3200829e46b26267055d377ea527f56139c0686f1fbd",
+        "etag": "\"dld8rgo0exym-3fw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo0exym-3fw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4460|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4460,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic031.png",
+      "rank": 4,
+      "class": 80,
+      "name": "Corin - Chainsaw Operation Manual"
+    },
+    "detail": {
+      "id": 1322501,
+      "name": "Corin - Chainsaw Operation Manual",
+      "desc": "Replace <color=#FFFFFF>Dash Attack: Oopsy-Daisy!</color> with <color=#FFFFFF>Dash Attack: Oopsy-Daisy! - Modified</color>. Hold Basic Attack <IconMap:Icon_Normal> to maintain sprint mode, ending when the chainsaw has continuously slashed enemies 30 times or when the button is released.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic031.png"
+    }
+  }
+}

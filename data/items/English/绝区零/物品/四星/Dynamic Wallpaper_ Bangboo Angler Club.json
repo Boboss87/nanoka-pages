@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3550000",
+    "name": "Dynamic Wallpaper: Bangboo Angler Club",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRoleTrust/UnPacker/LiveWallpaperBangbooFishing.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/LiveWallpaperBangbooFishing.webp",
+        "localPath": "gallery/zzz/LiveWallpaperBangbooFishing.webp",
+        "sha256": "4933715a2bea544cd10f8efcbeab37032e2fadc980fbe1c18fe61883022226ba",
+        "etag": "\"dld8rgf9g993-7ue\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgf9g993-7ue\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10166|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10166,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRoleTrust/UnPacker/LiveWallpaperBangbooFishing.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/LiveWallpaperBangbooFishing.webp",
+        "localPath": "gallery/zzz/LiveWallpaperBangbooFishing.webp",
+        "sha256": "4933715a2bea544cd10f8efcbeab37032e2fadc980fbe1c18fe61883022226ba",
+        "etag": "\"dld8rgf9g993-7ue\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgf9g993-7ue\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10166|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10166,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRoleTrust/UnPacker/LiveWallpaperBangbooFishing.png",
+      "rank": 4,
+      "class": 67,
+      "name": "Dynamic Wallpaper: Bangboo Angler Club"
+    },
+    "detail": {
+      "id": 3550000,
+      "name": "Dynamic Wallpaper: Bangboo Angler Club",
+      "desc": "Dynamic wallpaper that can be displayed or changed in the main menu.",
+      "desc2": "This dynamic wallpaper captures Bangboo enjoying their leisure time at Port Elpis. A soothing visual that brings you a peaceful moment during a busy day.",
+      "class": {
+        "67": "LIVEWALLPAPER"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRoleTrust/UnPacker/LiveWallpaperBangbooFishing.png"
+    }
+  }
+}

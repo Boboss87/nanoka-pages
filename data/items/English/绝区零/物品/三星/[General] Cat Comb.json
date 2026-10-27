@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000902",
+    "name": "[General] Cat Comb",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse18.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse18.webp",
+        "localPath": "gallery/zzz/CardDailyUse18.webp",
+        "sha256": "4b337c519d544e380661c7eabdc078ad07fe43bc309e9c4624fc4cb8f6f9af57",
+        "etag": "\"dld8rfqiqpj4-9a2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqiqpj4-9a2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=12026|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12026,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse18.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse18.webp",
+        "localPath": "gallery/zzz/CardDailyUse18.webp",
+        "sha256": "4b337c519d544e380661c7eabdc078ad07fe43bc309e9c4624fc4cb8f6f9af57",
+        "etag": "\"dld8rfqiqpj4-9a2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqiqpj4-9a2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=12026|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12026,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse18.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[General] Cat Comb"
+    },
+    "detail": {
+      "id": 1000902,
+      "name": "[General] Cat Comb",
+      "desc": "When hitting an enemy from behind, Agent DMG increases by <color=#2BAD00>25%</color>.",
+      "desc2": "The only time it won't violently resist is when its back is being brushed.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse18.png"
+    }
+  }
+}

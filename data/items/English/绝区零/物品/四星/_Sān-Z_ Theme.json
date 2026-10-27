@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1359009",
+    "name": "\"Sān-Z\" Theme",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconWallpaperPiece04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconWallpaperPiece04.webp",
+        "localPath": "gallery/zzz/IconWallpaperPiece04.webp",
+        "sha256": "23dd094f17fe3174e83ddf2e8472f547a5d99dc071be413350d652e07c52b94d",
+        "etag": "\"dld8rgedw8tg-7re\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgedw8tg-7re\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10058|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10058,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconWallpaperPiece04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconWallpaperPiece04.webp",
+        "localPath": "gallery/zzz/IconWallpaperPiece04.webp",
+        "sha256": "23dd094f17fe3174e83ddf2e8472f547a5d99dc071be413350d652e07c52b94d",
+        "etag": "\"dld8rgedw8tg-7re\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgedw8tg-7re\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10058|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10058,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconWallpaperPiece04.png",
+      "rank": 4,
+      "class": 109,
+      "name": "\"Sān-Z\" Theme"
+    },
+    "detail": {
+      "id": 1359009,
+      "name": "\"Sān-Z\" Theme",
+      "desc": "Limited-time \"Filmgoer Thank-You Gift\" exclusive theme. Once obtained, it can be equipped and displayed in the Function Menu.",
+      "desc2": "Graffiti rules, break the limits.",
+      "class": {
+        "109": "THEME"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconWallpaperPiece04.png"
+    }
+  }
+}

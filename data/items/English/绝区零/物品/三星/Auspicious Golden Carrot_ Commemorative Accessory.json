@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "2090025",
+    "name": "Auspicious Golden Carrot: Commemorative Accessory",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/2_6_BatteryMail_2.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/2_6_BatteryMail_2.webp",
+        "localPath": "gallery/zzz/2_6_BatteryMail_2.webp",
+        "sha256": "c791dd26516368b782b3b128751c53f9d0fcb5a9d1410f031ef483cb3c49d6f2",
+        "etag": "\"dld8rfnuadc4-6si\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnuadc4-6si\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8802|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8802,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/2_6_BatteryMail_2.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/2_6_BatteryMail_2.webp",
+        "localPath": "gallery/zzz/2_6_BatteryMail_2.webp",
+        "sha256": "c791dd26516368b782b3b128751c53f9d0fcb5a9d1410f031ef483cb3c49d6f2",
+        "etag": "\"dld8rfnuadc4-6si\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnuadc4-6si\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8802|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8802,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/2_6_BatteryMail_2.png",
+      "rank": 3,
+      "class": 20,
+      "name": "Auspicious Golden Carrot: Commemorative Accessory"
+    },
+    "detail": {
+      "id": 2090025,
+      "name": "Auspicious Golden Carrot: Commemorative Accessory",
+      "desc": "A Gilded Carrot Day gift from the Angels of Delusion that holds precious commemorative value",
+      "desc2": "The \"Carrot\" is one of the Proxy's most iconic symbols, and clearly, and the Angels clearly approve of the Manager's \"side hustle.\" Just as the Angels of Delusion never forget their promise to their Delulus, the world's greatest Proxy naturally keeps watch over unfinished delusions.",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/2_6_BatteryMail_2.png"
+    }
+  }
+}

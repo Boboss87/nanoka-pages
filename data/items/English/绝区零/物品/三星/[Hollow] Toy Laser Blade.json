@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1001019",
+    "name": "[Hollow] Toy Laser Blade",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard27.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard27.webp",
+        "localPath": "gallery/zzz/CardChessboard27.webp",
+        "sha256": "e30448a3885c8fa9bf966b49540d2e4f9e034802fde209a14aafd3859f304ddc",
+        "etag": "\"dld8rfq9t72h-agc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq9t72h-agc\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=13548|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13548,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard27.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard27.webp",
+        "localPath": "gallery/zzz/CardChessboard27.webp",
+        "sha256": "e30448a3885c8fa9bf966b49540d2e4f9e034802fde209a14aafd3859f304ddc",
+        "etag": "\"dld8rfq9t72h-agc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq9t72h-agc\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=13548|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13548,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard27.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Hollow] Toy Laser Blade"
+    },
+    "detail": {
+      "id": 1001019,
+      "name": "[Hollow] Toy Laser Blade",
+      "desc": "All squad members' attack DMG increases by <color=#2BAD00>25%</color>, but every time Pressure increases, it increases by an additional <color=#CF4029>3</color> Pressure.",
+      "desc2": "A toy laser blade that is all the rage with kids. If it's charged, the sword will extend and light up by pressing a button on the hilt (there are also some lackluster sound effects).",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard27.png"
+    }
+  }
+}

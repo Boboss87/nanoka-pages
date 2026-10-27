@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1101604",
+    "name": "[Assist] Ether Reaction Device",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMagic04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardMagic04.webp",
+        "localPath": "gallery/zzz/CardMagic04.webp",
+        "sha256": "6767da27cc098664328c2826cb4f323b17c1d8797e07927c60cc28b675132326",
+        "etag": "\"dld8rfqsv396-b5o\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqsv396-b5o\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14460|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14460,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMagic04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardMagic04.webp",
+        "localPath": "gallery/zzz/CardMagic04.webp",
+        "sha256": "6767da27cc098664328c2826cb4f323b17c1d8797e07927c60cc28b675132326",
+        "etag": "\"dld8rfqsv396-b5o\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqsv396-b5o\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14460|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14460,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMagic04.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Assist] Ether Reaction Device"
+    },
+    "detail": {
+      "id": 1101604,
+      "name": "[Assist] Ether Reaction Device",
+      "desc": "Triggering a Perfect Assist increases all squad members' Anomaly Buildup Rate by <color=#2BAD00>30%</color> for 10s.",
+      "desc2": "This device analyzes the Ether activity of your squad members and adjusts its algorithms accordingly to facilitate Ether integration.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMagic04.png"
+    }
+  }
+}

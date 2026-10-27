@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "14116",
+    "name": "Blazing Laurel",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1161.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_S_1161.webp",
+        "localPath": "gallery/zzz/Weapon_S_1161.webp",
+        "sha256": "d6d72a2babe6352d13944953e855ab547b157c812f80b2880480f5ef9003035d",
+        "etag": "\"dld8rgpui4ze-yry\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgpui4ze-yry\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=45070|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 45070,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1161.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_S_1161.webp",
+        "localPath": "gallery/zzz/Weapon_S_1161.webp",
+        "sha256": "d6d72a2babe6352d13944953e855ab547b157c812f80b2880480f5ef9003035d",
+        "etag": "\"dld8rgpui4ze-yry\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgpui4ze-yry\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=45070|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 45070,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1161.png",
+      "rank": 4,
+      "class": 5,
+      "name": "Blazing Laurel"
+    },
+    "detail": {
+      "id": 14116,
+      "name": "Blazing Laurel",
+      "desc": "Equip to increase Stun Agents' combat capabilities",
+      "desc2": "A violent W-Engine that can ignite flames with a siphon. It deals simple and crude burn damage, encouraging relentless, bone-crushing follow-up attacks.",
+      "class": {
+        "5": "W-ENGINE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1161.png"
+    }
+  }
+}

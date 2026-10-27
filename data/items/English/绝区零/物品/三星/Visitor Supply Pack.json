@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4241003",
+    "name": "Visitor Supply Pack",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovGiftGeneralA_1.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovGiftGeneralA_1.webp",
+        "localPath": "gallery/zzz/BangkovGiftGeneralA_1.webp",
+        "sha256": "5519d9d7e658615cc3e12313813d36334f039990f83ecd507c958ad692154cf7",
+        "etag": "\"dld8rfpj0noj-58y\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpj0noj-58y\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=6802|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6802,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovGiftGeneralA_1.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovGiftGeneralA_1.webp",
+        "localPath": "gallery/zzz/BangkovGiftGeneralA_1.webp",
+        "sha256": "5519d9d7e658615cc3e12313813d36334f039990f83ecd507c958ad692154cf7",
+        "etag": "\"dld8rfpj0noj-58y\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpj0noj-58y\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=6802|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6802,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovGiftGeneralA_1.png",
+      "rank": 3,
+      "class": 124,
+      "name": "Visitor Supply Pack"
+    },
+    "detail": {
+      "id": 4241003,
+      "name": "Visitor Supply Pack",
+      "desc": "Details how to get it, what it's for, and all the gameplay info",
+      "desc2": "BKItem_4241003_Story",
+      "class": {
+        "124": null
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovGiftGeneralA_1.png"
+    }
+  }
+}

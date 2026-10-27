@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1370205",
+    "name": "[Stun: Knock] Industrial Explosive",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardStunS205.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardStunS205.webp",
+        "localPath": "gallery/zzz/CardStunS205.webp",
+        "sha256": "89a39774d1e34b9ec4c55c0c7ef118c08f4f73430e311581e088d72d3f70e1a2",
+        "etag": "\"dld8rfr1slpu-cx2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr1slpu-cx2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16742|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16742,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardStunS205.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardStunS205.webp",
+        "localPath": "gallery/zzz/CardStunS205.webp",
+        "sha256": "89a39774d1e34b9ec4c55c0c7ef118c08f4f73430e311581e088d72d3f70e1a2",
+        "etag": "\"dld8rfr1slpu-cx2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr1slpu-cx2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16742|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16742,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardStunS205.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[Stun: Knock] Industrial Explosive"
+    },
+    "detail": {
+      "id": 1370205,
+      "name": "[Stun: Knock] Industrial Explosive",
+      "desc": "Agents <color=#2BAD00>inflict 10% more Daze</color>.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardStunS205.png"
+    }
+  }
+}

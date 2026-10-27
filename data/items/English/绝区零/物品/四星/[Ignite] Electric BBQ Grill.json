@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1010102",
+    "name": "[Ignite] Electric BBQ Grill",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBurn13.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBurn13.webp",
+        "localPath": "gallery/zzz/CardBurn13.webp",
+        "sha256": "9bc76697689b378202fdca89cca855d991102ddfef342764746ba1f2f97b97ba",
+        "etag": "\"dld8rfq6u0wx-e9o\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq6u0wx-e9o\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=18492|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 18492,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBurn13.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBurn13.webp",
+        "localPath": "gallery/zzz/CardBurn13.webp",
+        "sha256": "9bc76697689b378202fdca89cca855d991102ddfef342764746ba1f2f97b97ba",
+        "etag": "\"dld8rfq6u0wx-e9o\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq6u0wx-e9o\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=18492|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 18492,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBurn13.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Ignite] Electric BBQ Grill"
+    },
+    "detail": {
+      "id": 1010102,
+      "name": "[Ignite] Electric BBQ Grill",
+      "desc": "Increases the effect of Motivation to <color=#2BAD00>200%</color> of its original value.",
+      "desc2": "As it roasts, the heat intensifies, and your craving only grows stronger. Is it just you, or can you really smell the aroma of grilled meat...",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBurn13.png"
+    }
+  }
+}

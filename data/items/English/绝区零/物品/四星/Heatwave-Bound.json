@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3300003",
+    "name": "Heatwave-Bound",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard05.webp",
+        "localPath": "gallery/zzz/Callingcard05.webp",
+        "sha256": "c7ae712296834c309ec9ff25ef11b4ac478623995241bbf0b8ebaceab7ad0fd2",
+        "etag": "\"dld8rfppkfmc-7pw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfppkfmc-7pw\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10004|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10004,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard05.webp",
+        "localPath": "gallery/zzz/Callingcard05.webp",
+        "sha256": "c7ae712296834c309ec9ff25ef11b4ac478623995241bbf0b8ebaceab7ad0fd2",
+        "etag": "\"dld8rfppkfmc-7pw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfppkfmc-7pw\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10004|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10004,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard05.png",
+      "rank": 4,
+      "class": 65,
+      "name": "Heatwave-Bound"
+    },
+    "detail": {
+      "id": 3300003,
+      "name": "Heatwave-Bound",
+      "desc": "A commemorative namecard for the New Eridu City Fund: Premium Plan.",
+      "desc2": "A 10-year consecutive winner of \"The Ridu Tour\" Best Summer Vacation Spots ranking. Reason: \"Sunshine never gets old.\"",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard05.png"
+    }
+  }
+}

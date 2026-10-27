@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "404",
+    "name": "Lost Supply Box",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MidsummerContainer.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/MidsummerContainer.webp",
+        "localPath": "gallery/zzz/MidsummerContainer.webp",
+        "sha256": "bc4198ae762ac63cf61317de3840109877a904eb4213bc26730ebdec82281661",
+        "etag": "\"dld8rgfcffen-8me\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgfcffen-8me\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11174|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11174,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MidsummerContainer.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/MidsummerContainer.webp",
+        "localPath": "gallery/zzz/MidsummerContainer.webp",
+        "sha256": "bc4198ae762ac63cf61317de3840109877a904eb4213bc26730ebdec82281661",
+        "etag": "\"dld8rgfcffen-8me\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgfcffen-8me\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11174|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11174,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MidsummerContainer.png",
+      "rank": 3,
+      "class": 1,
+      "name": "Lost Supply Box"
+    },
+    "detail": {
+      "id": 404,
+      "name": "Lost Supply Box",
+      "desc": "A very sturdy storage chest. It looks quite valuable.",
+      "desc2": "There seems to be an unfamiliar company logo on the corner of the chest. From the make and quality, this appears to be for military use. Though it's covered in dust, there are no signs of Ether corruption.",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MidsummerContainer.png"
+    }
+  }
+}

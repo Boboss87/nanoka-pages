@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "412021111",
+    "name": "Spectacular Spectacles",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Belle_Head_Glass_02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Belle_Head_Glass_02.webp",
+        "localPath": "gallery/zzz/icon_Belle_Head_Glass_02.webp",
+        "sha256": "ffaac049654ddbeb2c48fecd7a0109f98df9b2c95277a94cc3c98cb2b76e5070",
+        "etag": "\"dld8rgrkfal8-52k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrkfal8-52k\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6572|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6572,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Belle_Head_Glass_02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Belle_Head_Glass_02.webp",
+        "localPath": "gallery/zzz/icon_Belle_Head_Glass_02.webp",
+        "sha256": "ffaac049654ddbeb2c48fecd7a0109f98df9b2c95277a94cc3c98cb2b76e5070",
+        "etag": "\"dld8rgrkfal8-52k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrkfal8-52k\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6572|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6572,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Belle_Head_Glass_02.png",
+      "rank": 3,
+      "class": 95,
+      "name": "Spectacular Spectacles"
+    },
+    "detail": {
+      "id": 412021111,
+      "name": "Spectacular Spectacles",
+      "desc": "A Proxy accessory that can be worn with some of Belle's Proxy outfits.",
+      "desc2": "I think Master looks so spectacular, it's almost too much. —Fairy",
+      "class": {
+        "95": "OUTFIT ACCESSORIES"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Belle_Head_Glass_02.png"
+    }
+  }
+}

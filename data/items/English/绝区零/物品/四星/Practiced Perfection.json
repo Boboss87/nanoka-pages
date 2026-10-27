@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "14140",
+    "name": "Practiced Perfection",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1401.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_S_1401.webp",
+        "localPath": "gallery/zzz/Weapon_S_1401.webp",
+        "sha256": "e22ebcc0f8da10250dc15f5a69741c202ed490ecbe6f419156be5ebf5c882493",
+        "etag": "\"dld8rgqakv0l-v9w\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgqakv0l-v9w\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=40532|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 40532,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1401.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_S_1401.webp",
+        "localPath": "gallery/zzz/Weapon_S_1401.webp",
+        "sha256": "e22ebcc0f8da10250dc15f5a69741c202ed490ecbe6f419156be5ebf5c882493",
+        "etag": "\"dld8rgqakv0l-v9w\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgqakv0l-v9w\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=40532|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 40532,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1401.png",
+      "rank": 4,
+      "class": 5,
+      "name": "Practiced Perfection"
+    },
+    "detail": {
+      "id": 14140,
+      "name": "Practiced Perfection",
+      "desc": "Equip to increase Anomaly Agents' combat capabilities",
+      "desc2": "Starlight became her blade, and she held courage and love firmly in her hands.",
+      "class": {
+        "5": "W-ENGINE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1401.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3300011",
+    "name": "Special Snorkeling Photo Session",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard23.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard23.webp",
+        "localPath": "gallery/zzz/Callingcard23.webp",
+        "sha256": "ce80fcef1010b8a80d9ee70e4c645225d39135d0328955977b9ccf3e845a9e78",
+        "etag": "\"dld8rfpq5v92-82k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpq5v92-82k\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10460|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10460,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard23.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard23.webp",
+        "localPath": "gallery/zzz/Callingcard23.webp",
+        "sha256": "ce80fcef1010b8a80d9ee70e4c645225d39135d0328955977b9ccf3e845a9e78",
+        "etag": "\"dld8rfpq5v92-82k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpq5v92-82k\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10460|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10460,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard23.png",
+      "rank": 4,
+      "class": 65,
+      "name": "Special Snorkeling Photo Session"
+    },
+    "detail": {
+      "id": 3300011,
+      "name": "Special Snorkeling Photo Session",
+      "desc": "A commemorative namecard for the New Eridu City Fund: Premium Plan.",
+      "desc2": "I arrived at the best snorkeling spot in New Eridu, recommended by the heir of a certain prominent family! But I politely turned down the photographer she suggested.\nMaybe... when faced with a vibrant, unfamiliar world, there's no better photographer than curiosity; and when it comes to those we spend every day with, no technique beats patience and love.\n—That doesn't guarantee a beautiful result, though.",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard23.png"
+    }
+  }
+}

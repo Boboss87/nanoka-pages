@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1350291",
+    "name": "[Remielle] Voidwing Pilgrimage",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic102.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic102.webp",
+        "localPath": "gallery/zzz/Relic102.webp",
+        "sha256": "8023648d09c4da5f576f68f8a42dec2e56f43fd7f9b20424ddd4e99434fe2193",
+        "etag": "\"dld8rgo56f0a-2vw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo56f0a-2vw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=3740|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 3740,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic102.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic102.webp",
+        "localPath": "gallery/zzz/Relic102.webp",
+        "sha256": "8023648d09c4da5f576f68f8a42dec2e56f43fd7f9b20424ddd4e99434fe2193",
+        "etag": "\"dld8rgo56f0a-2vw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo56f0a-2vw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=3740|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 3740,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic102.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Remielle] Voidwing Pilgrimage"
+    },
+    "detail": {
+      "id": 1350291,
+      "name": "[Remielle] Voidwing Pilgrimage",
+      "desc": "When Remielle is in the <color=#FFFFFF>Phase Flow</color> state, if her Auto-Attack's Finishing Move hits a target afflicted with <color=#FE437E>Ether Attribute Anomaly</color>, <color=#2EB6FF>Electric Attribute Anomaly</color>, <color=#FF5521>Fire Attribute Anomaly</color>, <color=#F0D12B>Physical Attribute Anomaly</color>, <color=#98EFF0>Ice Attribute Anomaly</color>, or <color=#A6C5FD>Wind Attribute Anomaly</color>, she <color=#2BAD00>triggers an additional instance of Abloom</color>, dealing a fixed 220% multiplier of the corresponding Attribute Anomaly DMG.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic102.png"
+    }
+  }
+}

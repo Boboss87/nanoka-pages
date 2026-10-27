@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "900006",
+    "name": "Surprise Toy Box",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/S_EngineFreePick.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/S_EngineFreePick.webp",
+        "localPath": "gallery/zzz/S_EngineFreePick.webp",
+        "sha256": "f7085da4b26e3fd48f681ac3e2aaa0de472b1d2389279f61a417ef293e04dbc0",
+        "etag": "\"dld8rgocbmkt-8j8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgocbmkt-8j8\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11060|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11060,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/S_EngineFreePick.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/S_EngineFreePick.webp",
+        "localPath": "gallery/zzz/S_EngineFreePick.webp",
+        "sha256": "f7085da4b26e3fd48f681ac3e2aaa0de472b1d2389279f61a417ef293e04dbc0",
+        "etag": "\"dld8rgocbmkt-8j8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgocbmkt-8j8\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11060|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11060,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/S_EngineFreePick.png",
+      "rank": 4,
+      "class": 29,
+      "name": "Surprise Toy Box"
+    },
+    "detail": {
+      "id": 900006,
+      "name": "Surprise Toy Box",
+      "desc": "After claiming, you can choose one of the following S-Rank W-Engines: Sharpened Stinger, Severed Innocence, or Myriad Eclipse.",
+      "desc2": "Box Galaxy's latest mystery bags — a limited drop exclusively for the most dedicated music fanatics!\nBased on a totally non-comprehensive, far-from-rigorous sampling survey, the spots in New Eridu where these gadget enthusiasts hang out the most are... Hollow Zero and the HIA Career Club?!",
+      "class": {
+        "29": "INFO"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/S_EngineFreePick.png"
+    }
+  }
+}

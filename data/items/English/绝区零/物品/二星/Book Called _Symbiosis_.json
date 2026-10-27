@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "305029",
+    "name": "Book Called \"Symbiosis\"",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0016.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconQuestItem_Abyss_0016.webp",
+        "localPath": "gallery/zzz/IconQuestItem_Abyss_0016.webp",
+        "sha256": "30144dd973b6ba081e7a7ba48d6eabef6143fc92e293d07f38facb1fed5c8bcd",
+        "etag": "\"dld8rg7sxfqx-62o\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7sxfqx-62o\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=7872|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7872,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0016.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconQuestItem_Abyss_0016.webp",
+        "localPath": "gallery/zzz/IconQuestItem_Abyss_0016.webp",
+        "sha256": "30144dd973b6ba081e7a7ba48d6eabef6143fc92e293d07f38facb1fed5c8bcd",
+        "etag": "\"dld8rg7sxfqx-62o\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7sxfqx-62o\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=7872|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7872,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0016.png",
+      "rank": 2,
+      "class": 22,
+      "name": "Book Called \"Symbiosis\""
+    },
+    "detail": {
+      "id": 305029,
+      "name": "Book Called \"Symbiosis\"",
+      "desc": "A call titled \"Symbiosis.\"",
+      "desc2": "Judging by its cover, it looks quite old. The section explaining symbiosis has its page folded over.\n",
+      "class": {
+        "22": "CLUE ITEM"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0016.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1228206001",
+    "name": "[Hollow] Exclusive Card Pack",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard12.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard12.webp",
+        "localPath": "gallery/zzz/CardChessboard12.webp",
+        "sha256": "7a8d3641450576e84196ac7e6c8a0eee56e410e0f05042b874c00fca3e5362ad",
+        "etag": "\"dld8rfq80w6c-be2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq80w6c-be2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14762|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14762,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard12.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard12.webp",
+        "localPath": "gallery/zzz/CardChessboard12.webp",
+        "sha256": "7a8d3641450576e84196ac7e6c8a0eee56e410e0f05042b874c00fca3e5362ad",
+        "etag": "\"dld8rfq80w6c-be2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq80w6c-be2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14762|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14762,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard12.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Hollow] Exclusive Card Pack"
+    },
+    "detail": {
+      "id": 1228206001,
+      "name": "[Hollow] Exclusive Card Pack",
+      "desc": "When the protagonist takes DMG, 10% chance to <color=#FFAF2C>refresh up to 10 events within 4 tiles</color>.",
+      "desc2": "A card pack from the hit board game, Starlight: Lost Tower. Every pack will have at least 2 holographic cards.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard12.png"
+    }
+  }
+}

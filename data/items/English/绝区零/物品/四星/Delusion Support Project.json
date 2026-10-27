@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3301025",
+    "name": "Delusion Support Project",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CallingcardActivityCollaboration05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CallingcardActivityCollaboration05.webp",
+        "localPath": "gallery/zzz/CallingcardActivityCollaboration05.webp",
+        "sha256": "75ec23dfbd7e26d8c12645b582fb85a00b6c5d8c60a12a573c41e1167b14bed8",
+        "etag": "\"dld8rfpw47k5-7h2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpw47k5-7h2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9686|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9686,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CallingcardActivityCollaboration05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CallingcardActivityCollaboration05.webp",
+        "localPath": "gallery/zzz/CallingcardActivityCollaboration05.webp",
+        "sha256": "75ec23dfbd7e26d8c12645b582fb85a00b6c5d8c60a12a573c41e1167b14bed8",
+        "etag": "\"dld8rfpw47k5-7h2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpw47k5-7h2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9686|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9686,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CallingcardActivityCollaboration05.png",
+      "rank": 4,
+      "class": 65,
+      "name": "Delusion Support Project"
+    },
+    "detail": {
+      "id": 3301025,
+      "name": "Delusion Support Project",
+      "desc": "Commemorative namecard for the collaboration with KFC.",
+      "desc2": "\"I heard they're an incredibly famous brand — we absolutely can't mess this up! B—But why did they pick us in the first place...?\"\n\"You must know, right, Xiao'Yu? Ms. Cecilia mentioned that a few days ago, you...\"\n\"...Oh, I don't really know either! But I heard that once this project's finished, Sunna won't have to worry about lunch money ever again~\"\n\"R—Really? Then that's another fixed group expense we can cut down on!!\"\n\"—Wait, Sunna! Weren't we just saying we should figure out why they picked us first...?\"",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CallingcardActivityCollaboration05.png"
+    }
+  }
+}

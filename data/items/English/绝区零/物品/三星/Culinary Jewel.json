@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3114211",
+    "name": "Culinary Jewel",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_CulinaryJewel.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Skin_CulinaryJewel.webp",
+        "localPath": "gallery/zzz/Skin_CulinaryJewel.webp",
+        "sha256": "77d06df10de8697ccc3d99203b50370789ba04303d2f97806d8106e1ebdfc2a2",
+        "etag": "\"dld8rgocx27i-86a\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgocx27i-86a\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10594|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10594,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_CulinaryJewel.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Skin_CulinaryJewel.webp",
+        "localPath": "gallery/zzz/Skin_CulinaryJewel.webp",
+        "sha256": "77d06df10de8697ccc3d99203b50370789ba04303d2f97806d8106e1ebdfc2a2",
+        "etag": "\"dld8rgocx27i-86a\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgocx27i-86a\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10594|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10594,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_CulinaryJewel.png",
+      "rank": 3,
+      "class": 63,
+      "name": "Culinary Jewel"
+    },
+    "detail": {
+      "id": 3114211,
+      "name": "Culinary Jewel",
+      "desc": "Pan Yinhu's Outfit.",
+      "desc2": "Senior Yinhu once dreamed of becoming a renowned chef, but in this day and age, there's always some thug looking to smash your bowl.\n—\"Go on, try smashing one.\"",
+      "class": {
+        "63": "DRESS"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_CulinaryJewel.png"
+    }
+  }
+}

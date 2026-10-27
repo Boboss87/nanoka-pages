@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4360057",
+    "name": "Braised Beef Boodles Ornament",
+    "rarity": "五星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_074.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_074.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_074.webp",
+        "sha256": "3820f909fbc4be174a5fa901fefbb96f6cafbe2132b31cabe48307b0e8c24690",
+        "etag": "\"dld8rgr3r4xd-6wu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr3r4xd-6wu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8958|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8958,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_074.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_074.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_074.webp",
+        "sha256": "3820f909fbc4be174a5fa901fefbb96f6cafbe2132b31cabe48307b0e8c24690",
+        "etag": "\"dld8rgr3r4xd-6wu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr3r4xd-6wu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8958|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8958,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_074.png",
+      "rank": 5,
+      "class": 130,
+      "name": "Braised Beef Boodles Ornament"
+    },
+    "detail": {
+      "id": 4360057,
+      "name": "Braised Beef Boodles Ornament",
+      "desc": "The Bangboo instant noodle figurine from Sān-Z STUDIO—a classic flavor beloved by everyone in Ridu.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_074.png"
+    }
+  }
+}

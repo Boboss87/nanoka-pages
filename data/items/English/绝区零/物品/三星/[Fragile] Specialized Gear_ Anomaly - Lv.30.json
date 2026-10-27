@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4320123",
+    "name": "[Fragile] Specialized Gear: Anomaly - Lv.30",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponA_002.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponA_002.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponA_002.webp",
+        "sha256": "a6c35ace66859cdf4734c20d3e11e786b99bfd703cf3427f547eb3985b66c2c6",
+        "etag": "\"dld8rgrcone0-7by\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrcone0-7by\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9502|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9502,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponA_002.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponA_002.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponA_002.webp",
+        "sha256": "a6c35ace66859cdf4734c20d3e11e786b99bfd703cf3427f547eb3985b66c2c6",
+        "etag": "\"dld8rgrcone0-7by\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrcone0-7by\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9502|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9502,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponA_002.png",
+      "rank": 3,
+      "class": 132,
+      "name": "[Fragile] Specialized Gear: Anomaly - Lv.30"
+    },
+    "detail": {
+      "id": 4320123,
+      "name": "[Fragile] Specialized Gear: Anomaly - Lv.30",
+      "desc": "Provides the Specialized Stats needed for Anomaly Agents.",
+      "desc2": "",
+      "class": {
+        "132": "LABYRINTH"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponA_002.png"
+    }
+  }
+}

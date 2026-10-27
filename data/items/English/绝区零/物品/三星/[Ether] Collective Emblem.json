@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1001912",
+    "name": "[Ether] Collective Emblem",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech00.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardTech00.webp",
+        "localPath": "gallery/zzz/CardTech00.webp",
+        "sha256": "f4b85a8b0965f7ba213a2cc8e425c4b17f2068f62b850c0825014cd570c98f84",
+        "etag": "\"dld8rfr2zgz9-db0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr2zgz9-db0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17244|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17244,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech00.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardTech00.webp",
+        "localPath": "gallery/zzz/CardTech00.webp",
+        "sha256": "f4b85a8b0965f7ba213a2cc8e425c4b17f2068f62b850c0825014cd570c98f84",
+        "etag": "\"dld8rfr2zgz9-db0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr2zgz9-db0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17244|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17244,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech00.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Ether] Collective Emblem"
+    },
+    "detail": {
+      "id": 1001912,
+      "name": "[Ether] Collective Emblem",
+      "desc": "Increases the chance for [Ether] Resonia to appear.",
+      "desc2": "Kindred spirits gather, and emblems fall into groups.\nEtheric matter exhibits mutual attraction... to a certain extent, this is true.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech00.png"
+    }
+  }
+}

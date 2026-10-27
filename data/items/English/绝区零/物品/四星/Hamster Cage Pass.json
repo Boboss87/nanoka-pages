@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "100941",
+    "name": "Hamster Cage Pass",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/UltimateSkill.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/UltimateSkill.webp",
+        "localPath": "gallery/zzz/UltimateSkill.webp",
+        "sha256": "7d8504b49b992a917821a6b98d4b413f99857c80119fce030a10e942c109fb2f",
+        "etag": "\"dld8rgous34t-948\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgous34t-948\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11816|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11816,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/UltimateSkill.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/UltimateSkill.webp",
+        "localPath": "gallery/zzz/UltimateSkill.webp",
+        "sha256": "7d8504b49b992a917821a6b98d4b413f99857c80119fce030a10e942c109fb2f",
+        "etag": "\"dld8rgous34t-948\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgous34t-948\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11816|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11816,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/UltimateSkill.png",
+      "rank": 4,
+      "class": 10,
+      "name": "Hamster Cage Pass"
+    },
+    "detail": {
+      "id": 100941,
+      "name": "Hamster Cage Pass",
+      "desc": "A precious item used by Agents to upgrade their advanced skills.",
+      "desc2": "A delicate ring that contains a disposable access chip, which allows its wearer to access the Hamster Cage, a top-notch simulation training center. The Hamster Cage provides the most extensive and professional combat training, on par with the best-equipped training area in the Hollow Investigative Association.",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/UltimateSkill.png"
+    }
+  }
+}

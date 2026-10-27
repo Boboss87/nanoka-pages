@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "207012",
+    "name": "Precious Resonium Box",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/ItemIcon/UnPacker/IconBlindBox03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconBlindBox03.webp",
+        "localPath": "gallery/zzz/IconBlindBox03.webp",
+        "sha256": "092f2c479c8a6ce8e532ac530ee3269b9105403fbcfccad7fdc69f6666156b1b",
+        "etag": "\"dld8rg7en0lv-81q\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7en0lv-81q\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10430|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10430,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/ItemIcon/UnPacker/IconBlindBox03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconBlindBox03.webp",
+        "localPath": "gallery/zzz/IconBlindBox03.webp",
+        "sha256": "092f2c479c8a6ce8e532ac530ee3269b9105403fbcfccad7fdc69f6666156b1b",
+        "etag": "\"dld8rg7en0lv-81q\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7en0lv-81q\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10430|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10430,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/ItemIcon/UnPacker/IconBlindBox03.png",
+      "rank": 4,
+      "class": 11,
+      "name": "Precious Resonium Box"
+    },
+    "detail": {
+      "id": 207012,
+      "name": "Precious Resonium Box",
+      "desc": "Get <color=#2BAD00>a random</color> S-Rank Resonium and have a 10% chance to get an additional S-Rank Resonium.",
+      "desc2": "Despite being a recycled item from deep within a Hollow, it might be worth more than the Bangboo merchants' own Resonia for sale...\nTherefore, it's been placed into an exquisite box and randomly sold on. Why not try your luck if you're feeling confident?",
+      "class": {
+        "11": "BATTLE RESOURCE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/ItemIcon/UnPacker/IconBlindBox03.png"
+    }
+  }
+}

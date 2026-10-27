@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "2090003",
+    "name": "Fresh and Icy Special Commemorative Can",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/SummerBatteryToken.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SummerBatteryToken.webp",
+        "localPath": "gallery/zzz/SummerBatteryToken.webp",
+        "sha256": "e25a05f439feb8cd539bd48691a2c09bbf2e7828d83bf7452beae21b4d565219",
+        "etag": "\"dld8rgoqm1pu-99w\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoqm1pu-99w\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=12020|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12020,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/SummerBatteryToken.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SummerBatteryToken.webp",
+        "localPath": "gallery/zzz/SummerBatteryToken.webp",
+        "sha256": "e25a05f439feb8cd539bd48691a2c09bbf2e7828d83bf7452beae21b4d565219",
+        "etag": "\"dld8rgoqm1pu-99w\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoqm1pu-99w\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=12020|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12020,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/SummerBatteryToken.png",
+      "rank": 3,
+      "class": 20,
+      "name": "Fresh and Icy Special Commemorative Can"
+    },
+    "detail": {
+      "id": 2090003,
+      "name": "Fresh and Icy Special Commemorative Can",
+      "desc": "Fresh and Icy Energy Drink Special's limited-edition can. A breath of cold in the heat, with you through every summer day.",
+      "desc2": "The reason why it's considered to have commemorative value is mostly due to a promise made by the manufacturer: \"Collect 6 consecutively numbered cans for a gold bar.\"\nEveryone went all in for the six-can family pack, but no one has ever seen a can with a number ending in 0 or 5.",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/SummerBatteryToken.png"
+    }
+  }
+}

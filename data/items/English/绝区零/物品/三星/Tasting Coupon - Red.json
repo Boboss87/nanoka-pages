@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "304001",
+    "name": "Tasting Coupon - Red",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RamenCoupon02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RamenCoupon02.webp",
+        "localPath": "gallery/zzz/RamenCoupon02.webp",
+        "sha256": "4cfe513c2987ee54bdc877971469481dbcf0f8caf41e10893df0a64a676db3fc",
+        "etag": "\"dld8rgnymn2h-79e\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnymn2h-79e\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9410|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9410,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RamenCoupon02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RamenCoupon02.webp",
+        "localPath": "gallery/zzz/RamenCoupon02.webp",
+        "sha256": "4cfe513c2987ee54bdc877971469481dbcf0f8caf41e10893df0a64a676db3fc",
+        "etag": "\"dld8rgnymn2h-79e\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnymn2h-79e\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9410|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9410,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RamenCoupon02.png",
+      "rank": 3,
+      "class": 20,
+      "name": "Tasting Coupon - Red"
+    },
+    "detail": {
+      "id": 304001,
+      "name": "Tasting Coupon - Red",
+      "desc": "Ignite your tastebuds with devilish red peppers!\nWith this coupon, Waterfall Soup invites you to a taste experience!",
+      "desc2": "",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RamenCoupon02.png"
+    }
+  }
+}

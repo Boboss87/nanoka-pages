@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1350212",
+    "name": "[Sunna] Tour de Rhythm",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic078.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic078.webp",
+        "localPath": "gallery/zzz/Relic078.webp",
+        "sha256": "8a0be75dd54d9c53a1326bc39ed69f4990a700fa3325772fce229df9423cdd36",
+        "etag": "\"dld8rgo3zjqv-34q\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo3zjqv-34q\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4058|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4058,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic078.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic078.webp",
+        "localPath": "gallery/zzz/Relic078.webp",
+        "sha256": "8a0be75dd54d9c53a1326bc39ed69f4990a700fa3325772fce229df9423cdd36",
+        "etag": "\"dld8rgo3zjqv-34q\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo3zjqv-34q\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4058|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4058,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic078.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Sunna] Tour de Rhythm"
+    },
+    "detail": {
+      "id": 1350212,
+      "name": "[Sunna] Tour de Rhythm",
+      "desc": "Reduces the number of attacks required to trigger <color=#FFFFFF>Cat's Gaze</color>, and when an enemy is afflicted with <color=#FFFFFF>Cat's Gaze</color>, their <color=#2BAD00>Anomaly Buildup Rate is increased by 20%</color> for 10s. When <color=#FFFFFF>Cat's Gaze</color> hits a target afflicted with <color=#FE437E>Ether Anomaly</color>, <color=#2EB6FF>Electric Attribute Anomaly</color>, <color=#FF5521>Fire Attribute Anomaly</color>, <color=#F0D12B>Physical Attribute Anomaly</color>, <color=#98EFF0>Ice Attribute Anomaly</color> or <color=#A6C5FD>Wind Attribute Anomaly</color>, it also triggers one instance of <color=#FFFFFF>Abloom</color>: applies one additional instance of Attribute Anomaly DMG equal to <color=#FE437E>370%</color>/<color=#2EB6FF>192%</color>/<color=#FF5521>480%</color>/<color=#F0D12B>30%</color>/<color=#98EFF0>48%</color>/<color=#A6C5FD>19%</color> of original Attribute Anomaly DMG.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic078.png"
+    }
+  }
+}

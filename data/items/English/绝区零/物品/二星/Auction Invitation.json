@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "304059",
+    "name": "Auction Invitation",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Invitation.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Invitation.webp",
+        "localPath": "gallery/zzz/Invitation.webp",
+        "sha256": "e614109e339c103214b8e87c034019e10a9d55f7885bf1a6e4d1bb9737c28187",
+        "etag": "\"dld8rgeg9zcb-6ae\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgeg9zcb-6ae\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8150|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8150,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Invitation.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Invitation.webp",
+        "localPath": "gallery/zzz/Invitation.webp",
+        "sha256": "e614109e339c103214b8e87c034019e10a9d55f7885bf1a6e4d1bb9737c28187",
+        "etag": "\"dld8rgeg9zcb-6ae\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgeg9zcb-6ae\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8150|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8150,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Invitation.png",
+      "rank": 2,
+      "class": 20,
+      "name": "Auction Invitation"
+    },
+    "detail": {
+      "id": 304059,
+      "name": "Auction Invitation",
+      "desc": "An invitation required for entry to the auction.",
+      "desc2": "An exquisitely crafted invitation card, giving off a subtle fragrance of perfume.",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Invitation.png"
+    }
+  }
+}

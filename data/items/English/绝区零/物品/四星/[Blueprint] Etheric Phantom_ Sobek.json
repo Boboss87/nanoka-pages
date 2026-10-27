@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4350122",
+    "name": "[Blueprint] Etheric Phantom: Sobek",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_MonsterSkill_005_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_MonsterSkill_005_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_MonsterSkill_005_Blueprint.webp",
+        "sha256": "b7e6b8b95915007dc7bbca2266e74fcea7e5351eb8990a844a729e317c27fc72",
+        "etag": "\"dld8rgrbhs4l-8i0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrbhs4l-8i0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11016|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11016,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_MonsterSkill_005_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_MonsterSkill_005_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_MonsterSkill_005_Blueprint.webp",
+        "sha256": "b7e6b8b95915007dc7bbca2266e74fcea7e5351eb8990a844a729e317c27fc72",
+        "etag": "\"dld8rgrbhs4l-8i0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrbhs4l-8i0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11016|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11016,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_MonsterSkill_005_Blueprint.png",
+      "rank": 4,
+      "class": 130,
+      "name": "[Blueprint] Etheric Phantom: Sobek"
+    },
+    "detail": {
+      "id": 4350122,
+      "name": "[Blueprint] Etheric Phantom: Sobek",
+      "desc": "Use this Blueprint at the Smart Workshop to unlock the recipe for this item. Obtained through investigations.\n\nItem Effect: Use this item to summon a phantom of <color=#FFAF2C>Sobek</color>, creating a wind field that pulls enemies within range. It deals DMG equal to <color=#2BAD00>100%</color>/<color=#2BAD00>30%</color>/<color=#2BAD00>10%</color> of Max HP to normal/elite/boss enemies, respectively. It also grants all Agents a shield equal to <color=#2BAD00>50%</color> of their Max HP for <color=#2BAD00>20</color>s. While the shield is active, Anti-Interrupt Level increases.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_MonsterSkill_005_Blueprint.png"
+    }
+  }
+}

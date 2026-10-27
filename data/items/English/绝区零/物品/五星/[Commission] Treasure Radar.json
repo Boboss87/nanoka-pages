@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4360088",
+    "name": "[Commission] Treasure Radar",
+    "rarity": "五星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_CollectionA_004.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_CollectionA_004.webp",
+        "localPath": "gallery/zzz/Zenkov_CollectionA_004.webp",
+        "sha256": "8167b358ce16879c590c24321e371fac1c5c720337dae649a05547d785d66d64",
+        "etag": "\"dld8rgr0ryrt-7gi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr0ryrt-7gi\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9666|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9666,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_CollectionA_004.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_CollectionA_004.webp",
+        "localPath": "gallery/zzz/Zenkov_CollectionA_004.webp",
+        "sha256": "8167b358ce16879c590c24321e371fac1c5c720337dae649a05547d785d66d64",
+        "etag": "\"dld8rgr0ryrt-7gi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr0ryrt-7gi\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9666|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9666,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_CollectionA_004.png",
+      "rank": 5,
+      "class": 130,
+      "name": "[Commission] Treasure Radar"
+    },
+    "detail": {
+      "id": 4360088,
+      "name": "[Commission] Treasure Radar",
+      "desc": "A radar tuned to a special search frequency that seems to lead people toward high-value areas in the Divine Maze.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_CollectionA_004.png"
+    }
+  }
+}

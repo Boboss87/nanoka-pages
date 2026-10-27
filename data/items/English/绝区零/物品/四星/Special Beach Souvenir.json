@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3651013",
+    "name": "Special Beach Souvenir",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/DIYBoardDecoration013.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/DIYBoardDecoration013.webp",
+        "localPath": "gallery/zzz/DIYBoardDecoration013.webp",
+        "sha256": "ff823b9f499680fa20481d49c65081833029680334ccea490507bf6ca928c877",
+        "etag": "\"dld8rfrfhl85-5yc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrfhl85-5yc\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7716|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7716,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/DIYBoardDecoration013.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/DIYBoardDecoration013.webp",
+        "localPath": "gallery/zzz/DIYBoardDecoration013.webp",
+        "sha256": "ff823b9f499680fa20481d49c65081833029680334ccea490507bf6ca928c877",
+        "etag": "\"dld8rfrfhl85-5yc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrfhl85-5yc\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7716|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7716,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/DIYBoardDecoration013.png",
+      "rank": 4,
+      "class": 68,
+      "name": "Special Beach Souvenir"
+    },
+    "detail": {
+      "id": 3651013,
+      "name": "Special Beach Souvenir",
+      "desc": "A special souvenir that can be displayed on the Memory Board.",
+      "desc2": "The special keepsake has already been given to Remielle. The one left at home is a wind chime we recreated together afterward, using the original as a reference.\n\"In the end, we wound up making two keepsakes that look exactly the same... But since they're both meant to remember the same summer, I guess that feels just right~\"\n\"Next time... how about I be the one to keep our promise?\"",
+      "class": {
+        "68": "PHOTOWALL ITEM"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/DIYBoardDecoration013.png"
+    }
+  }
+}

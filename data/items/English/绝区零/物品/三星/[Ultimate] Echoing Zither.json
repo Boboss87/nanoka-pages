@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1310101",
+    "name": "[Ultimate] Echoing Zither",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardDecibels03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDecibels03.webp",
+        "localPath": "gallery/zzz/CardDecibels03.webp",
+        "sha256": "32d5649fe79292940239f7fd30213789f89d37c595092178e42e08406488c563",
+        "etag": "\"dld8rfqjc55t-ebg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqjc55t-ebg\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=18556|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 18556,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardDecibels03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDecibels03.webp",
+        "localPath": "gallery/zzz/CardDecibels03.webp",
+        "sha256": "32d5649fe79292940239f7fd30213789f89d37c595092178e42e08406488c563",
+        "etag": "\"dld8rfqjc55t-ebg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqjc55t-ebg\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=18556|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 18556,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardDecibels03.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Ultimate] Echoing Zither"
+    },
+    "detail": {
+      "id": 1310101,
+      "name": "[Ultimate] Echoing Zither",
+      "desc": "When launching an <color=#FFFFFF>Ultimate</color>, the Agent has a 50% chance to <color=#2BAD00>recover 15% of Decibels consumed</color>.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardDecibels03.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4370112",
+    "name": "Sea Urchin",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver3_1/SummerTideTreasure/UnPacker/Drop/SummerTideTreasure_DroopItemIcon_10.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SummerTideTreasure_DroopItemIcon_10.webp",
+        "localPath": "gallery/zzz/SummerTideTreasure_DroopItemIcon_10.webp",
+        "sha256": "a1ea5525f8487cc45097702fa8562902cacca548f55d6df98ddc2b8d1a81f46e",
+        "etag": "\"dld8rgor7hck-ehe\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgor7hck-ehe\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=18770|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 18770,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver3_1/SummerTideTreasure/UnPacker/Drop/SummerTideTreasure_DroopItemIcon_10.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SummerTideTreasure_DroopItemIcon_10.webp",
+        "localPath": "gallery/zzz/SummerTideTreasure_DroopItemIcon_10.webp",
+        "sha256": "a1ea5525f8487cc45097702fa8562902cacca548f55d6df98ddc2b8d1a81f46e",
+        "etag": "\"dld8rgor7hck-ehe\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgor7hck-ehe\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=18770|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 18770,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver3_1/SummerTideTreasure/UnPacker/Drop/SummerTideTreasure_DroopItemIcon_10.png",
+      "rank": 4,
+      "class": 137,
+      "name": "Sea Urchin"
+    },
+    "detail": {
+      "id": 4370112,
+      "name": "Sea Urchin",
+      "desc": "A pitch-black spiked ball from the ocean — grab some gloves before you pick this thing up.",
+      "desc2": "BKItem_4370112_Story",
+      "class": {
+        "137": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver3_1/SummerTideTreasure/UnPacker/Drop/SummerTideTreasure_DroopItemIcon_10.png"
+    }
+  }
+}

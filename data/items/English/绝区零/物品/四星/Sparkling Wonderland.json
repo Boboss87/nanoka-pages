@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3301016",
+    "name": "Sparkling Wonderland",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard32.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard32.webp",
+        "localPath": "gallery/zzz/Callingcard32.webp",
+        "sha256": "e63c869f7e0220bce33314eeedf707e2bfcd157977c17b27c4e143563ba551b0",
+        "etag": "\"dld8rfpqravr-898\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpqravr-898\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10700|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10700,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard32.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard32.webp",
+        "localPath": "gallery/zzz/Callingcard32.webp",
+        "sha256": "e63c869f7e0220bce33314eeedf707e2bfcd157977c17b27c4e143563ba551b0",
+        "etag": "\"dld8rfpqravr-898\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpqravr-898\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10700|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10700,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard32.png",
+      "rank": 4,
+      "class": 65,
+      "name": "Sparkling Wonderland"
+    },
+    "detail": {
+      "id": 3301016,
+      "name": "Sparkling Wonderland",
+      "desc": "2025 Zenless Zone Zero FES commemorative namecard.",
+      "desc2": "After receiving more than a few enthusiastic invitations, the Proxy siblings showed up right on time at \"The Best Sounding Spot in New Eridu.\"\nWhat they didn't expect was to become the stars of the audience — after all, not many fans have lightsticks that glow in every performer's color at a joint concert.",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard32.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "412001129",
+    "name": "Accessoriy_412001101",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_EllenOnCampus.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Skin_EllenOnCampus.webp",
+        "localPath": "gallery/zzz/Skin_EllenOnCampus.webp",
+        "sha256": "e98b8a26c3656d365388dbbf352bc28213c69c17a18a16384380985a5634b427",
+        "etag": "\"dld8rgocx27i-73a\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgocx27i-73a\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9190|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9190,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_EllenOnCampus.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Skin_EllenOnCampus.webp",
+        "localPath": "gallery/zzz/Skin_EllenOnCampus.webp",
+        "sha256": "e98b8a26c3656d365388dbbf352bc28213c69c17a18a16384380985a5634b427",
+        "etag": "\"dld8rgocx27i-73a\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgocx27i-73a\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9190|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9190,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_EllenOnCampus.png",
+      "rank": 3,
+      "class": 96,
+      "name": "Accessoriy_412001101"
+    },
+    "detail": {
+      "id": 412001129,
+      "name": "Accessoriy_412001101",
+      "desc": "Accessoriy_Desc_412001101",
+      "desc2": "",
+      "class": {
+        "96": "Outfit Set"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_EllenOnCampus.png"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3311341",
+    "name": "Zhao's Namecard",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "Zhao's Namecard"
+    },
+    "detail": {
+      "id": 3311341,
+      "name": "Zhao's Namecard",
+      "desc": "Get by unlocking Zhao's Mindscape: Frostveil Blade",
+      "desc2": "A namecard printed with an adorable bunny Thiren's image.\nIt's got that classic Krampus Compliance Authority style — neat, professional, and packed with phone numbers... everything from Krampus' legal hotline to their complaint desk. But on the back, there's a handwritten note and a single number:\n\"Forget those numbers. Call this one if you want to reach me.\"",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

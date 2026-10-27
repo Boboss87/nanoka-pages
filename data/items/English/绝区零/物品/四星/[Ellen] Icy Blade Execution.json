@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1350022",
+    "name": "[Ellen] Icy Blade Execution",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic001.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic001.webp",
+        "localPath": "gallery/zzz/Relic001.webp",
+        "sha256": "2689639f675609f1814827121dbc8d8c86a45e8c164a24a63bca2172bcba4d46",
+        "etag": "\"dld8rgnz82p6-3b6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnz82p6-3b6\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4290|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4290,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic001.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic001.webp",
+        "localPath": "gallery/zzz/Relic001.webp",
+        "sha256": "2689639f675609f1814827121dbc8d8c86a45e8c164a24a63bca2172bcba4d46",
+        "etag": "\"dld8rgnz82p6-3b6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnz82p6-3b6\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4290|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4290,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic001.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Ellen] Icy Blade Execution"
+    },
+    "detail": {
+      "id": 1350022,
+      "name": "[Ellen] Icy Blade Execution",
+      "desc": "{AWAKEN_1191#<color=#FFFFFF>Basic Attack: Icy Blade</color> DMG Multiplier significantly increases: After launching <color=#FFFFFF>Quick Assist: Shark Sentinel</color> and <color=#FFFFFF>EX Special Attack: Tail Swipe</color>, <color=#2BAD00>Basic Attack: Icy Blade will be automatically launched</color> to deal <color=#98EFF0>Ice DMG</color> to <color=#2BAD00>enemies in front in a large area</color> and reduces the target's <color=#2BAD00>DEF by 40%</color>, lasting 8s. While launching <color=#FFFFFF>Basic Attack: Icy Blade</color>, Ellen will obtain 3 <color=#FFFFFF>Flash Freeze Charges</color>.}{NOAWAKEN_1191#After activating <color=#FFFFFF>Quick Assist: Shark Sentinel</color>, <color=#FFFFFF>EX Special Attack: Tail Swipe</color>, or <color=#FFFFFF>EX Special Attack: Sharknami</color>, an <color=#2BAD00>Icy Blade will be automatically unleashed</color>, dealing <color=#98EFF0>Ice DMG</color> to <color=#2BAD00>enemies in a large area ahead</color> and <color=#2BAD00>reducing the target's DEF by 40</color>, lasting 8s. When the <color=#FFFFFF>Icy Blade</color> activates, Ellen gains 3<color=#FFFFFF>Flash Freeze Charges</color>; The additional <color=#FFFFFF>Icy Blade</color> does not affect the branch or form of the original skill.}",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic001.png"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3311511",
+    "name": "Nangong Yu's Namecard",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "Nangong Yu's Namecard"
+    },
+    "detail": {
+      "id": 3311511,
+      "name": "Nangong Yu's Namecard",
+      "desc": "Get by unlocking Nangong Yu's Mindscape: Chips on the Scales",
+      "desc2": "A card with the Angels of Delusion's captain, Nangong Yu printed on it.\nIt features a classic black background with gold foil stamping and faint wing patterns embossed along the edges. When you call, you'll hear the sweet voice of a staff member handling the Angels of Delusion's business inquiries. But rumor has it there's a tiny chance the Angels' captain herself might pick up...",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

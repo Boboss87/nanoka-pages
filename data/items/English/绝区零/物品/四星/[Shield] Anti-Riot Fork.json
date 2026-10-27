@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1010402",
+    "name": "[Shield] Anti-Riot Fork",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardArmor13.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardArmor13.webp",
+        "localPath": "gallery/zzz/CardArmor13.webp",
+        "sha256": "eb26264a690c16de8e2dff1c4c5be3f796acdf58e9d69a5a5ace3821bb029e92",
+        "etag": "\"dld8rfpyhy2z-d2e\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpyhy2z-d2e\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16934|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16934,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardArmor13.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardArmor13.webp",
+        "localPath": "gallery/zzz/CardArmor13.webp",
+        "sha256": "eb26264a690c16de8e2dff1c4c5be3f796acdf58e9d69a5a5ace3821bb029e92",
+        "etag": "\"dld8rfpyhy2z-d2e\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpyhy2z-d2e\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16934|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16934,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardArmor13.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Shield] Anti-Riot Fork"
+    },
+    "detail": {
+      "id": 1010402,
+      "name": "[Shield] Anti-Riot Fork",
+      "desc": "Agents deal additional DMG equal to <color=#2BAD00>40%</color> of their current Shield.",
+      "desc2": "The best defense is... stopping your opponent's attacks entirely!",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardArmor13.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1100104",
+    "name": "[Ignite] Blowtorch",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBurn08.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBurn08.webp",
+        "localPath": "gallery/zzz/CardBurn08.webp",
+        "sha256": "4c87d07a67d3101e8bd84d20c5c3a1b923f64e286e52e359646b2bae6c897f97",
+        "etag": "\"dld8rfq68la7-ckq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq68la7-ckq\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16298|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16298,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBurn08.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBurn08.webp",
+        "localPath": "gallery/zzz/CardBurn08.webp",
+        "sha256": "4c87d07a67d3101e8bd84d20c5c3a1b923f64e286e52e359646b2bae6c897f97",
+        "etag": "\"dld8rfq68la7-ckq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq68la7-ckq\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16298|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16298,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBurn08.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Ignite] Blowtorch"
+    },
+    "detail": {
+      "id": 1100104,
+      "name": "[Ignite] Blowtorch",
+      "desc": "Dealing <color=#FF5521>Fire DMG</color> grants 1 stack of Motivation to all squad members. This effect can trigger once every <color=#2BAD00>6</color>s.",
+      "desc2": "It releases a sweet roaring flame.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBurn08.png"
+    }
+  }
+}

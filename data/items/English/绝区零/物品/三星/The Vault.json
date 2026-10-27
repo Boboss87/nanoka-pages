@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "13103",
+    "name": "The Vault",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_1031.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_A_1031.webp",
+        "localPath": "gallery/zzz/Weapon_A_1031.webp",
+        "sha256": "3d314910a553f447a86671982eee02ecb75b5df2b60ebabaa8276ac8a6f22167",
+        "etag": "\"dld8rgp0qffx-10b2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgp0qffx-10b2\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=47054|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 47054,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_1031.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_A_1031.webp",
+        "localPath": "gallery/zzz/Weapon_A_1031.webp",
+        "sha256": "3d314910a553f447a86671982eee02ecb75b5df2b60ebabaa8276ac8a6f22167",
+        "etag": "\"dld8rgp0qffx-10b2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgp0qffx-10b2\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=47054|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 47054,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_1031.png",
+      "rank": 3,
+      "class": 5,
+      "name": "The Vault"
+    },
+    "detail": {
+      "id": 13103,
+      "name": "The Vault",
+      "desc": "Equip to increase Support Agents' combat capabilities",
+      "desc2": "A cost-effective W-Engine that can store energy, with improvements made to its internal space. This model is often used by Nicole.",
+      "class": {
+        "5": "W-ENGINE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_1031.png"
+    }
+  }
+}

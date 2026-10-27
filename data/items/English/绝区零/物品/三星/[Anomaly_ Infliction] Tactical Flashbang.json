@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1370301",
+    "name": "[Anomaly: Infliction] Tactical Flashbang",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardAnomalyS201.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardAnomalyS201.webp",
+        "localPath": "gallery/zzz/CardAnomalyS201.webp",
+        "sha256": "fbf940c680e9d8016e651c310f8771f2cd10fc38503584f768f97fa77fca06ad",
+        "etag": "\"dld8rfpxb2tk-d4g\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpxb2tk-d4g\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17008|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17008,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardAnomalyS201.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardAnomalyS201.webp",
+        "localPath": "gallery/zzz/CardAnomalyS201.webp",
+        "sha256": "fbf940c680e9d8016e651c310f8771f2cd10fc38503584f768f97fa77fca06ad",
+        "etag": "\"dld8rfpxb2tk-d4g\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpxb2tk-d4g\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17008|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17008,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardAnomalyS201.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Anomaly: Infliction] Tactical Flashbang"
+    },
+    "detail": {
+      "id": 1370301,
+      "name": "[Anomaly: Infliction] Tactical Flashbang",
+      "desc": "Inflicting the Disorder effect <color=#2BAD00>increases the whole squad's Anomaly Proficiency by 25</color> for 15s, stacking up to 3 times. Repeated triggers reset the duration.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardAnomalyS201.png"
+    }
+  }
+}

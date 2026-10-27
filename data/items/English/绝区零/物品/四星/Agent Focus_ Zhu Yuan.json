@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "5241",
+    "name": "Agent Focus: Zhu Yuan",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece23.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece23.webp",
+        "localPath": "gallery/zzz/IconRolePiece23.webp",
+        "sha256": "492ae39daec90109607072dd3637f3e363105d2ed0759bb0c92f51fe05a90330",
+        "etag": "\"dld8rgde66yv-8ec\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgde66yv-8ec\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10884|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10884,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece23.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece23.webp",
+        "localPath": "gallery/zzz/IconRolePiece23.webp",
+        "sha256": "492ae39daec90109607072dd3637f3e363105d2ed0759bb0c92f51fe05a90330",
+        "etag": "\"dld8rgde66yv-8ec\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgde66yv-8ec\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10884|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10884,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece23.png",
+      "rank": 4,
+      "class": 4,
+      "name": "Agent Focus: Zhu Yuan"
+    },
+    "detail": {
+      "id": 5241,
+      "name": "Agent Focus: Zhu Yuan",
+      "desc": "Used to unlock Agent's Mindscape Cinema",
+      "desc2": "Snapshots from Zhu Yuan's daily life and from in combat, recording important moments before and after she became an Agent.\nThese images also provide insights into her fighting style and favorite weapons, helping to better understand her strengths.\n\nThere's even a photo of Zhu Yuan when she first joined the Public Security Training Academy? Wow... What a cute little officer!",
+      "class": {
+        "4": "AGENT ARCHIVE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece23.png"
+    }
+  }
+}

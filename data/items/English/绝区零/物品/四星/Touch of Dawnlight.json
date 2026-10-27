@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3114311",
+    "name": "Touch of Dawnlight",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_YeShunguangTouchofDawnlight.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Skin_YeShunguangTouchofDawnlight.webp",
+        "localPath": "gallery/zzz/Skin_YeShunguangTouchofDawnlight.webp",
+        "sha256": "3df34a956409aba02db97e850b06f869adb59ac411eb046cbd274ad0910495da",
+        "etag": "\"dld8rgodihu8-7hm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgodihu8-7hm\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9706|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9706,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_YeShunguangTouchofDawnlight.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Skin_YeShunguangTouchofDawnlight.webp",
+        "localPath": "gallery/zzz/Skin_YeShunguangTouchofDawnlight.webp",
+        "sha256": "3df34a956409aba02db97e850b06f869adb59ac411eb046cbd274ad0910495da",
+        "etag": "\"dld8rgodihu8-7hm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgodihu8-7hm\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9706|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9706,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_YeShunguangTouchofDawnlight.png",
+      "rank": 4,
+      "class": 63,
+      "name": "Touch of Dawnlight"
+    },
+    "detail": {
+      "id": 3114311,
+      "name": "Touch of Dawnlight",
+      "desc": "Ye Shunguang's outfit.",
+      "desc2": "The gentle glow of sunlight and warm breeze seem to welcome your next encounter as you walk down the streets.",
+      "class": {
+        "63": "DRESS"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_YeShunguangTouchofDawnlight.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1100105",
+    "name": "[Ignite] Molotov Cocktail",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBurn02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBurn02.webp",
+        "localPath": "gallery/zzz/CardBurn02.webp",
+        "sha256": "f3215c592c2ad0b224b3b14b778e8e9881f1bd33eac90c918237c59118c4fa1e",
+        "etag": "\"dld8rfq5n5ni-bnc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq5n5ni-bnc\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15096|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15096,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBurn02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBurn02.webp",
+        "localPath": "gallery/zzz/CardBurn02.webp",
+        "sha256": "f3215c592c2ad0b224b3b14b778e8e9881f1bd33eac90c918237c59118c4fa1e",
+        "etag": "\"dld8rfq5n5ni-bnc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq5n5ni-bnc\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15096|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15096,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBurn02.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Ignite] Molotov Cocktail"
+    },
+    "detail": {
+      "id": 1100105,
+      "name": "[Ignite] Molotov Cocktail",
+      "desc": "Agent <color=#FF5521>Fire Anomaly Buildup Rate</color> increases by <color=#2BAD00>45%</color>.",
+      "desc2": "Someone was trying to do the right thing and threw it into the Hollow. Where exactly it fell and what it might have burned is a mystery.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBurn02.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1357557",
+    "name": "[3] Chain Attack Extend",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CoopCard21.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CoopCard21.webp",
+        "localPath": "gallery/zzz/CoopCard21.webp",
+        "sha256": "94c9cc32320e89872780f3d7f0aca61111aa8e7ad7a5f1fabbfe9e5cb8d279cb",
+        "etag": "\"dld8rfrew5lg-bs6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrew5lg-bs6\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15270|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15270,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CoopCard21.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CoopCard21.webp",
+        "localPath": "gallery/zzz/CoopCard21.webp",
+        "sha256": "94c9cc32320e89872780f3d7f0aca61111aa8e7ad7a5f1fabbfe9e5cb8d279cb",
+        "etag": "\"dld8rfrew5lg-bs6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrew5lg-bs6\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15270|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15270,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CoopCard21.png",
+      "rank": 2,
+      "class": 106,
+      "name": "[3] Chain Attack Extend"
+    },
+    "detail": {
+      "id": 1357557,
+      "name": "[3] Chain Attack Extend",
+      "desc": "<color=#FFAF2C>Chain Time</color> duration is extended by 1.5s. (This effect is unique to the whole squad)",
+      "desc2": "",
+      "class": {
+        "106": "TAROT CARD"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CoopCard21.png"
+    }
+  }
+}

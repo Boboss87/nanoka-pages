@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "412011116",
+    "name": "Homebound Frosthelm",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Head_Hat_02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Wise_Head_Hat_02.webp",
+        "localPath": "gallery/zzz/icon_Wise_Head_Hat_02.webp",
+        "sha256": "481816fb0bc907784e00eb4fc7283e4deb131a833fe6b02bcbe1eaf31cbf1033",
+        "etag": "\"dld8rgrolc07-7go\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrolc07-7go\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9672|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9672,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Head_Hat_02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Wise_Head_Hat_02.webp",
+        "localPath": "gallery/zzz/icon_Wise_Head_Hat_02.webp",
+        "sha256": "481816fb0bc907784e00eb4fc7283e4deb131a833fe6b02bcbe1eaf31cbf1033",
+        "etag": "\"dld8rgrolc07-7go\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrolc07-7go\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9672|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9672,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Head_Hat_02.png",
+      "rank": 3,
+      "class": 95,
+      "name": "Homebound Frosthelm"
+    },
+    "detail": {
+      "id": 412011116,
+      "name": "Homebound Frosthelm",
+      "desc": "A Proxy accessory that can be worn with some of Wise's Proxy outfits.",
+      "desc2": "I'm daydreaming again. Once I put on this hat, I feel like part of the upper echelons of New Eridu, and I don't have to pay for electricity...",
+      "class": {
+        "95": "OUTFIT ACCESSORIES"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Head_Hat_02.png"
+    }
+  }
+}

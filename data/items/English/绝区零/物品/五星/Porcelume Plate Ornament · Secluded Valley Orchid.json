@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4360105",
+    "name": "Porcelume Plate Ornament · Secluded Valley Orchid",
+    "rarity": "五星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 5,
+      "class": 130,
+      "name": "Porcelume Plate Ornament · Secluded Valley Orchid"
+    },
+    "detail": {
+      "id": 4360105,
+      "name": "Porcelume Plate Ornament · Secluded Valley Orchid",
+      "desc": "A Porcelume plate crafted from Lumite ore, slow-fired to perfection — a Buyan-certified cultural specialty of the Waifei Peninsula. It's meant for display only, but any sweets set on it somehow pick up a faint whiff of orchid.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": ""
+    }
+  }
+}

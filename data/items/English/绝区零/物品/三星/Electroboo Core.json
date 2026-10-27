@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "530100",
+    "name": "Electroboo Core",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece16.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconBangbooPiece16.webp",
+        "localPath": "gallery/zzz/IconBangbooPiece16.webp",
+        "sha256": "094d496c7cb9f1ab3a429d6b571e7142238b3b60c0957e3fa0f4f6645b227c17",
+        "etag": "\"dld8rg7c9a31-91w\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7c9a31-91w\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11732|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11732,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece16.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconBangbooPiece16.webp",
+        "localPath": "gallery/zzz/IconBangbooPiece16.webp",
+        "sha256": "094d496c7cb9f1ab3a429d6b571e7142238b3b60c0957e3fa0f4f6645b227c17",
+        "etag": "\"dld8rg7c9a31-91w\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7c9a31-91w\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11732|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11732,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece16.png",
+      "rank": 3,
+      "class": 9,
+      "name": "Electroboo Core"
+    },
+    "detail": {
+      "id": 530100,
+      "name": "Electroboo Core",
+      "desc": "Obtain this Bangboo model or authorization to perform the Bangboo's core update.",
+      "desc2": "Bzzzt... Please wear insulated gloves when petting.",
+      "class": {
+        "9": "BANGBOO CORE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece16.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "12015",
+    "name": "[Cinder] Cobalt",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_B_Common_15.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_B_Common_15.webp",
+        "localPath": "gallery/zzz/Weapon_B_Common_15.webp",
+        "sha256": "690899b187fea8fefd22a3051946b1cad7dde2734feaed7b33985e4f796f84bb",
+        "etag": "\"dld8rgpdtzbj-q5g\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgpdtzbj-q5g\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=33892|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 33892,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_B_Common_15.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_B_Common_15.webp",
+        "localPath": "gallery/zzz/Weapon_B_Common_15.webp",
+        "sha256": "690899b187fea8fefd22a3051946b1cad7dde2734feaed7b33985e4f796f84bb",
+        "etag": "\"dld8rgpdtzbj-q5g\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgpdtzbj-q5g\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=33892|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 33892,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_B_Common_15.png",
+      "rank": 2,
+      "class": 5,
+      "name": "[Cinder] Cobalt"
+    },
+    "detail": {
+      "id": 12015,
+      "name": "[Cinder] Cobalt",
+      "desc": "Equip to increase Rupture Agents' combat capabilities",
+      "desc2": "A W-Engine with a built-in heating component. When operating at high speeds, it resembles a blazing blue flame.",
+      "class": {
+        "5": "W-ENGINE"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_B_Common_15.png"
+    }
+  }
+}

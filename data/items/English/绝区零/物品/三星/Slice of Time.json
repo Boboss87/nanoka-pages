@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "13002",
+    "name": "Slice of Time",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_Common_02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_A_Common_02.webp",
+        "localPath": "gallery/zzz/Weapon_A_Common_02.webp",
+        "sha256": "f9df212165802ad7618ff0e34bcbc3097cd911d731a52e256ee2b1e87ad4d0fa",
+        "etag": "\"dld8rgp345yr-xhi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgp345yr-xhi\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=43398|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 43398,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_Common_02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_A_Common_02.webp",
+        "localPath": "gallery/zzz/Weapon_A_Common_02.webp",
+        "sha256": "f9df212165802ad7618ff0e34bcbc3097cd911d731a52e256ee2b1e87ad4d0fa",
+        "etag": "\"dld8rgp345yr-xhi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgp345yr-xhi\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=43398|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 43398,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_Common_02.png",
+      "rank": 3,
+      "class": 5,
+      "name": "Slice of Time"
+    },
+    "detail": {
+      "id": 13002,
+      "name": "Slice of Time",
+      "desc": "Equip to increase Support Agents' combat capabilities",
+      "desc2": "A special W-Engine equipped with a high-speed camera module. The best choice for in-Hollow photography enthusiasts.",
+      "class": {
+        "5": "W-ENGINE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_Common_02.png"
+    }
+  }
+}

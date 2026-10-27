@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3321321",
+    "name": "Impromptu Combat Practice",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "Impromptu Combat Practice"
+    },
+    "detail": {
+      "id": 3321321,
+      "name": "Impromptu Combat Practice",
+      "desc": "Get by unlocking Evelyn's Mindscape: Bond of Light and Shadow",
+      "desc2": "A card featuring a personal photo of Evelyn.\n\"Of course, I'll stay on guard... Wait, do you mean to say because I'm unarmed, I'm completely defenseless right now?\"\n\"Hmm, want to spar? Right now — I'll give you three seconds to get ready before I have you pinned on that couch.\"",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

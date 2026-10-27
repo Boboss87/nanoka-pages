@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4150053",
+    "name": "[Refined] Ether Compass",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianProspectingProduct06.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianProspectingProduct06.webp",
+        "localPath": "gallery/zzz/SuibianProspectingProduct06.webp",
+        "sha256": "67777b9ea8a4260bea1196ae2894a546177e3b6a29574c81ba5ac683091ed914",
+        "etag": "\"dld8rgoh33mh-76e\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoh33mh-76e\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9302|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9302,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianProspectingProduct06.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianProspectingProduct06.webp",
+        "localPath": "gallery/zzz/SuibianProspectingProduct06.webp",
+        "sha256": "67777b9ea8a4260bea1196ae2894a546177e3b6a29574c81ba5ac683091ed914",
+        "etag": "\"dld8rgoh33mh-76e\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoh33mh-76e\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9302|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9302,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianProspectingProduct06.png",
+      "rank": 4,
+      "class": 89,
+      "name": "[Refined] Ether Compass"
+    },
+    "detail": {
+      "id": 4150053,
+      "name": "[Refined] Ether Compass",
+      "desc": "Suibian Temple's custom-built Hollow exploration device.",
+      "desc2": "A handheld device that detects areas of lower Ether concentration within the Hollow - useful for emergency escapes when data is scarce.",
+      "class": {
+        "89": "Product"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianProspectingProduct06.png"
+    }
+  }
+}

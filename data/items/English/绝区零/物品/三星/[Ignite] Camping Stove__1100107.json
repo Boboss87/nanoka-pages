@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1100107",
+    "name": "[Ignite] Camping Stove",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBurn10.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBurn10.webp",
+        "localPath": "gallery/zzz/CardBurn10.webp",
+        "sha256": "753dd901a3ac329d9c33a670dab788e2a9b37e9172ec821e854e53f546e8a4dd",
+        "etag": "\"dld8rfq68la7-bxy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq68la7-bxy\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15478|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15478,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBurn10.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBurn10.webp",
+        "localPath": "gallery/zzz/CardBurn10.webp",
+        "sha256": "753dd901a3ac329d9c33a670dab788e2a9b37e9172ec821e854e53f546e8a4dd",
+        "etag": "\"dld8rfq68la7-bxy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq68la7-bxy\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15478|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15478,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBurn10.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Ignite] Camping Stove"
+    },
+    "detail": {
+      "id": 1100107,
+      "name": "[Ignite] Camping Stove",
+      "desc": "Inflicting <color=#FF5521>Burn</color> grants <color=#2BAD00>2</color> stacks of Motivation to all squad members.",
+      "desc2": "With this handy tool, you can enjoy hot food wherever you go.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBurn10.png"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3311451",
+    "name": "Lucia's Namecard",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "Lucia's Namecard"
+    },
+    "detail": {
+      "id": 3311451,
+      "name": "Lucia's Namecard",
+      "desc": "Get by unlocking Lucia's Mindscape: The Best Partner",
+      "desc2": "A name card featuring the Night Emissary's image.\nWhile exploring a Hollow on the edge of the city, the Investigative Association stumbled upon this card. It had been placed deep within an Ethereal nest, with a doodle of a witch brandishing her staff sketched on the back.\n\"At first we thought it was some kind of distress signal, but later realized it really was just a business card... Seriously, who in the world would hand something like that to an Ethereal?!\"",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

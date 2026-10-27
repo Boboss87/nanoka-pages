@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1310803",
+    "name": "[Tsukishiro Yanagi] Moonlight Illusion",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardYanagi03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardYanagi03.webp",
+        "localPath": "gallery/zzz/CardYanagi03.webp",
+        "sha256": "6543886b42c8a27ffac7e27efddcf7fd8da83e667ee27da07849ee8e94af9712",
+        "etag": "\"dld8rfr8cdnn-bq2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr8cdnn-bq2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15194|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15194,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardYanagi03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardYanagi03.webp",
+        "localPath": "gallery/zzz/CardYanagi03.webp",
+        "sha256": "6543886b42c8a27ffac7e27efddcf7fd8da83e667ee27da07849ee8e94af9712",
+        "etag": "\"dld8rfr8cdnn-bq2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr8cdnn-bq2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15194|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15194,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardYanagi03.png",
+      "rank": 3,
+      "class": 80,
+      "name": "[Tsukishiro Yanagi] Moonlight Illusion"
+    },
+    "detail": {
+      "id": 1310803,
+      "name": "[Tsukishiro Yanagi] Moonlight Illusion",
+      "desc": "When Tsukishiro Yanagi's attack hits an enemy and triggers <color=#FFFFFF>Polarity Disorder</color>, the target's <color=#2BAD00>All-Attribute RES is reduced by 16%</color>, lasting for 8 seconds.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardYanagi03.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4150056",
+    "name": "[Refined] Meditation Cushion",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianWayseekProduct01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianWayseekProduct01.webp",
+        "localPath": "gallery/zzz/SuibianWayseekProduct01.webp",
+        "sha256": "d49f47718d7e58136fd45a75c907f6a6359e66a86900448de0861579d493293e",
+        "etag": "\"dld8rgomg0av-69k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgomg0av-69k\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8120|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8120,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianWayseekProduct01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianWayseekProduct01.webp",
+        "localPath": "gallery/zzz/SuibianWayseekProduct01.webp",
+        "sha256": "d49f47718d7e58136fd45a75c907f6a6359e66a86900448de0861579d493293e",
+        "etag": "\"dld8rgomg0av-69k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgomg0av-69k\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8120|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8120,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianWayseekProduct01.png",
+      "rank": 4,
+      "class": 89,
+      "name": "[Refined] Meditation Cushion"
+    },
+    "detail": {
+      "id": 4150056,
+      "name": "[Refined] Meditation Cushion",
+      "desc": "Training supplies refined at Suibian Temple.",
+      "desc2": "A handwoven bulrush rush cushion, inscribed with: \"A clear mind gives rise to the Way; the sound of pines draws one into stillness.\"",
+      "class": {
+        "89": "Product"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianWayseekProduct01.png"
+    }
+  }
+}

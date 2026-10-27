@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "103020",
+    "name": "Audio Booster Master Copy",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EquipExp02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/EquipExp02.webp",
+        "localPath": "gallery/zzz/EquipExp02.webp",
+        "sha256": "37e1dd7f319bd9a9f58f5edee9c4c35d4e501c86c19d57190b6a9005ebe51080",
+        "etag": "\"dld8rfrgoghk-88a\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrgoghk-88a\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10666|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10666,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EquipExp02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/EquipExp02.webp",
+        "localPath": "gallery/zzz/EquipExp02.webp",
+        "sha256": "37e1dd7f319bd9a9f58f5edee9c4c35d4e501c86c19d57190b6a9005ebe51080",
+        "etag": "\"dld8rfrgoghk-88a\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrgoghk-88a\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10666|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10666,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EquipExp02.png",
+      "rank": 2,
+      "class": 10,
+      "name": "Audio Booster Master Copy"
+    },
+    "detail": {
+      "id": 103020,
+      "name": "Audio Booster Master Copy",
+      "desc": "Used for Beginner Tuning in the Music Store.",
+      "desc2": "This small Master Copy is the source of all dreams, be it about music or Hollows.",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EquipExp02.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1005002",
+    "name": "[General] Full Infantry Armaments",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse33.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse33.webp",
+        "localPath": "gallery/zzz/CardDailyUse33.webp",
+        "sha256": "8194f1c25c9558234a5aa6ac84ed532e4e4641b9db4f7d3c20468a760529646d",
+        "etag": "\"dld8rfqiqpj4-8rs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqiqpj4-8rs\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=11368|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11368,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse33.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse33.webp",
+        "localPath": "gallery/zzz/CardDailyUse33.webp",
+        "sha256": "8194f1c25c9558234a5aa6ac84ed532e4e4641b9db4f7d3c20468a760529646d",
+        "etag": "\"dld8rfqiqpj4-8rs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqiqpj4-8rs\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=11368|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11368,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse33.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[General] Full Infantry Armaments"
+    },
+    "detail": {
+      "id": 1005002,
+      "name": "[General] Full Infantry Armaments",
+      "desc": "<color=#2BAD00>Significantly increases</color> Anomaly Buildup Rate, and when any squad member inflicts the <color=#FFFFFF>Disorder</color> effect on enemies, restores <color=#2BAD00>50</color> Energy for all squad members. (Appears only in Rally Commissions)",
+      "desc2": "An advanced supply box left behind by the Defense Force. Inside, there's a variety of supplies for all sorts of combat situations. For a soldier operating in the Hollow, finding one of these is even better than winning the lottery.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse33.png"
+    }
+  }
+}

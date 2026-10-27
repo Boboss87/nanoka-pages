@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000910",
+    "name": "[General] Rusted Shackles",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse11.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse11.webp",
+        "localPath": "gallery/zzz/CardDailyUse11.webp",
+        "sha256": "dea764564bb3a1bafbaaa40ebd8c2bbd24212f95635e6ac5f2d3513b1bd7f1e6",
+        "etag": "\"dld8rfqeko45-9j2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqeko45-9j2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=12350|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12350,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse11.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse11.webp",
+        "localPath": "gallery/zzz/CardDailyUse11.webp",
+        "sha256": "dea764564bb3a1bafbaaa40ebd8c2bbd24212f95635e6ac5f2d3513b1bd7f1e6",
+        "etag": "\"dld8rfqeko45-9j2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqeko45-9j2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=12350|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12350,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse11.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[General] Rusted Shackles"
+    },
+    "detail": {
+      "id": 1000910,
+      "name": "[General] Rusted Shackles",
+      "desc": "Agents deal <color=#2BAD00>35%</color> more DMG but <color=#CF4029>will no longer trigger critical hits</color>.",
+      "desc2": "Sturdy shackles designed to restrain violent prisoners. Sometimes it can have the opposite effect.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse11.png"
+    }
+  }
+}

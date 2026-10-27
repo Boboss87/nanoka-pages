@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "133",
+    "name": "Seashell",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Seashell.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Seashell.webp",
+        "localPath": "gallery/zzz/Seashell.webp",
+        "sha256": "b3e0d2aaa2fbd0df7d8ca6f3579010fe73dec743e937a7fc84683be3727a0178",
+        "etag": "\"dld8rgocbmkt-4fs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgocbmkt-4fs\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5752|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5752,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Seashell.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Seashell.webp",
+        "localPath": "gallery/zzz/Seashell.webp",
+        "sha256": "b3e0d2aaa2fbd0df7d8ca6f3579010fe73dec743e937a7fc84683be3727a0178",
+        "etag": "\"dld8rgocbmkt-4fs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgocbmkt-4fs\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5752|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5752,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Seashell.png",
+      "rank": 3,
+      "class": 1,
+      "name": "Seashell"
+    },
+    "detail": {
+      "id": 133,
+      "name": "Seashell",
+      "desc": "Obtained after consuming any amount of Battery Charge for the first time each day. It can be exchanged at A-Qiang's stall for random fishing catches and corresponding rewards.",
+      "desc2": "The Investigation Association's uniquely shaped commemorative badges, known for their elegant form and realistic design, have become a hit among seaside tourists. In response, fish stall owner A-Qiang remarks: \"Nobody can resist shiny shells... Plus, these ones smell way better than the real deal!\"",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Seashell.png"
+    }
+  }
+}

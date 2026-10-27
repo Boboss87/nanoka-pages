@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1200002",
+    "name": "Resonium Converter",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CardShuffler.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardShuffler.webp",
+        "localPath": "gallery/zzz/CardShuffler.webp",
+        "sha256": "229cb591a6eee00eda1673c01dd0e156064a45a13f426f3983578849d81e5806",
+        "etag": "\"dld8rfqzev6z-75i\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqzev6z-75i\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9270|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9270,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CardShuffler.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardShuffler.webp",
+        "localPath": "gallery/zzz/CardShuffler.webp",
+        "sha256": "229cb591a6eee00eda1673c01dd0e156064a45a13f426f3983578849d81e5806",
+        "etag": "\"dld8rfqzev6z-75i\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqzev6z-75i\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9270|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9270,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CardShuffler.png",
+      "rank": 3,
+      "class": 37,
+      "name": "Resonium Converter"
+    },
+    "detail": {
+      "id": 1200002,
+      "name": "Resonium Converter",
+      "desc": "Adjust your approach to collecting Resonia by choosing from a new set of Resonia.",
+      "desc2": "This device, resembling a Resonium collection box, analyzes Ether matter attached to Resonia and destabilizes it, converting Resonia into random new ones.",
+      "class": {
+        "37": "HOLLOW ONLY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CardShuffler.png"
+    }
+  }
+}

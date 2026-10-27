@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1359010",
+    "name": "\"Sān-Z\" Pendant",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconPendantPiece04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconPendantPiece04.webp",
+        "localPath": "gallery/zzz/IconPendantPiece04.webp",
+        "sha256": "3ea26182a88ac80fbcac5d71f3dbbc3d643f2afb357d965ac7872dcb98a7db50",
+        "etag": "\"dld8rg7r54us-7bk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7r54us-7bk\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9488|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9488,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconPendantPiece04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconPendantPiece04.webp",
+        "localPath": "gallery/zzz/IconPendantPiece04.webp",
+        "sha256": "3ea26182a88ac80fbcac5d71f3dbbc3d643f2afb357d965ac7872dcb98a7db50",
+        "etag": "\"dld8rg7r54us-7bk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7r54us-7bk\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9488|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9488,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconPendantPiece04.png",
+      "rank": 4,
+      "class": 110,
+      "name": "\"Sān-Z\" Pendant"
+    },
+    "detail": {
+      "id": 1359010,
+      "name": "\"Sān-Z\" Pendant",
+      "desc": "Limited-time \"Filmgoer Thank-You Gift\" exclusive pendant. Once obtained, it can be equipped and displayed in the Function Menu.",
+      "desc2": "Graffiti rules, break the limits.",
+      "class": {
+        "110": "PENDANT"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconPendantPiece04.png"
+    }
+  }
+}

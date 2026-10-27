@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1359015",
+    "name": "\"Heavyweight Reel-In!\" Theme",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconWallpaperPiece07.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconWallpaperPiece07.webp",
+        "localPath": "gallery/zzz/IconWallpaperPiece07.webp",
+        "sha256": "9f970ace5c4c4cd656b1f7ddbdcbc1a1bea832033c830eae841d29b0a7aad2d1",
+        "etag": "\"dld8rgedw8tg-88y\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgedw8tg-88y\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10690|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10690,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconWallpaperPiece07.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconWallpaperPiece07.webp",
+        "localPath": "gallery/zzz/IconWallpaperPiece07.webp",
+        "sha256": "9f970ace5c4c4cd656b1f7ddbdcbc1a1bea832033c830eae841d29b0a7aad2d1",
+        "etag": "\"dld8rgedw8tg-88y\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgedw8tg-88y\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10690|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10690,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconWallpaperPiece07.png",
+      "rank": 4,
+      "class": 109,
+      "name": "\"Heavyweight Reel-In!\" Theme"
+    },
+    "detail": {
+      "id": 1359015,
+      "name": "\"Heavyweight Reel-In!\" Theme",
+      "desc": "\"New Eridu City Fund: Premium Plan\" commemorative theme. Once obtained, it can be equipped and displayed in the Function Menu.",
+      "desc2": "\"A big fish like that? Piece of cake! Just watch me reel this bad boy in— Bro, can you put a little more muscle into it?\"\n\"...Huff... I'm already... giving it everything I've got...\"",
+      "class": {
+        "109": "THEME"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconWallpaperPiece07.png"
+    }
+  }
+}

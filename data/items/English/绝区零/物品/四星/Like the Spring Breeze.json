@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000996",
+    "name": "Like the Spring Breeze",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1561.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1561.webp",
+        "localPath": "gallery/zzz/CardDailyUse1561.webp",
+        "sha256": "fbb4063bc19c4cbe10a19b501b684ed003df9320049dd5c88961b3ed03229dbb",
+        "etag": "\"dld8rfqhju9p-cec\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqhju9p-cec\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16068|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16068,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1561.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1561.webp",
+        "localPath": "gallery/zzz/CardDailyUse1561.webp",
+        "sha256": "fbb4063bc19c4cbe10a19b501b684ed003df9320049dd5c88961b3ed03229dbb",
+        "etag": "\"dld8rfqhju9p-cec\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqhju9p-cec\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16068|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16068,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1561.png",
+      "rank": 4,
+      "class": 31,
+      "name": "Like the Spring Breeze"
+    },
+    "detail": {
+      "id": 1000996,
+      "name": "Like the Spring Breeze",
+      "desc": "Velina has evoked the Mindscape: <color=#FFAF2C>[Saturation Project]</color>.\n[Saturation Project]：When Velina triggers <color=#A6C5FD>Windswept</color>, she can also gain 1 point of <color=#FFFFFF>Windbite</color>. This effect can trigger once every 5s. After <color=#FFFFFF>Sweeping Cyclone</color> triggers the <color=#FFFFFF>Chromatic Tint</color> effect, it can accumulate the corresponding attribute's Anomaly Buildup. The buildup accumulated by this attack is excluded from Anomaly DMG calculations. The DMG increase effects of Velina's <color=#A6C5FD>Windswept</color> and <color=#FFFFFF>Vortex</color> from <color=#FFFFFF>Additional Ability: Tea Party Etiquette</color> are further increased by 15%.",
+      "desc2": "Even a gentle breeze sometimes hides its sting, yet Velina has already read the shifting winds. Wherever the path ahead may lead, all lies within her grasp with a single fold of her fan.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1561.png"
+    }
+  }
+}

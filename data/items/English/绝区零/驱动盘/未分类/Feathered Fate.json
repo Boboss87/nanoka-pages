@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "equipment",
+    "pageFolder": "驱动盘",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/equipment.json",
+    "sourcePath": "3.3.12+19634983/equipment.json",
+    "sourceLocale": null,
+    "localeMode": "embedded",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/equipment/34100.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "34100",
+    "name": "Feathered Fate",
+    "rarity": "未分类",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitFeatheredFate.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitFeatheredFate.webp",
+        "localPath": "gallery/zzz/SuitFeatheredFate.webp",
+        "sha256": "268ef7845d1b7b6f10a490a6726e8b13819e23f8b711203cb29c4de6e7167bf5",
+        "etag": "\"dld8rgon1fxl-7ha\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgon1fxl-7ha\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9694|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9694,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitFeatheredFate.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitFeatheredFate.webp",
+        "localPath": "gallery/zzz/SuitFeatheredFate.webp",
+        "sha256": "268ef7845d1b7b6f10a490a6726e8b13819e23f8b711203cb29c4de6e7167bf5",
+        "etag": "\"dld8rgon1fxl-7ha\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgon1fxl-7ha\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9694|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9694,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon2",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitFeatheredFate.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitFeatheredFate.webp",
+        "localPath": "gallery/zzz/SuitFeatheredFate.webp",
+        "sha256": "268ef7845d1b7b6f10a490a6726e8b13819e23f8b711203cb29c4de6e7167bf5",
+        "etag": "\"dld8rgon1fxl-7ha\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgon1fxl-7ha\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9694|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9694,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitFeatheredFate.png",
+      "en": {
+        "name": "Feathered Fate",
+        "desc2": "Anomaly Proficiency +30",
+        "desc4": "When the equipper enters the battlefield or is switched in as the active character, they gain the following buff: Anomaly Proficiency increases by 50. If the equipper is a <color=#FFA9DD>Lumiflux</color> character, Attribute Anomaly DMG increases by 15%, lasting 15s.\nThis buff remains active while the equipper is off-field."
+      },
+      "ko": {
+        "name": "깃털에 얽힌 맹세",
+        "desc2": "이상 마스터리+30pt",
+        "desc4": "착용자가 전장에 진입하거나, 현재 조작 중인 캐릭터로 교체될 시, 버프 효과를 획득한다: 이상 마스터리가 50pt 증가하고, 착용자가 <color=#FFA9DD>루멘 속성</color>일 경우, 주는 속성 이상 피해가 15% 증가한다. 지속 시간: 15초, 착용자가 조작 중인 캐릭터가 아닐 때, 해당 버프 효과를 항시 보유한다."
+      },
+      "zh": {
+        "name": "谶羽之誓",
+        "desc2": "异常精通+30点。",
+        "desc4": "装备者进入战场时，或被切换为当前操作中角色时，获得增益效果：异常精通提升50点，若装备者为<color=#FFA9DD>流明属性</color>，造成的属性异常伤害提升15%，持续15秒；\n当装备者为非操作中角色时，则始终持有该增益效果。"
+      },
+      "ja": {
+        "name": "契る翼の運命",
+        "desc2": "異常マスタリー+30Pt。",
+        "desc4": "装備者がフィールドに入場した時、または交代で操作中のメンバーになった時、以下のバフ効果を獲得する。\n異常マスタリー+50Pt。装備者が<color=#FFA9DD>流明属性</color>の場合、与える状態異常ダメージ+15%、継続時間15秒。\n装備者が操作中のメンバーでない時、このバフ効果は常時適用される。"
+      }
+    },
+    "detail": {
+      "id": 34100,
+      "name": "Feathered Fate",
+      "desc2": "Anomaly Proficiency +30",
+      "desc4": "When the equipper enters the battlefield or is switched in as the active character, they gain the following buff: Anomaly Proficiency increases by 50. If the equipper is a <color=#FFA9DD>Lumiflux</color> character, Attribute Anomaly DMG increases by 15%, lasting 15s.\nThis buff remains active while the equipper is off-field.",
+      "story": "An ancient folk song. Some claim it's been sung since the founding of Eridu, though no historical records support that claim.",
+      "icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitFeatheredFate.png",
+      "icon2": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitFeatheredFate.png"
+    }
+  }
+}

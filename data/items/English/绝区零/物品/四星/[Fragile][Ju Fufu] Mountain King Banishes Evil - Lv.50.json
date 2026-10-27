@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4321018",
+    "name": "[Fragile][Ju Fufu] Mountain King Banishes Evil - Lv.50",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_006.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_006.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_006.webp",
+        "sha256": "eb2c8013f257a064b39b4ccc54c1fe5622805ee5c360fc7ebb8b9df735c1bc08",
+        "etag": "\"dld8rgrdvinf-7zm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrdvinf-7zm\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10354|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10354,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_006.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_006.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_006.webp",
+        "sha256": "eb2c8013f257a064b39b4ccc54c1fe5622805ee5c360fc7ebb8b9df735c1bc08",
+        "etag": "\"dld8rgrdvinf-7zm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrdvinf-7zm\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10354|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10354,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_006.png",
+      "rank": 4,
+      "class": 132,
+      "name": "[Fragile][Ju Fufu] Mountain King Banishes Evil - Lv.50"
+    },
+    "detail": {
+      "id": 4321018,
+      "name": "[Fragile][Ju Fufu] Mountain King Banishes Evil - Lv.50",
+      "desc": "Ju Fufu's exclusive Tactical Prism.\nAfter opening an Electronic Strongbox, all squad members gain a Shield equal to 15% of their Max HP for 60s. This effect does not stack, and the same Strongbox cannot trigger it more than once.\nAfter Ju Fufu uses <color=#FFFFFF>Chain Attack: Suppressing Tiger Cauldron</color>, if she is not the active character, she launches one <color=#FFFFFF>Tag Assist</color>, circling the enemy and performing the 4th hit of her <color=#FFFFFF>Basic Attack</color>. The skill's DMG is considered <color=#2BAD00>Aftershock DMG</color>, and the <color=#2BAD00>DMG dealt increases by 75%</color> and <color=#2BAD00>Daze dealt increases by 45%</color>.",
+      "desc2": "",
+      "class": {
+        "132": "LABYRINTH"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_006.png"
+    }
+  }
+}

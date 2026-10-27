@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "540200",
+    "name": "Birkblick Core",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece36.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconBangbooPiece36.webp",
+        "localPath": "gallery/zzz/IconBangbooPiece36.webp",
+        "sha256": "4477b5f504f19d2a7f70cbb7a8618a73941ffe74bf4229aeff13530d46eb98fc",
+        "etag": "\"dld8rg7e1kz6-8co\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7e1kz6-8co\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10824|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10824,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece36.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconBangbooPiece36.webp",
+        "localPath": "gallery/zzz/IconBangbooPiece36.webp",
+        "sha256": "4477b5f504f19d2a7f70cbb7a8618a73941ffe74bf4229aeff13530d46eb98fc",
+        "etag": "\"dld8rg7e1kz6-8co\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7e1kz6-8co\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10824|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10824,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece36.png",
+      "rank": 4,
+      "class": 9,
+      "name": "Birkblick Core"
+    },
+    "detail": {
+      "id": 540200,
+      "name": "Birkblick Core",
+      "desc": "Obtain this Bangboo model or authorization to perform the Bangboo's core update.",
+      "desc2": "We're both caught in the camera's eye.",
+      "class": {
+        "9": "BANGBOO CORE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece36.png"
+    }
+  }
+}

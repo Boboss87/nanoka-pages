@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000601",
+    "name": "[General] Stimulant",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMedical02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardMedical02.webp",
+        "localPath": "gallery/zzz/CardMedical02.webp",
+        "sha256": "9dcdd1ce72e67df77a099df0c757e81c9058aaffed1e44806533b262fb459ecd",
+        "etag": "\"dld8rfqv8ts0-d0o\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqv8ts0-d0o\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16872|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16872,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMedical02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardMedical02.webp",
+        "localPath": "gallery/zzz/CardMedical02.webp",
+        "sha256": "9dcdd1ce72e67df77a099df0c757e81c9058aaffed1e44806533b262fb459ecd",
+        "etag": "\"dld8rfqv8ts0-d0o\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqv8ts0-d0o\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16872|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16872,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMedical02.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[General] Stimulant"
+    },
+    "detail": {
+      "id": 1000601,
+      "name": "[General] Stimulant",
+      "desc": "When below 50% HP, the buff effects of B-Rank and A-Rank Adversity Resonia increase by <color=#2BAD00>50%</color>.",
+      "desc2": "Quickly break past human limitations. Boost every body function. Side effects include becoming talkative and fidgety.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMedical02.png"
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "equipment",
+    "pageFolder": "驱动盘",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/equipment.json",
+    "sourcePath": "3.3.12+19634983/equipment.json",
+    "sourceLocale": null,
+    "localeMode": "embedded",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/equipment/31400.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "31400",
+    "name": "Hormone Punk",
+    "rarity": "未分类",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitHormonePunk.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitHormonePunk.webp",
+        "localPath": "gallery/zzz/SuitHormonePunk.webp",
+        "sha256": "d27d156091d0b34b962710feb9dce40c0476bb8896ff4efcfc287d39a42f45a1",
+        "etag": "\"dld8rgon1fxl-462\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgon1fxl-462\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5402|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5402,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitHormonePunk.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitHormonePunk.webp",
+        "localPath": "gallery/zzz/SuitHormonePunk.webp",
+        "sha256": "d27d156091d0b34b962710feb9dce40c0476bb8896ff4efcfc287d39a42f45a1",
+        "etag": "\"dld8rgon1fxl-462\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgon1fxl-462\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5402|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5402,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon2",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitHormonePunk.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitHormonePunk.webp",
+        "localPath": "gallery/zzz/SuitHormonePunk.webp",
+        "sha256": "d27d156091d0b34b962710feb9dce40c0476bb8896ff4efcfc287d39a42f45a1",
+        "etag": "\"dld8rgon1fxl-462\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgon1fxl-462\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5402|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5402,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitHormonePunk.png",
+      "en": {
+        "name": "Hormone Punk",
+        "desc2": "ATK +10%",
+        "desc4": "Upon becoming the active character in combat, the equipper's ATK increases by 25% for 10s. This effect can trigger once every 20s."
+      },
+      "ko": {
+        "name": "호르몬 펑크",
+        "desc2": "공격력+10%",
+        "desc4": "교전 상태에서의 현재 조작 중인 캐릭터가 될 시, 착용자의 공격력이 25% 증가한다. 지속 시간: 10초, 20초 동안 최대 1회 발동한다."
+      },
+      "zh": {
+        "name": "激素朋克",
+        "desc2": "攻击力+10%。",
+        "desc4": "成为接战状态下的当前操作角色时，装备者的攻击力提升25%，持续10秒，20秒内最多触发一次。"
+      },
+      "ja": {
+        "name": "ホルモン・パンク",
+        "desc2": "攻撃力+10%。",
+        "desc4": "接敵状態かつ操作中のメンバーになった時、装備者の攻撃力+25%、継続時間10秒。20秒に1回のみ発動可能。"
+      }
+    },
+    "detail": {
+      "id": 31400,
+      "name": "Hormone Punk",
+      "desc2": "ATK +10%",
+      "desc4": "Upon becoming the active character in combat, the equipper's ATK increases by 25% for 10s. This effect can trigger once every 20s.",
+      "story": "This Drive Disc series is highly recommended by the Hollow Investigative Association. According to incomplete statistics, investigators using this Drive Disc display a higher desire for combat.",
+      "icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitHormonePunk.png",
+      "icon2": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitHormonePunk.png"
+    }
+  }
+}

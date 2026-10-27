@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4000111",
+    "name": "Gold Calling",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill15.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivePropsSkill15.webp",
+        "localPath": "gallery/zzz/ActivePropsSkill15.webp",
+        "sha256": "69202bef2d9504d6b52c1cca1e7c20c0141221a04c9baccbda5d6f9a735e3b50",
+        "etag": "\"dld8rfnvh8lj-49y\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnvh8lj-49y\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=5542|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5542,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill15.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivePropsSkill15.webp",
+        "localPath": "gallery/zzz/ActivePropsSkill15.webp",
+        "sha256": "69202bef2d9504d6b52c1cca1e7c20c0141221a04c9baccbda5d6f9a735e3b50",
+        "etag": "\"dld8rfnvh8lj-49y\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnvh8lj-49y\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=5542|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5542,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill15.png",
+      "rank": 3,
+      "class": 15,
+      "name": "Gold Calling"
+    },
+    "detail": {
+      "id": 4000111,
+      "name": "Gold Calling",
+      "desc": "Turns 8 adjacent empty tiles into <color=#2BAD00>Gear Coin event tiles</color>.",
+      "desc2": "Come to me, Gear Coins! Enough hiding, it's time to come home!",
+      "class": {
+        "15": "HOLLOW ITEM"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill15.png"
+    }
+  }
+}

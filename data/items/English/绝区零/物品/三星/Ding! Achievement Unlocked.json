@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3301030",
+    "name": "Ding! Achievement Unlocked",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CallingcardActivityCollaboration07.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CallingcardActivityCollaboration07.webp",
+        "localPath": "gallery/zzz/CallingcardActivityCollaboration07.webp",
+        "sha256": "fbd176bbb1e8275e69c3087ec86a1665286e1ad2b58bab9fa2f53b7c9a13e113",
+        "etag": "\"dld8rfpw47k5-7g0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpw47k5-7g0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9648|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9648,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CallingcardActivityCollaboration07.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CallingcardActivityCollaboration07.webp",
+        "localPath": "gallery/zzz/CallingcardActivityCollaboration07.webp",
+        "sha256": "fbd176bbb1e8275e69c3087ec86a1665286e1ad2b58bab9fa2f53b7c9a13e113",
+        "etag": "\"dld8rfpw47k5-7g0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpw47k5-7g0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9648|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9648,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CallingcardActivityCollaboration07.png",
+      "rank": 3,
+      "class": 65,
+      "name": "Ding! Achievement Unlocked"
+    },
+    "detail": {
+      "id": 3301030,
+      "name": "Ding! Achievement Unlocked",
+      "desc": "\"Zenless Zone Zero Collector's Edition Physical Gift Box\" commemorative namecard.",
+      "desc2": "Pop in the disc, grab a controller, and step back into a world of vibrant adventures!\nCongratulations! You've unlocked the rarest achievement of all: \"Champion Player.\"",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CallingcardActivityCollaboration07.png"
+    }
+  }
+}

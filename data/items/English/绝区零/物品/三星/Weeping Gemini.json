@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "13008",
+    "name": "Weeping Gemini",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_Common_08.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_A_Common_08.webp",
+        "localPath": "gallery/zzz/Weapon_A_Common_08.webp",
+        "sha256": "0cfa06e9e8360c01f15b2dde69c78be13b3e87fef97108ddd0f33a17c4b9e828",
+        "etag": "\"dld8rgp4b186-u3i\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgp4b186-u3i\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=39006|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 39006,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_Common_08.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_A_Common_08.webp",
+        "localPath": "gallery/zzz/Weapon_A_Common_08.webp",
+        "sha256": "0cfa06e9e8360c01f15b2dde69c78be13b3e87fef97108ddd0f33a17c4b9e828",
+        "etag": "\"dld8rgp4b186-u3i\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgp4b186-u3i\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=39006|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 39006,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_Common_08.png",
+      "rank": 3,
+      "class": 5,
+      "name": "Weeping Gemini"
+    },
+    "detail": {
+      "id": 13008,
+      "name": "Weeping Gemini",
+      "desc": "Equip to increase Anomaly Agents' combat capabilities",
+      "desc2": "A W-Engine produced by recycling abandoned Bangboo shells. Its electrode cores made of recycled metals can release high-voltage charges.",
+      "class": {
+        "5": "W-ENGINE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_Common_08.png"
+    }
+  }
+}

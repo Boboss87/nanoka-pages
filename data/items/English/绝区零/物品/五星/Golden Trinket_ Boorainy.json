@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4360018",
+    "name": "Golden Trinket: Boorainy",
+    "rarity": "五星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_018.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_018.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_018.webp",
+        "sha256": "5b5ea4b5a19aef298a5aa330b15c1473d14e5a4c7758607935e2373ff7b558f1",
+        "etag": "\"dld8rgr2k9ny-5nu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr2k9ny-5nu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7338|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7338,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_018.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_018.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_018.webp",
+        "sha256": "5b5ea4b5a19aef298a5aa330b15c1473d14e5a4c7758607935e2373ff7b558f1",
+        "etag": "\"dld8rgr2k9ny-5nu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr2k9ny-5nu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7338|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7338,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_018.png",
+      "rank": 5,
+      "class": 130,
+      "name": "Golden Trinket: Boorainy"
+    },
+    "detail": {
+      "id": 4360018,
+      "name": "Golden Trinket: Boorainy",
+      "desc": "A solid-gold figurine by a mysterious artist. The seated Bangboo begins to ponder the meaning of boo-life, only to find its strength slowly drained by pressure from Dennies, its master, friends, and family...",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_018.png"
+    }
+  }
+}

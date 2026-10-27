@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4350125",
+    "name": "[Blueprint] Etheric Phantom: Unfathomable",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_MonsterSkill_009_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_MonsterSkill_009_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_MonsterSkill_009_Blueprint.webp",
+        "sha256": "877824cf9b69abb30346203cd3016ad53f948be3084c37661f8f369ea0451713",
+        "etag": "\"dld8rgrc37rb-7sk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrc37rb-7sk\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10100|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10100,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_MonsterSkill_009_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_MonsterSkill_009_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_MonsterSkill_009_Blueprint.webp",
+        "sha256": "877824cf9b69abb30346203cd3016ad53f948be3084c37661f8f369ea0451713",
+        "etag": "\"dld8rgrc37rb-7sk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrc37rb-7sk\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10100|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10100,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_MonsterSkill_009_Blueprint.png",
+      "rank": 4,
+      "class": 130,
+      "name": "[Blueprint] Etheric Phantom: Unfathomable"
+    },
+    "detail": {
+      "id": 4350125,
+      "name": "[Blueprint] Etheric Phantom: Unfathomable",
+      "desc": "Use this Blueprint at the Smart Workshop to unlock the recipe for this item. Obtained through investigations.\n\nItem Effect: Use this item to transform into a phantom of the <color=#FFAF2C>Unfathomable</color>, dealing DMG equal to <color=#2BAD00>100%</color>/<color=#2BAD00>50%</color>/<color=#2BAD00>20%</color> of Max HP to normal/elite/boss enemies, respectively. Hitting an enemy afflicted with any Attribute Anomaly triggers Polarity Disorder once, dealing DMG equal to <color=#2BAD00>100%</color> of the original Disorder DMG.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_MonsterSkill_009_Blueprint.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1342163",
+    "name": "Snuggled Fortune",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/RiduBoo/RiduBooItemIcon/UnPacker/RidubooPart_016_Body.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RidubooPart_016_Body.webp",
+        "localPath": "gallery/zzz/RidubooPart_016_Body.webp",
+        "sha256": "c75f365680a96b4a95a1f40fb1c87f082632b48a86ac3e56b4076fb85bc61182",
+        "etag": "\"dld8rgo7k5j4-40w\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo7k5j4-40w\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5216|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5216,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/RiduBoo/RiduBooItemIcon/UnPacker/RidubooPart_016_Body.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RidubooPart_016_Body.webp",
+        "localPath": "gallery/zzz/RidubooPart_016_Body.webp",
+        "sha256": "c75f365680a96b4a95a1f40fb1c87f082632b48a86ac3e56b4076fb85bc61182",
+        "etag": "\"dld8rgo7k5j4-40w\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo7k5j4-40w\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5216|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5216,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/RiduBoo/RiduBooItemIcon/UnPacker/RidubooPart_016_Body.png",
+      "rank": 3,
+      "class": 84,
+      "name": "Snuggled Fortune"
+    },
+    "detail": {
+      "id": 1342163,
+      "name": "Snuggled Fortune",
+      "desc": "\"Eous Eous, what happens if you don't have clothes?\"\n\"En-nah! (You'll get arrested by Public Security!)\"\n\"That probably won't happen... Well, it would for me, but not to you.\"",
+      "desc2": "",
+      "class": {
+        "84": "BANGBOO EXTRAS"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/RiduBoo/RiduBooItemIcon/UnPacker/RidubooPart_016_Body.png"
+    }
+  }
+}

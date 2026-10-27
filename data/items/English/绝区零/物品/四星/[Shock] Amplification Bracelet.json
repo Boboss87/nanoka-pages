@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000503",
+    "name": "[Shock] Amplification Bracelet",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardElectro09.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardElectro09.webp",
+        "localPath": "gallery/zzz/CardElectro09.webp",
+        "sha256": "fd1f0ee85cc6bfacf050307779140c15b776d56742f9e176db8b2e6958dc1d8c",
+        "etag": "\"dld8rfqlpvoo-cuk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqlpvoo-cuk\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16652|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16652,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardElectro09.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardElectro09.webp",
+        "localPath": "gallery/zzz/CardElectro09.webp",
+        "sha256": "fd1f0ee85cc6bfacf050307779140c15b776d56742f9e176db8b2e6958dc1d8c",
+        "etag": "\"dld8rfqlpvoo-cuk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqlpvoo-cuk\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16652|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16652,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardElectro09.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Shock] Amplification Bracelet"
+    },
+    "detail": {
+      "id": 1000503,
+      "name": "[Shock] Amplification Bracelet",
+      "desc": "Agents with Zap deal <color=#2BAD00>25%</color> more <color=#2EB6FF>Electric DMG</color>.",
+      "desc2": "According to those who have used this device, running with it feels like an invisible muscle-man is gripping your wrist and yanking you forward as hard as he can.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardElectro09.png"
+    }
+  }
+}

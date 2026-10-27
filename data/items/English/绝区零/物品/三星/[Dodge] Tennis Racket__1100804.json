@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1100804",
+    "name": "[Dodge] Tennis Racket",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSports05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardSports05.webp",
+        "localPath": "gallery/zzz/CardSports05.webp",
+        "sha256": "8cc89f7092cf984909c9496475ecfa3f12da1c825495b83de00ce7830465d92a",
+        "etag": "\"dld8rfqzev6z-cgq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqzev6z-cgq\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16154|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16154,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSports05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardSports05.webp",
+        "localPath": "gallery/zzz/CardSports05.webp",
+        "sha256": "8cc89f7092cf984909c9496475ecfa3f12da1c825495b83de00ce7830465d92a",
+        "etag": "\"dld8rfqzev6z-cgq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqzev6z-cgq\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16154|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16154,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSports05.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Dodge] Tennis Racket"
+    },
+    "detail": {
+      "id": 1100804,
+      "name": "[Dodge] Tennis Racket",
+      "desc": "When entering Vital View by triggering Perfect Dodge, the post-Dodge Dash Attack is replaced by Dodge Counter that can be used repeatedly up to <color=#2BAD00>6</color> times.",
+      "desc2": "If you can't hit back, at least try to dodge. Getting smacked by that ball hurts.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSports05.png"
+    }
+  }
+}

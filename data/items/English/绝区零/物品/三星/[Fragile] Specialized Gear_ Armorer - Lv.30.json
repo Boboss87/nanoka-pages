@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4320127",
+    "name": "[Fragile] Specialized Gear: Armorer - Lv.30",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponA_008.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponA_008.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponA_008.webp",
+        "sha256": "56177b383608fbe04fa35be119454e91b594e01f1756f729692458e08e624d60",
+        "etag": "\"dld8rgrdvinf-7xk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrdvinf-7xk\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10280|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10280,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponA_008.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponA_008.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponA_008.webp",
+        "sha256": "56177b383608fbe04fa35be119454e91b594e01f1756f729692458e08e624d60",
+        "etag": "\"dld8rgrdvinf-7xk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrdvinf-7xk\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10280|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10280,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponA_008.png",
+      "rank": 3,
+      "class": 132,
+      "name": "[Fragile] Specialized Gear: Armorer - Lv.30"
+    },
+    "detail": {
+      "id": 4320127,
+      "name": "[Fragile] Specialized Gear: Armorer - Lv.30",
+      "desc": "Provides the Specialized Stats needed for Armorer Agents.",
+      "desc2": "",
+      "class": {
+        "132": "LABYRINTH"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponA_008.png"
+    }
+  }
+}

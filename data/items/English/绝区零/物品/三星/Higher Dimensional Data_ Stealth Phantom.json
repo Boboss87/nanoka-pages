@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "110507",
+    "name": "Higher Dimensional Data: Stealth Phantom",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "ExSmallBoss007",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ExSmallBoss007.webp",
+        "localPath": "gallery/zzz/ExSmallBoss007.webp",
+        "sha256": "1d1f2aa2f284320ea76c33532981eed8246d06bdbd6104cdfe60972e69b9d7f6",
+        "etag": "\"dld8rg1r0iv3-iqdg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg1r0iv3-iqdg\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=873988|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 873988,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "ExSmallBoss007",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ExSmallBoss007.webp",
+        "localPath": "gallery/zzz/ExSmallBoss007.webp",
+        "sha256": "1d1f2aa2f284320ea76c33532981eed8246d06bdbd6104cdfe60972e69b9d7f6",
+        "etag": "\"dld8rg1r0iv3-iqdg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg1r0iv3-iqdg\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=873988|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 873988,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "ExSmallBoss007",
+      "rank": 3,
+      "class": 10,
+      "name": "Higher Dimensional Data: Stealth Phantom",
+      "boss": true
+    },
+    "detail": {
+      "id": 110507,
+      "name": "Higher Dimensional Data: Stealth Phantom",
+      "desc": "An item required to increase your Agent's Core Skill level.",
+      "desc2": "A data model built on the combat records of numerous investigators versus Doppelganger - Jane, including the most penetrating impressions of it by the investigators. It's enough data to see it \"born and alive\" inside a VR system.",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 3,
+      "icon_path": "ExSmallBoss007",
+      "boss": true
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "100214",
+    "name": "Basic Support Certification Seal",
+    "rarity": "一星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AvatarRankSupport01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AvatarRankSupport01.webp",
+        "localPath": "gallery/zzz/AvatarRankSupport01.webp",
+        "sha256": "6d4700514b6876f579cc7a00d81a8e715151be9802e42fb85a76a9f473de805a",
+        "etag": "\"dld8rfo0u59x-6s2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfo0u59x-6s2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8786|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8786,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AvatarRankSupport01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AvatarRankSupport01.webp",
+        "localPath": "gallery/zzz/AvatarRankSupport01.webp",
+        "sha256": "6d4700514b6876f579cc7a00d81a8e715151be9802e42fb85a76a9f473de805a",
+        "etag": "\"dld8rfo0u59x-6s2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfo0u59x-6s2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8786|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8786,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AvatarRankSupport01.png",
+      "rank": 1,
+      "class": 10,
+      "name": "Basic Support Certification Seal"
+    },
+    "detail": {
+      "id": 100214,
+      "name": "Basic Support Certification Seal",
+      "desc": "Increases the Agent level cap for Support-specialty Agents to 20.",
+      "desc2": "Often awarded to Agents who excel at using Support tactics. Besides attesting to their ability, the seal itself also contains a little benign Ether inside which can be useful when improving an Agent's combat abilities.",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 1,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AvatarRankSupport01.png"
+    }
+  }
+}

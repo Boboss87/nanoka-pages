@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1350051",
+    "name": "[Corin] Speed-Cleaning Technique",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic030.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic030.webp",
+        "localPath": "gallery/zzz/Relic030.webp",
+        "sha256": "9351aa3ec1ccb9612f2fb2e4678784370d21cc8b456dea4ccaf313d14471489a",
+        "etag": "\"dld8rgo0exym-3xs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo0exym-3xs\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5104|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5104,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.desc.IconMap.Icon_Normal",
+        "kind": "icon_map",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "<IconMap:Icon_Normal>",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Icon_Normal.webp",
+        "localPath": "gallery/zzz/Icon_Normal.webp",
+        "sha256": "4f7078ee9d3a5e61be8ce9d3fd3f68b91de0880ba80ee43ea51b64394c158602",
+        "etag": "\"dld8rgefojpl-10m\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgefojpl-10m\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=1318|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 1318,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic030.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic030.webp",
+        "localPath": "gallery/zzz/Relic030.webp",
+        "sha256": "9351aa3ec1ccb9612f2fb2e4678784370d21cc8b456dea4ccaf313d14471489a",
+        "etag": "\"dld8rgo0exym-3xs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo0exym-3xs\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5104|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5104,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic030.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Corin] Speed-Cleaning Technique"
+    },
+    "detail": {
+      "id": 1350051,
+      "name": "[Corin] Speed-Cleaning Technique",
+      "desc": "During the 1st, 2nd and 3rd hits of a <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dash Attack</color>, <color=#FFFFFF>Dodge Counter</color>, or <color=#FFFFFF>Quick Assist</color>, repeatedly press or hold Basic Attack <IconMap:Icon_Normal> to <color=#2BAD00>directly follow up with the 4th hit of the Basic Attack</color> and launch a <color=#2BAD00>high-speed spin slash at enemies</color> ahead, and when Corin triggers a <color=#FFFFFF>Perfect Dodge</color>, she <color=#2BAD00>recovers 20 Energy</color> once per 10s.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic030.png"
+    }
+  }
+}

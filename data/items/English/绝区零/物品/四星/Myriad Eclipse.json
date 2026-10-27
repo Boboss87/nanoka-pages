@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "14129",
+    "name": "Myriad Eclipse",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1291.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_S_1291.webp",
+        "localPath": "gallery/zzz/Weapon_S_1291.webp",
+        "sha256": "29191ab3c11ca15c1110d78251ec5f8261a37280fcfec1e94096388ea818f8f0",
+        "etag": "\"dld8rgq5tdyw-yh8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgq5tdyw-yh8\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=44684|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 44684,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1291.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_S_1291.webp",
+        "localPath": "gallery/zzz/Weapon_S_1291.webp",
+        "sha256": "29191ab3c11ca15c1110d78251ec5f8261a37280fcfec1e94096388ea818f8f0",
+        "etag": "\"dld8rgq5tdyw-yh8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgq5tdyw-yh8\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=44684|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 44684,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1291.png",
+      "rank": 4,
+      "class": 5,
+      "name": "Myriad Eclipse"
+    },
+    "detail": {
+      "id": 14129,
+      "name": "Myriad Eclipse",
+      "desc": "Equip to increase Attack Agents' combat capabilities",
+      "desc2": "Shadowed by darkness at every step, he laid bare his heart to kindle a single, flickering flame.",
+      "class": {
+        "5": "W-ENGINE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1291.png"
+    }
+  }
+}

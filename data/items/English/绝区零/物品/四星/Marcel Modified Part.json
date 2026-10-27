@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "100943",
+    "name": "Marcel Modified Part",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/UltimateRank.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/UltimateRank.webp",
+        "localPath": "gallery/zzz/UltimateRank.webp",
+        "sha256": "17d05c0b4ac1bf04e1b093c516bedc04e2969bc53de09513d5c82fda0717a4b6",
+        "etag": "\"dld8rgous34t-8nu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgous34t-8nu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11226|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11226,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/UltimateRank.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/UltimateRank.webp",
+        "localPath": "gallery/zzz/UltimateRank.webp",
+        "sha256": "17d05c0b4ac1bf04e1b093c516bedc04e2969bc53de09513d5c82fda0717a4b6",
+        "etag": "\"dld8rgous34t-8nu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgous34t-8nu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11226|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11226,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/UltimateRank.png",
+      "rank": 4,
+      "class": 73,
+      "name": "Marcel Modified Part"
+    },
+    "detail": {
+      "id": 100943,
+      "name": "Marcel Modified Part",
+      "desc": "Can be used to modify any Bangboo once.",
+      "desc2": "Proudly crafted by the Marcel Group, enthusiasts of the occult dub it the \"canned Bangboo essence.\" Regardless of your preferred Bangboo model, this modification component will significantly enhance its capabilities.",
+      "class": {
+        "73": "RESOURCE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/UltimateRank.png"
+    }
+  }
+}

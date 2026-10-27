@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1010802",
+    "name": "[Dodge] Magnetic Dart",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSports12.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardSports12.webp",
+        "localPath": "gallery/zzz/CardSports12.webp",
+        "sha256": "cd5bb673df73805a1b0ee16d8ebeb01c3dbc4f20a5242ca106770b957d2ff13f",
+        "etag": "\"dld8rfr00atp-di2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr00atp-di2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17498|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17498,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSports12.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardSports12.webp",
+        "localPath": "gallery/zzz/CardSports12.webp",
+        "sha256": "cd5bb673df73805a1b0ee16d8ebeb01c3dbc4f20a5242ca106770b957d2ff13f",
+        "etag": "\"dld8rfr00atp-di2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr00atp-di2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17498|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17498,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSports12.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Dodge] Magnetic Dart"
+    },
+    "detail": {
+      "id": 1010802,
+      "name": "[Dodge] Magnetic Dart",
+      "desc": "When in the Counter state, Agent EX Special Attacks and Dodge Counter <color=#2BAD00>Interrupt level is increased</color>, and all Agents' DMG increases by <color=#2BAD00>50%</color>.",
+      "desc2": "A dart with a powerful magnet installed on the tip that allows you to hit the bullseye every time even with your eyes closed, as long as you don't throw it off the dart board.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSports12.png"
+    }
+  }
+}

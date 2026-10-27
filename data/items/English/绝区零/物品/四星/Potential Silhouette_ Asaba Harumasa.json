@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "20120",
+    "name": "Potential Silhouette: Asaba Harumasa",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconRoleAwaken_1201.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRoleAwaken_1201.webp",
+        "localPath": "gallery/zzz/IconRoleAwaken_1201.webp",
+        "sha256": "90d8b28874cba8b82319c1a5d0357528fe411968e225fefca7f7dcf03be0caab",
+        "etag": "\"dld8rgas3lap-7du\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgas3lap-7du\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9570|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9570,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconRoleAwaken_1201.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRoleAwaken_1201.webp",
+        "localPath": "gallery/zzz/IconRoleAwaken_1201.webp",
+        "sha256": "90d8b28874cba8b82319c1a5d0357528fe411968e225fefca7f7dcf03be0caab",
+        "etag": "\"dld8rgas3lap-7du\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgas3lap-7du\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9570|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9570,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconRoleAwaken_1201.png",
+      "rank": 4,
+      "class": 6,
+      "name": "Potential Silhouette: Asaba Harumasa"
+    },
+    "detail": {
+      "id": 20120,
+      "name": "Potential Silhouette: Asaba Harumasa",
+      "desc": "Used to awaken Asaba Harumasa's potential. Can be exchanged in the Potential Archive store.",
+      "desc2": "A sharp, clean silhouette capturing an Agent's potential \"ideal self.\"\n\nWith a vivid yellow headscarf tied in place, the mirror shows someone clearly lost in thought. Because he prefers to stand at the edge of the spotlight, people forget: this laid-back kid is also a genius with exceptional talent.",
+      "class": {
+        "6": "AGENT SILHOUETTE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconRoleAwaken_1201.png"
+    }
+  }
+}

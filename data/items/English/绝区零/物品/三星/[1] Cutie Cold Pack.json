@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1357522",
+    "name": "[1] Cutie Cold Pack",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardFrozen10.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardFrozen10.webp",
+        "localPath": "gallery/zzz/CardFrozen10.webp",
+        "sha256": "d26cc8c3f0adfbe09084c10cb4b126abb9c1f6c606c96f9d719dad151f92c36a",
+        "etag": "\"dld8rfqni6ks-b9o\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqni6ks-b9o\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14604|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14604,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardFrozen10.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardFrozen10.webp",
+        "localPath": "gallery/zzz/CardFrozen10.webp",
+        "sha256": "d26cc8c3f0adfbe09084c10cb4b126abb9c1f6c606c96f9d719dad151f92c36a",
+        "etag": "\"dld8rfqni6ks-b9o\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqni6ks-b9o\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14604|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14604,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardFrozen10.png",
+      "rank": 3,
+      "class": 106,
+      "name": "[1] Cutie Cold Pack"
+    },
+    "detail": {
+      "id": 1357522,
+      "name": "[1] Cutie Cold Pack",
+      "desc": "Increases <color=#98EFF0>Ice DMG</color> by 25%.",
+      "desc2": "",
+      "class": {
+        "106": "TAROT CARD"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardFrozen10.png"
+    }
+  }
+}

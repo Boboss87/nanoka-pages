@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4200401",
+    "name": "Bootopia Access Module",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialDropS_1.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovMaterialDropS_1.webp",
+        "localPath": "gallery/zzz/BangkovMaterialDropS_1.webp",
+        "sha256": "62ddc9343da5bb372d60ae0c514813ee276e3817c6f180adc115377ed405b275",
+        "etag": "\"dld8rfpml9gs-5vy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpml9gs-5vy\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7630|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7630,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialDropS_1.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovMaterialDropS_1.webp",
+        "localPath": "gallery/zzz/BangkovMaterialDropS_1.webp",
+        "sha256": "62ddc9343da5bb372d60ae0c514813ee276e3817c6f180adc115377ed405b275",
+        "etag": "\"dld8rfpml9gs-5vy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpml9gs-5vy\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7630|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7630,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialDropS_1.png",
+      "rank": 4,
+      "class": 120,
+      "name": "Bootopia Access Module"
+    },
+    "detail": {
+      "id": 4200401,
+      "name": "Bootopia Access Module",
+      "desc": "<color=#FFFFFF>Obtained by defeating powerful enemies. Used to activate Talents.</color>\nA damaged Advanced Management Authority Module.",
+      "desc2": "BKItem_4200401_Story",
+      "class": {
+        "120": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialDropS_1.png"
+    }
+  }
+}

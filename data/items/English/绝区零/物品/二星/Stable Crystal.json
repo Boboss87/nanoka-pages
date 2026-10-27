@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4301311",
+    "name": "Stable Crystal",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Material_Monster_2.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Material_Monster_2.webp",
+        "localPath": "gallery/zzz/Zenkov_Material_Monster_2.webp",
+        "sha256": "c57a1574457676fd808347002b7f7ee4bf67b79a4abac916e5136013fc018369",
+        "etag": "\"dld8rgraawv6-5bm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgraawv6-5bm\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6898|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6898,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Material_Monster_2.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Material_Monster_2.webp",
+        "localPath": "gallery/zzz/Zenkov_Material_Monster_2.webp",
+        "sha256": "c57a1574457676fd808347002b7f7ee4bf67b79a4abac916e5136013fc018369",
+        "etag": "\"dld8rgraawv6-5bm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgraawv6-5bm\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6898|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6898,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Material_Monster_2.png",
+      "rank": 2,
+      "class": 130,
+      "name": "Stable Crystal"
+    },
+    "detail": {
+      "id": 4301311,
+      "name": "Stable Crystal",
+      "desc": "Used for plan development, Gear crafting, and Etheric Phantom crafting.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Material_Monster_2.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "33822",
+    "name": "Notes From the Chained [2]",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitNotesFromtheChained_B.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitNotesFromtheChained_B.webp",
+        "localPath": "gallery/zzz/ItemSuitNotesFromtheChained_B.webp",
+        "sha256": "b4cfdcbf1aa0a6a2361d4e441bda5d4ac1af8f9ecbd81c1de0e86bece8c97040",
+        "etag": "\"dld8rgerl8bs-792\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgerl8bs-792\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9398|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9398,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitNotesFromtheChained_B.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitNotesFromtheChained_B.webp",
+        "localPath": "gallery/zzz/ItemSuitNotesFromtheChained_B.webp",
+        "sha256": "b4cfdcbf1aa0a6a2361d4e441bda5d4ac1af8f9ecbd81c1de0e86bece8c97040",
+        "etag": "\"dld8rgerl8bs-792\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgerl8bs-792\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9398|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9398,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitNotesFromtheChained_B.png",
+      "rank": 2,
+      "class": 7,
+      "name": "Notes From the Chained [2]"
+    },
+    "detail": {
+      "id": 33822,
+      "name": "Notes From the Chained [2]",
+      "desc": "Equip to increase Agents' combat capabilities",
+      "desc2": "Thoughts melt like wax, dripping into a bottomless lake\nThe world peels like lacquer, shadows dancing on the ceiling\nDistant birds sweep past, leaving behind fractured cries\nWeightless descent blurs the line between dreams and wandering delusion",
+      "class": {
+        "7": "DISK"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitNotesFromtheChained_B.png"
+    }
+  }
+}

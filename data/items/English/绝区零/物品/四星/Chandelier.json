@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3113111",
+    "name": "Chandelier",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_AstraChandelier.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Skin_AstraChandelier.webp",
+        "localPath": "gallery/zzz/Skin_AstraChandelier.webp",
+        "sha256": "cbcd1028b39f581a367021ceb435109ca26101910cff39a036ea1b430f83968d",
+        "etag": "\"dld8rgocx27i-6re\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgocx27i-6re\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8762|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8762,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_AstraChandelier.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Skin_AstraChandelier.webp",
+        "localPath": "gallery/zzz/Skin_AstraChandelier.webp",
+        "sha256": "cbcd1028b39f581a367021ceb435109ca26101910cff39a036ea1b430f83968d",
+        "etag": "\"dld8rgocx27i-6re\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgocx27i-6re\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8762|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8762,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_AstraChandelier.png",
+      "rank": 4,
+      "class": 63,
+      "name": "Chandelier"
+    },
+    "detail": {
+      "id": 3113111,
+      "name": "Chandelier",
+      "desc": "Astra Yao's outfit.",
+      "desc2": "The black-and-white dress glimmers in both light and shadows. Every smile of hers seems to sink into the flowing light of the night, becoming a timeless classic.",
+      "class": {
+        "63": "DRESS"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_AstraChandelier.png"
+    }
+  }
+}

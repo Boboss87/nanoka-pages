@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "300003",
+    "name": "Senior Investigator Log",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RoleExp03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RoleExp03.webp",
+        "localPath": "gallery/zzz/RoleExp03.webp",
+        "sha256": "30657c9dc801bf52f65ab9b8ba1ec19ddbebae16ff7e7306c0d02faf6fbd04bf",
+        "etag": "\"dld8rgo8r0sj-6lm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo8r0sj-6lm\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8554|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8554,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RoleExp03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RoleExp03.webp",
+        "localPath": "gallery/zzz/RoleExp03.webp",
+        "sha256": "30657c9dc801bf52f65ab9b8ba1ec19ddbebae16ff7e7306c0d02faf6fbd04bf",
+        "etag": "\"dld8rgo8r0sj-6lm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo8r0sj-6lm\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8554|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8554,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RoleExp03.png",
+      "rank": 3,
+      "class": 12,
+      "name": "Senior Investigator Log"
+    },
+    "detail": {
+      "id": 300003,
+      "name": "Senior Investigator Log",
+      "desc": "Provides 3,000 EXP for an Agent.",
+      "desc2": "Detailed and meticulous operation logs. Watching this makes you feel as if you have explored Hollows yourself.",
+      "class": {
+        "12": "AGENT EXP"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RoleExp03.png"
+    }
+  }
+}

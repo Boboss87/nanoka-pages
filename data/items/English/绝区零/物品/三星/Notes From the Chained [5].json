@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "33835",
+    "name": "Notes From the Chained [5]",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitNotesFromtheChained_A.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitNotesFromtheChained_A.webp",
+        "localPath": "gallery/zzz/ItemSuitNotesFromtheChained_A.webp",
+        "sha256": "308231658224587b7787543a6577e5d2f9ce63175efd2673f32a5aee99740f75",
+        "etag": "\"dld8rgerl8bs-774\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgerl8bs-774\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9328|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9328,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitNotesFromtheChained_A.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitNotesFromtheChained_A.webp",
+        "localPath": "gallery/zzz/ItemSuitNotesFromtheChained_A.webp",
+        "sha256": "308231658224587b7787543a6577e5d2f9ce63175efd2673f32a5aee99740f75",
+        "etag": "\"dld8rgerl8bs-774\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgerl8bs-774\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9328|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9328,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitNotesFromtheChained_A.png",
+      "rank": 3,
+      "class": 7,
+      "name": "Notes From the Chained [5]"
+    },
+    "detail": {
+      "id": 33835,
+      "name": "Notes From the Chained [5]",
+      "desc": "Equip to increase Agents' combat capabilities",
+      "desc2": "Trembling fingertips search every inch of every seam\nNo echo of iron, no chill of any lock\nThe gate was never truly closed\nAnd so no key or incantation is needed",
+      "class": {
+        "7": "DISK"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitNotesFromtheChained_A.png"
+    }
+  }
+}

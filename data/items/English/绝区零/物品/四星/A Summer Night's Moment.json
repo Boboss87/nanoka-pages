@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3600030",
+    "name": "A Summer Night's Moment",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Snapshot_3600030.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Snapshot_3600030.webp",
+        "localPath": "gallery/zzz/Snapshot_3600030.webp",
+        "sha256": "1234d2e0d733d6cfef3c7d23fdbc8712d091976b0ed38b52f9e2b06c8c0a6037",
+        "etag": "\"dld8rgodihu8-8d8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgodihu8-8d8\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10844|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10844,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Snapshot_3600030.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Snapshot_3600030.webp",
+        "localPath": "gallery/zzz/Snapshot_3600030.webp",
+        "sha256": "1234d2e0d733d6cfef3c7d23fdbc8712d091976b0ed38b52f9e2b06c8c0a6037",
+        "etag": "\"dld8rgodihu8-8d8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgodihu8-8d8\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10844|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10844,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Snapshot_3600030.png",
+      "rank": 4,
+      "class": 68,
+      "name": "A Summer Night's Moment"
+    },
+    "detail": {
+      "id": 3600030,
+      "name": "A Summer Night's Moment",
+      "desc": "A memorable moment worth commemorating. Can be used to decorate your room.",
+      "desc2": "A moment captured by Therese's camera after the Fantasy Music Festival. Old friends, new companions, and most importantly, family... Though the summer night may pass, our smiles will forever be frozen in this most beautiful summer memory.",
+      "class": {
+        "68": "PHOTOWALL ITEM"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Snapshot_3600030.png"
+    }
+  }
+}

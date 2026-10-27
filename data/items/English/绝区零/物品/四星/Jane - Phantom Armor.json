@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1322401",
+    "name": "Jane - Phantom Armor",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic028.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic028.webp",
+        "localPath": "gallery/zzz/Relic028.webp",
+        "sha256": "45b673dae96ef2d5a614e0506477998fd0c23a57a9dd245c1b467eead368ae10",
+        "etag": "\"dld8rgo0exym-3d4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo0exym-3d4\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4360|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4360,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic028.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic028.webp",
+        "localPath": "gallery/zzz/Relic028.webp",
+        "sha256": "45b673dae96ef2d5a614e0506477998fd0c23a57a9dd245c1b467eead368ae10",
+        "etag": "\"dld8rgo0exym-3d4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo0exym-3d4\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4360|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4360,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic028.png",
+      "rank": 4,
+      "class": 80,
+      "name": "Jane - Phantom Armor"
+    },
+    "detail": {
+      "id": 1322401,
+      "name": "Jane - Phantom Armor",
+      "desc": "Significantly increases the <color=#2BAD00>sustained attack duration</color> of <color=#FFFFFF>Basic Attack: Salchow Jump</color>. Triggering a Finishing Move when about to be attacked activates <color=#FFFFFF>Perfect Dodge</color>. When the sustained attack duration reaches maximum or <color=#FFFFFF>Perfect Dodge</color> is triggered by a Finishing Move, the Finishing Move will be enhanced to <color=#FFFFFF>Salchow Jump: Airborne</color>. When this skill is activated, <color=#F0D12B>Physical Anomaly Buildup Rate</color> is <color=#2BAD00>increased by 50%</color> for 10s.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic028.png"
+    }
+  }
+}

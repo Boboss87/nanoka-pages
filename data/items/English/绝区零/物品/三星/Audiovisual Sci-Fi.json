@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1342051",
+    "name": "Audiovisual Sci-Fi",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/RiduBoo/RiduBooItemIcon/UnPacker/RidubooPart_005_Head.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RidubooPart_005_Head.webp",
+        "localPath": "gallery/zzz/RidubooPart_005_Head.webp",
+        "sha256": "7a53edd7c079d3b318dc997f323acfdc2693eac2e9bfe9bdede63d2e843ce54e",
+        "etag": "\"dld8rgo6da9p-53m\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo6da9p-53m\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6610|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6610,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/RiduBoo/RiduBooItemIcon/UnPacker/RidubooPart_005_Head.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RidubooPart_005_Head.webp",
+        "localPath": "gallery/zzz/RidubooPart_005_Head.webp",
+        "sha256": "7a53edd7c079d3b318dc997f323acfdc2693eac2e9bfe9bdede63d2e843ce54e",
+        "etag": "\"dld8rgo6da9p-53m\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo6da9p-53m\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6610|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6610,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/RiduBoo/RiduBooItemIcon/UnPacker/RidubooPart_005_Head.png",
+      "rank": 3,
+      "class": 84,
+      "name": "Audiovisual Sci-Fi"
+    },
+    "detail": {
+      "id": 1342051,
+      "name": "Audiovisual Sci-Fi",
+      "desc": "\"Eous, Eous, what happens if you don't have ears?\"\n\"Ehn-na? (Can't wear glasses?)\"\n\"...Is that how Bangboo wear glasses!?\"",
+      "desc2": "",
+      "class": {
+        "84": "BANGBOO EXTRAS"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/RiduBoo/RiduBooItemIcon/UnPacker/RidubooPart_005_Head.png"
+    }
+  }
+}

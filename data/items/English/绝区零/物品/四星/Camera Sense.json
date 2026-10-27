@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3201017",
+    "name": "Camera Sense",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1017.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemProfile1017.webp",
+        "localPath": "gallery/zzz/ItemProfile1017.webp",
+        "sha256": "5440e49c6645050fb2967fc762b8a6c9cf2af8051818e057312cd163c1fb8cbe",
+        "etag": "\"dld8rgei2a8g-8gy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgei2a8g-8gy\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10978|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10978,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1017.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemProfile1017.webp",
+        "localPath": "gallery/zzz/ItemProfile1017.webp",
+        "sha256": "5440e49c6645050fb2967fc762b8a6c9cf2af8051818e057312cd163c1fb8cbe",
+        "etag": "\"dld8rgei2a8g-8gy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgei2a8g-8gy\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10978|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10978,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1017.png",
+      "rank": 4,
+      "class": 64,
+      "name": "Camera Sense"
+    },
+    "detail": {
+      "id": 3201017,
+      "name": "Camera Sense",
+      "desc": "A commemorative avatar for the New Eridu City Fund: Growth Plan.",
+      "desc2": "In the play of light and shadow, every treasured moment is meticulously captured into the frames through the lens.",
+      "class": {
+        "64": "PROFILE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1017.png"
+    }
+  }
+}

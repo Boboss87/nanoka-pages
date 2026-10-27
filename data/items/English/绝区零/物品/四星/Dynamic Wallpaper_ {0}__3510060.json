@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3510060",
+    "name": "Dynamic Wallpaper: {0}",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRoleTrust/UnPacker/LiveWallpaper1641.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/LiveWallpaper1641.webp",
+        "localPath": "gallery/zzz/LiveWallpaper1641.webp",
+        "sha256": "8dd9d7791b70e59df6dc1b63812422a1c168aa5a9cfd357c6b251c7082012ee0",
+        "etag": "\"dm16zg12ni69-7i8\"",
+        "lastModified": "Sat, 10 Oct 2026 13:28:19 GMT",
+        "remoteKey": "etag=\"dm16zg12ni69-7i8\"|lastModified=Sat, 10 Oct 2026 13:28:19 GMT|bytes=9728|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9728,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRoleTrust/UnPacker/LiveWallpaper1641.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/LiveWallpaper1641.webp",
+        "localPath": "gallery/zzz/LiveWallpaper1641.webp",
+        "sha256": "8dd9d7791b70e59df6dc1b63812422a1c168aa5a9cfd357c6b251c7082012ee0",
+        "etag": "\"dm16zg12ni69-7i8\"",
+        "lastModified": "Sat, 10 Oct 2026 13:28:19 GMT",
+        "remoteKey": "etag=\"dm16zg12ni69-7i8\"|lastModified=Sat, 10 Oct 2026 13:28:19 GMT|bytes=9728|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9728,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRoleTrust/UnPacker/LiveWallpaper1641.png",
+      "rank": 4,
+      "class": 67,
+      "name": "Dynamic Wallpaper: {0}"
+    },
+    "detail": {
+      "id": 3510060,
+      "name": "Dynamic Wallpaper: {0}",
+      "desc": "Dynamic wallpaper that can be displayed or changed in the main menu.",
+      "desc2": "Image you received after relations with {0} improved. It has already been converted to a dynamic wallpaper. Look at it when you miss {0}.",
+      "class": {
+        "67": "LIVEWALLPAPER"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRoleTrust/UnPacker/LiveWallpaper1641.png"
+    }
+  }
+}

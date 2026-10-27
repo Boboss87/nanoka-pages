@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3590001",
+    "name": "Dynamic Wallpaper: Delusions in Progress",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRoleTrust/UnPacker/LiveWallpaperAngelsOfDelusion.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/LiveWallpaperAngelsOfDelusion.webp",
+        "localPath": "gallery/zzz/LiveWallpaperAngelsOfDelusion.webp",
+        "sha256": "0180a6911b951e3d6577d481f2df4bfd8245654238a0f0c3754c3f0a7d4075b3",
+        "etag": "\"dld8rgf9g993-7hq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgf9g993-7hq\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9710|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9710,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRoleTrust/UnPacker/LiveWallpaperAngelsOfDelusion.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/LiveWallpaperAngelsOfDelusion.webp",
+        "localPath": "gallery/zzz/LiveWallpaperAngelsOfDelusion.webp",
+        "sha256": "0180a6911b951e3d6577d481f2df4bfd8245654238a0f0c3754c3f0a7d4075b3",
+        "etag": "\"dld8rgf9g993-7hq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgf9g993-7hq\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9710|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9710,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRoleTrust/UnPacker/LiveWallpaperAngelsOfDelusion.png",
+      "rank": 4,
+      "class": 67,
+      "name": "Dynamic Wallpaper: Delusions in Progress"
+    },
+    "detail": {
+      "id": 3590001,
+      "name": "Dynamic Wallpaper: Delusions in Progress",
+      "desc": "Dynamic wallpaper that can be displayed or changed in the main menu.",
+      "desc2": "\"Just add one more syllable at the end, finish it off with a harmony, and that should do it...\"\n\"Whoa... Then I gotta try singing it first! Starting from this note right here—\"\n\"Nangong, c-cut it out with Sunna already... Her heart rate just shot way up!\"",
+      "class": {
+        "67": "LIVEWALLPAPER"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRoleTrust/UnPacker/LiveWallpaperAngelsOfDelusion.png"
+    }
+  }
+}

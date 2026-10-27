@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "10007030",
+    "name": "[Duel] Homemade Spiked Mace",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBlunt09.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBlunt09.webp",
+        "localPath": "gallery/zzz/CardBlunt09.webp",
+        "sha256": "06afb76670e3e427d5a2556078252b79bccb64bf441ec40e8e9ed910e63a205e",
+        "etag": "\"dld8rfq51q0s-d70\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq51q0s-d70\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17100|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17100,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBlunt09.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBlunt09.webp",
+        "localPath": "gallery/zzz/CardBlunt09.webp",
+        "sha256": "06afb76670e3e427d5a2556078252b79bccb64bf441ec40e8e9ed910e63a205e",
+        "etag": "\"dld8rfq51q0s-d70\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq51q0s-d70\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17100|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17100,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBlunt09.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Duel] Homemade Spiked Mace"
+    },
+    "detail": {
+      "id": 10007030,
+      "name": "[Duel] Homemade Spiked Mace",
+      "desc": "When triggering a Chain Attack, all squad members receive 1 stack of Rush, and the Stun DMG Multiplier of enemies hit is increased by <color=#2BAD00>10%</color>, up to a max of <color=#2BAD00>30%</color>.",
+      "desc2": "Who even cares if it's sturdy or practical? As long as it looks terrifying and painful, it's good enough!",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBlunt09.png"
+    }
+  }
+}

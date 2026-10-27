@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "110",
+    "name": "Master Tape",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/GachaTicket1.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/GachaTicket1.webp",
+        "localPath": "gallery/zzz/GachaTicket1.webp",
+        "sha256": "a7038af40e22eb390c7f3f8114f9cf9a5f82fc0538ec8a74f2c54ae48ae3c167",
+        "etag": "\"dld8rg7542ii-82c\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7542ii-82c\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10452|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10452,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/GachaTicket1.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/GachaTicket1.webp",
+        "localPath": "gallery/zzz/GachaTicket1.webp",
+        "sha256": "a7038af40e22eb390c7f3f8114f9cf9a5f82fc0538ec8a74f2c54ae48ae3c167",
+        "etag": "\"dld8rg7542ii-82c\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7542ii-82c\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10452|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10452,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/GachaTicket1.png",
+      "rank": 4,
+      "class": 1,
+      "name": "Master Tape"
+    },
+    "detail": {
+      "id": 110,
+      "name": "Master Tape",
+      "desc": "Required item for Signal Searches on Stable Channel.",
+      "desc2": "This medium can be used to convert audio band signals into visual information. Video store operators may find master tapes to be the most suitable option for maintaining confidentiality.",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/GachaTicket1.png"
+    }
+  }
+}

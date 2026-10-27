@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "304074",
+    "name": "Bangboo Plushie",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/QuestItem_ActivityDetectiveV2_Doll.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/QuestItem_ActivityDetectiveV2_Doll.webp",
+        "localPath": "gallery/zzz/QuestItem_ActivityDetectiveV2_Doll.webp",
+        "sha256": "545098d185cf196b7b3fa2d920986c9d8ba8d5a69ab33a3f401ac568a371e2e0",
+        "etag": "\"dld8rgnwuc6c-5os\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnwuc6c-5os\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7372|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7372,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/QuestItem_ActivityDetectiveV2_Doll.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/QuestItem_ActivityDetectiveV2_Doll.webp",
+        "localPath": "gallery/zzz/QuestItem_ActivityDetectiveV2_Doll.webp",
+        "sha256": "545098d185cf196b7b3fa2d920986c9d8ba8d5a69ab33a3f401ac568a371e2e0",
+        "etag": "\"dld8rgnwuc6c-5os\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnwuc6c-5os\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7372|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7372,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/QuestItem_ActivityDetectiveV2_Doll.png",
+      "rank": 2,
+      "class": 20,
+      "name": "Bangboo Plushie"
+    },
+    "detail": {
+      "id": 304074,
+      "name": "Bangboo Plushie",
+      "desc": "Gift received for delivering a package for Rona",
+      "desc2": "The stitching's a little rough, but the Bangboo's essence is captured spot-on.",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/QuestItem_ActivityDetectiveV2_Doll.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "31234",
+    "name": "Shockstar Disco [4]",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitShockstarDisco_A.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitShockstarDisco_A.webp",
+        "localPath": "gallery/zzz/ItemSuitShockstarDisco_A.webp",
+        "sha256": "5c8755d2a207b98c96395ff7522ce75ac7b32148bfc61789a8862414a217bb0b",
+        "etag": "\"dld8rgevr9qr-7n2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgevr9qr-7n2\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9902|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9902,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitShockstarDisco_A.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitShockstarDisco_A.webp",
+        "localPath": "gallery/zzz/ItemSuitShockstarDisco_A.webp",
+        "sha256": "5c8755d2a207b98c96395ff7522ce75ac7b32148bfc61789a8862414a217bb0b",
+        "etag": "\"dld8rgevr9qr-7n2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgevr9qr-7n2\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9902|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9902,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitShockstarDisco_A.png",
+      "rank": 3,
+      "class": 7,
+      "name": "Shockstar Disco [4]"
+    },
+    "detail": {
+      "id": 31234,
+      "name": "Shockstar Disco [4]",
+      "desc": "Equip to increase Agents' combat capabilities",
+      "desc2": "This Drive Disc contains track four from Shockstar Disco. The melody that emanates with the rotation of the W-Engine is an intense beat.",
+      "class": {
+        "7": "DISK"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitShockstarDisco_A.png"
+    }
+  }
+}

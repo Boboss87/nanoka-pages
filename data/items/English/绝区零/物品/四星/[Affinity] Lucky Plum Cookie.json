@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000980",
+    "name": "[Affinity] Lucky Plum Cookie",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1411.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1411.webp",
+        "localPath": "gallery/zzz/CardDailyUse1411.webp",
+        "sha256": "1755238d3a2b6fe0ab18571f8e5d44e3c6542a926509fee3b11bcf8a4944c661",
+        "etag": "\"dld8rfqgcz0a-bt6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqgcz0a-bt6\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15306|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15306,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1411.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1411.webp",
+        "localPath": "gallery/zzz/CardDailyUse1411.webp",
+        "sha256": "1755238d3a2b6fe0ab18571f8e5d44e3c6542a926509fee3b11bcf8a4944c661",
+        "etag": "\"dld8rfqgcz0a-bt6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqgcz0a-bt6\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15306|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15306,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1411.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Affinity] Lucky Plum Cookie"
+    },
+    "detail": {
+      "id": 1000980,
+      "name": "[Affinity] Lucky Plum Cookie",
+      "desc": "Yuzuha has evoked the Mindscape: <color=#FFAF2C>[Full of Colorful Company]</color>.\n[Full of Colorful Company]: When Yuzuha's <color=#FFFFFF>EX Special Attack: Cavity Alert</color>, <color=#FFFFFF>EX Special Attack: Cavity Alert, Right Now!</color>, or <color=#FFFFFF>Ultimate: Surrender or Suffer the Mischief</color> hits an enemy, all squad members' DMG increases by 15% and Anomaly Buildup Rate by 15%, lasting 40s and repeated triggers reset the duration. When a heavy attack hits an enemy that is not Stunned, it will trigger a forced <color=#FFFFFF>Chain Attack</color>. <color=#FFFFFF>Chain Attacks</color> triggered this way have reduced Interrupt Level and forced <color=#FFFFFF>Chain Attacks</color> can only occur once every 20s. Whenever another character enters through a <color=#FFFFFF>Chain Attack</color>, Yuzuha gains 1 <color=#FFFFFF>Sugar Points</color>. Yuzuha's <color=#FFFFFF>Basic Attack: Hard Candy Shot</color> cooldown is reduced by 25%.",
+      "desc2": "The street snacks of Failume Heights are infamous for their mouth-puckering sourness. While this makes them perfect for Yuzuha's pranks, they also work wonders for folks who wish to stay alert and awake!",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1411.png"
+    }
+  }
+}

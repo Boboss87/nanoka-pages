@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "2100001",
+    "name": "Reserved Relics",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BigBossSelectBox.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BigBossSelectBox.webp",
+        "localPath": "gallery/zzz/BigBossSelectBox.webp",
+        "sha256": "ab9a044bcbc2a54b9b8705700dd5281c73cf12ca20122ea132e1d2f2eb634cf1",
+        "etag": "\"dld8rfpns4q7-81o\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpns4q7-81o\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10428|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10428,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BigBossSelectBox.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BigBossSelectBox.webp",
+        "localPath": "gallery/zzz/BigBossSelectBox.webp",
+        "sha256": "ab9a044bcbc2a54b9b8705700dd5281c73cf12ca20122ea132e1d2f2eb634cf1",
+        "etag": "\"dld8rfpns4q7-81o\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpns4q7-81o\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10428|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10428,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BigBossSelectBox.png",
+      "rank": 4,
+      "class": 52,
+      "name": "Reserved Relics"
+    },
+    "detail": {
+      "id": 2100001,
+      "name": "Reserved Relics",
+      "desc": "After use, you can choose and obtain one of the following: Ferocious Grip, Living Drive, Finale Dance Shoes, Scarlet Engine, and Sycophant's Refinement.",
+      "desc2": "The preservation environment for the rare-form Etheric coagulum is extremely demanding, and the current device is the most perfect \"storage solution\" available. The holder can extract power from it for their own use—provided they can control it, rather than be controlled by it.",
+      "class": {
+        "52": "OPTIONAL GIFT"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BigBossSelectBox.png"
+    }
+  }
+}

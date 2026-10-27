@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1100963",
+    "name": "[Affinity] Path of Honor",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1271.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1271.webp",
+        "localPath": "gallery/zzz/CardDailyUse1271.webp",
+        "sha256": "5ec402ada6052f2b292bb9d958ad8deacb6385954a4f1efeb35fd7e476695c72",
+        "etag": "\"dld8rfqf63qv-czw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqf63qv-czw\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16844|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16844,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1271.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1271.webp",
+        "localPath": "gallery/zzz/CardDailyUse1271.webp",
+        "sha256": "5ec402ada6052f2b292bb9d958ad8deacb6385954a4f1efeb35fd7e476695c72",
+        "etag": "\"dld8rfqf63qv-czw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqf63qv-czw\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16844|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16844,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1271.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Affinity] Path of Honor"
+    },
+    "detail": {
+      "id": 1100963,
+      "name": "[Affinity] Path of Honor",
+      "desc": "Seth has evoked the Mindscape: <color=#FFAF2C>Idealist</color>. Additionally, gain the <color=#FFAF2C>Silver Offensive Line</color> effect.",
+      "desc2": "The pain didn't affect Seth's condition. Instead, it raised his spirit. These wounds are his medal of honor as a Public Security officer.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1271.png"
+    }
+  }
+}

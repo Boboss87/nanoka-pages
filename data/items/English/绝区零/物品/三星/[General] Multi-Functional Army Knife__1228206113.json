@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1228206113",
+    "name": "[General] Multi-Functional Army Knife",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse27.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse27.webp",
+        "localPath": "gallery/zzz/CardDailyUse27.webp",
+        "sha256": "5ed2622fa8923e2420426eda7ecb3467b7f03dcea880fb57095ae187b04c3d9b",
+        "etag": "\"dld8rfqiqpj4-aay\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqiqpj4-aay\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=13354|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13354,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse27.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse27.webp",
+        "localPath": "gallery/zzz/CardDailyUse27.webp",
+        "sha256": "5ed2622fa8923e2420426eda7ecb3467b7f03dcea880fb57095ae187b04c3d9b",
+        "etag": "\"dld8rfqiqpj4-aay\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqiqpj4-aay\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=13354|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13354,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse27.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[General] Multi-Functional Army Knife"
+    },
+    "detail": {
+      "id": 1228206113,
+      "name": "[General] Multi-Functional Army Knife",
+      "desc": "Protagonist ATK <color=#2BAD00>+5</color>, <color=#CF4029>no bombs will explode</color>",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse27.png"
+    }
+  }
+}

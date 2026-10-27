@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1370503",
+    "name": "[Rupture: Activation] Offense-Defense Balance",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardRuptureS203.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardRuptureS203.webp",
+        "localPath": "gallery/zzz/CardRuptureS203.webp",
+        "sha256": "5593c86835d8117bd177a42f85ea940c5517c43de9e8ab3c0fcd6d3452d332ea",
+        "etag": "\"dld8rfqy7zxk-cac\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqy7zxk-cac\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15924|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15924,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardRuptureS203.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardRuptureS203.webp",
+        "localPath": "gallery/zzz/CardRuptureS203.webp",
+        "sha256": "5593c86835d8117bd177a42f85ea940c5517c43de9e8ab3c0fcd6d3452d332ea",
+        "etag": "\"dld8rfqy7zxk-cac\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqy7zxk-cac\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15924|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15924,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardRuptureS203.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Rupture: Activation] Offense-Defense Balance"
+    },
+    "detail": {
+      "id": 1370503,
+      "name": "[Rupture: Activation] Offense-Defense Balance",
+      "desc": "When launching <color=#FFFFFF>EX Special Attack</color>, the whole squad <color=#2BAD00>restores 4% HP</color>. This effect can trigger once every 10s.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardRuptureS203.png"
+    }
+  }
+}

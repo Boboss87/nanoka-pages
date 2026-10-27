@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "2100037",
+    "name": "Suit-Up Gift",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/OptionalGift_Weapon_A_01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/OptionalGift_Weapon_A_01.webp",
+        "localPath": "gallery/zzz/OptionalGift_Weapon_A_01.webp",
+        "sha256": "dd9130a93cf293d61ad96a5f7b9500943d1020cb35e1977722fe27c2dc9569f9",
+        "etag": "\"dld8rgnuglni-8ba\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnuglni-8ba\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10774|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10774,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/OptionalGift_Weapon_A_01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/OptionalGift_Weapon_A_01.webp",
+        "localPath": "gallery/zzz/OptionalGift_Weapon_A_01.webp",
+        "sha256": "dd9130a93cf293d61ad96a5f7b9500943d1020cb35e1977722fe27c2dc9569f9",
+        "etag": "\"dld8rgnuglni-8ba\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnuglni-8ba\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10774|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10774,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/OptionalGift_Weapon_A_01.png",
+      "rank": 3,
+      "class": 52,
+      "name": "Suit-Up Gift"
+    },
+    "detail": {
+      "id": 2100037,
+      "name": "Suit-Up Gift",
+      "desc": "Obtain one of the following A-Rank W-Engines:\nDemara Battery Mark II, The Vault, Housekeeper, Starlight Engine Replica, Drill Rig - Red Axis, Big Cylinder, Bashful Demon, Kaboom the Cannon, Peacekeeper - Specialized, Roaring Ride, Box Cutter, Tremor Trigram Vessel, Grill O'Wisp",
+      "desc2": "",
+      "class": {
+        "52": "OPTIONAL GIFT"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/OptionalGift_Weapon_A_01.png"
+    }
+  }
+}

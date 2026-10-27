@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4321025",
+    "name": "[Fragile] [Zhao] Frostmist Enigma - Lv.50",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_026.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_026.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_026.webp",
+        "sha256": "fdb5ec6aed36cf33317e6c2c57b6af457e243cbe80a48734a0caa59b7977b266",
+        "etag": "\"dld8rgrg996a-7m2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrg996a-7m2\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9866|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9866,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_026.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_026.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_026.webp",
+        "sha256": "fdb5ec6aed36cf33317e6c2c57b6af457e243cbe80a48734a0caa59b7977b266",
+        "etag": "\"dld8rgrg996a-7m2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrg996a-7m2\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9866|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9866,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_026.png",
+      "rank": 4,
+      "class": 132,
+      "name": "[Fragile] [Zhao] Frostmist Enigma - Lv.50"
+    },
+    "detail": {
+      "id": 4321025,
+      "name": "[Fragile] [Zhao] Frostmist Enigma - Lv.50",
+      "desc": "Zhao's exclusive Tactical Prism.\nWhen there are 2 or 1 surviving Agents in the squad, extraction time is reduced by 30%/60%.\nWhen Zhao activates Ether Veil, she recovers 30 Frostbite Points and <color=#2BAD00>increases ATK by 25%</color> for all squad members, lasting 50s.",
+      "desc2": "",
+      "class": {
+        "132": "LABYRINTH"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_026.png"
+    }
+  }
+}

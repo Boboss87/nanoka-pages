@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1357020",
+    "name": "[Ellen] Arctic Hunt",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic006.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic006.webp",
+        "localPath": "gallery/zzz/Relic006.webp",
+        "sha256": "575677599949c9b50b9d4b4ba5d3fb229b8a0d7d54fed2d53e69fd5667578ca1",
+        "etag": "\"dld8rgnz82p6-3lu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnz82p6-3lu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4674|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4674,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic006.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic006.webp",
+        "localPath": "gallery/zzz/Relic006.webp",
+        "sha256": "575677599949c9b50b9d4b4ba5d3fb229b8a0d7d54fed2d53e69fd5667578ca1",
+        "etag": "\"dld8rgnz82p6-3lu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnz82p6-3lu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4674|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4674,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic006.png",
+      "rank": 4,
+      "class": 105,
+      "name": "[Ellen] Arctic Hunt"
+    },
+    "detail": {
+      "id": 1357020,
+      "name": "[Ellen] Arctic Hunt",
+      "desc": "Every 15s, Ellen applies a <color=#FFAF2C>Hunting</color> mark that lasts for 15s to a random enemy. When hitting an enemy marked with <color=#FFAF2C>Hunting</color> with <color=#FFAF2C>EX Special Attack</color> or Swift Scissors/Charged Scissor Strike from <color=#FFAF2C>Dash Attack: Arctic Ambush</color>, pressing Basic Attack or Special Attack allows Ellen to <color=#FFAF2C>immediately trigger the skill again</color> with <color=#FFAF2C>no cost or other requirements</color>. When she obtains <color=#FFAF2C>Flash Freeze Charge</color>, each excess point of <color=#FFAF2C>Flash Freeze Charge</color> <color=#FFAF2C>increases Ellen's ATK by 12%</color>. This effect lasts for 10s and stacks up to 9 times. The duration of each stack is calculated separately.",
+      "desc2": "",
+      "class": {
+        "105": "WEAPON"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic006.png"
+    }
+  }
+}

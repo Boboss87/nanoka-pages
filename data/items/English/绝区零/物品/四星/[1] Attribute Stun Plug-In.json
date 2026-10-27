@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1357502",
+    "name": "[1] Attribute Stun Plug-In",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CoopCard27.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CoopCard27.webp",
+        "localPath": "gallery/zzz/CoopCard27.webp",
+        "sha256": "4f4ecdc3fa865c0bdfc5eb7b7c90dab53ced57dde1aa07bfc26ba0fd30d1a362",
+        "etag": "\"dld8rfrfhl85-9ve\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrfhl85-9ve\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=12794|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12794,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CoopCard27.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CoopCard27.webp",
+        "localPath": "gallery/zzz/CoopCard27.webp",
+        "sha256": "4f4ecdc3fa865c0bdfc5eb7b7c90dab53ced57dde1aa07bfc26ba0fd30d1a362",
+        "etag": "\"dld8rfrfhl85-9ve\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrfhl85-9ve\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=12794|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12794,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CoopCard27.png",
+      "rank": 4,
+      "class": 106,
+      "name": "[1] Attribute Stun Plug-In"
+    },
+    "detail": {
+      "id": 1357502,
+      "name": "[1] Attribute Stun Plug-In",
+      "desc": "Increases Agent <color=#FFAF2C>DMG dealt</color> by 25%.\nIncreases <color=#FFAF2C>Impact</color> by 15%.\nIncreases <color=#FFAF2C>Energy Generation Rate</color> by 5%.",
+      "desc2": "",
+      "class": {
+        "106": "TAROT CARD"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CoopCard27.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4221002",
+    "name": "King's Hammer (Replica)",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Arcade/Game/Companion/UnPacker/Companion/weapon_53_single_size_512_512_1f.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/weapon_53_single_size_512_512_1f.webp",
+        "localPath": "gallery/zzz/weapon_53_single_size_512_512_1f.webp",
+        "sha256": "9f68fec7939a98a69a86ab43aaab5fedb17c07fc143aff1dc30eb6910f3a59f7",
+        "etag": "\"dld8rgx23g0x-1mc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:58 GMT",
+        "remoteKey": "etag=\"dld8rgx23g0x-1mc\"|lastModified=Sat, 12 Sep 2026 09:47:58 GMT|bytes=2100|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 2100,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Arcade/Game/Companion/UnPacker/Companion/weapon_53_single_size_512_512_1f.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/weapon_53_single_size_512_512_1f.webp",
+        "localPath": "gallery/zzz/weapon_53_single_size_512_512_1f.webp",
+        "sha256": "9f68fec7939a98a69a86ab43aaab5fedb17c07fc143aff1dc30eb6910f3a59f7",
+        "etag": "\"dld8rgx23g0x-1mc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:58 GMT",
+        "remoteKey": "etag=\"dld8rgx23g0x-1mc\"|lastModified=Sat, 12 Sep 2026 09:47:58 GMT|bytes=2100|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 2100,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Arcade/Game/Companion/UnPacker/Companion/weapon_53_single_size_512_512_1f.png",
+      "rank": 4,
+      "class": 122,
+      "name": "King's Hammer (Replica)"
+    },
+    "detail": {
+      "id": 4221002,
+      "name": "King's Hammer (Replica)",
+      "desc": "<color=#FFFFFF>Weapons placed in Equipment Slots will lose Corruption Resistance at the end of each run. When it reaches zero, all bonuses are lost.</color>\nA custom prize from Marcel's Bootopia, and a powerful weapon beloved by Bangboo.",
+      "desc2": "BKItem_4221002_Story",
+      "class": {
+        "122": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Arcade/Game/Companion/UnPacker/Companion/weapon_53_single_size_512_512_1f.png"
+    }
+  }
+}

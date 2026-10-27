@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1010501",
+    "name": "[Shock] Lightning Rod",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardElectro12.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardElectro12.webp",
+        "localPath": "gallery/zzz/CardElectro12.webp",
+        "sha256": "f454b51fb019a143fcada8c5cca07258aec48d48bf34ec29f6fd2a585326d7b6",
+        "etag": "\"dld8rfqlpvoo-ct6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqlpvoo-ct6\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16602|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16602,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardElectro12.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardElectro12.webp",
+        "localPath": "gallery/zzz/CardElectro12.webp",
+        "sha256": "f454b51fb019a143fcada8c5cca07258aec48d48bf34ec29f6fd2a585326d7b6",
+        "etag": "\"dld8rfqlpvoo-ct6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqlpvoo-ct6\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16602|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16602,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardElectro12.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Shock] Lightning Rod"
+    },
+    "detail": {
+      "id": 1010501,
+      "name": "[Shock] Lightning Rod",
+      "desc": "Dealing <color=#2EB6FF>Electric DMG</color> triggers <color=#2EB6FF>Jolt</color>, inflicting <color=#2EB6FF>Electric DMG</color> equal to 1,200% of ATK. This effect can trigger once every 8s.",
+      "desc2": "This Resonium may seem inconspicuous most of the time, but when thunderstorms roll around, it becomes the master of the sky.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardElectro12.png"
+    }
+  }
+}

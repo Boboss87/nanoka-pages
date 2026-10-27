@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3302009",
+    "name": "Starforged Sword Song",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard50.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard50.webp",
+        "localPath": "gallery/zzz/Callingcard50.webp",
+        "sha256": "604c84adb5c0e410db07c5ba0f4d26804b1e9d2e3e2603c8b10b6246f06810f0",
+        "etag": "\"dld8rfpvirxf-7gm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpvirxf-7gm\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9670|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9670,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard50.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard50.webp",
+        "localPath": "gallery/zzz/Callingcard50.webp",
+        "sha256": "604c84adb5c0e410db07c5ba0f4d26804b1e9d2e3e2603c8b10b6246f06810f0",
+        "etag": "\"dld8rfpvirxf-7gm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpvirxf-7gm\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9670|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9670,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard50.png",
+      "rank": 4,
+      "class": 65,
+      "name": "Starforged Sword Song"
+    },
+    "detail": {
+      "id": 3302009,
+      "name": "Starforged Sword Song",
+      "desc": "Earn a 2-Star rating in \"Deadly Assault: Adversity Mode\" to automatically unlock the limited-time namecard reward.",
+      "desc2": "The universe is boundless, and the stars shine beyond compare.\nHere is where our journey begins, where we forge an immortal hymn with nothing but iron swords.",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard50.png"
+    }
+  }
+}

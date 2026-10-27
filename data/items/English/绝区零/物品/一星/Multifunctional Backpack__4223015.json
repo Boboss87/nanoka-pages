@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4223015",
+    "name": "Multifunctional Backpack",
+    "rarity": "一星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovEquipBag_3.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovEquipBag_3.webp",
+        "localPath": "gallery/zzz/BangkovEquipBag_3.webp",
+        "sha256": "570eb2c1eeade4035d8ac240ee01803f477067ee63be388e95fde093a0c685f2",
+        "etag": "\"dld8rfpj0noj-5rg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpj0noj-5rg\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7468|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7468,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovEquipBag_3.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovEquipBag_3.webp",
+        "localPath": "gallery/zzz/BangkovEquipBag_3.webp",
+        "sha256": "570eb2c1eeade4035d8ac240ee01803f477067ee63be388e95fde093a0c685f2",
+        "etag": "\"dld8rfpj0noj-5rg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpj0noj-5rg\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7468|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7468,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovEquipBag_3.png",
+      "rank": 1,
+      "class": 122,
+      "name": "Multifunctional Backpack"
+    },
+    "detail": {
+      "id": 4223015,
+      "name": "Multifunctional Backpack",
+      "desc": "A multi-functional backpack made exclusively for Bangboo, crafted from cloth and leather.",
+      "desc2": "BKItem_4223015_Story",
+      "class": {
+        "122": null
+      },
+      "rarity": 1,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovEquipBag_3.png"
+    }
+  }
+}

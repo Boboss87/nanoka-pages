@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3301019",
+    "name": "The Shape of Delusion",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard36.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard36.webp",
+        "localPath": "gallery/zzz/Callingcard36.webp",
+        "sha256": "74dfa359836a83a6247168fa3ba6eab49e82e692a5ff057bcca2409c35a491db",
+        "etag": "\"dld8rfprcqih-7hs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfprcqih-7hs\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9712|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9712,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard36.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard36.webp",
+        "localPath": "gallery/zzz/Callingcard36.webp",
+        "sha256": "74dfa359836a83a6247168fa3ba6eab49e82e692a5ff057bcca2409c35a491db",
+        "etag": "\"dld8rfprcqih-7hs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfprcqih-7hs\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9712|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9712,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard36.png",
+      "rank": 3,
+      "class": 65,
+      "name": "The Shape of Delusion"
+    },
+    "detail": {
+      "id": 3301019,
+      "name": "The Shape of Delusion",
+      "desc": "A namecard reward for the limited-time event \"Angels of Delusion Training in Progress.\"\nLimited-time reward.",
+      "desc2": "The girls seize their imaginings the way you'd lift a naughty kitten, tracing the outlines to give them shape... clumsy, soft curves that stack together like building blocks you can form into anything.\nDuring their time with the \"assistant,\" those blocks piled higher and higher, becoming charming stages and castles... and with a bright melody underfoot, they stepped upward, turning everyday life into a tiny musical.",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard36.png"
+    }
+  }
+}

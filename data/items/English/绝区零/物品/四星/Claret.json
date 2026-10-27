@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1611",
+    "name": "Claret",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece69.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece69.webp",
+        "localPath": "gallery/zzz/IconRolePiece69.webp",
+        "sha256": "47e6800c0b08f21b0b6e80895bc4fc03334eac116c9eaf0f8ef15bd5106dab0c",
+        "etag": "\"dld8rgdgjxhp-8ms\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgdgjxhp-8ms\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11188|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11188,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece69.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece69.webp",
+        "localPath": "gallery/zzz/IconRolePiece69.webp",
+        "sha256": "47e6800c0b08f21b0b6e80895bc4fc03334eac116c9eaf0f8ef15bd5106dab0c",
+        "etag": "\"dld8rgdgjxhp-8ms\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgdgjxhp-8ms\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11188|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11188,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece69.png",
+      "rank": 4,
+      "class": 3,
+      "name": "Claret"
+    },
+    "detail": {
+      "id": 1611,
+      "name": "Claret",
+      "desc": "Use it to obtain the Agent or unlock the Agent's Mindscapes.",
+      "desc2": "Close-up shots of Claret in her daily life and combat, capturing key moments before and after she became an Agent.\nThese focuses also offer glimpses into details like her combat style and signature weapons, helping you better understand what this Agent brings to the table.\n\nAn invitation bearing the Flint family's wax seal — deep crimson, like blood set in stone, carrying an air of age-old authority.",
+      "class": {
+        "3": "AGENT"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece69.png"
+    }
+  }
+}

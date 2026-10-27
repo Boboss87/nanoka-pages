@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "5421",
+    "name": "Agent Focus: Pan Yinhu",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece45.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece45.webp",
+        "localPath": "gallery/zzz/IconRolePiece45.webp",
+        "sha256": "acc6eb8eb6547979f765fdc40605a9aec7f985f11db5435139cc9ea5fa338bce",
+        "etag": "\"dld8rgdermlk-82a\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgdermlk-82a\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10450|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10450,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece45.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece45.webp",
+        "localPath": "gallery/zzz/IconRolePiece45.webp",
+        "sha256": "acc6eb8eb6547979f765fdc40605a9aec7f985f11db5435139cc9ea5fa338bce",
+        "etag": "\"dld8rgdermlk-82a\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgdermlk-82a\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10450|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10450,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece45.png",
+      "rank": 3,
+      "class": 4,
+      "name": "Agent Focus: Pan Yinhu"
+    },
+    "detail": {
+      "id": 5421,
+      "name": "Agent Focus: Pan Yinhu",
+      "desc": "Used to unlock Agent's Mindscape Cinema",
+      "desc2": "Snapshots from Pan Yinhu's daily life and from in combat, recording important moments before and after he became an Agent.\nThese images also provide insights into his fighting style and favorite weapons, helping to better understand his strengths.\n\nApart from cooking and training, his remaining time seems to be occupied by haggling. A rare photo reveals his remaining balance... What a... motivating number.",
+      "class": {
+        "4": "AGENT ARCHIVE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece45.png"
+    }
+  }
+}

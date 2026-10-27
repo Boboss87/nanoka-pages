@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "31031",
+    "name": "Woodpecker Electro [1]",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitWoodpeckerElectro_A.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitWoodpeckerElectro_A.webp",
+        "localPath": "gallery/zzz/ItemSuitWoodpeckerElectro_A.webp",
+        "sha256": "a309b75ea04b0a0cf67798fdd658638dcfca05b970cb05242b1d1ab19421142f",
+        "etag": "\"dld8rgezxb5q-7fy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgezxb5q-7fy\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9646|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9646,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitWoodpeckerElectro_A.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitWoodpeckerElectro_A.webp",
+        "localPath": "gallery/zzz/ItemSuitWoodpeckerElectro_A.webp",
+        "sha256": "a309b75ea04b0a0cf67798fdd658638dcfca05b970cb05242b1d1ab19421142f",
+        "etag": "\"dld8rgezxb5q-7fy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgezxb5q-7fy\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9646|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9646,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitWoodpeckerElectro_A.png",
+      "rank": 3,
+      "class": 7,
+      "name": "Woodpecker Electro [1]"
+    },
+    "detail": {
+      "id": 31031,
+      "name": "Woodpecker Electro [1]",
+      "desc": "Equip to increase Agents' combat capabilities",
+      "desc2": "This Drive Disc contains track one from Woodpecker Electro. The melody that emanates with the rotation of the W-Engine is light and lively.",
+      "class": {
+        "7": "DISK"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitWoodpeckerElectro_A.png"
+    }
+  }
+}

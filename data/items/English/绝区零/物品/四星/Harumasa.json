@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1201",
+    "name": "Harumasa",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece35.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece35.webp",
+        "localPath": "gallery/zzz/IconRolePiece35.webp",
+        "sha256": "94b2adad99ae8eae9df98193a9d2483af4641acad77f8566bccff5839915cd62",
+        "etag": "\"dld8rgde66yv-7zg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgde66yv-7zg\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10348|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10348,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece35.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece35.webp",
+        "localPath": "gallery/zzz/IconRolePiece35.webp",
+        "sha256": "94b2adad99ae8eae9df98193a9d2483af4641acad77f8566bccff5839915cd62",
+        "etag": "\"dld8rgde66yv-7zg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgde66yv-7zg\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10348|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10348,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece35.png",
+      "rank": 4,
+      "class": 3,
+      "name": "Harumasa"
+    },
+    "detail": {
+      "id": 1201,
+      "name": "Harumasa",
+      "desc": "Use it to obtain the Agent or unlock the Agent's Mindscapes.",
+      "desc2": "Snapshots from Asaba Harumasa's daily life and from in combat, recording important moments before and after he became an Agent.\nThese images also provide insights into his fighting style and favorite weapons, helping to better understand his strengths.\n\nSneaking onto the balcony to slack off during work... Going home early with the excuse he doesn't feel well, but actually going to Lumina Square to play with stray cats and dogs... There's way too many shots of Harumasa slacking off!",
+      "class": {
+        "3": "AGENT"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece35.png"
+    }
+  }
+}

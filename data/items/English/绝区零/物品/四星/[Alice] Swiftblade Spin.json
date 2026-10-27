@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1350122",
+    "name": "[Alice] Swiftblade Spin",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic042.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic042.webp",
+        "localPath": "gallery/zzz/Relic042.webp",
+        "sha256": "e58514d214c5ad63da66417e84536f25be38008e1d8014d5b36e5fa465b8035e",
+        "etag": "\"dld8rgo10dlb-2ni\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo10dlb-2ni\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=3438|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 3438,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic042.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic042.webp",
+        "localPath": "gallery/zzz/Relic042.webp",
+        "sha256": "e58514d214c5ad63da66417e84536f25be38008e1d8014d5b36e5fa465b8035e",
+        "etag": "\"dld8rgo10dlb-2ni\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo10dlb-2ni\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=3438|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 3438,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic042.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Alice] Swiftblade Spin"
+    },
+    "detail": {
+      "id": 1350122,
+      "name": "[Alice] Swiftblade Spin",
+      "desc": "Alice's <color=#FFFFFF>Dodge Counter</color> and <color=#FFFFFF>Quick Assist</color> are replaced with <color=#FFFFFF>Swift Featherblade</color>. When Alice uses <color=#FFFFFF>Swift Featherblade</color>, her <color=#2BAD00>Anomaly Proficiency increases by 150</color> for 15s.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic042.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "142",
+    "name": "Investigation Certificate",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ChallengeShopCoin02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ChallengeShopCoin02.webp",
+        "localPath": "gallery/zzz/ChallengeShopCoin02.webp",
+        "sha256": "c7b548986844fd132b0dacb8bc01a93401cfca3bfa67b35686578fe77ab6fd9a",
+        "etag": "\"dld8rfr9j8x2-7w4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr9j8x2-7w4\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10228|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10228,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ChallengeShopCoin02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ChallengeShopCoin02.webp",
+        "localPath": "gallery/zzz/ChallengeShopCoin02.webp",
+        "sha256": "c7b548986844fd132b0dacb8bc01a93401cfca3bfa67b35686578fe77ab6fd9a",
+        "etag": "\"dld8rfr9j8x2-7w4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr9j8x2-7w4\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10228|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10228,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ChallengeShopCoin02.png",
+      "rank": 4,
+      "class": 1,
+      "name": "Investigation Certificate"
+    },
+    "detail": {
+      "id": 142,
+      "name": "Investigation Certificate",
+      "desc": "Used for purchasing exclusive actions and other valuable items in Association Supplies - Exclusive Showcase.",
+      "desc2": "— A commemorative token exclusively for the brave.",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ChallengeShopCoin02.png"
+    }
+  }
+}

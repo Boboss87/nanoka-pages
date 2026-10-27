@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "452",
+    "name": "Gilded: Blessings Come Knocking Boo",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BlindBoxJackPot_07.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BlindBoxJackPot_07.webp",
+        "localPath": "gallery/zzz/BlindBoxJackPot_07.webp",
+        "sha256": "497e5f1ceae4e17c11cb7d2e891d061d19019183b51608c44b4ffc717b92ea43",
+        "etag": "\"dld8rfpoyzzm-92e\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpoyzzm-92e\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=11750|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11750,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BlindBoxJackPot_07.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BlindBoxJackPot_07.webp",
+        "localPath": "gallery/zzz/BlindBoxJackPot_07.webp",
+        "sha256": "497e5f1ceae4e17c11cb7d2e891d061d19019183b51608c44b4ffc717b92ea43",
+        "etag": "\"dld8rfpoyzzm-92e\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpoyzzm-92e\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=11750|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11750,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BlindBoxJackPot_07.png",
+      "rank": 4,
+      "class": 1,
+      "name": "Gilded: Blessings Come Knocking Boo"
+    },
+    "detail": {
+      "id": 452,
+      "name": "Gilded: Blessings Come Knocking Boo",
+      "desc": "A single Bangboo Badge from the \"Gilded\" series, obtained from the \"Gilded Surprise, Wonderful Boo-ns\" Event Phase 2.",
+      "desc2": "\"The light from this lantern is so warm and cozy... feels like it could light up the whole New Year!\"\n—The lively ehn-ne sounds of a Bangboo hopping around while holding a lantern.",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BlindBoxJackPot_07.png"
+    }
+  }
+}

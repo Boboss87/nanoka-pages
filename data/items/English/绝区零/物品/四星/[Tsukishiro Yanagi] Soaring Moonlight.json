@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1320801",
+    "name": "[Tsukishiro Yanagi] Soaring Moonlight",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic015.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic015.webp",
+        "localPath": "gallery/zzz/Relic015.webp",
+        "sha256": "feb9c4592021b97809868d84239fac08b0b4b09a06191617312cfc37eeceab12",
+        "etag": "\"dld8rgnztibw-340\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnztibw-340\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4032|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4032,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.desc.IconMap.Icon_SpecialReady",
+        "kind": "icon_map",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "<IconMap:Icon_SpecialReady>",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRoleSkillKeySpecialV2.webp",
+        "localPath": "gallery/zzz/IconRoleSkillKeySpecialV2.webp",
+        "sha256": "d8a0a8bdfabce404b4a482d0b1053d9c54d1cc1c523c620202333906a026a1d0",
+        "etag": "\"dld8rge5k5zj-1iy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rge5k5zj-1iy\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=1978|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 1978,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic015.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic015.webp",
+        "localPath": "gallery/zzz/Relic015.webp",
+        "sha256": "feb9c4592021b97809868d84239fac08b0b4b09a06191617312cfc37eeceab12",
+        "etag": "\"dld8rgnztibw-340\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnztibw-340\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4032|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4032,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic015.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Tsukishiro Yanagi] Soaring Moonlight"
+    },
+    "detail": {
+      "id": 1320801,
+      "name": "[Tsukishiro Yanagi] Soaring Moonlight",
+      "desc": "During <color=#FFFFFF>EX Special Attack: Gekka Ruten</color>, after performing a quick thrust, Tsukishiro Yanagi hovers in midair, <color=#2BAD00>continuously channeling thunderbolt strikes into the ground</color>, and dealing <color=#2EB6FF>Electric DMG</color>. Tsukishiro Yanagi triggers the downward smash from <color=#FFFFFF>EX Special Attack: Gekka Ruten</color> by releasing or pressing Special Attack <IconMap:Icon_SpecialReady> again, or when the duration limit is reached. When her thunderbolt strikes hit enemies, it <color=#2BAD00>increases the Disorder DMG they take by 3%</color>, stacking up to 20 times and lasting 6s. Repeated triggers reset the duration. When <color=#FFFFFF>EX Special Attack: Gekka Ruten</color>'s heavy attack hits enemies, Tsukishiro Yanagi gains shield equal to 20% of her Max HP, lasting 20s, triggering up to once per 20s.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic015.png"
+    }
+  }
+}

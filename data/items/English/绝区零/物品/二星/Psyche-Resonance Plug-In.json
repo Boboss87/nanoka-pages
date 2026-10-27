@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "400032",
+    "name": "Psyche-Resonance Plug-In",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill39.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivePropsSkill39.webp",
+        "localPath": "gallery/zzz/ActivePropsSkill39.webp",
+        "sha256": "0c6ce6a89abc2f5c37761799c45d40dd4659cbe2fb6bb062a210f7132ea8fa0e",
+        "etag": "\"dld8rfnw2o89-48u\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnw2o89-48u\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=5502|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5502,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill39.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivePropsSkill39.webp",
+        "localPath": "gallery/zzz/ActivePropsSkill39.webp",
+        "sha256": "0c6ce6a89abc2f5c37761799c45d40dd4659cbe2fb6bb062a210f7132ea8fa0e",
+        "etag": "\"dld8rfnw2o89-48u\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnw2o89-48u\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=5502|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5502,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill39.png",
+      "rank": 2,
+      "class": 15,
+      "name": "Psyche-Resonance Plug-In"
+    },
+    "detail": {
+      "id": 400032,
+      "name": "Psyche-Resonance Plug-In",
+      "desc": "Enter Qingyi's Mindspace, sharing your senses and gathered intelligence.",
+      "desc2": "",
+      "class": {
+        "15": "HOLLOW ITEM"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill39.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000704",
+    "name": "[Duel] Tonfa",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBlunt05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBlunt05.webp",
+        "localPath": "gallery/zzz/CardBlunt05.webp",
+        "sha256": "590156fc11e6bf4236fc2367693d4b3fbf85575c1e59df81c4b9a3ae75a1c29b",
+        "etag": "\"dld8rfq4gae3-caa\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq4gae3-caa\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15922|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15922,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBlunt05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBlunt05.webp",
+        "localPath": "gallery/zzz/CardBlunt05.webp",
+        "sha256": "590156fc11e6bf4236fc2367693d4b3fbf85575c1e59df81c4b9a3ae75a1c29b",
+        "etag": "\"dld8rfq4gae3-caa\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq4gae3-caa\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15922|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15922,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBlunt05.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Duel] Tonfa"
+    },
+    "detail": {
+      "id": 1000704,
+      "name": "[Duel] Tonfa",
+      "desc": "Enemies are Stunned for <color=#2BAD00>10%</color> longer.",
+      "desc2": "Attack and defense are one. The more you hit, the faster you'll become.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBlunt05.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1358042",
+    "name": "Voice Emote: Out of My Way!",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconEmoji/UnPacker/IconEmoji20001.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconEmoji20001.webp",
+        "localPath": "gallery/zzz/IconEmoji20001.webp",
+        "sha256": "0aa4ed3ac4ca3ef7f055dcda643c2163130f75d8fefe8fdc34a66f6810483c9d",
+        "etag": "\"dld8rg7l6sjp-6km\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7l6sjp-6km\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=8518|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8518,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconEmoji/UnPacker/IconEmoji20001.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconEmoji20001.webp",
+        "localPath": "gallery/zzz/IconEmoji20001.webp",
+        "sha256": "0aa4ed3ac4ca3ef7f055dcda643c2163130f75d8fefe8fdc34a66f6810483c9d",
+        "etag": "\"dld8rg7l6sjp-6km\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7l6sjp-6km\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=8518|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8518,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconEmoji/UnPacker/IconEmoji20001.png",
+      "rank": 4,
+      "class": 108,
+      "name": "Voice Emote: Out of My Way!"
+    },
+    "detail": {
+      "id": 1358042,
+      "name": "Voice Emote: Out of My Way!",
+      "desc": "An emote that automatically plays the Agent's corresponding voice line. It can be equipped and used in \"Divine Maze: Joint Investigation\" and in chat.\nDuring \"Joint Investigation,\" you can send this emote to the whole squad through the <color=#FFAF2C>Emote button on the right</color> in each stage.",
+      "desc2": "",
+      "class": {
+        "108": "STICKER"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconEmoji/UnPacker/IconEmoji20001.png"
+    }
+  }
+}

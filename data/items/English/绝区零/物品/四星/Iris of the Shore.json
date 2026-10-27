@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3113311",
+    "name": "Iris of the Shore",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_VivianIrisoftheShore.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Skin_VivianIrisoftheShore.webp",
+        "localPath": "gallery/zzz/Skin_VivianIrisoftheShore.webp",
+        "sha256": "d5ca34ca552a0be5c236a65d47e99505f3d7cfc5c185a7bc9033dc49a6ad5586",
+        "etag": "\"dld8rgodihu8-83o\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgodihu8-83o\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10500|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10500,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_VivianIrisoftheShore.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Skin_VivianIrisoftheShore.webp",
+        "localPath": "gallery/zzz/Skin_VivianIrisoftheShore.webp",
+        "sha256": "d5ca34ca552a0be5c236a65d47e99505f3d7cfc5c185a7bc9033dc49a6ad5586",
+        "etag": "\"dld8rgodihu8-83o\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgodihu8-83o\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10500|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10500,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_VivianIrisoftheShore.png",
+      "rank": 4,
+      "class": 63,
+      "name": "Iris of the Shore"
+    },
+    "detail": {
+      "id": 3113311,
+      "name": "Iris of the Shore",
+      "desc": "Vivian's Outfit.",
+      "desc2": "Birds soar into the starlit skies, while irises bloom by the pond. Though this enchanting moonlit night may be brief, please let me see the lingering anticipation in your eyes in the moment I bloom.",
+      "class": {
+        "63": "DRESS"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_VivianIrisoftheShore.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3600023",
+    "name": "A Corner of the Banquet",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Snapshot.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Snapshot.webp",
+        "localPath": "gallery/zzz/Snapshot.webp",
+        "sha256": "a0bda6c035a5d8f30f57c4ce0b65189f1dbc990ffcddcb63db1e953432a71de7",
+        "etag": "\"dld8rgodihu8-6ku\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgodihu8-6ku\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8526|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8526,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Snapshot.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Snapshot.webp",
+        "localPath": "gallery/zzz/Snapshot.webp",
+        "sha256": "a0bda6c035a5d8f30f57c4ce0b65189f1dbc990ffcddcb63db1e953432a71de7",
+        "etag": "\"dld8rgodihu8-6ku\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgodihu8-6ku\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8526|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8526,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Snapshot.png",
+      "rank": 4,
+      "class": 68,
+      "name": "A Corner of the Banquet"
+    },
+    "detail": {
+      "id": 3600023,
+      "name": "A Corner of the Banquet",
+      "desc": "A memorable moment worth commemorating. Can be used to decorate your room.",
+      "desc2": "A photograph taken by Big Daddy captures the lively feast inside the Cheesetopia diner. Within just a few days, this once-abandoned establishment has been revitalized, and it looks like Blazewood will become even more bustling in the future.",
+      "class": {
+        "68": "PHOTOWALL ITEM"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Snapshot.png"
+    }
+  }
+}

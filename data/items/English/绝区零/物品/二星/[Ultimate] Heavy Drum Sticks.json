@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1310104",
+    "name": "[Ultimate] Heavy Drum Sticks",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardDecibels06.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDecibels06.webp",
+        "localPath": "gallery/zzz/CardDecibels06.webp",
+        "sha256": "7ba7cdacda505eb48bf2a714f2f45ea5ab66c858913aca002109690f7a0a942e",
+        "etag": "\"dld8rfqjc55t-drq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqjc55t-drq\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17846|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17846,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardDecibels06.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDecibels06.webp",
+        "localPath": "gallery/zzz/CardDecibels06.webp",
+        "sha256": "7ba7cdacda505eb48bf2a714f2f45ea5ab66c858913aca002109690f7a0a942e",
+        "etag": "\"dld8rfqjc55t-drq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqjc55t-drq\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17846|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17846,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardDecibels06.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[Ultimate] Heavy Drum Sticks"
+    },
+    "detail": {
+      "id": 1310104,
+      "name": "[Ultimate] Heavy Drum Sticks",
+      "desc": "<color=#FFFFFF>Ultimate</color> DMG is <color=#2BAD00>increased by 20%</color>. When launching an <color=#FFFFFF>Ultimate</color>, the Agent's <color=#2BAD00>CRIT Rate is increased by 10%</color> for 15s.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardDecibels06.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4340106",
+    "name": "Six Dusk Street - Random Play 2nd Floor Room 1",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Key_016.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Key_016.webp",
+        "localPath": "gallery/zzz/Zenkov_Key_016.webp",
+        "sha256": "eae4e0318661f08de5efd65ee1bbb96a73278c34c51cefc12e3313a2664c8706",
+        "etag": "\"dld8rgr7bqpm-6ms\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr7bqpm-6ms\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8596|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8596,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Key_016.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Key_016.webp",
+        "localPath": "gallery/zzz/Zenkov_Key_016.webp",
+        "sha256": "eae4e0318661f08de5efd65ee1bbb96a73278c34c51cefc12e3313a2664c8706",
+        "etag": "\"dld8rgr7bqpm-6ms\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr7bqpm-6ms\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8596|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8596,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Key_016.png",
+      "rank": 3,
+      "class": 130,
+      "name": "Six Dusk Street - Random Play 2nd Floor Room 1"
+    },
+    "detail": {
+      "id": 4340106,
+      "name": "Six Dusk Street - Random Play 2nd Floor Room 1",
+      "desc": "Use to gain access to <color=#FFAF2C>Six Dusk Street - Random Play - 2F Room 1</color> and obtain a large amount of Supplies.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Key_016.png"
+    }
+  }
+}

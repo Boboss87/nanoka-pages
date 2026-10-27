@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4360126",
+    "name": "Trinket: Xiao'Guangboo",
+    "rarity": "五星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 5,
+      "class": 130,
+      "name": "Trinket: Xiao'Guangboo"
+    },
+    "detail": {
+      "id": 4360126,
+      "name": "Trinket: Xiao'Guangboo",
+      "desc": "A special creation by some Yunkui Summit fan — a doll that mashes up the Void Hunter Ye Shunguang with the Bangboo Sprout. Its soft, squishy look really shows off the charm of this up-and-coming Void Hunter. But come on, there's no such thing as a Bangboo like this!",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": ""
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "13014",
+    "name": "Radiowave Journey",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_Common_14.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_A_Common_14.webp",
+        "localPath": "gallery/zzz/Weapon_A_Common_14.webp",
+        "sha256": "4c0aa14ab828aa838ffd0af0f4b3bb763f8837fd0a12eca3cbbc244c164de867",
+        "etag": "\"dld8rgp63c4b-ygs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgp63c4b-ygs\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=44668|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 44668,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_Common_14.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_A_Common_14.webp",
+        "localPath": "gallery/zzz/Weapon_A_Common_14.webp",
+        "sha256": "4c0aa14ab828aa838ffd0af0f4b3bb763f8837fd0a12eca3cbbc244c164de867",
+        "etag": "\"dld8rgp63c4b-ygs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgp63c4b-ygs\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=44668|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 44668,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_Common_14.png",
+      "rank": 3,
+      "class": 5,
+      "name": "Radiowave Journey"
+    },
+    "detail": {
+      "id": 13014,
+      "name": "Radiowave Journey",
+      "desc": "Equip to increase Rupture Agents' combat capabilities",
+      "desc2": "Designed for those Hollow-dwelling bards who refuse to listen to the same albums repeatedly, this W-Engine comes equipped with a radio module that can transform Etheric frequencies into melodies.",
+      "class": {
+        "5": "W-ENGINE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_Common_14.png"
+    }
+  }
+}

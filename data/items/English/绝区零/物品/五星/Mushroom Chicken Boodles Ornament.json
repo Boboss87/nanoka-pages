@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4360059",
+    "name": "Mushroom Chicken Boodles Ornament",
+    "rarity": "五星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_076.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_076.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_076.webp",
+        "sha256": "98b208e8dcb74d36ea1ae38cc8a482cb68fd04d6c4672dd74f85e8a007679904",
+        "etag": "\"dld8rgr3r4xd-6tq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr3r4xd-6tq\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8846|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8846,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_076.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_076.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_076.webp",
+        "sha256": "98b208e8dcb74d36ea1ae38cc8a482cb68fd04d6c4672dd74f85e8a007679904",
+        "etag": "\"dld8rgr3r4xd-6tq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr3r4xd-6tq\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8846|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8846,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_076.png",
+      "rank": 5,
+      "class": 130,
+      "name": "Mushroom Chicken Boodles Ornament"
+    },
+    "detail": {
+      "id": 4360059,
+      "name": "Mushroom Chicken Boodles Ornament",
+      "desc": "A Bangboo instant noodle figurine from Sān-Z STUDIO. This particular flavor, however, never quite caught on with the people of Waifei Peninsula. Even when a Hollow disaster strikes and everyone's scrambling to stock up on supplies, this one gets left on the shelf.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_076.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1370203",
+    "name": "[Stun: Knock] Multi-Function Circular Saw",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardStunS203.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardStunS203.webp",
+        "localPath": "gallery/zzz/CardStunS203.webp",
+        "sha256": "e4f865190b6ffe368a84ac4a60670b8a4e0b617e10382df97b9fde336815da63",
+        "etag": "\"dld8rfr1slpu-ctw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr1slpu-ctw\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16628|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16628,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardStunS203.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardStunS203.webp",
+        "localPath": "gallery/zzz/CardStunS203.webp",
+        "sha256": "e4f865190b6ffe368a84ac4a60670b8a4e0b617e10382df97b9fde336815da63",
+        "etag": "\"dld8rfr1slpu-ctw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr1slpu-ctw\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16628|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16628,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardStunS203.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Stun: Knock] Multi-Function Circular Saw"
+    },
+    "detail": {
+      "id": 1370203,
+      "name": "[Stun: Knock] Multi-Function Circular Saw",
+      "desc": "<color=#2BAD00>Increases Agent DMG dealt to Stunned enemies by 45%</color>.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardStunS203.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1010502",
+    "name": "[Shock] Outdoor Battery",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardElectro13.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardElectro13.webp",
+        "localPath": "gallery/zzz/CardElectro13.webp",
+        "sha256": "4ee72ff3c924c00ed9ed879c364b9a41f4f05d2ac9bd6ef9c15bcd2bab89fef5",
+        "etag": "\"dld8rfqlpvoo-d9u\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqlpvoo-d9u\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17202|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17202,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardElectro13.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardElectro13.webp",
+        "localPath": "gallery/zzz/CardElectro13.webp",
+        "sha256": "4ee72ff3c924c00ed9ed879c364b9a41f4f05d2ac9bd6ef9c15bcd2bab89fef5",
+        "etag": "\"dld8rfqlpvoo-d9u\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqlpvoo-d9u\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17202|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17202,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardElectro13.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Shock] Outdoor Battery"
+    },
+    "detail": {
+      "id": 1010502,
+      "name": "[Shock] Outdoor Battery",
+      "desc": "Increases the stack limit of Zap from 20 to <color=#2BAD00>30</color>. Dealing <color=#2EB6FF>Electric DMG</color> grants all squad members 1 stack of Zap. This effect can trigger once every 1s.",
+      "desc2": "Its capacity is large, and so is its weight. The strongest person will find themselves as the poor soul carrying this burdensome battery on a camping trip.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardElectro13.png"
+    }
+  }
+}

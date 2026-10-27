@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4360044",
+    "name": "Boo-rick Phone (Amber Orange)",
+    "rarity": "五星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_042.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_042.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_042.webp",
+        "sha256": "3031ee945ff300fb55fd55b2c81a492c74a0d8a09250fa6fca78df6906783b12",
+        "etag": "\"dld8rgr35pan-6a4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr35pan-6a4\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8140|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8140,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_042.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_042.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_042.webp",
+        "sha256": "3031ee945ff300fb55fd55b2c81a492c74a0d8a09250fa6fca78df6906783b12",
+        "etag": "\"dld8rgr35pan-6a4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr35pan-6a4\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8140|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8140,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_042.png",
+      "rank": 5,
+      "class": 130,
+      "name": "Boo-rick Phone (Amber Orange)"
+    },
+    "detail": {
+      "id": 4360044,
+      "name": "Boo-rick Phone (Amber Orange)",
+      "desc": "A long-range radio phone from Sān-Z STUDIO. Making a call? Make it a Boo-rick Phone! Whether you're ranting, chatting, or whispering secrets, it'll blow you away!",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_042.png"
+    }
+  }
+}

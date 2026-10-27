@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1370505",
+    "name": "[Rupture: Activation] Locked and Loaded",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardRuptureS205.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardRuptureS205.webp",
+        "localPath": "gallery/zzz/CardRuptureS205.webp",
+        "sha256": "e6cdb93f7608746e66db107164321f65f614394f27ab91458e237436ac73d7b5",
+        "etag": "\"dld8rfqy7zxk-cgw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqy7zxk-cgw\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16160|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16160,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardRuptureS205.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardRuptureS205.webp",
+        "localPath": "gallery/zzz/CardRuptureS205.webp",
+        "sha256": "e6cdb93f7608746e66db107164321f65f614394f27ab91458e237436ac73d7b5",
+        "etag": "\"dld8rfqy7zxk-cgw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqy7zxk-cgw\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16160|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16160,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardRuptureS205.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[Rupture: Activation] Locked and Loaded"
+    },
+    "detail": {
+      "id": 1370505,
+      "name": "[Rupture: Activation] Locked and Loaded",
+      "desc": "When HP is lost, Rupture Agents' <color=#2BAD00>Sheer Force increases by 270</color> while non-Rupture Agents' <color=#2BAD00>ATK increases by 324</color> for 5s. Repeated triggers reset the duration.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardRuptureS205.png"
+    }
+  }
+}

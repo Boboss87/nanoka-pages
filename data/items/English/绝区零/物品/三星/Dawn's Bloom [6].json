@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "33336",
+    "name": "Dawn's Bloom [6]",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitDawnsBloom_A.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitDawnsBloom_A.webp",
+        "localPath": "gallery/zzz/ItemSuitDawnsBloom_A.webp",
+        "sha256": "bb70cc78498407e15aef74c1ecc7938ee99f309cad289f85280a645a0efa0353",
+        "etag": "\"dld8rgem8bne-7nw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgem8bne-7nw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9932|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9932,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitDawnsBloom_A.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitDawnsBloom_A.webp",
+        "localPath": "gallery/zzz/ItemSuitDawnsBloom_A.webp",
+        "sha256": "bb70cc78498407e15aef74c1ecc7938ee99f309cad289f85280a645a0efa0353",
+        "etag": "\"dld8rgem8bne-7nw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgem8bne-7nw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9932|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9932,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitDawnsBloom_A.png",
+      "rank": 3,
+      "class": 7,
+      "name": "Dawn's Bloom [6]"
+    },
+    "detail": {
+      "id": 33336,
+      "name": "Dawn's Bloom [6]",
+      "desc": "Equip to increase Agents' combat capabilities",
+      "desc2": "\"I imagine what the world could be—\nWith flowers, spring, and sunlight free.\nA child's voice still lingers on the breeze...\nThe flowers in the wind... an eternal melody...\"",
+      "class": {
+        "7": "DISK"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitDawnsBloom_A.png"
+    }
+  }
+}

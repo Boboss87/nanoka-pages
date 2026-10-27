@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1370604",
+    "name": "[Defense: Battle Shield] Military Gas Mask",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardDefenseS204.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDefenseS204.webp",
+        "localPath": "gallery/zzz/CardDefenseS204.webp",
+        "sha256": "050c9c4df1f6196f64df3fdcaaa1942ba642836dc6b922d7bbc4e32b32b2b708",
+        "etag": "\"dld8rfqjxksj-cmg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqjxksj-cmg\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16360|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16360,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardDefenseS204.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDefenseS204.webp",
+        "localPath": "gallery/zzz/CardDefenseS204.webp",
+        "sha256": "050c9c4df1f6196f64df3fdcaaa1942ba642836dc6b922d7bbc4e32b32b2b708",
+        "etag": "\"dld8rfqjxksj-cmg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqjxksj-cmg\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16360|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16360,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardDefenseS204.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[Defense: Battle Shield] Military Gas Mask"
+    },
+    "detail": {
+      "id": 1370604,
+      "name": "[Defense: Battle Shield] Military Gas Mask",
+      "desc": "<color=#FFFFFF>Defensive Assist</color> <color=#2BAD00>inflicts 25% more Daze</color>.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardDefenseS204.png"
+    }
+  }
+}

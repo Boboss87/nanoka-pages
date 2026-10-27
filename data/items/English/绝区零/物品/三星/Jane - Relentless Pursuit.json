@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1312403",
+    "name": "Jane - Relentless Pursuit",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardJane03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardJane03.webp",
+        "localPath": "gallery/zzz/CardJane03.webp",
+        "sha256": "4f6029b22577944d07318e71af654ccda61d701adbc1059e83da585bf1b796ec",
+        "etag": "\"dld8rfqqhcqc-b74\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqqhcqc-b74\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14512|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14512,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardJane03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardJane03.webp",
+        "localPath": "gallery/zzz/CardJane03.webp",
+        "sha256": "4f6029b22577944d07318e71af654ccda61d701adbc1059e83da585bf1b796ec",
+        "etag": "\"dld8rfqqhcqc-b74\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqqhcqc-b74\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14512|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14512,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardJane03.png",
+      "rank": 3,
+      "class": 80,
+      "name": "Jane - Relentless Pursuit"
+    },
+    "detail": {
+      "id": 1312403,
+      "name": "Jane - Relentless Pursuit",
+      "desc": "When any squad member inflicts an Attribute Anomaly on an enemy, Jane <color=#2BAD00>gains 40 additional Decibels</color>, and her next <color=#FFFFFF>Ultimate</color>'s <color=#2BAD00>CRIT Rate is increased by 5% </color> and <color=#2BAD00>CRIT DMG is increased by 20%</color>, stacking up to 5 times.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardJane03.png"
+    }
+  }
+}

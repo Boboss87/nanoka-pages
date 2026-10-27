@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4201003",
+    "name": "Toolbox Key",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialAreaCastleB_1.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovMaterialAreaCastleB_1.webp",
+        "localPath": "gallery/zzz/BangkovMaterialAreaCastleB_1.webp",
+        "sha256": "fcc38f776da7a0b7ab01b570929315e80fd772271e79ffb4d5349c566d643ba2",
+        "etag": "\"dld8rfpk7ixy-4l2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpk7ixy-4l2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=5942|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5942,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialAreaCastleB_1.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovMaterialAreaCastleB_1.webp",
+        "localPath": "gallery/zzz/BangkovMaterialAreaCastleB_1.webp",
+        "sha256": "fcc38f776da7a0b7ab01b570929315e80fd772271e79ffb4d5349c566d643ba2",
+        "etag": "\"dld8rfpk7ixy-4l2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpk7ixy-4l2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=5942|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5942,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialAreaCastleB_1.png",
+      "rank": 2,
+      "class": 120,
+      "name": "Toolbox Key"
+    },
+    "detail": {
+      "id": 4201003,
+      "name": "Toolbox Key",
+      "desc": "<color=#FFFFFF>Obtained from Castle Area Investigation, used to activate Talents.</color>\nA key that can only open empty boxes.",
+      "desc2": "BKItem_4201003_Story",
+      "class": {
+        "120": null
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialAreaCastleB_1.png"
+    }
+  }
+}

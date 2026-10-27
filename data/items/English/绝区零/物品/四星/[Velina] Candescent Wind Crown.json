@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1350263",
+    "name": "[Velina] Candescent Wind Crown",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic098.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic098.webp",
+        "localPath": "gallery/zzz/Relic098.webp",
+        "sha256": "c0301e44dde4b193dee98535ca55166e74de945f43af599e2b05d3e573723b82",
+        "etag": "\"dld8rgo56f0a-3gw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo56f0a-3gw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4496|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4496,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic098.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic098.webp",
+        "localPath": "gallery/zzz/Relic098.webp",
+        "sha256": "c0301e44dde4b193dee98535ca55166e74de945f43af599e2b05d3e573723b82",
+        "etag": "\"dld8rgo56f0a-3gw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo56f0a-3gw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4496|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4496,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic098.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Velina] Candescent Wind Crown"
+    },
+    "detail": {
+      "id": 1350263,
+      "name": "[Velina] Candescent Wind Crown",
+      "desc": "While <color=#FFFFFF>Sweeping Cyclone</color> is present on the field, the whole squad's <color=#2BAD00>Energy Generation Rate by 40% , Decibel Generation Rate increase</color> by 30%, and <color=#FFFFFF>Sweeping Cyclone</color>'s <color=#2BAD00>duration is extended by 3s.</color>",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic098.png"
+    }
+  }
+}

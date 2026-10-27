@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1001601",
+    "name": "[Assist] Gate Breaker",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMagic01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardMagic01.webp",
+        "localPath": "gallery/zzz/CardMagic01.webp",
+        "sha256": "d014c069415b540faaccf7dd022ba659bbc583c911c4f83477b6d136335461d1",
+        "etag": "\"dld8rfqs9nmh-b7y\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqs9nmh-b7y\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14542|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14542,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMagic01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardMagic01.webp",
+        "localPath": "gallery/zzz/CardMagic01.webp",
+        "sha256": "d014c069415b540faaccf7dd022ba659bbc583c911c4f83477b6d136335461d1",
+        "etag": "\"dld8rfqs9nmh-b7y\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqs9nmh-b7y\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14542|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14542,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMagic01.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Assist] Gate Breaker"
+    },
+    "detail": {
+      "id": 1001601,
+      "name": "[Assist] Gate Breaker",
+      "desc": "Vital View triggered by Evasive Assist lasts <color=#2BAD00>5</color>s. Defensive Assist inflicts <color=#2BAD00>30%</color> more Daze.",
+      "desc2": "Harnessing the power of inertia, this device can help break through a target's defense. Don't forget to release your grip at the right moment, or else you'll go flying off with it.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMagic01.png"
+    }
+  }
+}

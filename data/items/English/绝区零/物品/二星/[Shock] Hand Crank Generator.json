@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000511",
+    "name": "[Shock] Hand Crank Generator",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardElectro11.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardElectro11.webp",
+        "localPath": "gallery/zzz/CardElectro11.webp",
+        "sha256": "200f456ece80fe55f74ea2e85ab0e3d29057773a3359ba6684dab4011fdf81a4",
+        "etag": "\"dld8rfqlpvoo-d2g\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqlpvoo-d2g\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16936|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16936,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardElectro11.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardElectro11.webp",
+        "localPath": "gallery/zzz/CardElectro11.webp",
+        "sha256": "200f456ece80fe55f74ea2e85ab0e3d29057773a3359ba6684dab4011fdf81a4",
+        "etag": "\"dld8rfqlpvoo-d2g\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqlpvoo-d2g\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16936|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16936,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardElectro11.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[Shock] Hand Crank Generator"
+    },
+    "detail": {
+      "id": 1000511,
+      "name": "[Shock] Hand Crank Generator",
+      "desc": "Agents deal <color=#2BAD00>15%</color> more DMG to <color=#2EB6FF>Shocked</color> enemies.",
+      "desc2": "The strongest person will find themselves as the poor soul cranking the generator alone on a camping trip.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardElectro11.png"
+    }
+  }
+}

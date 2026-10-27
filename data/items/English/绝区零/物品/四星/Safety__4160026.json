@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4160026",
+    "name": "Safety",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooSafety.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBangbooSafety.webp",
+        "localPath": "gallery/zzz/CardBangbooSafety.webp",
+        "sha256": "655983e26e1d47c6445abdc3b0b0b63c20b5bef1607f94c877f0853315d0d5ca",
+        "etag": "\"dld8rfq39f4o-bww\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq39f4o-bww\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15440|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15440,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooSafety.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBangbooSafety.webp",
+        "localPath": "gallery/zzz/CardBangbooSafety.webp",
+        "sha256": "655983e26e1d47c6445abdc3b0b0b63c20b5bef1607f94c877f0853315d0d5ca",
+        "etag": "\"dld8rfq39f4o-bww\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq39f4o-bww\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15440|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15440,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooSafety.png",
+      "rank": 4,
+      "class": 112,
+      "name": "Safety"
+    },
+    "detail": {
+      "id": 4160026,
+      "name": "Safety",
+      "desc": "Bangboo who can help craft, sell, or be dispatched on adventures at Suibian Temple.",
+      "desc2": "",
+      "class": {
+        "112": "BANGBOO"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooSafety.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1339820",
+    "name": "\"Money to Burn\" Marathon",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact047.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Artifact047.webp",
+        "localPath": "gallery/zzz/Artifact047.webp",
+        "sha256": "9a8b073e6fbbaf82e5190edb0db3531ba1132d80b43fcd298813160f71ed0327",
+        "etag": "\"dld8rfnzna0i-8my\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnzna0i-8my\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=11194|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11194,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact047.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Artifact047.webp",
+        "localPath": "gallery/zzz/Artifact047.webp",
+        "sha256": "9a8b073e6fbbaf82e5190edb0db3531ba1132d80b43fcd298813160f71ed0327",
+        "etag": "\"dld8rfnzna0i-8my\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnzna0i-8my\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=11194|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11194,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact047.png",
+      "rank": 4,
+      "class": 81,
+      "name": "\"Money to Burn\" Marathon"
+    },
+    "detail": {
+      "id": 1339820,
+      "name": "\"Money to Burn\" Marathon",
+      "desc": "After passing through <color=#FFAF2C>8 areas</color>, if you <color=#FFAF2C>consumed at least 500 Gear Coins</color> along the way, you'll receive a <color=#FFAF2C>Tactical Prism Program upgrade</color>. Challenge progress can be viewed in the Collectibles interface.",
+      "desc2": "",
+      "class": {
+        "81": "HOLLOW ONLY"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact047.png"
+    }
+  }
+}

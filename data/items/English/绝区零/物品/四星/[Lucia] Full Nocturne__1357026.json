@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1357026",
+    "name": "[Lucia] Full Nocturne",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic047.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic047.webp",
+        "localPath": "gallery/zzz/Relic047.webp",
+        "sha256": "a85813be38c04b0f9866775746bc00ef11ede86153fa0cc4a84efbcb3291fe07",
+        "etag": "\"dld8rgo10dlb-45w\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo10dlb-45w\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5396|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5396,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic047.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic047.webp",
+        "localPath": "gallery/zzz/Relic047.webp",
+        "sha256": "a85813be38c04b0f9866775746bc00ef11ede86153fa0cc4a84efbcb3291fe07",
+        "etag": "\"dld8rgo10dlb-45w\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo10dlb-45w\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5396|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5396,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic047.png",
+      "rank": 4,
+      "class": 105,
+      "name": "[Lucia] Full Nocturne"
+    },
+    "detail": {
+      "id": 1357026,
+      "name": "[Lucia] Full Nocturne",
+      "desc": "The <color=#FFAF2C>Starlight Convergence</color> created by Lucia during her <color=#FFAF2C>Ultimate</color> <color=#31CC00>covers a larger area and lasts longer</color>. When using <color=#FFAF2C>Harmony</color>, <color=#31CC00>grants other teammates an additional 10 Energy and 20 Adrenaline</color>.",
+      "desc2": "",
+      "class": {
+        "105": "WEAPON"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic047.png"
+    }
+  }
+}

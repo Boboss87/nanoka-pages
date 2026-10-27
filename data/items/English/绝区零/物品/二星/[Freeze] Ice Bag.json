@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1001108",
+    "name": "[Freeze] Ice Bag",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardFrozen02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardFrozen02.webp",
+        "localPath": "gallery/zzz/CardFrozen02.webp",
+        "sha256": "af04664be682be33c44401abb62b40dc8bcb169ef8bc19218ffe31658cdfa88f",
+        "etag": "\"dld8rfqni6ks-bbe\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqni6ks-bbe\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14666|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14666,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardFrozen02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardFrozen02.webp",
+        "localPath": "gallery/zzz/CardFrozen02.webp",
+        "sha256": "af04664be682be33c44401abb62b40dc8bcb169ef8bc19218ffe31658cdfa88f",
+        "etag": "\"dld8rfqni6ks-bbe\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqni6ks-bbe\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14666|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14666,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardFrozen02.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[Freeze] Ice Bag"
+    },
+    "detail": {
+      "id": 1001108,
+      "name": "[Freeze] Ice Bag",
+      "desc": "<color=#98EFF0>Freezing</color> an enemy increases the Agent's DEF by <color=#2BAD00>5%</color>, stacking up to 4 times.",
+      "desc2": "A bag that once held many ice cubes, they've since all melted.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardFrozen02.png"
+    }
+  }
+}

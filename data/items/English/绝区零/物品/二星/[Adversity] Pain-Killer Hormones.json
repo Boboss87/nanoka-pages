@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1310406",
+    "name": "[Adversity] Pain-Killer Hormones",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardAdversity05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardAdversity05.webp",
+        "localPath": "gallery/zzz/CardAdversity05.webp",
+        "sha256": "979dd9a4787dc6b84b200e82dc1a821672b043e96bfa6de3bbadb742469c0d48",
+        "etag": "\"dld8rfpwpn6v-c1m\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpwpn6v-c1m\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15610|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15610,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardAdversity05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardAdversity05.webp",
+        "localPath": "gallery/zzz/CardAdversity05.webp",
+        "sha256": "979dd9a4787dc6b84b200e82dc1a821672b043e96bfa6de3bbadb742469c0d48",
+        "etag": "\"dld8rfpwpn6v-c1m\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpwpn6v-c1m\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15610|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15610,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardAdversity05.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[Adversity] Pain-Killer Hormones"
+    },
+    "detail": {
+      "id": 1310406,
+      "name": "[Adversity] Pain-Killer Hormones",
+      "desc": "When losing HP, the Agent's <color=#2BAD00>ATK is increased by 10%</color> for 10s. When recovering HP, the Agent's <color=#2BAD00>Anomaly Buildup Rate is increased by 10%</color> for 10s.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardAdversity05.png"
+    }
+  }
+}

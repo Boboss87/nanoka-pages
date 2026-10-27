@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3321421",
+    "name": "\"Greater Hermit of the City\"",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "\"Greater Hermit of the City\""
+    },
+    "detail": {
+      "id": 3321421,
+      "name": "\"Greater Hermit of the City\"",
+      "desc": "Get by unlocking Pan Yinhu's Mindscape: Meridian Theory",
+      "desc2": "A card with Pan Yinhu's personal photo printed on it.\n\"Uh... did I just nod off? So all of that was just a dream...\"\n\"...It's fine. I just dreamed I got legendary-grade cookware and used it to save the world.\"\n\"Besides, using the mystic arts to keep the peace here isn't really any different.\"",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

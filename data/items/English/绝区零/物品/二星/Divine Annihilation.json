@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1352003",
+    "name": "Divine Annihilation",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_0/MechBoo/UnPacker/MechBooModuleIcon22.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/MechBooModuleIcon22.webp",
+        "localPath": "gallery/zzz/MechBooModuleIcon22.webp",
+        "sha256": "41632c0e97a4e4a4209db6ed657b2a9f1de518a35a35395eefbe7f88eb1c44dd",
+        "etag": "\"dld8rgfcffen-4io\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgfcffen-4io\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5856|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5856,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_0/MechBoo/UnPacker/MechBooModuleIcon22.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/MechBooModuleIcon22.webp",
+        "localPath": "gallery/zzz/MechBooModuleIcon22.webp",
+        "sha256": "41632c0e97a4e4a4209db6ed657b2a9f1de518a35a35395eefbe7f88eb1c44dd",
+        "etag": "\"dld8rgfcffen-4io\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgfcffen-4io\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5856|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5856,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_0/MechBoo/UnPacker/MechBooModuleIcon22.png",
+      "rank": 2,
+      "class": 94,
+      "name": "Divine Annihilation"
+    },
+    "detail": {
+      "id": 1352003,
+      "name": "Divine Annihilation",
+      "desc": "解锁后，可以通过大招键发动界王拳，近战大招",
+      "desc2": "",
+      "class": {
+        "94": null
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_0/MechBoo/UnPacker/MechBooModuleIcon22.png"
+    }
+  }
+}

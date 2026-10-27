@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4150070",
+    "name": "[Refined] Phase Anchor",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianProspectingProduct07.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianProspectingProduct07.webp",
+        "localPath": "gallery/zzz/SuibianProspectingProduct07.webp",
+        "sha256": "6124bdeda9c572a49f0e15b11dca1bfc59b185581899fd86646abf1a828f7bf3",
+        "etag": "\"dld8rgoh33mh-6tk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoh33mh-6tk\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8840|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8840,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianProspectingProduct07.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianProspectingProduct07.webp",
+        "localPath": "gallery/zzz/SuibianProspectingProduct07.webp",
+        "sha256": "6124bdeda9c572a49f0e15b11dca1bfc59b185581899fd86646abf1a828f7bf3",
+        "etag": "\"dld8rgoh33mh-6tk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoh33mh-6tk\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8840|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8840,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianProspectingProduct07.png",
+      "rank": 4,
+      "class": 89,
+      "name": "[Refined] Phase Anchor"
+    },
+    "detail": {
+      "id": 4150070,
+      "name": "[Refined] Phase Anchor",
+      "desc": "Suibian Temple's custom-built Hollow exploration device.",
+      "desc2": "A portable stabilizer designed by Yunkui Summit to temporarily secure unstable areas in the Hollow, though its effects are limited.",
+      "class": {
+        "89": "Product"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianProspectingProduct07.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1001805",
+    "name": "[Artifice] Mechanical Pigeon",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSample01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardSample01.webp",
+        "localPath": "gallery/zzz/CardSample01.webp",
+        "sha256": "35afa40b064fd3e289e10b9429bcf1e37b1bb8a23dd4e89a6c4f70066133107a",
+        "etag": "\"dld8rfqy7zxk-awc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqy7zxk-awc\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14124|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14124,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSample01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardSample01.webp",
+        "localPath": "gallery/zzz/CardSample01.webp",
+        "sha256": "35afa40b064fd3e289e10b9429bcf1e37b1bb8a23dd4e89a6c4f70066133107a",
+        "etag": "\"dld8rfqy7zxk-awc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqy7zxk-awc\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14124|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14124,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSample01.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Artifice] Mechanical Pigeon"
+    },
+    "detail": {
+      "id": 1001805,
+      "name": "[Artifice] Mechanical Pigeon",
+      "desc": "The amount of Gear Coins you gain from Gear Coin events is <color=#CF4029>halved</color> on the current floor.\nWhen you reach the next floor, the repayment will be reduced by <color=#2BAD00>30%</color>.",
+      "desc2": "Since everyone knows the magic is fake, there's no need to use real pigeons either, right?",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSample01.png"
+    }
+  }
+}

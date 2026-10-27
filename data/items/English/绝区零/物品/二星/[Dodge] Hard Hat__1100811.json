@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1100811",
+    "name": "[Dodge] Hard Hat",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSports09.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardSports09.webp",
+        "localPath": "gallery/zzz/CardSports09.webp",
+        "sha256": "3c854d04766a2cd1c52c2af74737393ff8f85d63f1d707384fee6de5bfaac2e5",
+        "etag": "\"dld8rfr00atp-d8c\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr00atp-d8c\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17148|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17148,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSports09.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardSports09.webp",
+        "localPath": "gallery/zzz/CardSports09.webp",
+        "sha256": "3c854d04766a2cd1c52c2af74737393ff8f85d63f1d707384fee6de5bfaac2e5",
+        "etag": "\"dld8rfr00atp-d8c\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr00atp-d8c\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17148|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17148,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSports09.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[Dodge] Hard Hat"
+    },
+    "detail": {
+      "id": 1100811,
+      "name": "[Dodge] Hard Hat",
+      "desc": "Using Dodge increases the Agent's DEF by <color=#2BAD00>30%</color> for 5s.",
+      "desc2": "All defensive measures are a means to better offense.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSports09.png"
+    }
+  }
+}

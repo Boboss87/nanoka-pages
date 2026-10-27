@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4360034",
+    "name": "En O'Clock (Midnight Black)",
+    "rarity": "五星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_037.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_037.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_037.webp",
+        "sha256": "df0aeaf95ac37282843ba2dc6f05a629ae0c9ef22dff5b36daef5d33308ef49d",
+        "etag": "\"dld8rgr35pan-59q\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr35pan-59q\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6830|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6830,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_037.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_037.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_037.webp",
+        "sha256": "df0aeaf95ac37282843ba2dc6f05a629ae0c9ef22dff5b36daef5d33308ef49d",
+        "etag": "\"dld8rgr35pan-59q\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr35pan-59q\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6830|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6830,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_037.png",
+      "rank": 5,
+      "class": 130,
+      "name": "En O'Clock (Midnight Black)"
+    },
+    "detail": {
+      "id": 4360034,
+      "name": "En O'Clock (Midnight Black)",
+      "desc": "A desk alarm clock from Sān-Z STUDIO. Its midnight-black finish and the soothing \"Ehn-ne-ne\" white noise make for the perfect end to the day.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_037.png"
+    }
+  }
+}

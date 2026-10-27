@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3311561",
+    "name": "Velina's Namecard",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "Velina's Namecard"
+    },
+    "detail": {
+      "id": 3311561,
+      "name": "Velina's Namecard",
+      "desc": "Get by unlocking Velina's Mindscape: Conquest by Etiquette",
+      "desc2": "A business card bearing the image of the Administrative Director of the External Strategy Department.\nIts design is elegant and restrained, with clean lines and not a trace of unnecessary flourish — neither overly familiar to the point of impropriety, nor so cold as to create a sense of distance. Every detail strikes a perfect balance. Among the elite of Roscaelifer, owning one is considered a mark of pride.\nBut when an ordinary video store owner accepts it as part of a routine exchange, they discover something unexpected — beneath the card lies another one. Written in neat, graceful handwriting is a private number, separate from the public line.\nSo... is this, too, some unspoken form of \"special treatment\"?",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

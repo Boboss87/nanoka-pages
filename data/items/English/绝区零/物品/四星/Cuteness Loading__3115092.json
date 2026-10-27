@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3115092",
+    "name": "Cuteness Loading",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_AngelActivityPink.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Skin_AngelActivityPink.webp",
+        "localPath": "gallery/zzz/Skin_AngelActivityPink.webp",
+        "sha256": "d64d152dad5a50487538f1199f7e1d2ffb26e81f683b7ef83930d42c2fdb2997",
+        "etag": "\"dld8rgocx27i-7fo\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgocx27i-7fo\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9636|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9636,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_AngelActivityPink.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Skin_AngelActivityPink.webp",
+        "localPath": "gallery/zzz/Skin_AngelActivityPink.webp",
+        "sha256": "d64d152dad5a50487538f1199f7e1d2ffb26e81f683b7ef83930d42c2fdb2997",
+        "etag": "\"dld8rgocx27i-7fo\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgocx27i-7fo\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9636|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9636,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_AngelActivityPink.png",
+      "rank": 4,
+      "class": 100,
+      "name": "Cuteness Loading"
+    },
+    "detail": {
+      "id": 3115092,
+      "name": "Cuteness Loading",
+      "desc": "Aria's Outfit.",
+      "desc2": "Angels Rule #2: No matter what forms her projections take, the energetic idol's smile must never change!",
+      "class": {
+        "100": "OUTFIT SET"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_AngelActivityPink.png"
+    }
+  }
+}

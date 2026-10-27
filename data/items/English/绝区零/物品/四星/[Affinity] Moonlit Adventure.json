@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000984",
+    "name": "[Affinity] Moonlit Adventure",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1451.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1451.webp",
+        "localPath": "gallery/zzz/CardDailyUse1451.webp",
+        "sha256": "c3b1a264337fa8a5da69b0556cd8618a5b2b43ea7dda16d8246e866d5a54573f",
+        "etag": "\"dld8rfqgcz0a-ct0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqgcz0a-ct0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16596|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16596,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1451.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1451.webp",
+        "localPath": "gallery/zzz/CardDailyUse1451.webp",
+        "sha256": "c3b1a264337fa8a5da69b0556cd8618a5b2b43ea7dda16d8246e866d5a54573f",
+        "etag": "\"dld8rfqgcz0a-ct0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqgcz0a-ct0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16596|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16596,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1451.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Affinity] Moonlit Adventure"
+    },
+    "detail": {
+      "id": 1000984,
+      "name": "[Affinity] Moonlit Adventure",
+      "desc": "Lucia has evoked the Mindscape: <color=#FFAF2C>Secret Friend</color>.\nSecret Friend: When <color=#FFFFFF>Dreamer's Nursery Rhyme</color> deals additional DMG, ignore 18% of enemy All-Attribute RES and have 5% increased Decibel Generation Rate. Each time Lucia performs a skill upgrade, she gains 1 stack of <color=#FFFFFF>Echo</color>, stacking up to 4 times. When <color=#FFFFFF>Dreamer's Nursery Rhyme</color> ends, if Lucia has any <color=#FFFFFF>Echo</color> stacks, 1 stack is consumed to reapply <color=#FFFFFF>Dreamer's Nursery Rhyme</color> to all squad members.",
+      "desc2": "Keen Ether perception, vast Ethereal knowledge, exceptional combat skills, and an ever-growing curiosity — without a doubt, Lucia is one of the finest Hollow companions.\n...And after agreeing to seek the \"Doppelganger\" together, that boundless energy has reached even greater heights.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1451.png"
+    }
+  }
+}

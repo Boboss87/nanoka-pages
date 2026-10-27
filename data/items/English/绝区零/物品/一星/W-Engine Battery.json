@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "301001",
+    "name": "W-Engine Battery",
+    "rarity": "一星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponExp01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/WeaponExp01.webp",
+        "localPath": "gallery/zzz/WeaponExp01.webp",
+        "sha256": "be5bd055729ee093588c206595fa44b39729838534e22a59a7d6bd21df761492",
+        "etag": "\"dld8rgovyye8-7n0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgovyye8-7n0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9900|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9900,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponExp01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/WeaponExp01.webp",
+        "localPath": "gallery/zzz/WeaponExp01.webp",
+        "sha256": "be5bd055729ee093588c206595fa44b39729838534e22a59a7d6bd21df761492",
+        "etag": "\"dld8rgovyye8-7n0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgovyye8-7n0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9900|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9900,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponExp01.png",
+      "rank": 1,
+      "class": 13,
+      "name": "W-Engine Battery"
+    },
+    "detail": {
+      "id": 301001,
+      "name": "W-Engine Battery",
+      "desc": "Provides 100 EXP for a W-Engine.",
+      "desc2": "A special storage battery containing electrolytes with trace amounts of Ether crystals, providing a reliable power supply for the W-Engine.",
+      "class": {
+        "13": "W-ENGINE EXP"
+      },
+      "rarity": 1,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponExp01.png"
+    }
+  }
+}

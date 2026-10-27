@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4350535",
+    "name": "[Blueprint][Burnice] Shaker & Mixer - Lv.60",
+    "rarity": "五星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "placeholder",
+        "placeholder": true,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_035_Blueprint.png",
+        "remoteUrl": null,
+        "localPath": "gallery/_placeholder/unknown.svg",
+        "sha256": "25fe1ba8bf237af8dc0157859efb518fa04c23b8e55ca4c05ec8292eebc2122e",
+        "etag": null,
+        "lastModified": null,
+        "remoteKey": null,
+        "contentType": "image/svg+xml",
+        "bytes": 520,
+        "retryable": false,
+        "retryOnNextRun": true,
+        "placeholderReason": "remote_missing",
+        "failedCandidateCount": 2,
+        "error": "missing: 404 unknown content-type; missing: 404 unknown content-type"
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "placeholder",
+        "placeholder": true,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_035_Blueprint.png",
+        "remoteUrl": null,
+        "localPath": "gallery/_placeholder/unknown.svg",
+        "sha256": "25fe1ba8bf237af8dc0157859efb518fa04c23b8e55ca4c05ec8292eebc2122e",
+        "etag": null,
+        "lastModified": null,
+        "remoteKey": null,
+        "contentType": "image/svg+xml",
+        "bytes": 520,
+        "retryable": false,
+        "retryOnNextRun": true,
+        "placeholderReason": "remote_missing",
+        "failedCandidateCount": 2,
+        "error": "missing: 404 unknown content-type; missing: 404 unknown content-type"
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_035_Blueprint.png",
+      "rank": 5,
+      "class": 130,
+      "name": "[Blueprint][Burnice] Shaker & Mixer - Lv.60"
+    },
+    "detail": {
+      "id": 4350535,
+      "name": "[Blueprint][Burnice] Shaker & Mixer - Lv.60",
+      "desc": "This blueprint can be used to unlock the crafting of Burnice's exclusive Tactical Prism at the Smart Workshop. Obtainable through Investigation Exploration or purchasable from Boojee's Store - Permanent Store - Season Limited.\nItem Effect: When using a Medicine or launching their own Ultimate, all squad members' Anomaly Proficiency increases by 40 for 300s. Repeated triggers refresh the duration.\nEnemies in the <color=#FFFFFF>[Scorched]</color> state have their Fire RES reduced by 10%, and the Fire Anomaly Buildup dealt by <color=#FFFFFF>[Afterburn]</color> increases by 30%. Every 10 <color=#FFFFFF>[Afterburn]</color> triggers, if the target is affected by an Attribute Anomaly, 1 additional <color=#FFFFFF>[Abloom]</color> effect is triggered, dealing a fixed 360% multiplier of Attribute Anomaly DMG of the corresponding attribute.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_035_Blueprint.png"
+    }
+  }
+}

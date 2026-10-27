@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4350510",
+    "name": "[Blueprint][Remielle] Voidwing Pilgrimage - Lv. 60",
+    "rarity": "五星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_018_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_018_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_018_Blueprint.webp",
+        "sha256": "1d5018237df1dba4bbb576084c8f86c8efd7d098139a619df383ef21e9827457",
+        "etag": "\"dld8rgrf2dwv-8ak\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrf2dwv-8ak\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10748|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10748,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_018_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_018_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_018_Blueprint.webp",
+        "sha256": "1d5018237df1dba4bbb576084c8f86c8efd7d098139a619df383ef21e9827457",
+        "etag": "\"dld8rgrf2dwv-8ak\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrf2dwv-8ak\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10748|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10748,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_018_Blueprint.png",
+      "rank": 5,
+      "class": 130,
+      "name": "[Blueprint][Remielle] Voidwing Pilgrimage - Lv. 60"
+    },
+    "detail": {
+      "id": 4350510,
+      "name": "[Blueprint][Remielle] Voidwing Pilgrimage - Lv. 60",
+      "desc": "This blueprint can be used to unlock the crafting of Remielle's exclusive Tactical Prism at the Smart Workshop. Purchase them from Boojee's Store - Season Limited.\nItem Effect: When an Agent in the team takes fatal damage, if there are other Agents available to switch to, they can be revived once per run.\nWhen Remielle is the active character, she <color=#2BAD00>restores1.6 Energy per second</color>. When triggering <color=#FFFFFF>EX Special Attack</color>, <color=#2BAD00>gains 3</color> special <color=#FFFFFF>Voidflare</color>. After Remielle uses <color=#FFFFFF>Basic Attack: Rainbow's End</color> or <color=#FFFFFF>Basic Attack: Fleeting Grace</color>, damage taken is reduced by 80% for 3 seconds.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_018_Blueprint.png"
+    }
+  }
+}

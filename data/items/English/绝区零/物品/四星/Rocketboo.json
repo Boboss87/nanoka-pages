@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "54006",
+    "name": "Rocketboo",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece15.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconBangbooPiece15.webp",
+        "localPath": "gallery/zzz/IconBangbooPiece15.webp",
+        "sha256": "8ade1a9bcba78f8aa67c97699642d1cad68e66f519e450ed4d10c4b96158b7ab",
+        "etag": "\"dld8rg7bnugb-8y4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7bnugb-8y4\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11596|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11596,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece15.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconBangbooPiece15.webp",
+        "localPath": "gallery/zzz/IconBangbooPiece15.webp",
+        "sha256": "8ade1a9bcba78f8aa67c97699642d1cad68e66f519e450ed4d10c4b96158b7ab",
+        "etag": "\"dld8rg7bnugb-8y4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7bnugb-8y4\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11596|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11596,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece15.png",
+      "rank": 4,
+      "class": 8,
+      "name": "Rocketboo"
+    },
+    "detail": {
+      "id": 54006,
+      "name": "Rocketboo",
+      "desc": "Obtain this Bangboo model or authorization to perform the Bangboo's core update.",
+      "desc2": "This Bangboo accelerates for 17.5 steps when running a hundred kilometers.",
+      "class": {
+        "8": "BANGBOO"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece15.png"
+    }
+  }
+}

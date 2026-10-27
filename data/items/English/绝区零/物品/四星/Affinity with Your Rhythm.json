@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000972",
+    "name": "Affinity with Your Rhythm",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1361.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1361.webp",
+        "localPath": "gallery/zzz/CardDailyUse1361.webp",
+        "sha256": "6490df0b999fe5fa97f4207ebf64a3f8125ff4f379d5991b7f5b92ae6359214e",
+        "etag": "\"dld8rfqfrjdk-cnc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqfrjdk-cnc\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16392|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16392,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1361.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1361.webp",
+        "localPath": "gallery/zzz/CardDailyUse1361.webp",
+        "sha256": "6490df0b999fe5fa97f4207ebf64a3f8125ff4f379d5991b7f5b92ae6359214e",
+        "etag": "\"dld8rfqfrjdk-cnc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqfrjdk-cnc\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16392|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16392,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1361.png",
+      "rank": 4,
+      "class": 31,
+      "name": "Affinity with Your Rhythm"
+    },
+    "detail": {
+      "id": 1000972,
+      "name": "Affinity with Your Rhythm",
+      "desc": "Trigger has awakened the Mindscape Cinema: <color=#FFAF2C>[Sharpened Senses]</color>.\n[Sharpened Senses]: The Stun DMG Multiplier applied through <color=#FFFFFF>Core Passive: Soul-Searching Gaze</color> is increased by an additional 20%. When activating <color=#FFFFFF>Basic Attack: Harmonizing Shot</color>, the cooldown is reduced to 2s. <color=#FFFFFF>Purge</color> gained upon hitting an enemy with the continuous fire or charged counter in <color=#FFFFFF>Sniper Stance</color> increases by 25%. Maximum <color=#FFFFFF>Purge</color> increases to 125.",
+      "desc2": "Remembering lost loved ones and those beside me, \"Trigger\" blew an original harmonica tune. The powerful will to protect now transforms into soaring fervor.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1361.png"
+    }
+  }
+}

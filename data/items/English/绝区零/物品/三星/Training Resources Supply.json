@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "2000012",
+    "name": "Training Resources Supply",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/TestgiftA.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/TestgiftA.webp",
+        "localPath": "gallery/zzz/TestgiftA.webp",
+        "sha256": "ce8a16b3b667b322c6ee40b5a598a3f021ed906846753268409a30941035758e",
+        "etag": "\"dld8rgoseclz-8ao\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoseclz-8ao\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10752|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10752,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/TestgiftA.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/TestgiftA.webp",
+        "localPath": "gallery/zzz/TestgiftA.webp",
+        "sha256": "ce8a16b3b667b322c6ee40b5a598a3f021ed906846753268409a30941035758e",
+        "etag": "\"dld8rgoseclz-8ao\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoseclz-8ao\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10752|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10752,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/TestgiftA.png",
+      "rank": 3,
+      "class": 51,
+      "name": "Training Resources Supply"
+    },
+    "detail": {
+      "id": 2000012,
+      "name": "Training Resources Supply",
+      "desc": "",
+      "desc2": "",
+      "class": {
+        "51": "GIFT"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/TestgiftA.png"
+    }
+  }
+}

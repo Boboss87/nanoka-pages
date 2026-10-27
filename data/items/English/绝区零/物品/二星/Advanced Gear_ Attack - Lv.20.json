@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4325201",
+    "name": "Advanced Gear: Attack - Lv.20",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponB_001.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponB_001.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponB_001.webp",
+        "sha256": "b3e7a27ceda9a2388c555da2563adc6aced90820dbe7f7020c47097bbb06e2c3",
+        "etag": "\"dld8rgrg996a-7ii\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrg996a-7ii\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9738|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9738,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponB_001.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponB_001.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponB_001.webp",
+        "sha256": "b3e7a27ceda9a2388c555da2563adc6aced90820dbe7f7020c47097bbb06e2c3",
+        "etag": "\"dld8rgrg996a-7ii\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrg996a-7ii\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9738|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9738,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponB_001.png",
+      "rank": 2,
+      "class": 132,
+      "name": "Advanced Gear: Attack - Lv.20"
+    },
+    "detail": {
+      "id": 4325201,
+      "name": "Advanced Gear: Attack - Lv.20",
+      "desc": "Provides the Advanced Stats needed for Attack Agents.",
+      "desc2": "",
+      "class": {
+        "132": "LABYRINTH"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponB_001.png"
+    }
+  }
+}

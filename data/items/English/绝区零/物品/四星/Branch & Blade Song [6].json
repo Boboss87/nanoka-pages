@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "32746",
+    "name": "Branch & Blade Song [6]",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitBranch&BladeSong_S.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitBranch&BladeSong_S.webp",
+        "localPath": "gallery/zzz/ItemSuitBranch&BladeSong_S.webp",
+        "sha256": "28fb0c999e987679e6bafea91bd91363d9c41a60e662966125881f381bbe6e23",
+        "etag": "\"dld8rgel1gdz-7oi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgel1gdz-7oi\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9954|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9954,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitBranch&BladeSong_S.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitBranch&BladeSong_S.webp",
+        "localPath": "gallery/zzz/ItemSuitBranch&BladeSong_S.webp",
+        "sha256": "28fb0c999e987679e6bafea91bd91363d9c41a60e662966125881f381bbe6e23",
+        "etag": "\"dld8rgel1gdz-7oi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgel1gdz-7oi\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9954|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9954,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitBranch&BladeSong_S.png",
+      "rank": 4,
+      "class": 7,
+      "name": "Branch & Blade Song [6]"
+    },
+    "detail": {
+      "id": 32746,
+      "name": "Branch & Blade Song [6]",
+      "desc": "Equip to increase Agents' combat capabilities",
+      "desc2": "\"Suddenly, he sees the guests of honor, the villainous monkeys he bested in the past, dressed in regal facades. Their cunning fangs and deceiving lips spin empty tales of miracles and false promises. He throws back his cloak with a wrinkled hand, and righteous anger flows. Stepping through the mud and into the courtyard, he breaks off a branch, becoming the youth he once was.\"",
+      "class": {
+        "7": "DISK"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitBranch&BladeSong_S.png"
+    }
+  }
+}

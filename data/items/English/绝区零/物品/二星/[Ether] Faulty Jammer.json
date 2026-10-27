@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1001911",
+    "name": "[Ether] Faulty Jammer",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech11.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardTech11.webp",
+        "localPath": "gallery/zzz/CardTech11.webp",
+        "sha256": "8e83981b885f8021f980f850f602e695e89d22858d77897f0b4ac2236ed721df",
+        "etag": "\"dld8rfr46c8o-d86\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr46c8o-d86\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17142|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17142,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech11.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardTech11.webp",
+        "localPath": "gallery/zzz/CardTech11.webp",
+        "sha256": "8e83981b885f8021f980f850f602e695e89d22858d77897f0b4ac2236ed721df",
+        "etag": "\"dld8rfr46c8o-d86\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr46c8o-d86\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17142|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17142,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech11.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[Ether] Faulty Jammer"
+    },
+    "detail": {
+      "id": 1001911,
+      "name": "[Ether] Faulty Jammer",
+      "desc": "<color=#FE437E>Corrupted</color> enemies have their ATK reduced by <color=#2BAD00>15%</color>.",
+      "desc2": "Originally designed as an interference device to be installed on a Bangboo's head, capable of disrupting Ethereals, a hat version was developed, allowing Hollow Raiders to wear it themselves.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech11.png"
+    }
+  }
+}

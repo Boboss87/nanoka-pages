@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1319902",
+    "name": "Geppetto - Blood for Blood",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGeppetto02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardGeppetto02.webp",
+        "localPath": "gallery/zzz/CardGeppetto02.webp",
+        "sha256": "d644ef4454abaf37336396e2735e49de1f11a7be01789efd1cdfd38360ddf54c",
+        "etag": "\"dld8rfqo3m7i-d42\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqo3m7i-d42\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16994|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16994,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGeppetto02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardGeppetto02.webp",
+        "localPath": "gallery/zzz/CardGeppetto02.webp",
+        "sha256": "d644ef4454abaf37336396e2735e49de1f11a7be01789efd1cdfd38360ddf54c",
+        "etag": "\"dld8rfqo3m7i-d42\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqo3m7i-d42\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16994|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16994,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGeppetto02.png",
+      "rank": 3,
+      "class": 31,
+      "name": "Geppetto - Blood for Blood"
+    },
+    "detail": {
+      "id": 1319902,
+      "name": "Geppetto - Blood for Blood",
+      "desc": "When Geppetto becomes Impaired, all squad members recover <color=#2BAD00>15%</color> HP.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGeppetto02.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "412011321",
+    "name": "Pale Night Messenger",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Back_WaistOrnament_02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Wise_Back_WaistOrnament_02.webp",
+        "localPath": "gallery/zzz/icon_Wise_Back_WaistOrnament_02.webp",
+        "sha256": "6d1bcc1e49a928d9212057bf3a51511c40813bfacb09154ec61e2e1aa82f8684",
+        "etag": "\"dld8rgrlm5uo-6kw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrlm5uo-6kw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8528|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8528,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Back_WaistOrnament_02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Wise_Back_WaistOrnament_02.webp",
+        "localPath": "gallery/zzz/icon_Wise_Back_WaistOrnament_02.webp",
+        "sha256": "6d1bcc1e49a928d9212057bf3a51511c40813bfacb09154ec61e2e1aa82f8684",
+        "etag": "\"dld8rgrlm5uo-6kw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrlm5uo-6kw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8528|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8528,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Back_WaistOrnament_02.png",
+      "rank": 3,
+      "class": 95,
+      "name": "Pale Night Messenger"
+    },
+    "detail": {
+      "id": 412011321,
+      "name": "Pale Night Messenger",
+      "desc": "A Proxy accessory that can be worn with some of Wise's Proxy outfits.",
+      "desc2": "The white-winged messenger carries away worries and sorrow, guarding every beautiful dream.",
+      "class": {
+        "95": "OUTFIT ACCESSORIES"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Back_WaistOrnament_02.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3201009",
+    "name": "Stunt Coordinator Needed ASAP!",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1009.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemProfile1009.webp",
+        "localPath": "gallery/zzz/ItemProfile1009.webp",
+        "sha256": "d9dbd41de3ba3e43f506c718c2edf06a9b85a00e78c953a5f99c71bc1d169963",
+        "etag": "\"dld8rgehgulq-87u\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgehgulq-87u\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10650|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10650,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1009.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemProfile1009.webp",
+        "localPath": "gallery/zzz/ItemProfile1009.webp",
+        "sha256": "d9dbd41de3ba3e43f506c718c2edf06a9b85a00e78c953a5f99c71bc1d169963",
+        "etag": "\"dld8rgehgulq-87u\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgehgulq-87u\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10650|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10650,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1009.png",
+      "rank": 4,
+      "class": 64,
+      "name": "Stunt Coordinator Needed ASAP!"
+    },
+    "detail": {
+      "id": 3201009,
+      "name": "Stunt Coordinator Needed ASAP!",
+      "desc": "A commemorative avatar for the New Eridu City Fund: Premium Plan.",
+      "desc2": "When recommending the antagonist actor, the senior sister from Yunkui Summit emphasized that her fellow townsman excels in both martial arts and acting skills, appearing fierce yet remarkably patient.\n...Senior, could you please recommend an equally outstanding stunt coordinator to save our two panicking leads?!!",
+      "class": {
+        "64": "PROFILE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1009.png"
+    }
+  }
+}

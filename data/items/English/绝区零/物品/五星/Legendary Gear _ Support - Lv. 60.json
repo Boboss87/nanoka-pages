@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4320274",
+    "name": "Legendary Gear : Support - Lv. 60",
+    "rarity": "五星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponZ_007.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponZ_007.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponZ_007.webp",
+        "sha256": "0aab69a6b759de5f9dd1bdd5a4dc837f27627579a1f52d4a1bda776f9094bf0f",
+        "etag": "\"dld8rgri1k2e-7gk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgri1k2e-7gk\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9668|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9668,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponZ_007.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponZ_007.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponZ_007.webp",
+        "sha256": "0aab69a6b759de5f9dd1bdd5a4dc837f27627579a1f52d4a1bda776f9094bf0f",
+        "etag": "\"dld8rgri1k2e-7gk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgri1k2e-7gk\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9668|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9668,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponZ_007.png",
+      "rank": 5,
+      "class": 132,
+      "name": "Legendary Gear : Support - Lv. 60"
+    },
+    "detail": {
+      "id": 4320274,
+      "name": "Legendary Gear : Support - Lv. 60",
+      "desc": "Increases Energy or Adrenaline Generation Rate by <color=#2BAD00>20%</color>. When an Agent uses an <color=#FFFFFF>EX Special Attack</color>, all squad members deal <color=#2BAD00>30%</color> more DMG, and that <color=#FFFFFF>EX Special Attack</color> ignores <color=#2BAD00>10%</color> of the target's RES. Lasts <color=#2BAD00>15</color>s. Repeated triggers reset the duration.",
+      "desc2": "",
+      "class": {
+        "132": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponZ_007.png"
+    }
+  }
+}

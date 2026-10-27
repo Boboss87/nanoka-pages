@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4161518",
+    "name": "Resonaboo",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RABBangbooIDCardA.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RABBangbooIDCardA.webp",
+        "localPath": "gallery/zzz/RABBangbooIDCardA.webp",
+        "sha256": "950513af3026558483859299ed7b75e9d3a23fe02623ad37b014b39e72c2dcc7",
+        "etag": "\"dld8rgnwuc6c-6f0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnwuc6c-6f0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8316|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8316,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RABBangbooIDCardA.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RABBangbooIDCardA.webp",
+        "localPath": "gallery/zzz/RABBangbooIDCardA.webp",
+        "sha256": "950513af3026558483859299ed7b75e9d3a23fe02623ad37b014b39e72c2dcc7",
+        "etag": "\"dld8rgnwuc6c-6f0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnwuc6c-6f0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8316|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8316,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RABBangbooIDCardA.png",
+      "rank": 3,
+      "class": 113,
+      "name": "Resonaboo"
+    },
+    "detail": {
+      "id": 4161518,
+      "name": "Resonaboo",
+      "desc": "Bangboo who can help craft, sell, or be dispatched on adventures at Suibian Temple.",
+      "desc2": "",
+      "class": {
+        "113": "BANGBOO ITEM"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RABBangbooIDCardA.png"
+    }
+  }
+}

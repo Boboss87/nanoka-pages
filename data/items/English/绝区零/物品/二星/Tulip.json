@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1351013",
+    "name": "Tulip",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver1_7/Flower/UnPacker/SLot2_5.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SLot2_5.webp",
+        "localPath": "gallery/zzz/SLot2_5.webp",
+        "sha256": "288651b2231e3481aecfae4cb18f0f9efc25d5394b0a704ffe61ef114457f476",
+        "etag": "\"dld8rgobq6y3-7ec\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgobq6y3-7ec\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9588|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9588,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver1_7/Flower/UnPacker/SLot2_5.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SLot2_5.webp",
+        "localPath": "gallery/zzz/SLot2_5.webp",
+        "sha256": "288651b2231e3481aecfae4cb18f0f9efc25d5394b0a704ffe61ef114457f476",
+        "etag": "\"dld8rgobq6y3-7ec\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgobq6y3-7ec\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9588|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9588,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver1_7/Flower/UnPacker/SLot2_5.png",
+      "rank": 2,
+      "class": 93,
+      "name": "Tulip"
+    },
+    "detail": {
+      "id": 1351013,
+      "name": "Tulip",
+      "desc": "Tulips symbolize tolerance and reconciliation.",
+      "desc2": "",
+      "class": {
+        "93": "DEW"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver1_7/Flower/UnPacker/SLot2_5.png"
+    }
+  }
+}

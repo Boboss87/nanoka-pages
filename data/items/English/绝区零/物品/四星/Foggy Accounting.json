@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1339801",
+    "name": "Foggy Accounting",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact041.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Artifact041.webp",
+        "localPath": "gallery/zzz/Artifact041.webp",
+        "sha256": "4f2a1c82fde548bb59715b63aa3585c05d99ac3449b717c0687914d2af11e75a",
+        "etag": "\"dld8rfnz1udt-87e\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnz1udt-87e\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10634|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10634,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact041.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Artifact041.webp",
+        "localPath": "gallery/zzz/Artifact041.webp",
+        "sha256": "4f2a1c82fde548bb59715b63aa3585c05d99ac3449b717c0687914d2af11e75a",
+        "etag": "\"dld8rfnz1udt-87e\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnz1udt-87e\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10634|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10634,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact041.png",
+      "rank": 4,
+      "class": 81,
+      "name": "Foggy Accounting"
+    },
+    "detail": {
+      "id": 1339801,
+      "name": "Foggy Accounting",
+      "desc": "When leaving a Bangboo Store, <color=#CF4029>all current Gear Coins will be cleared</color>. For every 100 Gear Coins spent on artifacts, enemies (except bosses) will have their HP reduced by <color=#2BAD00>0.5%</color> (up to 30%).",
+      "desc2": "",
+      "class": {
+        "81": "HOLLOW ONLY"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact041.png"
+    }
+  }
+}

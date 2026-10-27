@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1350111",
+    "name": "BranchRelic_13501110_name",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic012.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic012.webp",
+        "localPath": "gallery/zzz/Relic012.webp",
+        "sha256": "e19f22657c5c018d9893efbd9d00a1569879813cd7e9a2fdf1d73eebe4a2acc0",
+        "etag": "\"dld8rgnztibw-2za\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnztibw-2za\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=3862|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 3862,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic012.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic012.webp",
+        "localPath": "gallery/zzz/Relic012.webp",
+        "sha256": "e19f22657c5c018d9893efbd9d00a1569879813cd7e9a2fdf1d73eebe4a2acc0",
+        "etag": "\"dld8rgnztibw-2za\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnztibw-2za\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=3862|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 3862,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic012.png",
+      "rank": 4,
+      "class": 80,
+      "name": "BranchRelic_13501110_name"
+    },
+    "detail": {
+      "id": 1350111,
+      "name": "BranchRelic_13501110_name",
+      "desc": "BranchRelic_13501110_des",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic012.png"
+    }
+  }
+}

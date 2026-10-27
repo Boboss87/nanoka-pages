@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1001072",
+    "name": "[Hollow] Hollow Robot",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard42.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard42.webp",
+        "localPath": "gallery/zzz/CardChessboard42.webp",
+        "sha256": "aa11a5bc4df1469b803cc349824ab3dcdc32620b16c96168b1c0ac3db7d0b2de",
+        "etag": "\"dld8rfqaemp6-9ys\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqaemp6-9ys\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=12916|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12916,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard42.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard42.webp",
+        "localPath": "gallery/zzz/CardChessboard42.webp",
+        "sha256": "aa11a5bc4df1469b803cc349824ab3dcdc32620b16c96168b1c0ac3db7d0b2de",
+        "etag": "\"dld8rfqaemp6-9ys\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqaemp6-9ys\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=12916|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12916,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard42.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[Hollow] Hollow Robot"
+    },
+    "detail": {
+      "id": 1001072,
+      "name": "[Hollow] Hollow Robot",
+      "desc": "Significantly increase the chance to generate good items when smashing <color=#2BAD00>Ether crystals</color>",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard42.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3302008",
+    "name": "Because Tomorrow Still Comes",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard46.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard46.webp",
+        "localPath": "gallery/zzz/Callingcard46.webp",
+        "sha256": "f56f527c6e30af52ce82ea06ce391e53d4ea5d4139afa5a0220b69ad41098ec9",
+        "etag": "\"dld8rfpry656-7tg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpry656-7tg\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10132|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10132,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard46.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard46.webp",
+        "localPath": "gallery/zzz/Callingcard46.webp",
+        "sha256": "f56f527c6e30af52ce82ea06ce391e53d4ea5d4139afa5a0220b69ad41098ec9",
+        "etag": "\"dld8rfpry656-7tg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpry656-7tg\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10132|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10132,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard46.png",
+      "rank": 3,
+      "class": 65,
+      "name": "Because Tomorrow Still Comes"
+    },
+    "detail": {
+      "id": 3302008,
+      "name": "Because Tomorrow Still Comes",
+      "desc": "A commemorative namecard obtained by increasing the Central Computing Hub repair progress in \"The Genius and the Miracle Chip!\"",
+      "desc2": "\"Then... I suppose it's time for us to say goodbye.\"\n—\"What is goodbye?\"\n\"It's writing a long letter, filling it with all your memories and well wishes, and sending it toward tomorrow as you set off.\"\n—\"Then... we can also say — let's go!\"\n\nMay we always have an endless past to draw from, and a tomorrow vast enough to dream freely toward.",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard46.png"
+    }
+  }
+}

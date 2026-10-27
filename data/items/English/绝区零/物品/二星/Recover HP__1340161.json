@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1340161",
+    "name": "Recover HP",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/ItemIcon//UnPacker/IconHPRecover.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconHPRecover.webp",
+        "localPath": "gallery/zzz/IconHPRecover.webp",
+        "sha256": "b64cdf292458478988fca02808ba247e2ef909167de81531fde98a63ab100afa",
+        "etag": "\"dld8rg7mdnt4-6za\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7mdnt4-6za\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9046|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9046,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/ItemIcon//UnPacker/IconHPRecover.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconHPRecover.webp",
+        "localPath": "gallery/zzz/IconHPRecover.webp",
+        "sha256": "b64cdf292458478988fca02808ba247e2ef909167de81531fde98a63ab100afa",
+        "etag": "\"dld8rg7mdnt4-6za\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7mdnt4-6za\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9046|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9046,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/ItemIcon//UnPacker/IconHPRecover.png",
+      "rank": 2,
+      "class": 83,
+      "name": "Recover HP"
+    },
+    "detail": {
+      "id": 1340161,
+      "name": "Recover HP",
+      "desc": "All squad members <color=#2BAD00>recover 90% HP</color>.",
+      "desc2": "",
+      "class": {
+        "83": null
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/ItemIcon//UnPacker/IconHPRecover.png"
+    }
+  }
+}

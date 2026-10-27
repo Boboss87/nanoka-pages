@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1310102",
+    "name": "[Ultimate] Charging Drum",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardDecibels04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDecibels04.webp",
+        "localPath": "gallery/zzz/CardDecibels04.webp",
+        "sha256": "efb8e5ad704b0d268561b43fe987b0cadf8ec166edb42a588f3afa9327403a35",
+        "etag": "\"dld8rfqjc55t-el4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqjc55t-el4\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=18904|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 18904,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardDecibels04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDecibels04.webp",
+        "localPath": "gallery/zzz/CardDecibels04.webp",
+        "sha256": "efb8e5ad704b0d268561b43fe987b0cadf8ec166edb42a588f3afa9327403a35",
+        "etag": "\"dld8rfqjc55t-el4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqjc55t-el4\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=18904|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 18904,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardDecibels04.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Ultimate] Charging Drum"
+    },
+    "detail": {
+      "id": 1310102,
+      "name": "[Ultimate] Charging Drum",
+      "desc": "When a <color=#FFFFFF>Basic Attack</color> hits an enemy, the Agent <color=#2BAD00>gains 300 additional Decibels</color>. This effect can trigger once every 30s.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardDecibels04.png"
+    }
+  }
+}

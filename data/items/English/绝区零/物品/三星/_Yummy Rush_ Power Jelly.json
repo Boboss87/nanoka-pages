@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "2090014",
+    "name": "\"Yummy Rush\" Power Jelly",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EnergyJelly.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/EnergyJelly.webp",
+        "localPath": "gallery/zzz/EnergyJelly.webp",
+        "sha256": "fbead0a6e6959c292c8060f4dbf0c18af5c24f5ebbbf0c9866569a6acac3609a",
+        "etag": "\"dld8rfrg30uv-5ro\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrg30uv-5ro\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7476|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7476,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EnergyJelly.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/EnergyJelly.webp",
+        "localPath": "gallery/zzz/EnergyJelly.webp",
+        "sha256": "fbead0a6e6959c292c8060f4dbf0c18af5c24f5ebbbf0c9866569a6acac3609a",
+        "etag": "\"dld8rfrg30uv-5ro\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrg30uv-5ro\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7476|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7476,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EnergyJelly.png",
+      "rank": 3,
+      "class": 51,
+      "name": "\"Yummy Rush\" Power Jelly"
+    },
+    "detail": {
+      "id": 2090014,
+      "name": "\"Yummy Rush\" Power Jelly",
+      "desc": "The \"Operation Yum\" global collaboration event commemorative reward; grants 60 Battery Charge upon use.",
+      "desc2": "A special power jelly launched by Crispy Delights Food Stall to celebrate the food festival. Built on the original energy supplement formula with flavors beloved to New Eridu citizens, it's become a massive hit. Whether you're hitting the gym for daily workouts or need to dash past Ethereals in the Hollows, this jelly's got you covered.",
+      "class": {
+        "51": "GIFT"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EnergyJelly.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4161003",
+    "name": "Genius's Inspirational Special",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RABFactorItemA.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RABFactorItemA.webp",
+        "localPath": "gallery/zzz/RABFactorItemA.webp",
+        "sha256": "989fa89e7e5bfcf2dd1ac17285cc6eda68d4b35cbd7ff521aa74c31fd19cc96a",
+        "etag": "\"dld8rgnxfrt2-5q2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnxfrt2-5q2\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7418|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7418,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RABFactorItemA.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RABFactorItemA.webp",
+        "localPath": "gallery/zzz/RABFactorItemA.webp",
+        "sha256": "989fa89e7e5bfcf2dd1ac17285cc6eda68d4b35cbd7ff521aa74c31fd19cc96a",
+        "etag": "\"dld8rgnxfrt2-5q2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnxfrt2-5q2\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7418|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7418,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RABFactorItemA.png",
+      "rank": 3,
+      "class": 113,
+      "name": "Genius's Inspirational Special"
+    },
+    "detail": {
+      "id": 4161003,
+      "name": "Genius's Inspirational Special",
+      "desc": "A special item used to reconstruct Bangboo Modules. Can refresh 1 advanced quality module for a Collaboorator.",
+      "desc2": "A cyber drink made exclusively for Collaboorators, carefully \"brewed\" by Norma through code.\n\"Enneh enna! (You're right, but this is Norma's signature special blend. It updates premium mods, boosts traits, and helps Collaboorators rise to the top!)\"",
+      "class": {
+        "113": "BANGBOO ITEM"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RABFactorItemA.png"
+    }
+  }
+}

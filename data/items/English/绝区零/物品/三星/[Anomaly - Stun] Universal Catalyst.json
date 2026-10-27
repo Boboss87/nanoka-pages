@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1310301",
+    "name": "[Anomaly - Stun] Universal Catalyst",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardAnomaly01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardAnomaly01.webp",
+        "localPath": "gallery/zzz/CardAnomaly01.webp",
+        "sha256": "9776474234a5d49f98a35132b4649c5d5b288e3b499c7f04920bbf7f2fb37d1f",
+        "etag": "\"dld8rfpwpn6v-a10\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpwpn6v-a10\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=12996|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12996,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardAnomaly01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardAnomaly01.webp",
+        "localPath": "gallery/zzz/CardAnomaly01.webp",
+        "sha256": "9776474234a5d49f98a35132b4649c5d5b288e3b499c7f04920bbf7f2fb37d1f",
+        "etag": "\"dld8rfpwpn6v-a10\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpwpn6v-a10\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=12996|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12996,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardAnomaly01.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Anomaly - Stun] Universal Catalyst"
+    },
+    "detail": {
+      "id": 1310301,
+      "name": "[Anomaly - Stun] Universal Catalyst",
+      "desc": "When Stunning or inflicting Attribute Anomaly on an enemy, all squad members' <color=#2BAD00>CRIT Rate is increased by 8%</color> and <color=#2BAD00>Anomaly Proficiency is increased by 15</color> for 20s, stacking up to 2 times. The duration of each stack is calculated separately.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardAnomaly01.png"
+    }
+  }
+}

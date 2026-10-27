@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3201020",
+    "name": "Where the Waves Begin",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1020.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemProfile1020.webp",
+        "localPath": "gallery/zzz/ItemProfile1020.webp",
+        "sha256": "f46b6081087a7e59679901da69757af2b221cc57b04f312e60ee5873c29c22d4",
+        "etag": "\"dld8rgei2a8g-84a\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgei2a8g-84a\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10522|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10522,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1020.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemProfile1020.webp",
+        "localPath": "gallery/zzz/ItemProfile1020.webp",
+        "sha256": "f46b6081087a7e59679901da69757af2b221cc57b04f312e60ee5873c29c22d4",
+        "etag": "\"dld8rgei2a8g-84a\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgei2a8g-84a\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10522|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10522,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1020.png",
+      "rank": 4,
+      "class": 64,
+      "name": "Where the Waves Begin"
+    },
+    "detail": {
+      "id": 3201020,
+      "name": "Where the Waves Begin",
+      "desc": "A commemorative avatar for the New Eridu City Fund: Growth Plan.",
+      "desc2": "The most terrifying villain duo in the Hollow world... caught on camera in their formative years!\nThe more dangerous of the two has already mastered the art of the death stare, while the other plays it cool and acts all innocent — who dares maintain eye contact with them for more than ten seconds?",
+      "class": {
+        "64": "PROFILE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1020.png"
+    }
+  }
+}

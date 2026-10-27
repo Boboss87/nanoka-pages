@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "400082",
+    "name": "Normal Button",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill47.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivePropsSkill47.webp",
+        "localPath": "gallery/zzz/ActivePropsSkill47.webp",
+        "sha256": "c08979bc9c0442243fe357fc21d6c458a0303ed8ca54b6688a5a0ea81a1bbdc2",
+        "etag": "\"dld8rfnw2o89-42i\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnw2o89-42i\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=5274|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5274,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill47.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivePropsSkill47.webp",
+        "localPath": "gallery/zzz/ActivePropsSkill47.webp",
+        "sha256": "c08979bc9c0442243fe357fc21d6c458a0303ed8ca54b6688a5a0ea81a1bbdc2",
+        "etag": "\"dld8rfnw2o89-42i\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnw2o89-42i\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=5274|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5274,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill47.png",
+      "rank": 3,
+      "class": 15,
+      "name": "Normal Button"
+    },
+    "detail": {
+      "id": 400082,
+      "name": "Normal Button",
+      "desc": "Generate <color=#2BAD00>2</color> buttons",
+      "desc2": "",
+      "class": {
+        "15": "HOLLOW ITEM"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill47.png"
+    }
+  }
+}

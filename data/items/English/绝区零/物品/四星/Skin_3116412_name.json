@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3116412",
+    "name": "Skin_3116412_name",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_PhoenixDaydreamComplex.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Skin_PhoenixDaydreamComplex.webp",
+        "localPath": "gallery/zzz/Skin_PhoenixDaydreamComplex.webp",
+        "sha256": "4b136d0300798831a2d68d0f3fc36f24a1b3210fbd291d394b10af4bd9ca1a68",
+        "etag": "\"dm16zg138xt1-7qi\"",
+        "lastModified": "Sat, 10 Oct 2026 13:28:19 GMT",
+        "remoteKey": "etag=\"dm16zg138xt1-7qi\"|lastModified=Sat, 10 Oct 2026 13:28:19 GMT|bytes=10026|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10026,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_PhoenixDaydreamComplex.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Skin_PhoenixDaydreamComplex.webp",
+        "localPath": "gallery/zzz/Skin_PhoenixDaydreamComplex.webp",
+        "sha256": "4b136d0300798831a2d68d0f3fc36f24a1b3210fbd291d394b10af4bd9ca1a68",
+        "etag": "\"dm16zg138xt1-7qi\"",
+        "lastModified": "Sat, 10 Oct 2026 13:28:19 GMT",
+        "remoteKey": "etag=\"dm16zg138xt1-7qi\"|lastModified=Sat, 10 Oct 2026 13:28:19 GMT|bytes=10026|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10026,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_PhoenixDaydreamComplex.png",
+      "rank": 4,
+      "class": 63,
+      "name": "Skin_3116412_name"
+    },
+    "detail": {
+      "id": 3116412,
+      "name": "Skin_3116412_name",
+      "desc": "Skin_3116412_des",
+      "desc2": "Skin_3116412_story",
+      "class": {
+        "63": "DRESS"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_PhoenixDaydreamComplex.png"
+    }
+  }
+}

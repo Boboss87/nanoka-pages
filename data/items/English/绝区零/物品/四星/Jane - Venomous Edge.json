@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1322403",
+    "name": "Jane - Venomous Edge",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic029.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic029.webp",
+        "localPath": "gallery/zzz/Relic029.webp",
+        "sha256": "084a6db34eefe1d03efaeae27ef5208372c50d670a4a2b9b1e52c5afa3ae25f1",
+        "etag": "\"dld8rgo0exym-3wo\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo0exym-3wo\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5064|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5064,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic029.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic029.webp",
+        "localPath": "gallery/zzz/Relic029.webp",
+        "sha256": "084a6db34eefe1d03efaeae27ef5208372c50d670a4a2b9b1e52c5afa3ae25f1",
+        "etag": "\"dld8rgo0exym-3wo\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo0exym-3wo\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5064|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5064,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic029.png",
+      "rank": 4,
+      "class": 80,
+      "name": "Jane - Venomous Edge"
+    },
+    "detail": {
+      "id": 1322403,
+      "name": "Jane - Venomous Edge",
+      "desc": "During the <color=#FFFFFF>Passion</color> or <color=#FFFFFF>Overload Passion</color> state, <color=#FFFFFF>EX Special Attack: Aerial Sweep</color> will be enhanced to <color=#FFFFFF>EX Special Attack: Aerial Sweep-Onslaught</color>. When using this skill, Jane will re-enter the <color=#FFFFFF>Passion</color> or <color=#FFFFFF>Overload Passion</color> state. When this skill hits enemies, the target's <color=#2BAD00>All Anomaly Buildup RES is reduced by 40%</color> for 15s.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic029.png"
+    }
+  }
+}

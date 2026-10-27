@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "540170",
+    "name": "Belion Core",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece33.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconBangbooPiece33.webp",
+        "localPath": "gallery/zzz/IconBangbooPiece33.webp",
+        "sha256": "e607bb7480f3e3de22f37c5d5ed1f9f4e853879f03dec2534b398e8d11b9db29",
+        "etag": "\"dld8rg7dg5cg-8tw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7dg5cg-8tw\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11444|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11444,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece33.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconBangbooPiece33.webp",
+        "localPath": "gallery/zzz/IconBangbooPiece33.webp",
+        "sha256": "e607bb7480f3e3de22f37c5d5ed1f9f4e853879f03dec2534b398e8d11b9db29",
+        "etag": "\"dld8rg7dg5cg-8tw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7dg5cg-8tw\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11444|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11444,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece33.png",
+      "rank": 4,
+      "class": 9,
+      "name": "Belion Core"
+    },
+    "detail": {
+      "id": 540170,
+      "name": "Belion Core",
+      "desc": "Obtain this Bangboo model or authorization to perform the Bangboo's core update.",
+      "desc2": "The true essence of martial arts is the lightness and purity of heart.",
+      "class": {
+        "9": "BANGBOO CORE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece33.png"
+    }
+  }
+}

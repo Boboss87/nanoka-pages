@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4350513",
+    "name": "[Blueprint][Pyrois] Flame of Illumination - Lv. 60",
+    "rarity": "五星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_021_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_021_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_021_Blueprint.webp",
+        "sha256": "13b546f622dea00b77ab4707fd71cb98f7a69b5f44ef36f292c12eb35fcfab96",
+        "etag": "\"dld8rgrfntjk-8lc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrfntjk-8lc\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11136|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11136,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_021_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_021_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_021_Blueprint.webp",
+        "sha256": "13b546f622dea00b77ab4707fd71cb98f7a69b5f44ef36f292c12eb35fcfab96",
+        "etag": "\"dld8rgrfntjk-8lc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrfntjk-8lc\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11136|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11136,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_021_Blueprint.png",
+      "rank": 5,
+      "class": 130,
+      "name": "[Blueprint][Pyrois] Flame of Illumination - Lv. 60"
+    },
+    "detail": {
+      "id": 4350513,
+      "name": "[Blueprint][Pyrois] Flame of Illumination - Lv. 60",
+      "desc": "This blueprint can be used to unlock the crafting of Pyrois's exclusive Tactical Prism at the Smart Workshop. Purchase them from Boojee's Store - Season Limited.\nItem Effect: The map will mark the locations of some unopened Electronic Strongboxes.\nUpon triggering a <color=#FFFFFF>Perfect Block</color> with an <color=#FFFFFF>EX Special Attack</color>, Pyrois <color=#2BAD00>recovers 10 Energy and 20 Solar Prominence</color>.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_021_Blueprint.png"
+    }
+  }
+}

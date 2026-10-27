@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3115091",
+    "name": "Discordant Note",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_AriaDiscordantNote.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Skin_AriaDiscordantNote.webp",
+        "localPath": "gallery/zzz/Skin_AriaDiscordantNote.webp",
+        "sha256": "1315bad9e0f6d70f02ca7dbe91cf420e2ffe660b45334eea205262b45fcd11cf",
+        "etag": "\"dld8rgocx27i-79q\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgocx27i-79q\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9422|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9422,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_AriaDiscordantNote.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Skin_AriaDiscordantNote.webp",
+        "localPath": "gallery/zzz/Skin_AriaDiscordantNote.webp",
+        "sha256": "1315bad9e0f6d70f02ca7dbe91cf420e2ffe660b45334eea205262b45fcd11cf",
+        "etag": "\"dld8rgocx27i-79q\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgocx27i-79q\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9422|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9422,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_AriaDiscordantNote.png",
+      "rank": 4,
+      "class": 100,
+      "name": "Discordant Note"
+    },
+    "detail": {
+      "id": 3115091,
+      "name": "Discordant Note",
+      "desc": "Aria Outfit",
+      "desc2": "Aria's performance outfit for special shows, worn only a handful of times.\nA pure-white \"angel\" clad in \"demonic\" wings. Take a deep breath, get ready... once the spotlight comes on, it's the Angels of Delusion's time to rebel.",
+      "class": {
+        "100": "OUTFIT SET"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_AriaDiscordantNote.png"
+    }
+  }
+}

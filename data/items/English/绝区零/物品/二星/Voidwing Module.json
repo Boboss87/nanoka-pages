@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1352016",
+    "name": "Voidwing Module",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_0/MechBoo/UnPacker/MechBooModuleIcon07.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/MechBooModuleIcon07.webp",
+        "localPath": "gallery/zzz/MechBooModuleIcon07.webp",
+        "sha256": "6990660b036b0d80c77433984ca2f9f7b65b7564b830428d11f3c4ad5874b07b",
+        "etag": "\"dld8rgfb8k57-4d0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgfb8k57-4d0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5652|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5652,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_0/MechBoo/UnPacker/MechBooModuleIcon07.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/MechBooModuleIcon07.webp",
+        "localPath": "gallery/zzz/MechBooModuleIcon07.webp",
+        "sha256": "6990660b036b0d80c77433984ca2f9f7b65b7564b830428d11f3c4ad5874b07b",
+        "etag": "\"dld8rgfb8k57-4d0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgfb8k57-4d0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5652|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5652,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_0/MechBoo/UnPacker/MechBooModuleIcon07.png",
+      "rank": 2,
+      "class": 94,
+      "name": "Voidwing Module"
+    },
+    "detail": {
+      "id": 1352016,
+      "name": "Voidwing Module",
+      "desc": "解锁后，玩家可以一边快速移动一边射击 + 数值性能",
+      "desc2": "",
+      "class": {
+        "94": null
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_0/MechBoo/UnPacker/MechBooModuleIcon07.png"
+    }
+  }
+}

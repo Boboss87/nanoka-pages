@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000106",
+    "name": "[Ignite] Top-Notch Charcoal",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBurn07.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBurn07.webp",
+        "localPath": "gallery/zzz/CardBurn07.webp",
+        "sha256": "bf5bdfac547677a3605deecf641667010b305f694157d714bfe698f1d8fdcb51",
+        "etag": "\"dld8rfq68la7-bq2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq68la7-bq2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15194|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15194,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBurn07.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBurn07.webp",
+        "localPath": "gallery/zzz/CardBurn07.webp",
+        "sha256": "bf5bdfac547677a3605deecf641667010b305f694157d714bfe698f1d8fdcb51",
+        "etag": "\"dld8rfq68la7-bq2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq68la7-bq2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15194|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15194,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBurn07.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Ignite] Top-Notch Charcoal"
+    },
+    "detail": {
+      "id": 1000106,
+      "name": "[Ignite] Top-Notch Charcoal",
+      "desc": "Launching an EX Special Attack grants <color=#2BAD00>1</color> stack of Motivation to all squad members.",
+      "desc2": "High-end charcoal that emits a fruity fragrance when lit. If used to roast fruit, perhaps it could double the fruity flavor.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBurn07.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "417",
+    "name": "Field Experience",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MiniscapeExp.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/MiniscapeExp.webp",
+        "localPath": "gallery/zzz/MiniscapeExp.webp",
+        "sha256": "17705faa4598be2c65746e81c7cbf2c500596afb491b15f9a41101f1360f7bde",
+        "etag": "\"dld8rgkvag3q-7w0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgkvag3q-7w0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10224|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10224,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MiniscapeExp.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/MiniscapeExp.webp",
+        "localPath": "gallery/zzz/MiniscapeExp.webp",
+        "sha256": "17705faa4598be2c65746e81c7cbf2c500596afb491b15f9a41101f1360f7bde",
+        "etag": "\"dld8rgkvag3q-7w0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgkvag3q-7w0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10224|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10224,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MiniscapeExp.png",
+      "rank": 3,
+      "class": 1,
+      "name": "Field Experience"
+    },
+    "detail": {
+      "id": 417,
+      "name": "Field Experience",
+      "desc": "Used to increase Investigation Level which in turn gives Combat Permits.",
+      "desc2": "A document used to keep a written record of Field Experience. Words may seem powerless, but they can stand as proof of strength.",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MiniscapeExp.png"
+    }
+  }
+}

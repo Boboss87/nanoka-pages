@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "305026",
+    "name": "Pair of Handcuffs",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0014.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconQuestItem_Abyss_0014.webp",
+        "localPath": "gallery/zzz/IconQuestItem_Abyss_0014.webp",
+        "sha256": "ffb91c7c44177b38d184e6197819782928c31240374b6a5f0ac3333c68ed5e52",
+        "etag": "\"dld8rg7sxfqx-3oy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7sxfqx-3oy\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=4786|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4786,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0014.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconQuestItem_Abyss_0014.webp",
+        "localPath": "gallery/zzz/IconQuestItem_Abyss_0014.webp",
+        "sha256": "ffb91c7c44177b38d184e6197819782928c31240374b6a5f0ac3333c68ed5e52",
+        "etag": "\"dld8rg7sxfqx-3oy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7sxfqx-3oy\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=4786|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4786,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0014.png",
+      "rank": 2,
+      "class": 22,
+      "name": "Pair of Handcuffs"
+    },
+    "detail": {
+      "id": 305026,
+      "name": "Pair of Handcuffs",
+      "desc": "A set of worn handcuffs.",
+      "desc2": "There are visible marks of use around the lock.",
+      "class": {
+        "22": "CLUE ITEM"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0014.png"
+    }
+  }
+}

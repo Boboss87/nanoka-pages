@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "100117",
+    "name": "Basic Lumiflux Chip",
+    "rarity": "一星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AvatarSkillLight01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AvatarSkillLight01.webp",
+        "localPath": "gallery/zzz/AvatarSkillLight01.webp",
+        "sha256": "b5ecd93ddc7155c978dd4f1eb1a39f5b5ae669a2648eec7c94acaa56bf2b73c1",
+        "etag": "\"dld8rfo1fkwn-5bi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfo1fkwn-5bi\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=6894|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6894,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AvatarSkillLight01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AvatarSkillLight01.webp",
+        "localPath": "gallery/zzz/AvatarSkillLight01.webp",
+        "sha256": "b5ecd93ddc7155c978dd4f1eb1a39f5b5ae669a2648eec7c94acaa56bf2b73c1",
+        "etag": "\"dld8rfo1fkwn-5bi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfo1fkwn-5bi\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=6894|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6894,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AvatarSkillLight01.png",
+      "rank": 1,
+      "class": 10,
+      "name": "Basic Lumiflux Chip"
+    },
+    "detail": {
+      "id": 100117,
+      "name": "Basic Lumiflux Chip",
+      "desc": "Upgrades a Lumiflux Agent's skills.",
+      "desc2": "A simulation chip designed to enhance the effectiveness of the user's Lumiflux attacks. Particularly suitable for novices who have just been introduced to these chips.",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 1,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AvatarSkillLight01.png"
+    }
+  }
+}

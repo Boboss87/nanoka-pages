@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "20104",
+    "name": "Potential Silhouette: Soldier 11",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconRoleAwaken_1041.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRoleAwaken_1041.webp",
+        "localPath": "gallery/zzz/IconRoleAwaken_1041.webp",
+        "sha256": "46447c9c63fe12055939c1f259d43f7140375d8bfb8ee8b2b11c7a91b42de2a9",
+        "etag": "\"dld8rgari5o0-7ik\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgari5o0-7ik\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9740|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9740,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconRoleAwaken_1041.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRoleAwaken_1041.webp",
+        "localPath": "gallery/zzz/IconRoleAwaken_1041.webp",
+        "sha256": "46447c9c63fe12055939c1f259d43f7140375d8bfb8ee8b2b11c7a91b42de2a9",
+        "etag": "\"dld8rgari5o0-7ik\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgari5o0-7ik\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9740|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9740,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconRoleAwaken_1041.png",
+      "rank": 4,
+      "class": 6,
+      "name": "Potential Silhouette: Soldier 11"
+    },
+    "detail": {
+      "id": 20104,
+      "name": "Potential Silhouette: Soldier 11",
+      "desc": "Used to awaken Soldier 11's potential. Can be exchanged in the Potential Archive store.",
+      "desc2": "A sharp, clean silhouette capturing an Agent's potential \"ideal self.\"\n\nShe still keeps up her old training routine, like a stubborn flame burning through the night. Still, having crossed paths with you so many times without realizing it, She finally has a reason to search for her own \"identity.\"",
+      "class": {
+        "6": "AGENT SILHOUETTE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconRoleAwaken_1041.png"
+    }
+  }
+}

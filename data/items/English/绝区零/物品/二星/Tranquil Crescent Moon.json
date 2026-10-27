@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1351003",
+    "name": "Tranquil Crescent Moon",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver1_7/Flower/UnPacker/SLot1_6.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SLot1_6.webp",
+        "localPath": "gallery/zzz/SLot1_6.webp",
+        "sha256": "0105fcd396b562e734d8b95fd11bcb3d2730b40cd926e95f20d8ce3a8475e940",
+        "etag": "\"dld8rgob4rbe-80y\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgob4rbe-80y\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10402|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10402,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver1_7/Flower/UnPacker/SLot1_6.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SLot1_6.webp",
+        "localPath": "gallery/zzz/SLot1_6.webp",
+        "sha256": "0105fcd396b562e734d8b95fd11bcb3d2730b40cd926e95f20d8ce3a8475e940",
+        "etag": "\"dld8rgob4rbe-80y\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgob4rbe-80y\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10402|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10402,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver1_7/Flower/UnPacker/SLot1_6.png",
+      "rank": 2,
+      "class": 93,
+      "name": "Tranquil Crescent Moon"
+    },
+    "detail": {
+      "id": 1351003,
+      "name": "Tranquil Crescent Moon",
+      "desc": "All disturbances will fade away with the moonlight.",
+      "desc2": "",
+      "class": {
+        "93": "DEW"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver1_7/Flower/UnPacker/SLot1_6.png"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3321301",
+    "name": "Peach-Flavored Flash Suppressor",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "Peach-Flavored Flash Suppressor"
+    },
+    "detail": {
+      "id": 3321301,
+      "name": "Peach-Flavored Flash Suppressor",
+      "desc": "Get by unlocking Orphie & Magus' Mindscape: Magic Seed",
+      "desc2": "A business card printed with a private photo of Orphie & Magus.\n\"I've got another secret to share... Actually, Magus really likes being around you too, Proxy!\"\n\"Orphys, I'll be more mindful of how I talk from now on, okay? So stop talking, and take this pink ribbon off me too!\"",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

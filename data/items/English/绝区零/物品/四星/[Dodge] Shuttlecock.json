@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000803",
+    "name": "[Dodge] Shuttlecock",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSports10.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardSports10.webp",
+        "localPath": "gallery/zzz/CardSports10.webp",
+        "sha256": "b29fad663a897b52f6df841745828be8f2e1416a33d3a0af72b0257f5867e7b8",
+        "etag": "\"dld8rfr00atp-d1y\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr00atp-d1y\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16918|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16918,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSports10.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardSports10.webp",
+        "localPath": "gallery/zzz/CardSports10.webp",
+        "sha256": "b29fad663a897b52f6df841745828be8f2e1416a33d3a0af72b0257f5867e7b8",
+        "etag": "\"dld8rfr00atp-d1y\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr00atp-d1y\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16918|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16918,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSports10.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Dodge] Shuttlecock"
+    },
+    "detail": {
+      "id": 1000803,
+      "name": "[Dodge] Shuttlecock",
+      "desc": "On triggering Perfect Dodge, Agents gain <color=#2BAD00>1</color> stack of Agility and enter Vital View for 4s This effect can trigger once every 10s.",
+      "desc2": "One must remain calm and ensure precision during a spike; otherwise, you'll only end up snapping fragile feathers with a roar.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSports10.png"
+    }
+  }
+}

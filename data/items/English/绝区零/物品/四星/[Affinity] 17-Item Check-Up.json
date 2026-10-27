@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000966",
+    "name": "[Affinity] 17-Item Check-Up",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1221.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1221.webp",
+        "localPath": "gallery/zzz/CardDailyUse1221.webp",
+        "sha256": "c0d08eed9291f5fe18af3110343a04b4e1685bda76a76f52ed46f74240d133c9",
+        "etag": "\"dld8rfqf63qv-ci0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqf63qv-ci0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16200|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16200,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1221.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1221.webp",
+        "localPath": "gallery/zzz/CardDailyUse1221.webp",
+        "sha256": "c0d08eed9291f5fe18af3110343a04b4e1685bda76a76f52ed46f74240d133c9",
+        "etag": "\"dld8rfqf63qv-ci0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqf63qv-ci0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16200|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16200,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1221.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Affinity] 17-Item Check-Up"
+    },
+    "detail": {
+      "id": 1000966,
+      "name": "[Affinity] 17-Item Check-Up",
+      "desc": "Yanagi has evoked the Mindscape: <color=#FFAF2C>[Outstanding Adaptability]</color>.\n[Outstanding Adaptability]：During her <color=#FFFFFF>EX Special Attack</color>, the rapid thrust's <color=#2EB6FF>Electric Anomaly Buildup</color> increases by 20%. Holding down the Special Attack button after a rapid thrust hits an enemy will consume 10 additional Energy to launch another thrust. If Energy is insufficient or the button is released, the attack automatically follows up with the downward attack. When the downward attack hits an enemy suffering an Anomaly and triggers <color=#FFFFFF>Polarity Disorder</color>, the DMG multiplier increases to 20% of the original <color=#FFFFFF>Disorder</color> effect. Each additional thrust increases this multiplier by 15%, up to a maximum of 2 extra thrusts.",
+      "desc2": "After completing a series of thorough check-ups, Yanagi is very satisfied with the results and confident in her teammates' conditions going forward.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1221.png"
+    }
+  }
+}

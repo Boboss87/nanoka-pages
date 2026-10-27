@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "33421",
+    "name": "Moonlight Lullaby [1]",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitMoonlightLullaby_B.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitMoonlightLullaby_B.webp",
+        "localPath": "gallery/zzz/ItemSuitMoonlightLullaby_B.webp",
+        "sha256": "0c3350c8a963d021d1fd7e65a74933959f31eee498922caf6789feb829d10185",
+        "etag": "\"dld8rgerl8bs-7sq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgerl8bs-7sq\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10106|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10106,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitMoonlightLullaby_B.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitMoonlightLullaby_B.webp",
+        "localPath": "gallery/zzz/ItemSuitMoonlightLullaby_B.webp",
+        "sha256": "0c3350c8a963d021d1fd7e65a74933959f31eee498922caf6789feb829d10185",
+        "etag": "\"dld8rgerl8bs-7sq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgerl8bs-7sq\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10106|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10106,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitMoonlightLullaby_B.png",
+      "rank": 2,
+      "class": 7,
+      "name": "Moonlight Lullaby [1]"
+    },
+    "detail": {
+      "id": 33421,
+      "name": "Moonlight Lullaby [1]",
+      "desc": "Equip to increase Agents' combat capabilities",
+      "desc2": "\"Little Moonlight Knight,\nCape billowing behind\"",
+      "class": {
+        "7": "DISK"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitMoonlightLullaby_B.png"
+    }
+  }
+}

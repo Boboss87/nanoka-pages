@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1200016",
+    "name": "HP",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconFund_Blood.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconFund_Blood.webp",
+        "localPath": "gallery/zzz/IconFund_Blood.webp",
+        "sha256": "4a87e780a8ea0f56626fa91f545d049aa1e59f842afc81f926488bbebb5d66a0",
+        "etag": "\"dld8rg7mdnt4-4k6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7mdnt4-4k6\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=5910|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5910,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconFund_Blood.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconFund_Blood.webp",
+        "localPath": "gallery/zzz/IconFund_Blood.webp",
+        "sha256": "4a87e780a8ea0f56626fa91f545d049aa1e59f842afc81f926488bbebb5d66a0",
+        "etag": "\"dld8rg7mdnt4-4k6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7mdnt4-4k6\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=5910|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5910,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconFund_Blood.png",
+      "rank": 3,
+      "class": 37,
+      "name": "HP"
+    },
+    "detail": {
+      "id": 1200016,
+      "name": "HP",
+      "desc": "HP can be spent to acquire items through illicit transactions.",
+      "desc2": "This device, resembling a Resonium collection box, analyzes Ether matter attached to Resonia and destabilizes it, converting Resonia into random new ones.",
+      "class": {
+        "37": "HOLLOW ONLY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconFund_Blood.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4360048",
+    "name": "Afternoon Tea Break: Kitty Hairband",
+    "rarity": "五星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_086.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_086.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_086.webp",
+        "sha256": "4213d31919681f04af027dc6e933edd508149982c923fbd5bf9212e97771c21b",
+        "etag": "\"dld8rgr4ckk2-5og\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr4ckk2-5og\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7360|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7360,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_086.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_086.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_086.webp",
+        "sha256": "4213d31919681f04af027dc6e933edd508149982c923fbd5bf9212e97771c21b",
+        "etag": "\"dld8rgr4ckk2-5og\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr4ckk2-5og\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7360|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7360,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_086.png",
+      "rank": 5,
+      "class": 130,
+      "name": "Afternoon Tea Break: Kitty Hairband"
+    },
+    "detail": {
+      "id": 4360048,
+      "name": "Afternoon Tea Break: Kitty Hairband",
+      "desc": "Looks like an accessory belonging to a member of some idol group. Probably dropped here while making a run from the \"Divine Maze\".",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_086.png"
+    }
+  }
+}

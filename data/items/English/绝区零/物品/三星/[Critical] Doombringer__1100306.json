@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1100306",
+    "name": "[Critical] Doombringer",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGun08.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardGun08.webp",
+        "localPath": "gallery/zzz/CardGun08.webp",
+        "sha256": "159b10bd75b59fa82f341de4381a10674436f85dd345057186293751ff76119e",
+        "etag": "\"dld8rfqqhcqc-bzs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqqhcqc-bzs\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15544|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15544,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGun08.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardGun08.webp",
+        "localPath": "gallery/zzz/CardGun08.webp",
+        "sha256": "159b10bd75b59fa82f341de4381a10674436f85dd345057186293751ff76119e",
+        "etag": "\"dld8rfqqhcqc-bzs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqqhcqc-bzs\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15544|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15544,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGun08.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Critical] Doombringer"
+    },
+    "detail": {
+      "id": 1100306,
+      "name": "[Critical] Doombringer",
+      "desc": "Increases Agent CRIT DMG by <color=#2BAD00>35%</color>.",
+      "desc2": "Smart ignition and precision blasts. How far it explodes all depends on how far you throw it.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGun08.png"
+    }
+  }
+}

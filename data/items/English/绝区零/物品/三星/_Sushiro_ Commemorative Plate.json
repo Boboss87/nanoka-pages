@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "2090027",
+    "name": "\"Sushiro\" Commemorative Plate",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Sushiro2_2.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Sushiro2_2.webp",
+        "localPath": "gallery/zzz/Sushiro2_2.webp",
+        "sha256": "a681faf84469b75043a7e5a4dc2a3a5148413e812e51111724415ee6d1be849e",
+        "etag": "\"dld8rgorswz9-88i\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgorswz9-88i\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10674|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10674,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Sushiro2_2.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Sushiro2_2.webp",
+        "localPath": "gallery/zzz/Sushiro2_2.webp",
+        "sha256": "a681faf84469b75043a7e5a4dc2a3a5148413e812e51111724415ee6d1be849e",
+        "etag": "\"dld8rgorswz9-88i\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgorswz9-88i\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10674|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10674,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Sushiro2_2.png",
+      "rank": 3,
+      "class": 20,
+      "name": "\"Sushiro\" Commemorative Plate"
+    },
+    "detail": {
+      "id": 2090027,
+      "name": "\"Sushiro\" Commemorative Plate",
+      "desc": "The commemorative reward for the collab event \"Sushiro × Zenless Zone Zero.\"",
+      "desc2": "One bite of surging energy, and you're instantly fully charged!\nJust seeing the commemorative plate brings that rich umami flavor right back to my taste buds... Great, now I'm hungry again.",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Sushiro2_2.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "834240",
+    "name": "Thorned Rose",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitThornedRose_S.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitThornedRose_S.webp",
+        "localPath": "gallery/zzz/ItemSuitThornedRose_S.webp",
+        "sha256": "5f3c4a9e9bf0a2d9251a57be4fdd329f3a544407c666deea6d70c1b7ffbcf49f",
+        "etag": "\"dld8rgey509l-81o\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgey509l-81o\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10428|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10428,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitThornedRose_S.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitThornedRose_S.webp",
+        "localPath": "gallery/zzz/ItemSuitThornedRose_S.webp",
+        "sha256": "5f3c4a9e9bf0a2d9251a57be4fdd329f3a544407c666deea6d70c1b7ffbcf49f",
+        "etag": "\"dld8rgey509l-81o\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgey509l-81o\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10428|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10428,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitThornedRose_S.png",
+      "rank": 4,
+      "class": 28,
+      "name": "Thorned Rose"
+    },
+    "detail": {
+      "id": 834240,
+      "name": "Thorned Rose",
+      "desc": "",
+      "desc2": "A ballad passed down across Vyrium, born from the many legends and strange tales surrounding Flint. Though time remains silent, people never cease searching for the many mysteries hidden within his bloodline.",
+      "class": {
+        "28": "DISK"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitThornedRose_S.png"
+    }
+  }
+}

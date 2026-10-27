@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "450",
+    "name": "Gilded: Riches and Good Fortune Boo",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BlindBoxJackPot_05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BlindBoxJackPot_05.webp",
+        "localPath": "gallery/zzz/BlindBoxJackPot_05.webp",
+        "sha256": "9ab0ba85cf065ddde8d5d26bda59a919c7e4b9ed32265f62fd45f59bcf23eda2",
+        "etag": "\"dld8rfpoyzzm-7v0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpoyzzm-7v0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10188|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10188,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BlindBoxJackPot_05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BlindBoxJackPot_05.webp",
+        "localPath": "gallery/zzz/BlindBoxJackPot_05.webp",
+        "sha256": "9ab0ba85cf065ddde8d5d26bda59a919c7e4b9ed32265f62fd45f59bcf23eda2",
+        "etag": "\"dld8rfpoyzzm-7v0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpoyzzm-7v0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10188|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10188,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BlindBoxJackPot_05.png",
+      "rank": 4,
+      "class": 1,
+      "name": "Gilded: Riches and Good Fortune Boo"
+    },
+    "detail": {
+      "id": 450,
+      "name": "Gilded: Riches and Good Fortune Boo",
+      "desc": "A single Bangboo Badge from the \"Gilded\" series, obtained from the \"Gilded Surprise, Wonderful Boo-ns\" Event Phase 2.",
+      "desc2": "「One for you, and one for you... don't worry, everyone gets their share of good fortune on Gilded Carrot Day~」\n——The diligent ehn-ne sounds of a Bangboo helping its owner hand out lucky money.",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BlindBoxJackPot_05.png"
+    }
+  }
+}

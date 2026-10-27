@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1102405",
+    "name": "[Tenacity] Military Canteen",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTenacity05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardTenacity05.webp",
+        "localPath": "gallery/zzz/CardTenacity05.webp",
+        "sha256": "2ad409c77601a87f6e81adbeeb9e0aa710eb95a48a453c03617528a98fd80989",
+        "etag": "\"dld8rfr4rrve-ck0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr4rrve-ck0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16272|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16272,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTenacity05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardTenacity05.webp",
+        "localPath": "gallery/zzz/CardTenacity05.webp",
+        "sha256": "2ad409c77601a87f6e81adbeeb9e0aa710eb95a48a453c03617528a98fd80989",
+        "etag": "\"dld8rfr4rrve-ck0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr4rrve-ck0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16272|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16272,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTenacity05.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Tenacity] Military Canteen"
+    },
+    "detail": {
+      "id": 1102405,
+      "name": "[Tenacity] Military Canteen",
+      "desc": "Triggering an Ultimate grants the Agent Shield equal to <color=#2BAD00>30%</color> of their lost HP.",
+      "desc2": "A canteen with dual filtration. It not only filters outdoor freshwater into drinkable water but also reduces the risk of consuming Ether from water sources in the Hollow.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTenacity05.png"
+    }
+  }
+}

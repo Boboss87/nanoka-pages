@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1001021",
+    "name": "[Hollow] Insect Catalog",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard17.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard17.webp",
+        "localPath": "gallery/zzz/CardChessboard17.webp",
+        "sha256": "16a001b6d884a7e4d5eafa64c04c4fcd906f4f9559e4cf280796a3fb50989535",
+        "etag": "\"dld8rfq97rfr-aa6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq97rfr-aa6\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=13326|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13326,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard17.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard17.webp",
+        "localPath": "gallery/zzz/CardChessboard17.webp",
+        "sha256": "16a001b6d884a7e4d5eafa64c04c4fcd906f4f9559e4cf280796a3fb50989535",
+        "etag": "\"dld8rfq97rfr-aa6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq97rfr-aa6\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=13326|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13326,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard17.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Hollow] Insect Catalog"
+    },
+    "detail": {
+      "id": 1001021,
+      "name": "[Hollow] Insect Catalog",
+      "desc": "For every 10 Pressure, all squad members regenerate <color=#2BAD00>3%</color> Energy upon entering the battlefield. (Current Regen: {CReplaceCardParam:SPShow_1001021,0.01,2}%)",
+      "desc2": "A photo album filled with bugs. Looking at it for too long can get you feeling a little anxious.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard17.png"
+    }
+  }
+}

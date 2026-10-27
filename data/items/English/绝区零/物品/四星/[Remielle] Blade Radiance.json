@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1350292",
+    "name": "[Remielle] Blade Radiance",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic104.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic104.webp",
+        "localPath": "gallery/zzz/Relic104.webp",
+        "sha256": "b442724ae571279e9eca481fb50fcca8f4c95acde207f335aab61b8380c1a659",
+        "etag": "\"dld8rgo56f0a-2uo\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo56f0a-2uo\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=3696|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 3696,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic104.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic104.webp",
+        "localPath": "gallery/zzz/Relic104.webp",
+        "sha256": "b442724ae571279e9eca481fb50fcca8f4c95acde207f335aab61b8380c1a659",
+        "etag": "\"dld8rgo56f0a-2uo\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo56f0a-2uo\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=3696|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 3696,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic104.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Remielle] Blade Radiance"
+    },
+    "detail": {
+      "id": 1350292,
+      "name": "[Remielle] Blade Radiance",
+      "desc": "When Remielle is the active character, she <color=#2BAD00>recovers 1.6 Energy per second</color>. When using <color=#FFFFFF>EX Special Attack</color>, she <color=#2BAD00>gains 3</color> special <color=#FFFFFF>Voidflares</color>.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic104.png"
+    }
+  }
+}

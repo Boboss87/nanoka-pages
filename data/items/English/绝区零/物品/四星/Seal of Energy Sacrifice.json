@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1339929",
+    "name": "Seal of Energy Sacrifice",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact017.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Artifact017.webp",
+        "localPath": "gallery/zzz/Artifact017.webp",
+        "sha256": "c1ee42246739a5048e5f3fa1743fe8f4530bef048733a6f5a33c2dc79f287896",
+        "etag": "\"dld8rfnz1udt-87w\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnz1udt-87w\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10652|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10652,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact017.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Artifact017.webp",
+        "localPath": "gallery/zzz/Artifact017.webp",
+        "sha256": "c1ee42246739a5048e5f3fa1743fe8f4530bef048733a6f5a33c2dc79f287896",
+        "etag": "\"dld8rfnz1udt-87w\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnz1udt-87w\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10652|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10652,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact017.png",
+      "rank": 4,
+      "class": 81,
+      "name": "Seal of Energy Sacrifice"
+    },
+    "detail": {
+      "id": 1339929,
+      "name": "Seal of Energy Sacrifice",
+      "desc": "Increases Agents' <color=#2BAD00>Energy Generation Rate by 35%</color>.",
+      "desc2": "",
+      "class": {
+        "81": "HOLLOW ONLY"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact017.png"
+    }
+  }
+}

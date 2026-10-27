@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1340074",
+    "name": "Copper Paperweight",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard62.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard62.webp",
+        "localPath": "gallery/zzz/CardChessboard62.webp",
+        "sha256": "6a24c8c5dd1f1a90e15482b283b2080d17738e14e43fe42d8b3e4c5a22f7d978",
+        "etag": "\"dld8rfqblhyl-aly\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqblhyl-aly\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=13750|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13750,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard62.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard62.webp",
+        "localPath": "gallery/zzz/CardChessboard62.webp",
+        "sha256": "6a24c8c5dd1f1a90e15482b283b2080d17738e14e43fe42d8b3e4c5a22f7d978",
+        "etag": "\"dld8rfqblhyl-aly\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqblhyl-aly\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=13750|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13750,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard62.png",
+      "rank": 3,
+      "class": 31,
+      "name": "Copper Paperweight"
+    },
+    "detail": {
+      "id": 1340074,
+      "name": "Copper Paperweight",
+      "desc": "Agent's reduction efficiency against <color=#FFAF2C>Miasmic Shield</color> increases by 15%.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard62.png"
+    }
+  }
+}

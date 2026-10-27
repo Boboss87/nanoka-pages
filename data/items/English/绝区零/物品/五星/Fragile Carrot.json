@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4363501",
+    "name": "Fragile Carrot",
+    "rarity": "五星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_020.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_020.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_020.webp",
+        "sha256": "67f7457451f9a316d23b2a2d3ca8a7fe546135aa1e8e26878a2d160eb78cd66d",
+        "etag": "\"dld8rgr2k9ny-75m\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr2k9ny-75m\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9274|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9274,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_020.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_020.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_020.webp",
+        "sha256": "67f7457451f9a316d23b2a2d3ca8a7fe546135aa1e8e26878a2d160eb78cd66d",
+        "etag": "\"dld8rgr2k9ny-75m\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr2k9ny-75m\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9274|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9274,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_020.png",
+      "rank": 5,
+      "class": 130,
+      "name": "Fragile Carrot"
+    },
+    "detail": {
+      "id": 4363501,
+      "name": "Fragile Carrot",
+      "desc": "A Carrot chip created from Hollow observation data. Without protective encapsulation, exposure to Ether fluctuations — such as those encountered while passing through long-distance spatial fissures — may cause packet loss or complete failure.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_020.png"
+    }
+  }
+}

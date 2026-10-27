@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1311004",
+    "name": "[Mobile] Inflatable Swimming Ring",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardSwitch02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardSwitch02.webp",
+        "localPath": "gallery/zzz/CardSwitch02.webp",
+        "sha256": "3bbcdaa142b335c841a7cec2551655a7e642352d230922a481a39e2b58fff649",
+        "etag": "\"dld8rfr2zgz9-dre\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr2zgz9-dre\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17834|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17834,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardSwitch02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardSwitch02.webp",
+        "localPath": "gallery/zzz/CardSwitch02.webp",
+        "sha256": "3bbcdaa142b335c841a7cec2551655a7e642352d230922a481a39e2b58fff649",
+        "etag": "\"dld8rfr2zgz9-dre\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr2zgz9-dre\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17834|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17834,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardSwitch02.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[Mobile] Inflatable Swimming Ring"
+    },
+    "detail": {
+      "id": 1311004,
+      "name": "[Mobile] Inflatable Swimming Ring",
+      "desc": "When <color=#FFFFFF>Tag Assist</color> hits enemies, <color=#2BAD00>restores 5% HP</color> for the active character. Each character can trigger this effect once every 15s.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardSwitch02.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1002004",
+    "name": "Double Espresso",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1631.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1631.webp",
+        "localPath": "gallery/zzz/CardDailyUse1631.webp",
+        "sha256": "23301ebfa3744fc0127d6f501115cf836db3033f713abd3943b2d2c20fce355f",
+        "etag": "\"dld8rfqiqpj4-d6e\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqiqpj4-d6e\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17078|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17078,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1631.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1631.webp",
+        "localPath": "gallery/zzz/CardDailyUse1631.webp",
+        "sha256": "23301ebfa3744fc0127d6f501115cf836db3033f713abd3943b2d2c20fce355f",
+        "etag": "\"dld8rfqiqpj4-d6e\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqiqpj4-d6e\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17078|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17078,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1631.png",
+      "rank": 4,
+      "class": 31,
+      "name": "Double Espresso"
+    },
+    "detail": {
+      "id": 1002004,
+      "name": "Double Espresso",
+      "desc": "Severian has evoked the Mindscape: <color=#FFAF2C>[Double Espresso]</color>.\nDouble Espresso：When Severian uses a <color=#FFFFFF>Chain Attack</color>, the accumulated <color=#FFFFFF>Flow</color> increases to 50.\nWhen Severian switches in through <color=#FFFFFF>Entry Skill: Clear Out</color>, the skill is replaced with a <color=#FFFFFF>Chain Attack</color>. The entry type is not changed, and it is treated as a non-heavy attack. This effect can trigger once every 60s.\nEach time Severian uses <color=#FFFFFF>Basic Attack: Azure Wind's Shadowhunt</color>, he gains 1 stack of <color=#FFFFFF>Windborne</color>.\nWhen Severian's attacks hit a target, they ignore 15% of the target's Wind RES.",
+      "desc2": "...",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1631.png"
+    }
+  }
+}

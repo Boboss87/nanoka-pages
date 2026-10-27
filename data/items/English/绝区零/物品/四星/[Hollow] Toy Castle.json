@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1001016",
+    "name": "[Hollow] Toy Castle",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard23.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard23.webp",
+        "localPath": "gallery/zzz/CardChessboard23.webp",
+        "sha256": "fd405449311b96514f51c12aa46cdbdcdfd6bee1013bebdc74152f4b93c4c56c",
+        "etag": "\"dld8rfq9t72h-9wy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq9t72h-9wy\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=12850|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12850,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard23.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard23.webp",
+        "localPath": "gallery/zzz/CardChessboard23.webp",
+        "sha256": "fd405449311b96514f51c12aa46cdbdcdfd6bee1013bebdc74152f4b93c4c56c",
+        "etag": "\"dld8rfq9t72h-9wy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq9t72h-9wy\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=12850|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12850,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard23.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Hollow] Toy Castle"
+    },
+    "detail": {
+      "id": 1001016,
+      "name": "[Hollow] Toy Castle",
+      "desc": "When your Pressure is overloaded, you get <color=#2BAD00>a random</color> A-Rank Resonium.",
+      "desc2": "Yes, it's made of building blocks, but you can recognize how impressive it is. It would be so nice to live there...",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard23.png"
+    }
+  }
+}

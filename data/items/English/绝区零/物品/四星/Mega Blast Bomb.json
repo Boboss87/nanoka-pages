@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4212001",
+    "name": "Mega Blast Bomb",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeaponSmall/UnPacker/Weapon_B_Common_10Small.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_B_Common_10Small.webp",
+        "localPath": "gallery/zzz/Weapon_B_Common_10Small.webp",
+        "sha256": "9d3484d3e471a4334fc6564daa302facce9f41df31581168f42fb3ca62f7e869",
+        "etag": "\"dld8rgpbg8sp-2n8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgpbg8sp-2n8\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=3428|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 3428,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeaponSmall/UnPacker/Weapon_B_Common_10Small.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_B_Common_10Small.webp",
+        "localPath": "gallery/zzz/Weapon_B_Common_10Small.webp",
+        "sha256": "9d3484d3e471a4334fc6564daa302facce9f41df31581168f42fb3ca62f7e869",
+        "etag": "\"dld8rgpbg8sp-2n8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgpbg8sp-2n8\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=3428|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 3428,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeaponSmall/UnPacker/Weapon_B_Common_10Small.png",
+      "rank": 4,
+      "class": 121,
+      "name": "Mega Blast Bomb"
+    },
+    "detail": {
+      "id": 4212001,
+      "name": "Mega Blast Bomb",
+      "desc": "When thrown, it splits into multiple highly destructive mini bombs with a powerful blast.",
+      "desc2": "BKItem_4212001_Story",
+      "class": {
+        "121": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeaponSmall/UnPacker/Weapon_B_Common_10Small.png"
+    }
+  }
+}

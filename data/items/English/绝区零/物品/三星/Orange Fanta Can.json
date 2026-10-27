@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "2090010",
+    "name": "Orange Fanta Can",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/FentaIcon.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/FentaIcon.webp",
+        "localPath": "gallery/zzz/FentaIcon.webp",
+        "sha256": "50e4bd8abaedfa6911efcddf6437248ec4fb059028ceb63bef6dc84a0f6ef36d",
+        "etag": "\"dld8rg73brme-5rc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg73brme-5rc\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=7464|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7464,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/FentaIcon.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/FentaIcon.webp",
+        "localPath": "gallery/zzz/FentaIcon.webp",
+        "sha256": "50e4bd8abaedfa6911efcddf6437248ec4fb059028ceb63bef6dc84a0f6ef36d",
+        "etag": "\"dld8rg73brme-5rc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg73brme-5rc\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=7464|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7464,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/FentaIcon.png",
+      "rank": 3,
+      "class": 51,
+      "name": "Orange Fanta Can"
+    },
+    "detail": {
+      "id": 2090010,
+      "name": "Orange Fanta Can",
+      "desc": "The \"Fanta × Zenless Zone Zero\" collaboration event exclusive reward; grants 60 Battery Charge upon use.",
+      "desc2": "A critically acclaimed classic carbonated drink — your perfect choice for that dopamine and energy boost!\nThe head of St. Leen's Beverage R&D Division claimed it was \"nothing special\" after tasting it, but was later spotted secretly stockpiling several cases of the same drink at home.",
+      "class": {
+        "51": "GIFT"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/FentaIcon.png"
+    }
+  }
+}

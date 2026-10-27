@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3300018",
+    "name": "Shadowlight Intermission",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard42.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard42.webp",
+        "localPath": "gallery/zzz/Callingcard42.webp",
+        "sha256": "b118a094ad36273c7ae081986ea214a60d7c5cf919f6c457b9161d2f217958d6",
+        "etag": "\"dld8rfprcqih-7xs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfprcqih-7xs\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10288|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10288,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard42.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard42.webp",
+        "localPath": "gallery/zzz/Callingcard42.webp",
+        "sha256": "b118a094ad36273c7ae081986ea214a60d7c5cf919f6c457b9161d2f217958d6",
+        "etag": "\"dld8rfprcqih-7xs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfprcqih-7xs\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10288|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10288,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard42.png",
+      "rank": 4,
+      "class": 65,
+      "name": "Shadowlight Intermission"
+    },
+    "detail": {
+      "id": 3300018,
+      "name": "Shadowlight Intermission",
+      "desc": "A commemorative namecard for the New Eridu City Fund: Growth Plan.",
+      "desc2": "\"Born anew from the theater, we step onto the stage before the curtain calls. Though the stars may dim for now, we... will make everyone shine bright.\" — Entrance line of an actor from a mysterious theater somewhere.\n\"Belle... do we seriously have to say that out loud when we make our entrance?\"",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard42.png"
+    }
+  }
+}

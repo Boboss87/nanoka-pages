@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1360107",
+    "name": "[Support: Saturation] Elegant Creed",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic070.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic070.webp",
+        "localPath": "gallery/zzz/Relic070.webp",
+        "sha256": "52835798439204ad97e79771eea8c95a46c9bb38c51210a0bc9629b44626dd38",
+        "etag": "\"dld8rgo3zjqv-35c\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo3zjqv-35c\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4080|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4080,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic070.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic070.webp",
+        "localPath": "gallery/zzz/Relic070.webp",
+        "sha256": "52835798439204ad97e79771eea8c95a46c9bb38c51210a0bc9629b44626dd38",
+        "etag": "\"dld8rgo3zjqv-35c\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo3zjqv-35c\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4080|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4080,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic070.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Support: Saturation] Elegant Creed"
+    },
+    "detail": {
+      "id": 1360107,
+      "name": "[Support: Saturation] Elegant Creed",
+      "desc": "<color=#FFFFFF>Auxiliary Assist</color>: Rina does not accumulate Energy over time, instead she accumulates Energy when any Agent in the squad consumes Energy/Adrenaline/Sharpness. With enough Energy, press Auxiliary Assist to summon Rina to launch an <color=#FFFFFF>Auxiliary Assist</color> attack on enemies and enter <color=#FFFFFF>Vital View</color>. During <color=#FFFFFF>Vital View</color>, <color=#2BAD00>DMG dealt by all Agents in the squad increases by 70%</color> for 10s.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic070.png"
+    }
+  }
+}

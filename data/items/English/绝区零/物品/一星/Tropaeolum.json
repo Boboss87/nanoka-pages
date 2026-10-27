@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4151049",
+    "name": "Tropaeolum",
+    "rarity": "一星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianRemedyMaterial04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianRemedyMaterial04.webp",
+        "localPath": "gallery/zzz/SuibianRemedyMaterial04.webp",
+        "sha256": "c38963645ac802b6f20552c0e1caefd74c015148d52cbdac55448b66834bb1ce",
+        "etag": "\"dld8rgoh33mh-5j2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoh33mh-5j2\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7166|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7166,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianRemedyMaterial04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianRemedyMaterial04.webp",
+        "localPath": "gallery/zzz/SuibianRemedyMaterial04.webp",
+        "sha256": "c38963645ac802b6f20552c0e1caefd74c015148d52cbdac55448b66834bb1ce",
+        "etag": "\"dld8rgoh33mh-5j2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoh33mh-5j2\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7166|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7166,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianRemedyMaterial04.png",
+      "rank": 1,
+      "class": 90,
+      "name": "Tropaeolum"
+    },
+    "detail": {
+      "id": 4151049,
+      "name": "Tropaeolum",
+      "desc": "Natural materials needed for crafting the Revitalizing Elixir.",
+      "desc2": "An ornamental and edible plant that emits a mild spicy fragrance and can repel certain pests.",
+      "class": {
+        "90": "Resource"
+      },
+      "rarity": 1,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianRemedyMaterial04.png"
+    }
+  }
+}

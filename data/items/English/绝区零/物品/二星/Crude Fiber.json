@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4300402",
+    "name": "Crude Fiber",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Material_031.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Material_031.webp",
+        "localPath": "gallery/zzz/Zenkov_Material_031.webp",
+        "sha256": "3fe64a94ffc269b0d8d3ec3e13a1be80ddc98bf26dc2dc2ff2bf6c80834f0d24",
+        "etag": "\"dld8rgr9ph8g-70s\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr9ph8g-70s\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9100|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9100,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Material_031.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Material_031.webp",
+        "localPath": "gallery/zzz/Zenkov_Material_031.webp",
+        "sha256": "3fe64a94ffc269b0d8d3ec3e13a1be80ddc98bf26dc2dc2ff2bf6c80834f0d24",
+        "etag": "\"dld8rgr9ph8g-70s\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr9ph8g-70s\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9100|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9100,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Material_031.png",
+      "rank": 2,
+      "class": 130,
+      "name": "Crude Fiber"
+    },
+    "detail": {
+      "id": 4300402,
+      "name": "Crude Fiber",
+      "desc": "Used for hub and facility upgrades.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Material_031.png"
+    }
+  }
+}

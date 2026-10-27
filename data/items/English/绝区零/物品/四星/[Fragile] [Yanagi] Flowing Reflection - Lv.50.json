@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4321022",
+    "name": "[Fragile] [Yanagi] Flowing Reflection - Lv.50",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_025.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_025.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_025.webp",
+        "sha256": "119cab4db2160435a603808b7b64848968eb4fc6177f483cc7c17e3eddd72669",
+        "etag": "\"dld8rgrfntjk-6tw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrfntjk-6tw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8852|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8852,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_025.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_025.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_025.webp",
+        "sha256": "119cab4db2160435a603808b7b64848968eb4fc6177f483cc7c17e3eddd72669",
+        "etag": "\"dld8rgrfntjk-6tw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrfntjk-6tw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8852|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8852,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_025.png",
+      "rank": 4,
+      "class": 132,
+      "name": "[Fragile] [Yanagi] Flowing Reflection - Lv.50"
+    },
+    "detail": {
+      "id": 4321022,
+      "name": "[Fragile] [Yanagi] Flowing Reflection - Lv.50",
+      "desc": "Tsukishiro Yanagi's exclusive Tactical Prism.\nWhen <color=#FFFFFF>Etheric Phantom</color> deals DMG to enemies, Tsukishiro Yanagi's Anomaly Buildup Rate increases by <color=#2BAD00>45%</color> for 60s; repeated triggers reset the duration.\nTsukishiro Yanagi can enter the <color=#FFFFFF>Shinrabanshou</color> state when she enters combat or when any squad member triggers the <color=#FFFFFF>Disorder</color> effect; repeated triggers reset the duration; while in the <color=#FFFFFF>Shinrabanshou</color> state, Tsukishiro Yanagi's <color=#2BAD00>Attribute Anomaly DMG and Disorder DMG increase by 60%</color>.",
+      "desc2": "",
+      "class": {
+        "132": "LABYRINTH"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_025.png"
+    }
+  }
+}

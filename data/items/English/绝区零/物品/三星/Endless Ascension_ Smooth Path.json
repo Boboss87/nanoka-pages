@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3202004",
+    "name": "Endless Ascension: Smooth Path",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfileTower.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemProfileTower.webp",
+        "localPath": "gallery/zzz/ItemProfileTower.webp",
+        "sha256": "5be0af823eb860d0ad47cba57bde8b60fd3341927d96fe0511a1c26c1680c6cd",
+        "etag": "\"dld8rgejul4k-7e0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgejul4k-7e0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9576|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9576,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfileTower.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemProfileTower.webp",
+        "localPath": "gallery/zzz/ItemProfileTower.webp",
+        "sha256": "5be0af823eb860d0ad47cba57bde8b60fd3341927d96fe0511a1c26c1680c6cd",
+        "etag": "\"dld8rgejul4k-7e0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgejul4k-7e0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9576|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9576,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfileTower.png",
+      "rank": 3,
+      "class": 64,
+      "name": "Endless Ascension: Smooth Path"
+    },
+    "detail": {
+      "id": 3202004,
+      "name": "Endless Ascension: Smooth Path",
+      "desc": "Commemorative avatar for specific floors in the \"Simulated Battle Trial\".",
+      "desc2": "Breaking through the siege and battling to the summit, the path ahead lies wide open.",
+      "class": {
+        "64": "PROFILE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfileTower.png"
+    }
+  }
+}

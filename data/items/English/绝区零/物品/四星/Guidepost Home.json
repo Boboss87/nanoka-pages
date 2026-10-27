@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000993",
+    "name": "Guidepost Home",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1521.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1521.webp",
+        "localPath": "gallery/zzz/CardDailyUse1521.webp",
+        "sha256": "cf0de57890219ea16d40620757828bb27c66392517e51945d430d950337635c9",
+        "etag": "\"dld8rfqhju9p-dae\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqhju9p-dae\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17222|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17222,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1521.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1521.webp",
+        "localPath": "gallery/zzz/CardDailyUse1521.webp",
+        "sha256": "cf0de57890219ea16d40620757828bb27c66392517e51945d430d950337635c9",
+        "etag": "\"dld8rfqhju9p-dae\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqhju9p-dae\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17222|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17222,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1521.png",
+      "rank": 4,
+      "class": 31,
+      "name": "Guidepost Home"
+    },
+    "detail": {
+      "id": 1000993,
+      "name": "Guidepost Home",
+      "desc": "Cissia has evoked the Mindscape: <color=#FFAF2C>[Hunger and Hard Truths]</color>.\n[Hunger and Hard Truths]: After a <color=#FFFFFF>Chain Attack: Gang Operation</color> or <color=#FFFFFF>Ultimate: Ophidiophobia</color> hits a Stunned enemy, gain an additional 3 <color=#FFFFFF>Venom</color>. <color=#FFFFFF>Basic Attack: Serpent's Kiss</color> deals 35% increased DMG.",
+      "desc2": "Her innate sharp senses always lead Cissia to her destination — be it prey, truth, or just a warm corner where she can curl up. Yet what she craves most is a beacon to take her home.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1521.png"
+    }
+  }
+}

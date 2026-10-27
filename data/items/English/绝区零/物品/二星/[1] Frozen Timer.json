@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1357517",
+    "name": "[1] Frozen Timer",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech06.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardTech06.webp",
+        "localPath": "gallery/zzz/CardTech06.webp",
+        "sha256": "ad867c395a562bc656a83a610cd22e057a125b99845a08c147b00562da29f3e6",
+        "etag": "\"dld8rfr3kwlz-dq8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr3kwlz-dq8\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17792|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17792,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech06.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardTech06.webp",
+        "localPath": "gallery/zzz/CardTech06.webp",
+        "sha256": "ad867c395a562bc656a83a610cd22e057a125b99845a08c147b00562da29f3e6",
+        "etag": "\"dld8rfr3kwlz-dq8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr3kwlz-dq8\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17792|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17792,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech06.png",
+      "rank": 2,
+      "class": 106,
+      "name": "[1] Frozen Timer"
+    },
+    "detail": {
+      "id": 1357517,
+      "name": "[1] Frozen Timer",
+      "desc": "Increases <color=#FE437E>Ether DMG</color> by 10%.",
+      "desc2": "",
+      "class": {
+        "106": "TAROT CARD"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech06.png"
+    }
+  }
+}

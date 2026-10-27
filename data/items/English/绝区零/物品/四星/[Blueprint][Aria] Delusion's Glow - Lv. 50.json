@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4350316",
+    "name": "[Blueprint][Aria] Delusion's Glow - Lv. 50",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_011_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_011_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_011_Blueprint.webp",
+        "sha256": "a7e09d4881842c2e1075d954c2f522f629b1772dc35505ebb03baacb1f502ebc",
+        "etag": "\"dld8rgregya5-8jk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgregya5-8jk\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11072|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11072,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_011_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_011_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_011_Blueprint.webp",
+        "sha256": "a7e09d4881842c2e1075d954c2f522f629b1772dc35505ebb03baacb1f502ebc",
+        "etag": "\"dld8rgregya5-8jk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgregya5-8jk\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11072|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11072,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_011_Blueprint.png",
+      "rank": 4,
+      "class": 130,
+      "name": "[Blueprint][Aria] Delusion's Glow - Lv. 50"
+    },
+    "detail": {
+      "id": 4350316,
+      "name": "[Blueprint][Aria] Delusion's Glow - Lv. 50",
+      "desc": "This blueprint can be used to unlock the crafting of Aria's exclusive Tactical Prism at the Smart Workshop. Obtained through investigations or purchased from Boojee's Store - Permanent Store - Blueprint Direct Sale.\nItem Effect: When Etheric Phantom is used, Aria immediately recovers 800 Decibels.\nAfter Aria completes her EX Special Attack, the <color=#FFFFFF>Fandom Power</color> generated on the field <color=#2BAD00>increases by 1</color>, and EX Special Attack: Instantly Hooked does not consume Energy.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_011_Blueprint.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1350311",
+    "name": "[Claret] Smashing Onslaught",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic107.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic107.webp",
+        "localPath": "gallery/zzz/Relic107.webp",
+        "sha256": "5703eb1824efc89730b2679eb25ff621220b2a60a59c40851b3d0d372a62e0dc",
+        "etag": "\"dld8rgo56f0a-2z6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo56f0a-2z6\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=3858|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 3858,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic107.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic107.webp",
+        "localPath": "gallery/zzz/Relic107.webp",
+        "sha256": "5703eb1824efc89730b2679eb25ff621220b2a60a59c40851b3d0d372a62e0dc",
+        "etag": "\"dld8rgo56f0a-2z6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo56f0a-2z6\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=3858|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 3858,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic107.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Claret] Smashing Onslaught"
+    },
+    "detail": {
+      "id": 1350311,
+      "name": "[Claret] Smashing Onslaught",
+      "desc": "When Claret's ATK exceeds 1,500, every point of ATK beyond this threshold increases her DEF by 1.3 points. This effect from different armaments cannot stack. Claret's <color=#2BAD00>Maim DMG dealt increases by 20%</color>, and when the target is not Stunned, Maim also factors in the Stun Vulnerability Multiplier.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic107.png"
+    }
+  }
+}

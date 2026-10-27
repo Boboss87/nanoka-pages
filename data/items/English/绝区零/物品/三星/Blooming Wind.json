@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "307001",
+    "name": "Blooming Wind",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponStar001.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/WeaponStar001.webp",
+        "localPath": "gallery/zzz/WeaponStar001.webp",
+        "sha256": "3fcfc620f66730beb281bca72c0271f5e4de10008e4ba818095ae5346a9a7f45",
+        "etag": "\"dld8rgoyy4js-6vu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoyy4js-6vu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8922|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8922,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponStar001.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/WeaponStar001.webp",
+        "localPath": "gallery/zzz/WeaponStar001.webp",
+        "sha256": "3fcfc620f66730beb281bca72c0271f5e4de10008e4ba818095ae5346a9a7f45",
+        "etag": "\"dld8rgoyy4js-6vu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoyy4js-6vu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8922|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8922,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponStar001.png",
+      "rank": 3,
+      "class": 23,
+      "name": "Blooming Wind"
+    },
+    "detail": {
+      "id": 307001,
+      "name": "Blooming Wind",
+      "desc": "Used to upgrade the Gilded Blossom W-Engine",
+      "desc2": "A special W-Engine component obtained in Hollow C41. It can be used to upgrade the W-Engine, Gilded Blossom, increasing its Ether resonance. A seed that can cause the gilded golden flowers to bloom, etched with the radiance of a season that slips by like sand through your fingers.",
+      "class": {
+        "23": "SPECIAL W-ENGINE CORE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponStar001.png"
+    }
+  }
+}

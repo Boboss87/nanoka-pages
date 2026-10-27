@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "530160",
+    "name": "Excaliboo Core",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece24.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconBangbooPiece24.webp",
+        "localPath": "gallery/zzz/IconBangbooPiece24.webp",
+        "sha256": "f4961aa8314159ea6d7f12c1428a28ddf038b2494d13b8f374412664743bf41a",
+        "etag": "\"dld8rg7c9a31-800\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7c9a31-800\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10368|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10368,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece24.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconBangbooPiece24.webp",
+        "localPath": "gallery/zzz/IconBangbooPiece24.webp",
+        "sha256": "f4961aa8314159ea6d7f12c1428a28ddf038b2494d13b8f374412664743bf41a",
+        "etag": "\"dld8rg7c9a31-800\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7c9a31-800\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10368|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10368,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece24.png",
+      "rank": 3,
+      "class": 9,
+      "name": "Excaliboo Core"
+    },
+    "detail": {
+      "id": 530160,
+      "name": "Excaliboo Core",
+      "desc": "Obtain this Bangboo model or authorization to perform the Bangboo's core update.",
+      "desc2": "Only a sacred sword is needed to crown the true king.",
+      "class": {
+        "9": "BANGBOO CORE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece24.png"
+    }
+  }
+}

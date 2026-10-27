@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4300211",
+    "name": "Unknown Drug Powder",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Material_019.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Material_019.webp",
+        "localPath": "gallery/zzz/Zenkov_Material_019.webp",
+        "sha256": "e6d7e8613f44f5ef391e0fbd9ea9202ffb05cf2dba7189b77596eb098af3ce59",
+        "etag": "\"dld8rgr8ilz2-5s2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr8ilz2-5s2\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7490|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7490,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Material_019.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Material_019.webp",
+        "localPath": "gallery/zzz/Zenkov_Material_019.webp",
+        "sha256": "e6d7e8613f44f5ef391e0fbd9ea9202ffb05cf2dba7189b77596eb098af3ce59",
+        "etag": "\"dld8rgr8ilz2-5s2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr8ilz2-5s2\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7490|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7490,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Material_019.png",
+      "rank": 2,
+      "class": 130,
+      "name": "Unknown Drug Powder"
+    },
+    "detail": {
+      "id": 4300211,
+      "name": "Unknown Drug Powder",
+      "desc": "Used for plan development and medicine crafting.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Material_019.png"
+    }
+  }
+}

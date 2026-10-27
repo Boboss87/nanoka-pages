@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1356003",
+    "name": "Lost Beast",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_5/AntiqueToken/UnPacker/ItemIcon/AntiqueCollectionIcon02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AntiqueCollectionIcon02.webp",
+        "localPath": "gallery/zzz/AntiqueCollectionIcon02.webp",
+        "sha256": "ec86aea8c6f937588ea2bf6d6da638d3de6b52d7ee2d8441ca3bd91117481c7b",
+        "etag": "\"dld8rfnx9jho-6b4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnx9jho-6b4\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8176|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8176,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_5/AntiqueToken/UnPacker/ItemIcon/AntiqueCollectionIcon02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AntiqueCollectionIcon02.webp",
+        "localPath": "gallery/zzz/AntiqueCollectionIcon02.webp",
+        "sha256": "ec86aea8c6f937588ea2bf6d6da638d3de6b52d7ee2d8441ca3bd91117481c7b",
+        "etag": "\"dld8rfnx9jho-6b4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnx9jho-6b4\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8176|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8176,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_5/AntiqueToken/UnPacker/ItemIcon/AntiqueCollectionIcon02.png",
+      "rank": 3,
+      "class": 103,
+      "name": "Lost Beast"
+    },
+    "detail": {
+      "id": 1356003,
+      "name": "Lost Beast",
+      "desc": "AntiqueAudioCollection_1356003_Desc",
+      "desc2": "",
+      "class": {
+        "103": null
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_5/AntiqueToken/UnPacker/ItemIcon/AntiqueCollectionIcon02.png"
+    }
+  }
+}

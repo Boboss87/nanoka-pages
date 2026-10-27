@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "207015",
+    "name": "Active Catalyst",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/ItemIcon/UnPacker/IconUpgradeBox02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconUpgradeBox02.webp",
+        "localPath": "gallery/zzz/IconUpgradeBox02.webp",
+        "sha256": "2689bc5dc19e2323a725101be9fa54db4550691217d809a2355423e014d9f7df",
+        "etag": "\"dld8rgedat6r-722\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgedat6r-722\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9146|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9146,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/ItemIcon/UnPacker/IconUpgradeBox02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconUpgradeBox02.webp",
+        "localPath": "gallery/zzz/IconUpgradeBox02.webp",
+        "sha256": "2689bc5dc19e2323a725101be9fa54db4550691217d809a2355423e014d9f7df",
+        "etag": "\"dld8rgedat6r-722\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgedat6r-722\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9146|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9146,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/ItemIcon/UnPacker/IconUpgradeBox02.png",
+      "rank": 3,
+      "class": 11,
+      "name": "Active Catalyst"
+    },
+    "detail": {
+      "id": 207015,
+      "name": "Active Catalyst",
+      "desc": "<color=#2BAD00>Choose 1</color> of 3 random A-Rank Resonia you own to <color=#2BAD00>catalyze</color>.",
+      "desc2": "Item_RL_UpgradeBox02_story",
+      "class": {
+        "11": "BATTLE RESOURCE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/ItemIcon/UnPacker/IconUpgradeBox02.png"
+    }
+  }
+}

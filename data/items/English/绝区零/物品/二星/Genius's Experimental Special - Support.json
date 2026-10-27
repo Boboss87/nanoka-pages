@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4161015",
+    "name": "Genius's Experimental Special - Support",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RABFactorItemSupportB.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RABFactorItemSupportB.webp",
+        "localPath": "gallery/zzz/RABFactorItemSupportB.webp",
+        "sha256": "82b75995e40a7caca1debfc70789659c534ef9913ac9f09db1c4f92dfc23ee80",
+        "etag": "\"dld8rgny17fr-6jc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgny17fr-6jc\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8472|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8472,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RABFactorItemSupportB.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RABFactorItemSupportB.webp",
+        "localPath": "gallery/zzz/RABFactorItemSupportB.webp",
+        "sha256": "82b75995e40a7caca1debfc70789659c534ef9913ac9f09db1c4f92dfc23ee80",
+        "etag": "\"dld8rgny17fr-6jc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgny17fr-6jc\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8472|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8472,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RABFactorItemSupportB.png",
+      "rank": 2,
+      "class": 113,
+      "name": "Genius's Experimental Special - Support"
+    },
+    "detail": {
+      "id": 4161015,
+      "name": "Genius's Experimental Special - Support",
+      "desc": "A special item used to reconstruct Support Bangboo Modules. Can refresh 1 basic quality support module for a Collaboorator.",
+      "desc2": "A cyber beverage exclusively for Collaboorators, meticulously \"blended\" by Norma using code.\n\"Ehn-ne! Ehn-ne-ne! (I'm here to help! After all, this is our blood-pumping combo move!)\" —Bold words from a Collaboorator after downing the drink in one gulp.",
+      "class": {
+        "113": "BANGBOO ITEM"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RABFactorItemSupportB.png"
+    }
+  }
+}

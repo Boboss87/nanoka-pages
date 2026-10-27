@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1350283",
+    "name": "[Pyrois] Flame of Illumination",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic097.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic097.webp",
+        "localPath": "gallery/zzz/Relic097.webp",
+        "sha256": "715a9829cc3020ae960a10e1c4a49c7181ae0330452258f2f8ab9032b2233e57",
+        "etag": "\"dld8rgo4kzdk-3k0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo4kzdk-3k0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4608|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4608,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic097.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic097.webp",
+        "localPath": "gallery/zzz/Relic097.webp",
+        "sha256": "715a9829cc3020ae960a10e1c4a49c7181ae0330452258f2f8ab9032b2233e57",
+        "etag": "\"dld8rgo4kzdk-3k0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo4kzdk-3k0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4608|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4608,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic097.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Pyrois] Flame of Illumination"
+    },
+    "detail": {
+      "id": 1350283,
+      "name": "[Pyrois] Flame of Illumination",
+      "desc": "Upon triggering a <color=#FFFFFF>Perfect Block</color> with an <color=#FFFFFF>EX Special Attack</color>, Pyrois <color=#2BAD00>recovers 10 Energy and 20 Solar Prominence</color>.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic097.png"
+    }
+  }
+}

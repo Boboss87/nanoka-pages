@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1350262",
+    "name": "[Velina] Graceful Serenade",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic099.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic099.webp",
+        "localPath": "gallery/zzz/Relic099.webp",
+        "sha256": "716a679f41f24a14def98733dd5f64ad7e7be6b08135e125c295425efed094bb",
+        "etag": "\"dld8rgo56f0a-3iq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo56f0a-3iq\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4562|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4562,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic099.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic099.webp",
+        "localPath": "gallery/zzz/Relic099.webp",
+        "sha256": "716a679f41f24a14def98733dd5f64ad7e7be6b08135e125c295425efed094bb",
+        "etag": "\"dld8rgo56f0a-3iq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo56f0a-3iq\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4562|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4562,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic099.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Velina] Graceful Serenade"
+    },
+    "detail": {
+      "id": 1350262,
+      "name": "[Velina] Graceful Serenade",
+      "desc": "When Velina triggers <color=#A6C5FD>Windswept</color>, she recovers <color=#2BAD00>10 Energy and 200 Decibels</color> and consumes all <color=#FFFFFF>Windbite</color> to <color=#2BAD00>enhance the DMG</color> of this <color=#A6C5FD>Windswept</color> by <color=#2BAD00>20%</color> for each point of <color=#FFFFFF>Windbite</color> consumed. Upon using her <color=#FFFFFF>EX Special Attack</color>, Velina gains 1 point of <color=#FFFFFF>Windbite</color>. If this <color=#FFFFFF>EX Special Attack</color> triggers <color=#FFFFFF>Vital View</color>， recovers 1 additional point of <color=#FFFFFF>Windbite</color> ",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic099.png"
+    }
+  }
+}

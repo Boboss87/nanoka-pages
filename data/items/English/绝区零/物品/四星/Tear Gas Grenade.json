@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1343009",
+    "name": "Tear Gas Grenade",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGun12.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardGun12.webp",
+        "localPath": "gallery/zzz/CardGun12.webp",
+        "sha256": "81782068087fdc0c810a8106b4e2366e6396b389ec5656ab313230243b500762",
+        "etag": "\"dld8rfqqhcqc-ctc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqqhcqc-ctc\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16608|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16608,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGun12.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardGun12.webp",
+        "localPath": "gallery/zzz/CardGun12.webp",
+        "sha256": "81782068087fdc0c810a8106b4e2366e6396b389ec5656ab313230243b500762",
+        "etag": "\"dld8rfqqhcqc-ctc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqqhcqc-ctc\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16608|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16608,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGun12.png",
+      "rank": 4,
+      "class": 86,
+      "name": "Tear Gas Grenade"
+    },
+    "detail": {
+      "id": 1343009,
+      "name": "Tear Gas Grenade",
+      "desc": "\"Dreamland Equipment\" Meteor Blazing Gun unlocks an additional barrel, firing <color=#FFAF2C>1 extra bullet</color> with each shot, increasing by 1 per rank, up to 3 bullets.",
+      "desc2": "",
+      "class": {
+        "86": "BANGBOO RESONIUM"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGun12.png"
+    }
+  }
+}

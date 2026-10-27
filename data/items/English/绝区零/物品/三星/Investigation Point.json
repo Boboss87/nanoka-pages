@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "701",
+    "name": "Investigation Point",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/InvestigationPoints.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/InvestigationPoints.webp",
+        "localPath": "gallery/zzz/InvestigationPoints.webp",
+        "sha256": "e3b05b1f5d45c5605b7deebb409b52f34b9aacb83e134507c252f09fa0d964e2",
+        "etag": "\"dld8rgeg9zcb-7dg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgeg9zcb-7dg\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9556|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9556,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/InvestigationPoints.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/InvestigationPoints.webp",
+        "localPath": "gallery/zzz/InvestigationPoints.webp",
+        "sha256": "e3b05b1f5d45c5605b7deebb409b52f34b9aacb83e134507c252f09fa0d964e2",
+        "etag": "\"dld8rgeg9zcb-7dg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgeg9zcb-7dg\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9556|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9556,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/InvestigationPoints.png",
+      "rank": 3,
+      "class": 2,
+      "name": "Investigation Point"
+    },
+    "detail": {
+      "id": 701,
+      "name": "Investigation Point",
+      "desc": "Completing explorations of Hollow Zero earns you Investigation Points, which can be used to upgrade your Investigation License Level and get extra supplies.",
+      "desc2": "Observation Data, Ether Samples, risk reports... Info and intel are critical for maintaining a Hollow investigation business, and for gauging an investigator's accomplishments.",
+      "class": {
+        "2": "RESOURCE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/InvestigationPoints.png"
+    }
+  }
+}

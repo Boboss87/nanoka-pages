@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3321391",
+    "name": "\"Super Scary Big Tiger\"",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "\"Super Scary Big Tiger\""
+    },
+    "detail": {
+      "id": 3321391,
+      "name": "\"Super Scary Big Tiger\"",
+      "desc": "Get by unlocking Ju Fufu's Mindscape: Roar of My Inner Tiger",
+      "desc2": "\"Speckled tails of clouds unfurl like ancient manuscripts, while blossoms of flame issue commands like a tiger-tally.\"\n\"Such majestic might it seems to shake down the moon atop the mountain, and an aura that would level caves beneath the earth.\"\n—Composed by the awe-inspiring and caring Senior of Yunkui Summit.",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

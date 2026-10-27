@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "150103",
+    "name": "Withered Crystal: Iron Red",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AbyssWitheredMaterial02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AbyssWitheredMaterial02.webp",
+        "localPath": "gallery/zzz/AbyssWitheredMaterial02.webp",
+        "sha256": "26fdedd842ae947e1023f686bb7282ba2c9c79e093c570bbe4fea9ab9d70f220",
+        "etag": "\"dld8rfnuvsyu-6w0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnuvsyu-6w0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8928|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8928,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AbyssWitheredMaterial02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AbyssWitheredMaterial02.webp",
+        "localPath": "gallery/zzz/AbyssWitheredMaterial02.webp",
+        "sha256": "26fdedd842ae947e1023f686bb7282ba2c9c79e093c570bbe4fea9ab9d70f220",
+        "etag": "\"dld8rfnuvsyu-6w0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnuvsyu-6w0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8928|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8928,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AbyssWitheredMaterial02.png",
+      "rank": 2,
+      "class": 10,
+      "name": "Withered Crystal: Iron Red"
+    },
+    "detail": {
+      "id": 150103,
+      "name": "Withered Crystal: Iron Red",
+      "desc": "A sample used for researching Combat Configuration by the Institute. Root metabolites precipitated from diseased, withered Ethereal bodies that possess special Ether activity.",
+      "desc2": "The flowers bloom at the expense of the withering bodies. And the fruit that buds from the push and pull of this growth and decay, is what this crystal is.",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AbyssWitheredMaterial02.png"
+    }
+  }
+}

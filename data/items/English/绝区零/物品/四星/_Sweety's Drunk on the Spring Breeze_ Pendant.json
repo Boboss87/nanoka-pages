@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1359014",
+    "name": "\"Sweety's Drunk on the Spring Breeze\" Pendant",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconPendantPiece05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconPendantPiece05.webp",
+        "localPath": "gallery/zzz/IconPendantPiece05.webp",
+        "sha256": "32e021c5aadf16f8931e7f3b3fefd82f2b410ad907ebe55fdd07985fe749f441",
+        "etag": "\"dld8rg7r54us-7b8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7r54us-7b8\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9476|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9476,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconPendantPiece05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconPendantPiece05.webp",
+        "localPath": "gallery/zzz/IconPendantPiece05.webp",
+        "sha256": "32e021c5aadf16f8931e7f3b3fefd82f2b410ad907ebe55fdd07985fe749f441",
+        "etag": "\"dld8rg7r54us-7b8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7r54us-7b8\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9476|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9476,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconPendantPiece05.png",
+      "rank": 4,
+      "class": 110,
+      "name": "\"Sweety's Drunk on the Spring Breeze\" Pendant"
+    },
+    "detail": {
+      "id": 1359014,
+      "name": "\"Sweety's Drunk on the Spring Breeze\" Pendant",
+      "desc": "\"New Eridu City Fund: Premium Plan\" commemorative pendant. Once obtained, it can be equipped and displayed in the Function Menu.",
+      "desc2": "Sweety's drunk on the spring breeze, as fine tea warms bright days.\nA single cut of a delicate silhouette, a full cup holding the warmth of years.",
+      "class": {
+        "110": "PENDANT"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconPendantPiece05.png"
+    }
+  }
+}

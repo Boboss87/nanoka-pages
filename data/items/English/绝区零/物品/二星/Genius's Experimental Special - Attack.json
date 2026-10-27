@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4161009",
+    "name": "Genius's Experimental Special - Attack",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RABFactorItemAtkB.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RABFactorItemAtkB.webp",
+        "localPath": "gallery/zzz/RABFactorItemAtkB.webp",
+        "sha256": "1b5b831a658aa50eaeb2051f97a11552721fa87fca208e557e0002872261dfbc",
+        "etag": "\"dld8rgnxfrt2-6fe\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnxfrt2-6fe\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8330|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8330,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RABFactorItemAtkB.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RABFactorItemAtkB.webp",
+        "localPath": "gallery/zzz/RABFactorItemAtkB.webp",
+        "sha256": "1b5b831a658aa50eaeb2051f97a11552721fa87fca208e557e0002872261dfbc",
+        "etag": "\"dld8rgnxfrt2-6fe\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnxfrt2-6fe\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8330|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8330,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RABFactorItemAtkB.png",
+      "rank": 2,
+      "class": 113,
+      "name": "Genius's Experimental Special - Attack"
+    },
+    "detail": {
+      "id": 4161009,
+      "name": "Genius's Experimental Special - Attack",
+      "desc": "A special item used to reconstruct Attack Bangboo Modules. Can refresh 1 basic quality attack module for a Collaboorator.",
+      "desc2": "A cyber beverage exclusively for Collaboorators, casually \"blended\" by Norma using code.\n\"Training failed? No sweat! Down Norma's special brew and when the system updates, you'll still be the world's #1 Collaboorator!\"",
+      "class": {
+        "113": "BANGBOO ITEM"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RABFactorItemAtkB.png"
+    }
+  }
+}

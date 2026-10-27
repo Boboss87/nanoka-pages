@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4350130",
+    "name": "[Blueprint] Etheric Phantom: Scorched Horizon",
+    "rarity": "五星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_MonsterSkill_007_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_MonsterSkill_007_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_MonsterSkill_007_Blueprint.webp",
+        "sha256": "8ea86cfb98150a59872b27b8f538bd9a5ace050256350c03c5673387fde5dcc4",
+        "etag": "\"dld8rgrbhs4l-8la\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrbhs4l-8la\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11134|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11134,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_MonsterSkill_007_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_MonsterSkill_007_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_MonsterSkill_007_Blueprint.webp",
+        "sha256": "8ea86cfb98150a59872b27b8f538bd9a5ace050256350c03c5673387fde5dcc4",
+        "etag": "\"dld8rgrbhs4l-8la\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrbhs4l-8la\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11134|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11134,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_MonsterSkill_007_Blueprint.png",
+      "rank": 5,
+      "class": 130,
+      "name": "[Blueprint] Etheric Phantom: Scorched Horizon"
+    },
+    "detail": {
+      "id": 4350130,
+      "name": "[Blueprint] Etheric Phantom: Scorched Horizon",
+      "desc": "Use this Blueprint at the Smart Workshop to unlock the recipe for this item. Obtained through investigations.\n\nItem Effect: Use this item to transform into a phantom of the <color=#FFAF2C>Scorched Horizon</color>, dealing DMG equal to <color=#2BAD00>100%</color>/<color=#2BAD00>50%</color>/<color=#2BAD00>20%</color> of Max HP to normal/elite/boss enemies, respectively. It also rapidly accumulates <color=#2BAD00>100%</color> Daze and extends the enemy's Dazed state by <color=#2BAD00>3</color>s.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_MonsterSkill_007_Blueprint.png"
+    }
+  }
+}

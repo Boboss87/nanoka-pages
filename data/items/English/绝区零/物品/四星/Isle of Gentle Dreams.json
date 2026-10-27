@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3300017",
+    "name": "Isle of Gentle Dreams",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard39.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard39.webp",
+        "localPath": "gallery/zzz/Callingcard39.webp",
+        "sha256": "b0f3f76bc77b5e98911f582cb26915e9d5bf346cac58303be478b3f3318a4bfd",
+        "etag": "\"dld8rfprcqih-7so\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfprcqih-7so\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10104|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10104,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard39.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard39.webp",
+        "localPath": "gallery/zzz/Callingcard39.webp",
+        "sha256": "b0f3f76bc77b5e98911f582cb26915e9d5bf346cac58303be478b3f3318a4bfd",
+        "etag": "\"dld8rfprcqih-7so\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfprcqih-7so\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10104|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10104,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard39.png",
+      "rank": 4,
+      "class": 65,
+      "name": "Isle of Gentle Dreams"
+    },
+    "detail": {
+      "id": 3300017,
+      "name": "Isle of Gentle Dreams",
+      "desc": "A commemorative namecard for the New Eridu City Fund: Growth Plan.",
+      "desc2": "A remarkable anti-gravity device that lets Eous drift off in any direction.\n\"ehn... nhe-ehn? (So this is what it feels like... after \"managing your weight\"?)\"\n\n\"What?! Bangboo don't need to manage their weight! Who's been putting ideas in your head?!\"\n\"Perhaps... it was that fitness meal takeout bag from our last order?\"\n\"Ugh... I'm never ordering from that place again!\"\n\"I agree. But... is that really because of Eous?\"",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard39.png"
+    }
+  }
+}

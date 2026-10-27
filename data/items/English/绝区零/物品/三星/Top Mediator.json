@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1340022",
+    "name": "Top Mediator",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ChoiceCard06.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ChoiceCard06.webp",
+        "localPath": "gallery/zzz/ChoiceCard06.webp",
+        "sha256": "3201ea8213c6c87cdb0345cd62b8e947b6809cea75fcf75f89ece6a3fd47eb6e",
+        "etag": "\"dld8rfrd3upb-89y\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrd3upb-89y\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10726|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10726,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ChoiceCard06.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ChoiceCard06.webp",
+        "localPath": "gallery/zzz/ChoiceCard06.webp",
+        "sha256": "3201ea8213c6c87cdb0345cd62b8e947b6809cea75fcf75f89ece6a3fd47eb6e",
+        "etag": "\"dld8rfrd3upb-89y\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrd3upb-89y\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10726|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10726,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ChoiceCard06.png",
+      "rank": 3,
+      "class": 83,
+      "name": "Top Mediator"
+    },
+    "detail": {
+      "id": 1340022,
+      "name": "Top Mediator",
+      "desc": "<color=#CF4029>Enter combat</color> and obtain <color=#2BAD00>1</color> of each of <color=#2BAD00>2</color> types of Resonia upon victory.",
+      "desc2": "",
+      "class": {
+        "83": null
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ChoiceCard06.png"
+    }
+  }
+}

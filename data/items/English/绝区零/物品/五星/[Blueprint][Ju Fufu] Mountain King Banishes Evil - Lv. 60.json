@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4350518",
+    "name": "[Blueprint][Ju Fufu] Mountain King Banishes Evil - Lv. 60",
+    "rarity": "五星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_006_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_006_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_006_Blueprint.webp",
+        "sha256": "c043a7823ef3c9ddf4a5361655915614102d333360b036e1450c1605361c7a65",
+        "etag": "\"dld8rgregya5-97e\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgregya5-97e\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11930|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11930,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_006_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_006_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_006_Blueprint.webp",
+        "sha256": "c043a7823ef3c9ddf4a5361655915614102d333360b036e1450c1605361c7a65",
+        "etag": "\"dld8rgregya5-97e\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgregya5-97e\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11930|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11930,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_006_Blueprint.png",
+      "rank": 5,
+      "class": 130,
+      "name": "[Blueprint][Ju Fufu] Mountain King Banishes Evil - Lv. 60"
+    },
+    "detail": {
+      "id": 4350518,
+      "name": "[Blueprint][Ju Fufu] Mountain King Banishes Evil - Lv. 60",
+      "desc": "This blueprint can be used to unlock the crafting of Ju Fufu's exclusive Tactical Prism at the Smart Workshop. Purchase them from Boojee's Store - Season Limited.\nItem Effect: After opening an Electronic Strongbox, all squad members gain a Shield equal to 15% of their Max HP for 60s. This effect does not stack, and the same Strongbox cannot trigger it more than once.\nAfter Ju Fufu uses <color=#FFFFFF>Chain Attack: Suppressing Tiger Cauldron</color>, if she is not the active character, she launches one <color=#FFFFFF>Tag Assist</color>, circling the enemy and performing the 4th hit of her <color=#FFFFFF>Basic Attack</color>. The skill's DMG is considered <color=#2BAD00>Aftershock DMG</color>, and the <color=#2BAD00>DMG dealt increases by 75%</color> and <color=#2BAD00>Daze dealt increases by 45%</color>.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_006_Blueprint.png"
+    }
+  }
+}

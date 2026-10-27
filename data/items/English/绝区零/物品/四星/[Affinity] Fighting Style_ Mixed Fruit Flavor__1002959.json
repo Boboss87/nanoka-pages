@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1002959",
+    "name": "[Affinity] Fighting Style: Mixed Fruit Flavor",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1161.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1161.webp",
+        "localPath": "gallery/zzz/CardDailyUse1161.webp",
+        "sha256": "58305968c08d1546c6d7b05b130d4a886dc10bd68801f2ba94874d1c21d6f2ea",
+        "etag": "\"dld8rfqeko45-buw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqeko45-buw\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15368|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15368,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1161.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1161.webp",
+        "localPath": "gallery/zzz/CardDailyUse1161.webp",
+        "sha256": "58305968c08d1546c6d7b05b130d4a886dc10bd68801f2ba94874d1c21d6f2ea",
+        "etag": "\"dld8rfqeko45-buw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqeko45-buw\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15368|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15368,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1161.png",
+      "rank": 4,
+      "class": 20,
+      "name": "[Affinity] Fighting Style: Mixed Fruit Flavor"
+    },
+    "detail": {
+      "id": 1002959,
+      "name": "[Affinity] Fighting Style: Mixed Fruit Flavor",
+      "desc": "In specific areas of Hollow Zero, there's a chance to trigger special events for agents in the squad, activating specific Mindscapes for the Agent for the current round.",
+      "desc2": "Lighter's fighting style is more elusive than ever: rapid hooks, fierce jabs, brutal straight punches, and... is that a subtle mixed fruit aroma?",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1161.png"
+    }
+  }
+}

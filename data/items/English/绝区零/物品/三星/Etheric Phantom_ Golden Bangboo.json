@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4334206",
+    "name": "Etheric Phantom: Golden Bangboo",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_MonsterSkill_013_A.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_MonsterSkill_013_A.webp",
+        "localPath": "gallery/zzz/Zenkov_MonsterSkill_013_A.webp",
+        "sha256": "965b75c7ae0318790688d5aea6cbcfb1a01a31fdc066f1dc92c53c1880c4ee18",
+        "etag": "\"dld8rgrcone0-6ii\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrcone0-6ii\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8442|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8442,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_MonsterSkill_013_A.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_MonsterSkill_013_A.webp",
+        "localPath": "gallery/zzz/Zenkov_MonsterSkill_013_A.webp",
+        "sha256": "965b75c7ae0318790688d5aea6cbcfb1a01a31fdc066f1dc92c53c1880c4ee18",
+        "etag": "\"dld8rgrcone0-6ii\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrcone0-6ii\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8442|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8442,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_MonsterSkill_013_A.png",
+      "rank": 3,
+      "class": 133,
+      "name": "Etheric Phantom: Golden Bangboo"
+    },
+    "detail": {
+      "id": 4334206,
+      "name": "Etheric Phantom: Golden Bangboo",
+      "desc": "Use this item to transform into a phantom of the <color=#FFAF2C>Golden Bangboo</color>, reducing the time required to search containers to <color=#2BAD00>30%</color> of the normal duration. While transformed, you are immune to Corruption from Cacophony containers and can skip Signal Calibration and the hold portion of Lockpicking strongboxes.",
+      "desc2": "",
+      "class": {
+        "133": "LABYRINTH"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_MonsterSkill_013_A.png"
+    }
+  }
+}

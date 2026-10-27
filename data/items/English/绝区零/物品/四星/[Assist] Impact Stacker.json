@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1001612",
+    "name": "[Assist] Impact Stacker",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMagic14.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardMagic14.webp",
+        "localPath": "gallery/zzz/CardMagic14.webp",
+        "sha256": "24d95b5d124433f7c023d8d01cbf5c148fcba6aa86f54e59475bcafded7cdcf4",
+        "etag": "\"dld8rfqv8ts0-b2a\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqv8ts0-b2a\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14338|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14338,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMagic14.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardMagic14.webp",
+        "localPath": "gallery/zzz/CardMagic14.webp",
+        "sha256": "24d95b5d124433f7c023d8d01cbf5c148fcba6aa86f54e59475bcafded7cdcf4",
+        "etag": "\"dld8rfqv8ts0-b2a\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqv8ts0-b2a\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14338|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14338,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMagic14.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Assist] Impact Stacker"
+    },
+    "detail": {
+      "id": 1001612,
+      "name": "[Assist] Impact Stacker",
+      "desc": "Defensive Assist and Assist Follow-Up Daze increases by <color=#2BAD00>100%</color> against normal enemies, <color=#2BAD00>75%</color> against Elite enemies, and <color=#2BAD00>50%</color> against Bosses. (Appears only in Rally Commissions.)",
+      "desc2": "An enhancement device that can amplify impact effects for a short time. It's design is said to take inspiration from a woodpecker.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMagic14.png"
+    }
+  }
+}

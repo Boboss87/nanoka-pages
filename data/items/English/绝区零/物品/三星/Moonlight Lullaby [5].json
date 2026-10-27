@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "33435",
+    "name": "Moonlight Lullaby [5]",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitMoonlightLullaby_A.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitMoonlightLullaby_A.webp",
+        "localPath": "gallery/zzz/ItemSuitMoonlightLullaby_A.webp",
+        "sha256": "c2ebbf51f6f0ffb128efeb636b49a371ccf4bc84f70c45532a275d9049b4ed4e",
+        "etag": "\"dld8rgeqzsp3-7sy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgeqzsp3-7sy\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10114|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10114,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitMoonlightLullaby_A.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitMoonlightLullaby_A.webp",
+        "localPath": "gallery/zzz/ItemSuitMoonlightLullaby_A.webp",
+        "sha256": "c2ebbf51f6f0ffb128efeb636b49a371ccf4bc84f70c45532a275d9049b4ed4e",
+        "etag": "\"dld8rgeqzsp3-7sy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgeqzsp3-7sy\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10114|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10114,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitMoonlightLullaby_A.png",
+      "rank": 3,
+      "class": 7,
+      "name": "Moonlight Lullaby [5]"
+    },
+    "detail": {
+      "id": 33435,
+      "name": "Moonlight Lullaby [5]",
+      "desc": "Equip to increase Agents' combat capabilities",
+      "desc2": "\"Nobody's going to sleep tonight\nnot 'til the sun is shining bright\"",
+      "class": {
+        "7": "DISK"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitMoonlightLullaby_A.png"
+    }
+  }
+}

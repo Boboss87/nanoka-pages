@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1352118",
+    "name": "Flame Tide Pursuit",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_0/MechBoo/UnPacker/MechBooModuleIcon12.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/MechBooModuleIcon12.webp",
+        "localPath": "gallery/zzz/MechBooModuleIcon12.webp",
+        "sha256": "5ea490356e8493a4d1db0917f87b362ea58b0ad23fd316ffd27803fac8bbbc35",
+        "etag": "\"dld8rgfb8k57-4w4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgfb8k57-4w4\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6340|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6340,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_0/MechBoo/UnPacker/MechBooModuleIcon12.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/MechBooModuleIcon12.webp",
+        "localPath": "gallery/zzz/MechBooModuleIcon12.webp",
+        "sha256": "5ea490356e8493a4d1db0917f87b362ea58b0ad23fd316ffd27803fac8bbbc35",
+        "etag": "\"dld8rgfb8k57-4w4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgfb8k57-4w4\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6340|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6340,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_0/MechBoo/UnPacker/MechBooModuleIcon12.png",
+      "rank": 2,
+      "class": 94,
+      "name": "Flame Tide Pursuit"
+    },
+    "detail": {
+      "id": 1352118,
+      "name": "Flame Tide Pursuit",
+      "desc": "解锁后，远程模式下满热力自动发射导弹雨",
+      "desc2": "",
+      "class": {
+        "94": null
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_0/MechBoo/UnPacker/MechBooModuleIcon12.png"
+    }
+  }
+}

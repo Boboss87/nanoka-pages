@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3311461",
+    "name": "Seed's namecard",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "Seed's namecard"
+    },
+    "detail": {
+      "id": 3311461,
+      "name": "Seed's namecard",
+      "desc": "Get by unlocking Seed's Mindscape: \"A Story of Sprouting\"",
+      "desc2": "A card printed with the image of Obol Squad's heavy weapons specialist.\nIt carries a faint floral scent, but no name, no contact info, nothing remotely helpful — only a few indecipherable doodles and notes that look like the owner scrawled them at random. Whether it's a major company eager to learn the secrets behind her inventions or a military official furious about being blindsided by a giant mech, no one's reaching her through this card.\nIf the scent of flowers suddenly grows stronger while you're reading the card, take a look around — you might just find a girl nearby who looks like a water sprite. When someone truly piques her interest, she just shows up on her own.",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

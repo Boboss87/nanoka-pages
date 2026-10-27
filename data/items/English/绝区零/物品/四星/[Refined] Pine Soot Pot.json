@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4150071",
+    "name": "[Refined] Pine Soot Pot",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianTastesProduct05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianTastesProduct05.webp",
+        "localPath": "gallery/zzz/SuibianTastesProduct05.webp",
+        "sha256": "5799031f67a1d93fd17233fabb2604a0a3b4272588418d21c7056d12ba48f4bd",
+        "etag": "\"dld8rgoh33mh-5ly\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoh33mh-5ly\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7270|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7270,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianTastesProduct05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianTastesProduct05.webp",
+        "localPath": "gallery/zzz/SuibianTastesProduct05.webp",
+        "sha256": "5799031f67a1d93fd17233fabb2604a0a3b4272588418d21c7056d12ba48f4bd",
+        "etag": "\"dld8rgoh33mh-5ly\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoh33mh-5ly\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7270|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7270,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianTastesProduct05.png",
+      "rank": 4,
+      "class": 89,
+      "name": "[Refined] Pine Soot Pot"
+    },
+    "detail": {
+      "id": 4150071,
+      "name": "[Refined] Pine Soot Pot",
+      "desc": "Cookware refined at Suibian Temple.",
+      "desc2": "A smooth, round-bottomed pot that took days to fire, if you listen closely, you can almost smell spices simmering low and slow.",
+      "class": {
+        "89": "Product"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianTastesProduct05.png"
+    }
+  }
+}

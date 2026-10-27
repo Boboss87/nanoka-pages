@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "14134",
+    "name": "Half-Sugar Bunny",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1341.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_S_1341.webp",
+        "localPath": "gallery/zzz/Weapon_S_1341.webp",
+        "sha256": "17962bebacd336c8cfa43bbb786601e2af6c54fe5c24dc1671b93e634703f382",
+        "etag": "\"dld8rgq874hq-11pq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgq874hq-11pq\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=48878|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 48878,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1341.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_S_1341.webp",
+        "localPath": "gallery/zzz/Weapon_S_1341.webp",
+        "sha256": "17962bebacd336c8cfa43bbb786601e2af6c54fe5c24dc1671b93e634703f382",
+        "etag": "\"dld8rgq874hq-11pq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgq874hq-11pq\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=48878|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 48878,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1341.png",
+      "rank": 4,
+      "class": 5,
+      "name": "Half-Sugar Bunny"
+    },
+    "detail": {
+      "id": 14134,
+      "name": "Half-Sugar Bunny",
+      "desc": "Equip to increase Defense Agents' combat capabilities",
+      "desc2": "Not too sweet, and not too cold.",
+      "class": {
+        "5": "W-ENGINE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1341.png"
+    }
+  }
+}

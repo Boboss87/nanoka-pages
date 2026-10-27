@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "430",
+    "name": "Sword Mastery",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Item_ForbiddenArea_AbilityExp.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Item_ForbiddenArea_AbilityExp.webp",
+        "localPath": "gallery/zzz/Item_ForbiddenArea_AbilityExp.webp",
+        "sha256": "ac6e223195797c6883d2296f6ed0b444b7c98ebd6028e91b0a236d61c82dd68f",
+        "etag": "\"dld8rgf146f5-64i\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgf146f5-64i\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7938|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7938,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Item_ForbiddenArea_AbilityExp.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Item_ForbiddenArea_AbilityExp.webp",
+        "localPath": "gallery/zzz/Item_ForbiddenArea_AbilityExp.webp",
+        "sha256": "ac6e223195797c6883d2296f6ed0b444b7c98ebd6028e91b0a236d61c82dd68f",
+        "etag": "\"dld8rgf146f5-64i\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgf146f5-64i\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7938|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7938,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Item_ForbiddenArea_AbilityExp.png",
+      "rank": 3,
+      "class": 1,
+      "name": "Sword Mastery"
+    },
+    "detail": {
+      "id": 430,
+      "name": "Sword Mastery",
+      "desc": "Enhancement item obtained through combat, exploration, and puzzle-solving in the Qingming Realm.",
+      "desc2": "A note recording experience gained in real combat. While it may seem like trivial details, accumulating these over time can lead to mastering powerful sword techniques.",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Item_ForbiddenArea_AbilityExp.png"
+    }
+  }
+}

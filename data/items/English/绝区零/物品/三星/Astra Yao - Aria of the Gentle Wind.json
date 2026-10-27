@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1312203",
+    "name": "Astra Yao - Aria of the Gentle Wind",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardAstra03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardAstra03.webp",
+        "localPath": "gallery/zzz/CardAstra03.webp",
+        "sha256": "595d3a1da8ea26cfb041fc9de9dc959d8cfbfd20bd4aa874e10fb98622b4ac9f",
+        "etag": "\"dld8rfpz3dpp-brm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpz3dpp-brm\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15250|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15250,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardAstra03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardAstra03.webp",
+        "localPath": "gallery/zzz/CardAstra03.webp",
+        "sha256": "595d3a1da8ea26cfb041fc9de9dc959d8cfbfd20bd4aa874e10fb98622b4ac9f",
+        "etag": "\"dld8rfpz3dpp-brm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpz3dpp-brm\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15250|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15250,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardAstra03.png",
+      "rank": 3,
+      "class": 80,
+      "name": "Astra Yao - Aria of the Gentle Wind"
+    },
+    "detail": {
+      "id": 1312203,
+      "name": "Astra Yao - Aria of the Gentle Wind",
+      "desc": "While in the <color=#FFFFFF>Idyllic Cadenza</color> state, Astra Yao's <color=#2BAD00>Anti-Interrupt Level increases</color> and she <color=#2BAD00>takes 20% less DMG</color>. <color=#2BAD00>All squad members' PEN Ratio increases by 15%</color>, and they <color=#2BAD00>gradually recover HP</color>.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardAstra03.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3301008",
+    "name": "Assistant Director Pass",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard18.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard18.webp",
+        "localPath": "gallery/zzz/Callingcard18.webp",
+        "sha256": "f101945f70cbdd9bc5d776e27d46a68e3283f1fb290d17b6d6e477fec3cd0ab9",
+        "etag": "\"dld8rfpq5v92-7xa\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpq5v92-7xa\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10270|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10270,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard18.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard18.webp",
+        "localPath": "gallery/zzz/Callingcard18.webp",
+        "sha256": "f101945f70cbdd9bc5d776e27d46a68e3283f1fb290d17b6d6e477fec3cd0ab9",
+        "etag": "\"dld8rfpq5v92-7xa\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpq5v92-7xa\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10270|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10270,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard18.png",
+      "rank": 3,
+      "class": 65,
+      "name": "Assistant Director Pass"
+    },
+    "detail": {
+      "id": 3301008,
+      "name": "Assistant Director Pass",
+      "desc": "A namecard reward for the limited-time event \"Springtime Snapshots.\"\nLimited-time reward.",
+      "desc2": "Your Assistant Director Trial Card has arrived! Clapperboard? Check. Megaphone? Charged. Monitor? In position!\nWith the spring breeze in the air and the sunlight just right, friends are stepping into the spotlight — \"Action!\"",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard18.png"
+    }
+  }
+}

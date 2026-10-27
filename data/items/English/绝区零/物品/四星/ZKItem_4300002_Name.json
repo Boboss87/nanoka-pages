@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4300002",
+    "name": "ZKItem_4300002_Name",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EquipTicketIcon.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/EquipTicketIcon.webp",
+        "localPath": "gallery/zzz/EquipTicketIcon.webp",
+        "sha256": "0e3ccc1cf28e9904e6913538855430dcfa11b9837c6127bf4ce09314706a3344",
+        "etag": "\"dld8rfrhvbr0-7vs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrhvbr0-7vs\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10216|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10216,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EquipTicketIcon.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/EquipTicketIcon.webp",
+        "localPath": "gallery/zzz/EquipTicketIcon.webp",
+        "sha256": "0e3ccc1cf28e9904e6913538855430dcfa11b9837c6127bf4ce09314706a3344",
+        "etag": "\"dld8rfrhvbr0-7vs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrhvbr0-7vs\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10216|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10216,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EquipTicketIcon.png",
+      "rank": 4,
+      "class": 130,
+      "name": "ZKItem_4300002_Name"
+    },
+    "detail": {
+      "id": 4300002,
+      "name": "ZKItem_4300002_Name",
+      "desc": "Zenkov Ticket",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EquipTicketIcon.png"
+    }
+  }
+}

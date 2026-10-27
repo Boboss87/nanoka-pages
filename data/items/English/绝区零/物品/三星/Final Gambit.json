@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3302006",
+    "name": "Final Gambit",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard29.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard29.webp",
+        "localPath": "gallery/zzz/Callingcard29.webp",
+        "sha256": "ebd1e247733f1bdb0a6164ef4cf76c71a224d9bdf316247a65669e65b91c1b1b",
+        "etag": "\"dld8rfpqravr-87e\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpqravr-87e\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10634|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10634,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard29.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard29.webp",
+        "localPath": "gallery/zzz/Callingcard29.webp",
+        "sha256": "ebd1e247733f1bdb0a6164ef4cf76c71a224d9bdf316247a65669e65b91c1b1b",
+        "etag": "\"dld8rfpqravr-87e\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpqravr-87e\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10634|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10634,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard29.png",
+      "rank": 3,
+      "class": 65,
+      "name": "Final Gambit"
+    },
+    "detail": {
+      "id": 3302006,
+      "name": "Final Gambit",
+      "desc": "Commemorative namecard for \"Threshold Simulation: Branching Echoes.\"",
+      "desc2": "Explore every possible path in \"Threshold Simulation,\" and watch long-buried secrets emerge from the mist.\nChoose carefully, but never lose the courage to move forward.",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard29.png"
+    }
+  }
+}

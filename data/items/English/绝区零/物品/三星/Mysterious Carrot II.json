@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "400004",
+    "name": "Mysterious Carrot II",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill08.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivePropsSkill08.webp",
+        "localPath": "gallery/zzz/ActivePropsSkill08.webp",
+        "sha256": "969359c4b8ae1d0b06e351f9ff6440d9f7dd4b77b374c649c225f1e3ef14aa80",
+        "etag": "\"dld8rfnuvsyu-3as\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnuvsyu-3as\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=4276|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4276,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill08.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivePropsSkill08.webp",
+        "localPath": "gallery/zzz/ActivePropsSkill08.webp",
+        "sha256": "969359c4b8ae1d0b06e351f9ff6440d9f7dd4b77b374c649c225f1e3ef14aa80",
+        "etag": "\"dld8rfnuvsyu-3as\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnuvsyu-3as\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=4276|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4276,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill08.png",
+      "rank": 3,
+      "class": 15,
+      "name": "Mysterious Carrot II"
+    },
+    "detail": {
+      "id": 400004,
+      "name": "Mysterious Carrot II",
+      "desc": "Leave the Hollow right now",
+      "desc2": "A Carrot map plug-in from an unidentified source. It can take you to the safest of places by the most efficient of means.",
+      "class": {
+        "15": "HOLLOW ITEM"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill08.png"
+    }
+  }
+}

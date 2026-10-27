@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1339911",
+    "name": "Patchwork Defense",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact037.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Artifact037.webp",
+        "localPath": "gallery/zzz/Artifact037.webp",
+        "sha256": "c7d255da71981a2cdf2e7bd3af907680d3ae273d2338c3959c53749755f01a59",
+        "etag": "\"dld8rfnz1udt-7uw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnz1udt-7uw\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10184|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10184,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact037.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Artifact037.webp",
+        "localPath": "gallery/zzz/Artifact037.webp",
+        "sha256": "c7d255da71981a2cdf2e7bd3af907680d3ae273d2338c3959c53749755f01a59",
+        "etag": "\"dld8rfnz1udt-7uw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnz1udt-7uw\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10184|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10184,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact037.png",
+      "rank": 3,
+      "class": 81,
+      "name": "Patchwork Defense"
+    },
+    "detail": {
+      "id": 1339911,
+      "name": "Patchwork Defense",
+      "desc": "For every non-combat area entered in the current Hollow, enemies deal <color=#2BAD00>2.5%</color> less DMG to Agents. This effect can be triggered up to <color=#2BAD00>6</color> times.",
+      "desc2": "",
+      "class": {
+        "81": "HOLLOW ONLY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact037.png"
+    }
+  }
+}

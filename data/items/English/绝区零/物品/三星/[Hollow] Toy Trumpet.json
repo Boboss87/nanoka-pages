@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1001090",
+    "name": "[Hollow] Toy Trumpet",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard03.webp",
+        "localPath": "gallery/zzz/CardChessboard03.webp",
+        "sha256": "43525953cc3a0c462057957251da269202918504a848507ad0a20099e1c1e5ed",
+        "etag": "\"dld8rfq6u0wx-b58\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq6u0wx-b58\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14444|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14444,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard03.webp",
+        "localPath": "gallery/zzz/CardChessboard03.webp",
+        "sha256": "43525953cc3a0c462057957251da269202918504a848507ad0a20099e1c1e5ed",
+        "etag": "\"dld8rfq6u0wx-b58\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq6u0wx-b58\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14444|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14444,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard03.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Hollow] Toy Trumpet"
+    },
+    "detail": {
+      "id": 1001090,
+      "name": "[Hollow] Toy Trumpet",
+      "desc": "Protagonist receives <color=#2BAD00>-1</color> DMG from attacks.",
+      "desc2": "Face the ocean and shout out whatever is troubling you.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard03.png"
+    }
+  }
+}

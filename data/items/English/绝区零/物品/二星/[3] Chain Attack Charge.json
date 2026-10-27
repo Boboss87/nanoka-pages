@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1357561",
+    "name": "[3] Chain Attack Charge",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CoopCard23.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CoopCard23.webp",
+        "localPath": "gallery/zzz/CoopCard23.webp",
+        "sha256": "48281ec6cf05a10767875b6348faa8a6a311b4468fa9a14d0e4bf59d9c68833e",
+        "etag": "\"dld8rfrew5lg-bmc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrew5lg-bmc\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15060|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15060,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CoopCard23.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CoopCard23.webp",
+        "localPath": "gallery/zzz/CoopCard23.webp",
+        "sha256": "48281ec6cf05a10767875b6348faa8a6a311b4468fa9a14d0e4bf59d9c68833e",
+        "etag": "\"dld8rfrew5lg-bmc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrew5lg-bmc\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15060|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15060,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CoopCard23.png",
+      "rank": 2,
+      "class": 106,
+      "name": "[3] Chain Attack Charge"
+    },
+    "detail": {
+      "id": 1357561,
+      "name": "[3] Chain Attack Charge",
+      "desc": "During <color=#FFAF2C>Chain Time</color>, all Agents gain 0.6 <color=#FFAF2C>Energy and Adrenaline</color> per second, and <color=#FFAF2C>Decibel recovery rate</color> increases by 10%.",
+      "desc2": "",
+      "class": {
+        "106": "TAROT CARD"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CoopCard23.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1001066",
+    "name": "[Hollow] Farewell Paper Cranes",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard43.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard43.webp",
+        "localPath": "gallery/zzz/CardChessboard43.webp",
+        "sha256": "2c3654aad5c84b78d33f0b5e0c4108d9e6f8a159fa16975ae17148da172150a1",
+        "etag": "\"dld8rfqaemp6-axy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqaemp6-axy\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14182|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14182,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard43.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard43.webp",
+        "localPath": "gallery/zzz/CardChessboard43.webp",
+        "sha256": "2c3654aad5c84b78d33f0b5e0c4108d9e6f8a159fa16975ae17148da172150a1",
+        "etag": "\"dld8rfqaemp6-axy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqaemp6-axy\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14182|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14182,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard43.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Hollow] Farewell Paper Cranes"
+    },
+    "detail": {
+      "id": 1001066,
+      "name": "[Hollow] Farewell Paper Cranes",
+      "desc": "Place 1 additional <color=#FFAF2C>explosive bomb</color> above and below when placing bombs.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard43.png"
+    }
+  }
+}

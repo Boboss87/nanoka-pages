@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000207",
+    "name": "[Energy] Captain Cow",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardEDrink10.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardEDrink10.webp",
+        "localPath": "gallery/zzz/CardEDrink10.webp",
+        "sha256": "578bbc0da2d803fd8f44788f2ae9dc85813e96a248b38f51f78e9119f8a38baa",
+        "etag": "\"dld8rfqkj0f9-cse\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqkj0f9-cse\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16574|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16574,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardEDrink10.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardEDrink10.webp",
+        "localPath": "gallery/zzz/CardEDrink10.webp",
+        "sha256": "578bbc0da2d803fd8f44788f2ae9dc85813e96a248b38f51f78e9119f8a38baa",
+        "etag": "\"dld8rfqkj0f9-cse\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqkj0f9-cse\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16574|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16574,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardEDrink10.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Energy] Captain Cow"
+    },
+    "detail": {
+      "id": 1000207,
+      "name": "[Energy] Captain Cow",
+      "desc": "Agents Decibel Generation Rate increases by <color=#2BAD00>10%</color>.",
+      "desc2": "\"Help me grow taller, Captain Cow!\" This pure milk drink is loved by both children and adults alike. After all, who wouldn't want to add a few inches to their height?",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardEDrink10.png"
+    }
+  }
+}

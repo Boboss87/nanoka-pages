@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4360081",
+    "name": "Mimic Substance·Y",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_071.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_071.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_071.webp",
+        "sha256": "f9eb2a20c39541e17a458e5b838015e995e1e218035b8023d8217d05b2489fae",
+        "etag": "\"dm16zg138xt1-5u2\"",
+        "lastModified": "Sat, 10 Oct 2026 13:28:19 GMT",
+        "remoteKey": "etag=\"dm16zg138xt1-5u2\"|lastModified=Sat, 10 Oct 2026 13:28:19 GMT|bytes=7562|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7562,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_071.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_071.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_071.webp",
+        "sha256": "f9eb2a20c39541e17a458e5b838015e995e1e218035b8023d8217d05b2489fae",
+        "etag": "\"dm16zg138xt1-5u2\"",
+        "lastModified": "Sat, 10 Oct 2026 13:28:19 GMT",
+        "remoteKey": "etag=\"dm16zg138xt1-5u2\"|lastModified=Sat, 10 Oct 2026 13:28:19 GMT|bytes=7562|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7562,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_071.png",
+      "rank": 4,
+      "class": 130,
+      "name": "Mimic Substance·Y"
+    },
+    "detail": {
+      "id": 4360081,
+      "name": "Mimic Substance·Y",
+      "desc": "Etheric Matter with mimicry properties similar to those of the \"Ionized Doppelganger.\" It has no fixed form and is extremely unstable — picking it up will cause Corruption symptoms.\nWhen all three distinct X, Y, and Z elements are held in the Inventory at once, they trigger a crafting reaction and reconstruct into some kind of valuable product.\nOnce taken out of the Hollow, the sharp drop in Ether concentration deactivates it, turning it into an inert element.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_071.png"
+    }
+  }
+}

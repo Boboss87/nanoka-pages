@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "14147",
+    "name": "Wrathful Vajra",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1471.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_S_1471.webp",
+        "localPath": "gallery/zzz/Weapon_S_1471.webp",
+        "sha256": "6eaff3ddd6620838ca27f4ce1e56a411d8a01d6c461f61e0bebbe3acfffebe52",
+        "etag": "\"dld8rgqcd5wp-10h0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgqcd5wp-10h0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=47268|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 47268,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1471.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_S_1471.webp",
+        "localPath": "gallery/zzz/Weapon_S_1471.webp",
+        "sha256": "6eaff3ddd6620838ca27f4ce1e56a411d8a01d6c461f61e0bebbe3acfffebe52",
+        "etag": "\"dld8rgqcd5wp-10h0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgqcd5wp-10h0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=47268|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 47268,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1471.png",
+      "rank": 4,
+      "class": 5,
+      "name": "Wrathful Vajra"
+    },
+    "detail": {
+      "id": 14147,
+      "name": "Wrathful Vajra",
+      "desc": "Equip to increase Rupture Agents' combat capabilities",
+      "desc2": "The purging flames burned a hundred times, yet never cleansed me.",
+      "class": {
+        "5": "W-ENGINE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1471.png"
+    }
+  }
+}

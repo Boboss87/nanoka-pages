@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4161010",
+    "name": "Genius's Inspirational Special - Attack",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RABFactorItemAtkA.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RABFactorItemAtkA.webp",
+        "localPath": "gallery/zzz/RABFactorItemAtkA.webp",
+        "sha256": "7b94c9c88c24e58360ba143284d1365041c31649e7742126c56b61cbcec15ec3",
+        "etag": "\"dld8rgnxfrt2-6ak\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnxfrt2-6ak\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8156|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8156,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RABFactorItemAtkA.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RABFactorItemAtkA.webp",
+        "localPath": "gallery/zzz/RABFactorItemAtkA.webp",
+        "sha256": "7b94c9c88c24e58360ba143284d1365041c31649e7742126c56b61cbcec15ec3",
+        "etag": "\"dld8rgnxfrt2-6ak\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnxfrt2-6ak\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8156|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8156,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RABFactorItemAtkA.png",
+      "rank": 3,
+      "class": 113,
+      "name": "Genius's Inspirational Special - Attack"
+    },
+    "detail": {
+      "id": 4161010,
+      "name": "Genius's Inspirational Special - Attack",
+      "desc": "A special item used to reconstruct Attack Bangboo Modules. Can refresh 1 advanced quality attack module for a Collaboorator.",
+      "desc2": "A cyber beverage exclusively for Collaboorators, meticulously \"blended\" by Norma using code.\nWhen a Collaboorator downs an attack-type inspiration special, this is what happens:\n\"Ehn-ne! (Never had such a rockin' start to training!)\"",
+      "class": {
+        "113": "BANGBOO ITEM"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RABFactorItemAtkA.png"
+    }
+  }
+}

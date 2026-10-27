@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "5321",
+    "name": "Agent Focus: Evelyn",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece37.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece37.webp",
+        "localPath": "gallery/zzz/IconRolePiece37.webp",
+        "sha256": "61484bf7c00767a4686ce3aa53c42a0591343e2552694f28dfaa9945cfb8caff",
+        "etag": "\"dld8rgde66yv-8ei\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgde66yv-8ei\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10890|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10890,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece37.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece37.webp",
+        "localPath": "gallery/zzz/IconRolePiece37.webp",
+        "sha256": "61484bf7c00767a4686ce3aa53c42a0591343e2552694f28dfaa9945cfb8caff",
+        "etag": "\"dld8rgde66yv-8ei\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgde66yv-8ei\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10890|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10890,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece37.png",
+      "rank": 4,
+      "class": 4,
+      "name": "Agent Focus: Evelyn"
+    },
+    "detail": {
+      "id": 5321,
+      "name": "Agent Focus: Evelyn",
+      "desc": "Used to unlock Agent's Mindscape Cinema",
+      "desc2": "Snapshots from Evelyn's daily life and from in combat, recording important moments before and after she became an Agent. These images also provide insights into her fighting style and favorite weapons, helping to better understand her strengths.\n\nAlso included are precious moments after Evelyn became Astra's manager — revealing a softer, more doting side of her beyond work!",
+      "class": {
+        "4": "AGENT ARCHIVE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece37.png"
+    }
+  }
+}

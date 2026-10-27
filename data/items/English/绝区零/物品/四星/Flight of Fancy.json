@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "14133",
+    "name": "Flight of Fancy",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1331.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_S_1331.webp",
+        "localPath": "gallery/zzz/Weapon_S_1331.webp",
+        "sha256": "cb42eac92b40589de8417fbb678b86022f32ac277f8196f89a37c213d7f7f5e3",
+        "etag": "\"dld8rgq874hq-vbs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgq874hq-vbs\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=40600|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 40600,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1331.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_S_1331.webp",
+        "localPath": "gallery/zzz/Weapon_S_1331.webp",
+        "sha256": "cb42eac92b40589de8417fbb678b86022f32ac277f8196f89a37c213d7f7f5e3",
+        "etag": "\"dld8rgq874hq-vbs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgq874hq-vbs\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=40600|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 40600,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1331.png",
+      "rank": 4,
+      "class": 5,
+      "name": "Flight of Fancy"
+    },
+    "detail": {
+      "id": 14133,
+      "name": "Flight of Fancy",
+      "desc": "Equip to increase Anomaly Agents' combat capabilities",
+      "desc2": "A bird landed on the windowsill, scattering starlight from its tail feathers.",
+      "class": {
+        "5": "W-ENGINE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1331.png"
+    }
+  }
+}

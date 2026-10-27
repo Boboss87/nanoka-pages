@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4311003",
+    "name": "Revival Medicine",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Consumables_004.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Consumables_004.webp",
+        "localPath": "gallery/zzz/Zenkov_Consumables_004.webp",
+        "sha256": "a358313b49dc0dd10f4b01deba1b6e217be26b6e5d8a95119876fffc5de50ad9",
+        "etag": "\"dld8rgr4y06s-5wu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr4y06s-5wu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7662|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7662,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Consumables_004.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Consumables_004.webp",
+        "localPath": "gallery/zzz/Zenkov_Consumables_004.webp",
+        "sha256": "a358313b49dc0dd10f4b01deba1b6e217be26b6e5d8a95119876fffc5de50ad9",
+        "etag": "\"dld8rgr4y06s-5wu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr4y06s-5wu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7662|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7662,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Consumables_004.png",
+      "rank": 4,
+      "class": 131,
+      "name": "Revival Medicine"
+    },
+    "detail": {
+      "id": 4311003,
+      "name": "Revival Medicine",
+      "desc": "When used, restores <color=#2BAD00>50%</color> of the current Agent's Max HP over <color=#2BAD00>3</color>s. Taking a hit interrupts this effect. It also negates one instance of DMG within <color=#2BAD00>60</color>s. Reusing this item resets the HP recovery and damage immunity durations.",
+      "desc2": "",
+      "class": {
+        "131": "LABYRINTH"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Consumables_004.png"
+    }
+  }
+}

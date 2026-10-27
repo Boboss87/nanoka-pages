@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1044014",
+    "name": "[Deployed] Agent Gulliver",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooAgentGulliver.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBangbooAgentGulliver.webp",
+        "localPath": "gallery/zzz/CardBangbooAgentGulliver.webp",
+        "sha256": "6e12dad9a2d17734375d0103a6da0dd8cbdd1032488100c4767130a2bbcd28b2",
+        "etag": "\"dld8rfq0volu-c32\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq0volu-c32\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15662|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15662,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooAgentGulliver.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBangbooAgentGulliver.webp",
+        "localPath": "gallery/zzz/CardBangbooAgentGulliver.webp",
+        "sha256": "6e12dad9a2d17734375d0103a6da0dd8cbdd1032488100c4767130a2bbcd28b2",
+        "etag": "\"dld8rfq0volu-c32\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq0volu-c32\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15662|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15662,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooAgentGulliver.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Deployed] Agent Gulliver"
+    },
+    "detail": {
+      "id": 1044014,
+      "name": "[Deployed] Agent Gulliver",
+      "desc": "Active Skill: Shoots 3 piercing attacks, dealing <color=#2EB6FF>Electric DMG</color> and accumulating <color=#2EB6FF>Electric Anomaly Buildup</color>.",
+      "desc2": "<color=#FFFFFF>Bangboo Chain Attack: Shoots 1 powerful piercing attack, dealing <color=#2EB6FF>Electric DMG</color> and inflicting massive <color=#2EB6FF>Electric Anomaly Buildup</color>.</color>",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooAgentGulliver.png"
+    }
+  }
+}

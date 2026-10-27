@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "301002",
+    "name": "W-Engine Power Supply",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponExp02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/WeaponExp02.webp",
+        "localPath": "gallery/zzz/WeaponExp02.webp",
+        "sha256": "0691b4f0a81cebb82c13f6aca2a795bcde99ea5192000904545916ab701da800",
+        "etag": "\"dld8rgovyye8-7r8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgovyye8-7r8\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10052|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10052,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponExp02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/WeaponExp02.webp",
+        "localPath": "gallery/zzz/WeaponExp02.webp",
+        "sha256": "0691b4f0a81cebb82c13f6aca2a795bcde99ea5192000904545916ab701da800",
+        "etag": "\"dld8rgovyye8-7r8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgovyye8-7r8\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10052|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10052,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponExp02.png",
+      "rank": 2,
+      "class": 13,
+      "name": "W-Engine Power Supply"
+    },
+    "detail": {
+      "id": 301002,
+      "name": "W-Engine Power Supply",
+      "desc": "Provides 600 EXP for a W-Engine.",
+      "desc2": "A high-performance power supply capable of converting power. It can adapt to various W-Engine models and provide an accurate power supply based on real-time power consumption.\n",
+      "class": {
+        "13": "W-ENGINE EXP"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponExp02.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1340027",
+    "name": "Resonia Set: Portable",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ChoiceCard07.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ChoiceCard07.webp",
+        "localPath": "gallery/zzz/ChoiceCard07.webp",
+        "sha256": "e5043cd92da37c7a35655f560837773d58e50a087834eb9726fdb31a695804cf",
+        "etag": "\"dld8rfrd3upb-56m\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrd3upb-56m\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=6718|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6718,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ChoiceCard07.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ChoiceCard07.webp",
+        "localPath": "gallery/zzz/ChoiceCard07.webp",
+        "sha256": "e5043cd92da37c7a35655f560837773d58e50a087834eb9726fdb31a695804cf",
+        "etag": "\"dld8rfrd3upb-56m\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrd3upb-56m\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=6718|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6718,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ChoiceCard07.png",
+      "rank": 2,
+      "class": 83,
+      "name": "Resonia Set: Portable"
+    },
+    "detail": {
+      "id": 1340027,
+      "name": "Resonia Set: Portable",
+      "desc": "<color=#CF4029>Spend 1000</color> Gear Coins and <color=#2BAD00>obtain 2 random Resonia</color>.",
+      "desc2": "",
+      "class": {
+        "83": null
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ChoiceCard07.png"
+    }
+  }
+}

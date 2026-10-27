@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "2090011",
+    "name": "Orange Fanta Commemorative Can",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/FentaIcon_Mark.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/FentaIcon_Mark.webp",
+        "localPath": "gallery/zzz/FentaIcon_Mark.webp",
+        "sha256": "568c51c1f1edbca46eb051cb69aa5e93592c7b918cfd6b1abd808853eaed4d12",
+        "etag": "\"dld8rg74imvt-73g\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg74imvt-73g\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9196|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9196,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/FentaIcon_Mark.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/FentaIcon_Mark.webp",
+        "localPath": "gallery/zzz/FentaIcon_Mark.webp",
+        "sha256": "568c51c1f1edbca46eb051cb69aa5e93592c7b918cfd6b1abd808853eaed4d12",
+        "etag": "\"dld8rg74imvt-73g\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg74imvt-73g\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9196|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9196,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/FentaIcon_Mark.png",
+      "rank": 3,
+      "class": 20,
+      "name": "Orange Fanta Commemorative Can"
+    },
+    "detail": {
+      "id": 2090011,
+      "name": "Orange Fanta Commemorative Can",
+      "desc": "The commemorative reward for the collab event \"Fanta × Zenless Zone Zero.\"",
+      "desc2": "A beloved classic soda. The perfect choice to lift your spirits in seconds!\nWord on the street is that Deputy Chief Tsukishiro from Section 6 has already added it to the supplies list, labeling it as a desk-side staple, team-building essential... and overtime fuel.",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/FentaIcon_Mark.png"
+    }
+  }
+}

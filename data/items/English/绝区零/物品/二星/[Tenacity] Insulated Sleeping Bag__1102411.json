@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1102411",
+    "name": "[Tenacity] Insulated Sleeping Bag",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTenacity11.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardTenacity11.webp",
+        "localPath": "gallery/zzz/CardTenacity11.webp",
+        "sha256": "35a6e4cc3bf14fb80f596308158fa9cdd00bca64693d3532ba3a280357c4aef4",
+        "etag": "\"dld8rfr5d7i3-cqs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr5d7i3-cqs\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16516|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16516,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTenacity11.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardTenacity11.webp",
+        "localPath": "gallery/zzz/CardTenacity11.webp",
+        "sha256": "35a6e4cc3bf14fb80f596308158fa9cdd00bca64693d3532ba3a280357c4aef4",
+        "etag": "\"dld8rfr5d7i3-cqs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr5d7i3-cqs\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16516|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16516,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTenacity11.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[Tenacity] Insulated Sleeping Bag"
+    },
+    "detail": {
+      "id": 1102411,
+      "name": "[Tenacity] Insulated Sleeping Bag",
+      "desc": "Increases Agent Max HP by <color=#2BAD00>15%</color>.",
+      "desc2": "An exceptionally warm sleeping bag. No need to worry about oversleeping. When it gets too hot, you'll naturally crawl out.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTenacity11.png"
+    }
+  }
+}

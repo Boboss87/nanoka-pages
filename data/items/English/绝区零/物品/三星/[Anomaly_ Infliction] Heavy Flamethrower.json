@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1370302",
+    "name": "[Anomaly: Infliction] Heavy Flamethrower",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardAnomalyS202.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardAnomalyS202.webp",
+        "localPath": "gallery/zzz/CardAnomalyS202.webp",
+        "sha256": "9758d82714559506a308eabc6a356b1826d176cf79d8d4e15c4c9a9d946b8e76",
+        "etag": "\"dld8rfpxb2tk-crc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpxb2tk-crc\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16536|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16536,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardAnomalyS202.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardAnomalyS202.webp",
+        "localPath": "gallery/zzz/CardAnomalyS202.webp",
+        "sha256": "9758d82714559506a308eabc6a356b1826d176cf79d8d4e15c4c9a9d946b8e76",
+        "etag": "\"dld8rfpxb2tk-crc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpxb2tk-crc\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16536|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16536,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardAnomalyS202.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Anomaly: Infliction] Heavy Flamethrower"
+    },
+    "detail": {
+      "id": 1370302,
+      "name": "[Anomaly: Infliction] Heavy Flamethrower",
+      "desc": "Agent's <color=#2BAD00>Anomaly PEN Ratio increases by 20%</color> when attacking an enemy suffering an Attribute Anomaly.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardAnomalyS202.png"
+    }
+  }
+}

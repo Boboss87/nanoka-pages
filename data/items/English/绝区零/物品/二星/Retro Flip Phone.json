@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "305004",
+    "name": "Retro Flip Phone",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0003.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconQuestItem_Abyss_0003.webp",
+        "localPath": "gallery/zzz/IconQuestItem_Abyss_0003.webp",
+        "sha256": "435eba1dc24560f7c7d0e71fbad2eddbdd273af7edd59fc0ee5467d7f10603df",
+        "etag": "\"dld8rg7sc047-3me\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7sc047-3me\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=4694|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4694,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0003.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconQuestItem_Abyss_0003.webp",
+        "localPath": "gallery/zzz/IconQuestItem_Abyss_0003.webp",
+        "sha256": "435eba1dc24560f7c7d0e71fbad2eddbdd273af7edd59fc0ee5467d7f10603df",
+        "etag": "\"dld8rg7sc047-3me\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7sc047-3me\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=4694|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4694,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0003.png",
+      "rank": 2,
+      "class": 22,
+      "name": "Retro Flip Phone"
+    },
+    "detail": {
+      "id": 305004,
+      "name": "Retro Flip Phone",
+      "desc": "A retro flip phone.",
+      "desc2": "A phone with a long list of failed outgoing calls to a contact named \"Sis.\"\nA pre-composed message remains unsent in the outbox:\n\"If anyone reads this and also finds a bag full of cash nearby, can you please send some of the money to a girl named Carol in Ward A2-1402, Eridu Hospital? Just tell her this is the aid she requested before.\"",
+      "class": {
+        "22": "CLUE ITEM"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0003.png"
+    }
+  }
+}

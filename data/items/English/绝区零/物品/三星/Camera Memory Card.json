@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4200901",
+    "name": "Camera Memory Card",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialAreaFerris_Guide.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovMaterialAreaFerris_Guide.webp",
+        "localPath": "gallery/zzz/BangkovMaterialAreaFerris_Guide.webp",
+        "sha256": "def9745b75f7737f00a746cbb71bf8ed5e2f084aca2942381e6f3c09f19fb75c",
+        "etag": "\"dld8rfpk7ixy-6ci\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpk7ixy-6ci\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8226|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8226,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialAreaFerris_Guide.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovMaterialAreaFerris_Guide.webp",
+        "localPath": "gallery/zzz/BangkovMaterialAreaFerris_Guide.webp",
+        "sha256": "def9745b75f7737f00a746cbb71bf8ed5e2f084aca2942381e6f3c09f19fb75c",
+        "etag": "\"dld8rfpk7ixy-6ci\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpk7ixy-6ci\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8226|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8226,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialAreaFerris_Guide.png",
+      "rank": 3,
+      "class": 120,
+      "name": "Camera Memory Card"
+    },
+    "detail": {
+      "id": 4200901,
+      "name": "Camera Memory Card",
+      "desc": "<color=#FFFFFF>Can be exchanged for Marcel Coins.</color>\nA memory card with partially encrypted footage. Obtained through Area Investigation in the Ferris Wheel area. Can be used to activate Talents.",
+      "desc2": "BKItem_4200901_Story",
+      "class": {
+        "120": null
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialAreaFerris_Guide.png"
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "equipment",
+    "pageFolder": "驱动盘",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/equipment.json",
+    "sourcePath": "3.3.12+19634983/equipment.json",
+    "sourceLocale": null,
+    "localeMode": "embedded",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/equipment/31300.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "31300",
+    "name": "Freedom Blues",
+    "rarity": "未分类",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitFreedomBlues.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitFreedomBlues.webp",
+        "localPath": "gallery/zzz/SuitFreedomBlues.webp",
+        "sha256": "803d42048cbaa6783a626c45c035da88a991684735f2bb8f98744ed78f8e70a8",
+        "etag": "\"dld8rgon1fxl-584\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgon1fxl-584\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6772|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6772,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitFreedomBlues.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitFreedomBlues.webp",
+        "localPath": "gallery/zzz/SuitFreedomBlues.webp",
+        "sha256": "803d42048cbaa6783a626c45c035da88a991684735f2bb8f98744ed78f8e70a8",
+        "etag": "\"dld8rgon1fxl-584\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgon1fxl-584\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6772|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6772,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon2",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitFreedomBlues.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitFreedomBlues.webp",
+        "localPath": "gallery/zzz/SuitFreedomBlues.webp",
+        "sha256": "803d42048cbaa6783a626c45c035da88a991684735f2bb8f98744ed78f8e70a8",
+        "etag": "\"dld8rgon1fxl-584\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgon1fxl-584\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6772|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6772,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitFreedomBlues.png",
+      "en": {
+        "name": "Freedom Blues",
+        "desc2": "Anomaly Proficiency +30",
+        "desc4": "When an <color=#FFFFFF>EX Special Attack</color> hits an enemy, reduce the target's Anomaly Buildup RES to the equipper's Attribute by 20% for 8s. This effect does not stack with others of the same attribute."
+      },
+      "ko": {
+        "name": "자유의 블루스",
+        "desc2": "이상 마스터리+30pt",
+        "desc4": "<color=#FFFFFF>[강화 특수 스킬]</color>이 적에게 명중 시 착용자의 속성 타입에 따라 타깃의 상응하는 속성 이상 축적 저항이 20% 감소한다. 지속 시간: 8초, 동일한 속성 타입의 효과는 중첩되지 않는다."
+      },
+      "zh": {
+        "name": "自由蓝调",
+        "desc2": "异常精通+30点。",
+        "desc4": "<color=#FFFFFF>[强化特殊技]</color>命中敌人时，根据装备者的属性类型，使目标对应属性异常积蓄抗性降低20%，持续8秒，相同属性类型的效果不可叠加。"
+      },
+      "ja": {
+        "name": "フリーダム・ブルース",
+        "desc2": "異常マスタリー+30Pt。",
+        "desc4": "<color=#FFFFFF>『強化特殊スキル』</color>が敵に命中すると、装備者の属性に応じてターゲットの対応する状態異常蓄積耐性-20%、継続時間8秒。同属性での重ね掛けは不可。"
+      }
+    },
+    "detail": {
+      "id": 31300,
+      "name": "Freedom Blues",
+      "desc2": "Anomaly Proficiency +30",
+      "desc4": "When an <color=#FFFFFF>EX Special Attack</color> hits an enemy, reduce the target's Anomaly Buildup RES to the equipper's Attribute by 20% for 8s. This effect does not stack with others of the same attribute.",
+      "story": "Highly regarded by both investigators and Hollow Raiders alike, this Drive Disc series has surprisingly consistent acclaim.",
+      "icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitFreedomBlues.png",
+      "icon2": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitFreedomBlues.png"
+    }
+  }
+}

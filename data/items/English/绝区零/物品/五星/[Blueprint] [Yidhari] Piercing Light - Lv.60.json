@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4350527",
+    "name": "[Blueprint] [Yidhari] Piercing Light - Lv.60",
+    "rarity": "五星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_029_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_029_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_029_Blueprint.webp",
+        "sha256": "378d70ab176b03da3e8b29aaacab6b47c5ae32765a1b5ee9472f664acd0be347",
+        "etag": "\"dld8rgrg996a-8po\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrg996a-8po\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11292|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11292,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_029_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_029_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_029_Blueprint.webp",
+        "sha256": "378d70ab176b03da3e8b29aaacab6b47c5ae32765a1b5ee9472f664acd0be347",
+        "etag": "\"dld8rgrg996a-8po\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrg996a-8po\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11292|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11292,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_029_Blueprint.png",
+      "rank": 5,
+      "class": 130,
+      "name": "[Blueprint] [Yidhari] Piercing Light - Lv.60"
+    },
+    "detail": {
+      "id": 4350527,
+      "name": "[Blueprint] [Yidhari] Piercing Light - Lv.60",
+      "desc": "This Blueprint can be used to unlock Yidhari's exclusive Tactical Prism crafting at the Smart Workshop. It can be purchased from Boojee's Store - Season Limited.\nItem Effect: When the squad is affected by Corruption, the Max HP reduction is reduced to 10%.\nAfter Yidhari consumes Adrenaline to activate <color=#FFFFFF>EX Special Attack</color>, she gains 4 stacks of <color=#FFFFFF>Frost Coil</color>. When a <color=#FFFFFF>Basic Attack</color> hits an enemy, consumes 1 stack of <color=#FFFFFF>Frost Coil</color> to attack the target. This effect can trigger no more than once every 1s.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_029_Blueprint.png"
+    }
+  }
+}

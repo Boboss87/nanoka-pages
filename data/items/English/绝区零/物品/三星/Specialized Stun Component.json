@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "101031",
+    "name": "Specialized Stun Component",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponRankStun03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/WeaponRankStun03.webp",
+        "localPath": "gallery/zzz/WeaponRankStun03.webp",
+        "sha256": "84fc960716f14d6c889b8332798e9887360e2ca86f14c435e5dd18719ff88e36",
+        "etag": "\"dld8rgoycox2-6va\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoycox2-6va\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8902|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8902,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponRankStun03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/WeaponRankStun03.webp",
+        "localPath": "gallery/zzz/WeaponRankStun03.webp",
+        "sha256": "84fc960716f14d6c889b8332798e9887360e2ca86f14c435e5dd18719ff88e36",
+        "etag": "\"dld8rgoycox2-6va\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoycox2-6va\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8902|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8902,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponRankStun03.png",
+      "rank": 3,
+      "class": 10,
+      "name": "Specialized Stun Component"
+    },
+    "detail": {
+      "id": 101031,
+      "name": "Specialized Stun Component",
+      "desc": "Increases a Stun model W-Engine's level cap to 60.",
+      "desc2": "A specialized W-Engine component crafted from composite Etheric matter. Equipped with adaptive frequency modulation, enabling resonance with Ether across a spectrum of complex environments, it ensures consistent and superior sonic power delivery for Stun model W-Engines.",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponRankStun03.png"
+    }
+  }
+}

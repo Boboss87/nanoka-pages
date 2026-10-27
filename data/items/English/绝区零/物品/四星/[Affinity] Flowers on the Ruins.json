@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000982",
+    "name": "[Affinity] Flowers on the Ruins",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1461.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1461.webp",
+        "localPath": "gallery/zzz/CardDailyUse1461.webp",
+        "sha256": "a0d6ecb2bda3049245b39ccc3cc5f3d794d50fca9dc73a08e10d10a6d4898411",
+        "etag": "\"dld8rfqhju9p-cuy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqhju9p-cuy\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16666|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16666,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1461.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1461.webp",
+        "localPath": "gallery/zzz/CardDailyUse1461.webp",
+        "sha256": "a0d6ecb2bda3049245b39ccc3cc5f3d794d50fca9dc73a08e10d10a6d4898411",
+        "etag": "\"dld8rfqhju9p-cuy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqhju9p-cuy\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16666|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16666,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1461.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Affinity] Flowers on the Ruins"
+    },
+    "detail": {
+      "id": 1000982,
+      "name": "[Affinity] Flowers on the Ruins",
+      "desc": "Seed has awakened the Mindscape Cinema: <color=#FFAF2C>\"Hibernation Period\"</color>.\n\"Hibernation Period\": When Seed's <color=#FFFFFF>Steel Charge</color> reaches 100, <color=#FFFFFF>Basic Attack: Falling Petals - Downfall</color> can be triggered, and the total <color=#FFFFFF>Steel Charge</color> consumed is reduced to 100. The amount of <color=#FFFFFF>Steel Charge</color> required to gain one chance to quickly release <color=#FFFFFF>Basic Attack: Falling Petals - Slaughter</color> is reduced to 100. Accumulate an additional 40/20 <color=#FFFFFF>Steel Charge</color> when entering the battlefield/using <color=#FFFFFF>Ultimate</color>. Increases <color=#FFFFFF>Basic Attack: Falling Petals - Downfall</color> CRIT DMG by 30%.",
+      "desc2": "Once, in ruins like these, humanity had nothing left. But now, she truly saw it... flowers blooming upon the ruins.\nAt this moment, she offers you flowers filled with love. Please don't ask why - just accept them and don't be shy.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1461.png"
+    }
+  }
+}

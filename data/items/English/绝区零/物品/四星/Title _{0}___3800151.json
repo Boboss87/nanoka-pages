@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3800151",
+    "name": "Title \"{0}\"",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/TitleIcon.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/TitleIcon.webp",
+        "localPath": "gallery/zzz/TitleIcon.webp",
+        "sha256": "cc06e7ee0b12009cf2f632be7a1ef2e1804fb43678424e0b5ab5a7d1a7cc2ac6",
+        "etag": "\"dld8rgoseclz-5zq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoseclz-5zq\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7766|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7766,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/TitleIcon.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/TitleIcon.webp",
+        "localPath": "gallery/zzz/TitleIcon.webp",
+        "sha256": "cc06e7ee0b12009cf2f632be7a1ef2e1804fb43678424e0b5ab5a7d1a7cc2ac6",
+        "etag": "\"dld8rgoseclz-5zq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoseclz-5zq\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7766|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7766,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/TitleIcon.png",
+      "rank": 4,
+      "class": 77,
+      "name": "Title \"{0}\""
+    },
+    "detail": {
+      "id": 3800151,
+      "name": "Title \"{0}\"",
+      "desc": "Inter-Knot title. Obtain to display on your Inter-Knot profile and friend list.",
+      "desc2": "",
+      "class": {
+        "77": "TITLE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/TitleIcon.png"
+    }
+  }
+}

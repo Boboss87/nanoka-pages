@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1002408",
+    "name": "[Tenacity] Wilderness Map",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTenacity08.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardTenacity08.webp",
+        "localPath": "gallery/zzz/CardTenacity08.webp",
+        "sha256": "8b4151037435598d7455c1406cef46cb123182b56f82ab63dbe19f8238acb7cb",
+        "etag": "\"dld8rfr4rrve-cou\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr4rrve-cou\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16446|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16446,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTenacity08.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardTenacity08.webp",
+        "localPath": "gallery/zzz/CardTenacity08.webp",
+        "sha256": "8b4151037435598d7455c1406cef46cb123182b56f82ab63dbe19f8238acb7cb",
+        "etag": "\"dld8rfr4rrve-cou\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr4rrve-cou\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16446|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16446,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTenacity08.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[Tenacity] Wilderness Map"
+    },
+    "detail": {
+      "id": 1002408,
+      "name": "[Tenacity] Wilderness Map",
+      "desc": "When an Agent is attacked or triggers Perfect Assist, the Agent restores <color=#2BAD00>5</color> Energy. This can be triggered once every 7s across all squad members.",
+      "desc2": "The red crosses marked as \"no entry\" on the map were all earned through pain.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTenacity08.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "12001",
+    "name": "[Lunar] Pleniluna",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_B_Common_01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_B_Common_01.webp",
+        "localPath": "gallery/zzz/Weapon_B_Common_01.webp",
+        "sha256": "74be41f3e06c1d2f8dca5aa106e2b872255981a3067b3d836c293540ddb11955",
+        "etag": "\"dld8rgp92i9v-og6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgp92i9v-og6\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=31686|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 31686,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_B_Common_01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_B_Common_01.webp",
+        "localPath": "gallery/zzz/Weapon_B_Common_01.webp",
+        "sha256": "74be41f3e06c1d2f8dca5aa106e2b872255981a3067b3d836c293540ddb11955",
+        "etag": "\"dld8rgp92i9v-og6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgp92i9v-og6\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=31686|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 31686,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_B_Common_01.png",
+      "rank": 2,
+      "class": 5,
+      "name": "[Lunar] Pleniluna"
+    },
+    "detail": {
+      "id": 12001,
+      "name": "[Lunar] Pleniluna",
+      "desc": "Equip to increase Attack Agents' combat capabilities",
+      "desc2": "A W-Engine that prioritizes damage output over noise reduction. It can indiscriminately deal considerable damage to all units nearby.",
+      "class": {
+        "5": "W-ENGINE"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_B_Common_01.png"
+    }
+  }
+}

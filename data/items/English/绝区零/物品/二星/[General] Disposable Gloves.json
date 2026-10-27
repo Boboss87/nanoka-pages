@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000912",
+    "name": "[General] Disposable Gloves",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse22.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse22.webp",
+        "localPath": "gallery/zzz/CardDailyUse22.webp",
+        "sha256": "8c5d366cb7440dc8e58d282ba6a8b35167eb29e9d2c314e0fad7bce716f1a040",
+        "etag": "\"dld8rfqiqpj4-8c8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqiqpj4-8c8\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10808|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10808,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse22.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse22.webp",
+        "localPath": "gallery/zzz/CardDailyUse22.webp",
+        "sha256": "8c5d366cb7440dc8e58d282ba6a8b35167eb29e9d2c314e0fad7bce716f1a040",
+        "etag": "\"dld8rfqiqpj4-8c8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqiqpj4-8c8\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10808|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10808,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse22.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[General] Disposable Gloves"
+    },
+    "detail": {
+      "id": 1000912,
+      "name": "[General] Disposable Gloves",
+      "desc": "Each Agent takes <color=#2BAD00>70% less DMG</color> from the first melee attack received in each combat.",
+      "desc2": "\"Oh, I'll just wash it off.\" You're just lying to yourself.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse22.png"
+    }
+  }
+}

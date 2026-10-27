@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "304035",
+    "name": "Supplement Training Card",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MonsterCardGolden.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/MonsterCardGolden.webp",
+        "localPath": "gallery/zzz/MonsterCardGolden.webp",
+        "sha256": "7667c9cc9712eca772771fdb71d3de4cf7623e3a7ba417d977b6076664172a5d",
+        "etag": "\"dld8rgkwhbd5-7pq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgkwhbd5-7pq\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9998|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9998,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MonsterCardGolden.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/MonsterCardGolden.webp",
+        "localPath": "gallery/zzz/MonsterCardGolden.webp",
+        "sha256": "7667c9cc9712eca772771fdb71d3de4cf7623e3a7ba417d977b6076664172a5d",
+        "etag": "\"dld8rgkwhbd5-7pq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgkwhbd5-7pq\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9998|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9998,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MonsterCardGolden.png",
+      "rank": 3,
+      "class": 20,
+      "name": "Supplement Training Card"
+    },
+    "detail": {
+      "id": 304035,
+      "name": "Supplement Training Card",
+      "desc": "Open to obtain 1 Advanced Enemy Card.",
+      "desc2": "An Enemy Card that is not too difficult to acquire and moderately difficult in training. Nevertheless, they stand one level higher than the basic cards, becoming an \"It may not be formidable, but I can't go without it\" item for collectors.",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MonsterCardGolden.png"
+    }
+  }
+}

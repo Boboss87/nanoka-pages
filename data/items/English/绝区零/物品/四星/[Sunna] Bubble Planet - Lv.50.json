@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4326007",
+    "name": "[Sunna] Bubble Planet - Lv.50",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_010.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_010.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_010.webp",
+        "sha256": "39e6a4395818b3dead0c42b52710ece4c669ec66e4baae29a2021c578fcb238e",
+        "etag": "\"dld8rgregya5-77a\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgregya5-77a\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9334|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9334,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_010.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_010.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_010.webp",
+        "sha256": "39e6a4395818b3dead0c42b52710ece4c669ec66e4baae29a2021c578fcb238e",
+        "etag": "\"dld8rgregya5-77a\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgregya5-77a\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9334|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9334,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_010.png",
+      "rank": 4,
+      "class": 132,
+      "name": "[Sunna] Bubble Planet - Lv.50"
+    },
+    "detail": {
+      "id": 4326007,
+      "name": "[Sunna] Bubble Planet - Lv.50",
+      "desc": "Sunna's exclusive Tactical Prism.\nWhen Etheric Phantom is used, Sunna immediately recovers 60 Energy.\nWhen Sunna's Ether Veil: Delusion Reprise is active, all squad members <color=#2BAD00>deal 80% more DMG</color> with their Basic Attack, Dash Attack, Dodge Counter, Special Attack, and EX Special Attack.",
+      "desc2": "",
+      "class": {
+        "132": "LABYRINTH"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_010.png"
+    }
+  }
+}

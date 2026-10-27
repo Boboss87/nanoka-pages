@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1003000",
+    "name": "Legendary Ascent",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1591.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1591.webp",
+        "localPath": "gallery/zzz/CardDailyUse1591.webp",
+        "sha256": "796105e0e46fbb58bbcce89812498f0e436054c6ad809f8b87893dc8f3a12987",
+        "etag": "\"dld8rfqhju9p-d9i\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqhju9p-d9i\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17190|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17190,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1591.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1591.webp",
+        "localPath": "gallery/zzz/CardDailyUse1591.webp",
+        "sha256": "796105e0e46fbb58bbcce89812498f0e436054c6ad809f8b87893dc8f3a12987",
+        "etag": "\"dld8rfqhju9p-d9i\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqhju9p-d9i\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17190|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17190,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1591.png",
+      "rank": 4,
+      "class": 20,
+      "name": "Legendary Ascent"
+    },
+    "detail": {
+      "id": 1003000,
+      "name": "Legendary Ascent",
+      "desc": "In specific areas of Hollow Zero, there's a chance to trigger special events for agents in the squad, activating specific Mindscapes for the Agent for the current round.",
+      "desc2": "Sigrid has left behind many legends in Roscaelifer, though most were spun by a certain \"lady.\" Even so, Sigrid draws closer to those legends with each passing day. This narrow path winding toward legends will one day become a truly legendary road of its own.",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1591.png"
+    }
+  }
+}

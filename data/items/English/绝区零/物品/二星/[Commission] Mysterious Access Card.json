@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4360093",
+    "name": "[Commission] Mysterious Access Card",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Key_025.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Key_025.webp",
+        "localPath": "gallery/zzz/Zenkov_Key_025.webp",
+        "sha256": "5d8feed56230b0e280c791070a5d475592de499a3aa6b6815ad04fdd8dab610c",
+        "etag": "\"dld8rgr7x6cc-6tu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr7x6cc-6tu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8850|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8850,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Key_025.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Key_025.webp",
+        "localPath": "gallery/zzz/Zenkov_Key_025.webp",
+        "sha256": "5d8feed56230b0e280c791070a5d475592de499a3aa6b6815ad04fdd8dab610c",
+        "etag": "\"dld8rgr7x6cc-6tu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr7x6cc-6tu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8850|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8850,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Key_025.png",
+      "rank": 2,
+      "class": 130,
+      "name": "[Commission] Mysterious Access Card"
+    },
+    "detail": {
+      "id": 4360093,
+      "name": "[Commission] Mysterious Access Card",
+      "desc": "An access card scratched from a scratch card at a newsstand in the illusion. Perhaps the prize is hidden somewhere within the area it grants access to?",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Key_025.png"
+    }
+  }
+}

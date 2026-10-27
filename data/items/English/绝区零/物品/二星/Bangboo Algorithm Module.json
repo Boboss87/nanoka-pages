@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "303002",
+    "name": "Bangboo Algorithm Module",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BangbooUpgrade02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangbooUpgrade02.webp",
+        "localPath": "gallery/zzz/BangbooUpgrade02.webp",
+        "sha256": "cf1c1eb6a0a297e0807c06485dea88cbc09cd4d3e1945c54992acb34b91bdef0",
+        "etag": "\"dld8rfph8cse-7xk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfph8cse-7xk\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10280|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10280,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BangbooUpgrade02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangbooUpgrade02.webp",
+        "localPath": "gallery/zzz/BangbooUpgrade02.webp",
+        "sha256": "cf1c1eb6a0a297e0807c06485dea88cbc09cd4d3e1945c54992acb34b91bdef0",
+        "etag": "\"dld8rfph8cse-7xk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfph8cse-7xk\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10280|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10280,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BangbooUpgrade02.png",
+      "rank": 2,
+      "class": 17,
+      "name": "Bangboo Algorithm Module"
+    },
+    "detail": {
+      "id": 303002,
+      "name": "Bangboo Algorithm Module",
+      "desc": "Provides 600 EXP for a Bangboo.",
+      "desc2": "A large data module specifically designed for Bangboo logic algorithms, enabling rapid improvement of a Bangboo's computing power.",
+      "class": {
+        "17": "BANGBOO EXP"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BangbooUpgrade02.png"
+    }
+  }
+}

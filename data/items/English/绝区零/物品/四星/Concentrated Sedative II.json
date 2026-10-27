@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "400014",
+    "name": "Concentrated Sedative II",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivePropsSkill04.webp",
+        "localPath": "gallery/zzz/ActivePropsSkill04.webp",
+        "sha256": "c1ce9837989e8b7857837a41f6979bc2a2817e069a90f97293e8ec79502c3a31",
+        "etag": "\"dld8rfnuvsyu-3a2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnuvsyu-3a2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=4250|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4250,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivePropsSkill04.webp",
+        "localPath": "gallery/zzz/ActivePropsSkill04.webp",
+        "sha256": "c1ce9837989e8b7857837a41f6979bc2a2817e069a90f97293e8ec79502c3a31",
+        "etag": "\"dld8rfnuvsyu-3a2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnuvsyu-3a2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=4250|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4250,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill04.png",
+      "rank": 4,
+      "class": 15,
+      "name": "Concentrated Sedative II"
+    },
+    "detail": {
+      "id": 400014,
+      "name": "Concentrated Sedative II",
+      "desc": "Reduces Pressure by <color=#2BAD00>80</color>.",
+      "desc2": "A plug-in that adjusts Sedative's potency and largely enhances its Pressure reducing effects.",
+      "class": {
+        "15": "HOLLOW ITEM"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconActiveProps/UnPacker/ActivePropsSkill04.png"
+    }
+  }
+}

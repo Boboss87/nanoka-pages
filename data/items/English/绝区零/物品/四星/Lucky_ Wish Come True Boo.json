@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "446",
+    "name": "Lucky: Wish Come True Boo",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BlindBoxJackPot_01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BlindBoxJackPot_01.webp",
+        "localPath": "gallery/zzz/BlindBoxJackPot_01.webp",
+        "sha256": "799e8d513411fb7bf4115e4a28f67cb595bc071113227e85673544a61ec807eb",
+        "etag": "\"dld8rfpns4q7-7qo\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpns4q7-7qo\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10032|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10032,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BlindBoxJackPot_01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BlindBoxJackPot_01.webp",
+        "localPath": "gallery/zzz/BlindBoxJackPot_01.webp",
+        "sha256": "799e8d513411fb7bf4115e4a28f67cb595bc071113227e85673544a61ec807eb",
+        "etag": "\"dld8rfpns4q7-7qo\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpns4q7-7qo\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10032|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10032,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BlindBoxJackPot_01.png",
+      "rank": 4,
+      "class": 1,
+      "name": "Lucky: Wish Come True Boo"
+    },
+    "detail": {
+      "id": 446,
+      "name": "Lucky: Wish Come True Boo",
+      "desc": "A single Bangboo Badge from the \"Lucky\" series, obtained from the \"Gilded Surprise, Wonderful Boo-ns\" Event Phase 1.",
+      "desc2": "\"Every Denny should bring its friends to me, so I can have lots of Dennies to buy batteries!\"\n—The mumbled sleep-talk of a certain little Bangboo.",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BlindBoxJackPot_01.png"
+    }
+  }
+}

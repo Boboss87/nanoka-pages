@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1343504",
+    "name": "Midsummer Breeze",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconEndlessSummerSurfboard04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconEndlessSummerSurfboard04.webp",
+        "localPath": "gallery/zzz/IconEndlessSummerSurfboard04.webp",
+        "sha256": "0a943963ff2f6525af2d6ea91eb96f39a9fe428bd79b0af7227b69c5a84322b6",
+        "etag": "\"dld8rg7mdnt4-5rq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7mdnt4-5rq\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=7478|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7478,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconEndlessSummerSurfboard04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconEndlessSummerSurfboard04.webp",
+        "localPath": "gallery/zzz/IconEndlessSummerSurfboard04.webp",
+        "sha256": "0a943963ff2f6525af2d6ea91eb96f39a9fe428bd79b0af7227b69c5a84322b6",
+        "etag": "\"dld8rg7mdnt4-5rq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7mdnt4-5rq\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=7478|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7478,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconEndlessSummerSurfboard04.png",
+      "rank": 4,
+      "class": 97,
+      "name": "Midsummer Breeze"
+    },
+    "detail": {
+      "id": 1343504,
+      "name": "Midsummer Breeze",
+      "desc": "Extends the effects of magnets and Fuel Stars from <color=#FA7000>6 to 9 seconds</color>.\nTop Speed (km/h): 230\nCruise Speed (km/h): 122",
+      "desc2": "",
+      "class": {
+        "97": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconEndlessSummerSurfboard04.png"
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1310603",
+    "name": "[Billy] Judgment by Eradication",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardBilly03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBilly03.webp",
+        "localPath": "gallery/zzz/CardBilly03.webp",
+        "sha256": "be69fc9d78d78c6708527660fa874420f65488dc382908e8922709201735d104",
+        "etag": "\"dld8rfq3uurd-bdk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq3uurd-bdk\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14744|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14744,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.desc.IconMap.Icon_SpecialReady",
+        "kind": "icon_map",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "<IconMap:Icon_SpecialReady>",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRoleSkillKeySpecialV2.webp",
+        "localPath": "gallery/zzz/IconRoleSkillKeySpecialV2.webp",
+        "sha256": "d8a0a8bdfabce404b4a482d0b1053d9c54d1cc1c523c620202333906a026a1d0",
+        "etag": "\"dld8rge5k5zj-1iy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rge5k5zj-1iy\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=1978|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 1978,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardBilly03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBilly03.webp",
+        "localPath": "gallery/zzz/CardBilly03.webp",
+        "sha256": "be69fc9d78d78c6708527660fa874420f65488dc382908e8922709201735d104",
+        "etag": "\"dld8rfq3uurd-bdk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq3uurd-bdk\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14744|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14744,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardBilly03.png",
+      "rank": 3,
+      "class": 80,
+      "name": "[Billy] Judgment by Eradication"
+    },
+    "detail": {
+      "id": 1310603,
+      "name": "[Billy] Judgment by Eradication",
+      "desc": "When activating <color=#FFFFFF>EX Special Attack</color>, hold Special Attack <IconMap:Icon_SpecialReady> to charge, <color=#2BAD00>increasing the skill's power</color>. The <color=#2BAD00>DMG Multiplier for <color=#FFFFFF>EX Special Attack</color> increases by 200%</color>, and <color=#2BAD00>guaranteeing a critical hit</color>.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardBilly03.png"
+    }
+  }
+}

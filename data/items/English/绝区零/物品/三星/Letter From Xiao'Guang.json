@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4000201",
+    "name": "Letter From Xiao'Guang",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "placeholder",
+        "placeholder": true,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/2.5Preregistration.png",
+        "remoteUrl": null,
+        "localPath": "gallery/_placeholder/unknown.svg",
+        "sha256": "25fe1ba8bf237af8dc0157859efb518fa04c23b8e55ca4c05ec8292eebc2122e",
+        "etag": null,
+        "lastModified": null,
+        "remoteKey": null,
+        "contentType": "image/svg+xml",
+        "bytes": 520,
+        "retryable": false,
+        "retryOnNextRun": true,
+        "placeholderReason": "remote_missing",
+        "failedCandidateCount": 2,
+        "error": "missing: 404 unknown content-type; missing: 404 unknown content-type"
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "placeholder",
+        "placeholder": true,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/2.5Preregistration.png",
+        "remoteUrl": null,
+        "localPath": "gallery/_placeholder/unknown.svg",
+        "sha256": "25fe1ba8bf237af8dc0157859efb518fa04c23b8e55ca4c05ec8292eebc2122e",
+        "etag": null,
+        "lastModified": null,
+        "remoteKey": null,
+        "contentType": "image/svg+xml",
+        "bytes": 520,
+        "retryable": false,
+        "retryOnNextRun": true,
+        "placeholderReason": "remote_missing",
+        "failedCandidateCount": 2,
+        "error": "missing: 404 unknown content-type; missing: 404 unknown content-type"
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/2.5Preregistration.png",
+      "rank": 3,
+      "class": 72,
+      "name": "Letter From Xiao'Guang"
+    },
+    "detail": {
+      "id": 4000201,
+      "name": "Letter From Xiao'Guang",
+      "desc": "Ye Shunguang had left some old belongings in Failume Heights, but thankfully with your help, they were all recovered. To show gratitude, Xiao'Guang left you a letter explaining the origins of these items — it seems he has something special he wants to tell you...",
+      "desc2": "Attached to the letter was a delicate feather, a group photo of the Yunkui Summit folks, a broken peace knot, a heavily revised recipe, a handwritten guide for Yunkui Summit newcomers, and a burnt-out floating lantern... These old items carry Xiao'Guang's cherished memories of Yunkui Summit, and she hopes you can keep them safe for her.",
+      "class": {
+        "72": "MESSAGE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/2.5Preregistration.png"
+    }
+  }
+}

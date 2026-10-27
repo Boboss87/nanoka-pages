@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "304008",
+    "name": "Wrinkled Ticket",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MissionItemTicket.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/MissionItemTicket.webp",
+        "localPath": "gallery/zzz/MissionItemTicket.webp",
+        "sha256": "c820853d56271d9b30c63760b26193281754c0d38c95901d6a0044be0f772db2",
+        "etag": "\"dld8rgkvag3q-7ci\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgkvag3q-7ci\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9522|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9522,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MissionItemTicket.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/MissionItemTicket.webp",
+        "localPath": "gallery/zzz/MissionItemTicket.webp",
+        "sha256": "c820853d56271d9b30c63760b26193281754c0d38c95901d6a0044be0f772db2",
+        "etag": "\"dld8rgkvag3q-7ci\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgkvag3q-7ci\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9522|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9522,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MissionItemTicket.png",
+      "rank": 3,
+      "class": 20,
+      "name": "Wrinkled Ticket"
+    },
+    "detail": {
+      "id": 304008,
+      "name": "Wrinkled Ticket",
+      "desc": "The tattered ticket hides an unknown clue, with which it may be possible to board the train that does not exist.",
+      "desc2": "",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MissionItemTicket.png"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3321491",
+    "name": "Teardrop Necklace",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "Teardrop Necklace"
+    },
+    "detail": {
+      "id": 3321491,
+      "name": "Teardrop Necklace",
+      "desc": "Get by unlocking Sunna's Mindscape: \"Hollow Big Bang\"",
+      "desc2": "A card with Sunna's personal photo printed on it.\n\"In the story, the girl's lone tear gave shape to the necklace and returned rain to the entire kingdom.\"\n\"So does that mean a crybaby like me... might be able to do something that amazing someday?\"",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

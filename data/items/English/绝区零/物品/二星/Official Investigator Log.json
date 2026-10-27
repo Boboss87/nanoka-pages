@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "300002",
+    "name": "Official Investigator Log",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RoleExp02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RoleExp02.webp",
+        "localPath": "gallery/zzz/RoleExp02.webp",
+        "sha256": "81ec0120f08023aa2ae68249bc62aa9f7d04fd41ce67c0d3b7a0c297d57a7f2a",
+        "etag": "\"dld8rgo8r0sj-6ky\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo8r0sj-6ky\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8530|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8530,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RoleExp02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RoleExp02.webp",
+        "localPath": "gallery/zzz/RoleExp02.webp",
+        "sha256": "81ec0120f08023aa2ae68249bc62aa9f7d04fd41ce67c0d3b7a0c297d57a7f2a",
+        "etag": "\"dld8rgo8r0sj-6ky\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo8r0sj-6ky\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8530|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8530,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RoleExp02.png",
+      "rank": 2,
+      "class": 12,
+      "name": "Official Investigator Log"
+    },
+    "detail": {
+      "id": 300002,
+      "name": "Official Investigator Log",
+      "desc": "Provides 600 EXP for an Agent.",
+      "desc2": "This provides far more combat-related details compared to the newbie investigator's records.",
+      "class": {
+        "12": "AGENT EXP"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RoleExp02.png"
+    }
+  }
+}

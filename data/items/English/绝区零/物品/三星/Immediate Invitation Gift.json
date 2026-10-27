@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "2100031",
+    "name": "Immediate Invitation Gift",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/OptionalGift_Avatar_A_01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/OptionalGift_Avatar_A_01.webp",
+        "localPath": "gallery/zzz/OptionalGift_Avatar_A_01.webp",
+        "sha256": "b5a2dc6aed822ea6f6619cc00bea72ff8aa7f03bce9c55d1a4d89b565ed74222",
+        "etag": "\"dld8rgntv60t-632\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgntv60t-632\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7886|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7886,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/OptionalGift_Avatar_A_01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/OptionalGift_Avatar_A_01.webp",
+        "localPath": "gallery/zzz/OptionalGift_Avatar_A_01.webp",
+        "sha256": "b5a2dc6aed822ea6f6619cc00bea72ff8aa7f03bce9c55d1a4d89b565ed74222",
+        "etag": "\"dld8rgntv60t-632\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgntv60t-632\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7886|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7886,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/OptionalGift_Avatar_A_01.png",
+      "rank": 3,
+      "class": 52,
+      "name": "Immediate Invitation Gift"
+    },
+    "detail": {
+      "id": 2100031,
+      "name": "Immediate Invitation Gift",
+      "desc": "You can select and obtain one of the following A-Rank Agents:\nAnby, Nicole, Corin, Billy, Anton, Ben, Soukaku, Lucy, Piper, Seth, Pulchra",
+      "desc2": "",
+      "class": {
+        "52": "OPTIONAL GIFT"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/OptionalGift_Avatar_A_01.png"
+    }
+  }
+}

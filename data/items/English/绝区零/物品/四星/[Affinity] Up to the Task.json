@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000954",
+    "name": "[Affinity] Up to the Task",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1211.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1211.webp",
+        "localPath": "gallery/zzz/CardDailyUse1211.webp",
+        "sha256": "6279487f703e926e64215c5ba5590027b01d7653804fd0fdf35b2933e349a22c",
+        "etag": "\"dld8rfqf63qv-bu8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqf63qv-bu8\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15344|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15344,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1211.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1211.webp",
+        "localPath": "gallery/zzz/CardDailyUse1211.webp",
+        "sha256": "6279487f703e926e64215c5ba5590027b01d7653804fd0fdf35b2933e349a22c",
+        "etag": "\"dld8rfqf63qv-bu8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqf63qv-bu8\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15344|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15344,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1211.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Affinity] Up to the Task"
+    },
+    "detail": {
+      "id": 1000954,
+      "name": "[Affinity] Up to the Task",
+      "desc": "Rina has evoked the Mindscape: <color=#FFAF2C>[Dance Duet]</color>. After launching a Dash Attack or Dodge Counter, your character can <color=#2BAD00>immediately follow up with</color> certain attacks near the end of the Basic Attack combo.\nDance Duet: After being sent out to launch an attack, Drusilla and Anastella stay in place for an additional 5.5s before returning to Rina.\nThe effect gained from <color=#FFFFFF>Core Passive: Mini Destruction Partner</color> by characters within 10m is increased to 130% of the original value.",
+      "desc2": "Rina and her little Bangboo are in excellent condition. Navigating through the dangerous Hollows is as easy as playing a game of tag.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1211.png"
+    }
+  }
+}

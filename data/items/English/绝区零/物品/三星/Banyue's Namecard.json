@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3311471",
+    "name": "Banyue's Namecard",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "Banyue's Namecard"
+    },
+    "detail": {
+      "id": 3311471,
+      "name": "Banyue's Namecard",
+      "desc": "Get by unlocking Banyue's Mindscape: Ignorance Binds Like Chains",
+      "desc2": "A name card with the image of Banyue, a newly appointed Krampus Judge and head of a martial arts school.\nThe design is plain, but it bears a distinctive and solid weight.\nOn the back, Banyue's name is engraved with the bold strength of a blade and chisel.",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

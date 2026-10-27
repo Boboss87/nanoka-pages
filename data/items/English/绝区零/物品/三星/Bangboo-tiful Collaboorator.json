@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "412011306",
+    "name": "Bangboo-tiful Collaboorator",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Head_Headgear_05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Wise_Head_Headgear_05.webp",
+        "localPath": "gallery/zzz/icon_Wise_Head_Headgear_05.webp",
+        "sha256": "7219635f3a43ea26812aa5d3428f25e7debca34656f4aa5169153b9be38ea138",
+        "etag": "\"dld8rgrolc07-768\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrolc07-768\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9296|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9296,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Head_Headgear_05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Wise_Head_Headgear_05.webp",
+        "localPath": "gallery/zzz/icon_Wise_Head_Headgear_05.webp",
+        "sha256": "7219635f3a43ea26812aa5d3428f25e7debca34656f4aa5169153b9be38ea138",
+        "etag": "\"dld8rgrolc07-768\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrolc07-768\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9296|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9296,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Head_Headgear_05.png",
+      "rank": 3,
+      "class": 95,
+      "name": "Bangboo-tiful Collaboorator"
+    },
+    "detail": {
+      "id": 412011306,
+      "name": "Bangboo-tiful Collaboorator",
+      "desc": "A Proxy accessory that can be worn with some of Wise's Proxy outfits.",
+      "desc2": "An amazing headpiece hand-sewn by the little Bangboo to show their gratitude. It's the ultimate symbol of earning Bangboo approval and becoming a true friend of Bangboo. <color=#FFAF2C>Wearing it</color> will let you head into <color=#FFAF2C>Spotlight Theater</color>~\n\n\"...Do I really look like a Bangboo right now?\"\n\"En-nha, nhe! (From afar you do. Up close though, just Bangboo-like!)\"",
+      "class": {
+        "95": "OUTFIT ACCESSORIES"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Head_Headgear_05.png"
+    }
+  }
+}

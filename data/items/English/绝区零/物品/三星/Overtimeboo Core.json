@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "530140",
+    "name": "Overtimeboo Core",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece31.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconBangbooPiece31.webp",
+        "localPath": "gallery/zzz/IconBangbooPiece31.webp",
+        "sha256": "8c4fc87a8161a6209ec0510de3f4012085a24b57bfeee375e4a0eee864cf667b",
+        "etag": "\"dld8rg7dg5cg-8fq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7dg5cg-8fq\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10934|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10934,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece31.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconBangbooPiece31.webp",
+        "localPath": "gallery/zzz/IconBangbooPiece31.webp",
+        "sha256": "8c4fc87a8161a6209ec0510de3f4012085a24b57bfeee375e4a0eee864cf667b",
+        "etag": "\"dld8rg7dg5cg-8fq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7dg5cg-8fq\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10934|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10934,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece31.png",
+      "rank": 3,
+      "class": 9,
+      "name": "Overtimeboo Core"
+    },
+    "detail": {
+      "id": 530140,
+      "name": "Overtimeboo Core",
+      "desc": "Obtain this Bangboo model or authorization to perform the Bangboo's core update.",
+      "desc2": "Fatigue levels rising... Beep — now over 100!",
+      "class": {
+        "9": "BANGBOO CORE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece31.png"
+    }
+  }
+}

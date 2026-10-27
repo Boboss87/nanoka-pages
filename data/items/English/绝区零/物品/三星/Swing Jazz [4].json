@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "31634",
+    "name": "Swing Jazz [4]",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitSwingJazz_A.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitSwingJazz_A.webp",
+        "localPath": "gallery/zzz/ItemSuitSwingJazz_A.webp",
+        "sha256": "f5bc4a70649feb46ebb0e9d8be9a6a987ae0cb1a8a93d92663b93417643ea506",
+        "etag": "\"dld8rgewy506-7s4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgewy506-7s4\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10084|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10084,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitSwingJazz_A.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitSwingJazz_A.webp",
+        "localPath": "gallery/zzz/ItemSuitSwingJazz_A.webp",
+        "sha256": "f5bc4a70649feb46ebb0e9d8be9a6a987ae0cb1a8a93d92663b93417643ea506",
+        "etag": "\"dld8rgewy506-7s4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgewy506-7s4\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10084|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10084,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitSwingJazz_A.png",
+      "rank": 3,
+      "class": 7,
+      "name": "Swing Jazz [4]"
+    },
+    "detail": {
+      "id": 31634,
+      "name": "Swing Jazz [4]",
+      "desc": "Equip to increase Agents' combat capabilities",
+      "desc2": "This Drive Disc contains track four from Swing Jazz. The melody that emanates with the rotation of the W-Engine is pleasant and zany.",
+      "class": {
+        "7": "DISK"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitSwingJazz_A.png"
+    }
+  }
+}

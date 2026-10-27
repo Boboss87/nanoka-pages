@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "100942",
+    "name": "Tuning Calibrator",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EquipChoose.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/EquipChoose.webp",
+        "localPath": "gallery/zzz/EquipChoose.webp",
+        "sha256": "a4b288b44e37e78eb4fa8f91e484f4842e0eb56f30371a1f8202146f7738f207",
+        "etag": "\"dld8rfrgoghk-7re\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrgoghk-7re\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10058|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10058,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EquipChoose.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/EquipChoose.webp",
+        "localPath": "gallery/zzz/EquipChoose.webp",
+        "sha256": "a4b288b44e37e78eb4fa8f91e484f4842e0eb56f30371a1f8202146f7738f207",
+        "etag": "\"dld8rfrgoghk-7re\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrgoghk-7re\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10058|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10058,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EquipChoose.png",
+      "rank": 4,
+      "class": 10,
+      "name": "Tuning Calibrator"
+    },
+    "detail": {
+      "id": 100942,
+      "name": "Tuning Calibrator",
+      "desc": "When performing Advanced Tuning in the music store, you can select the Main Stat for the Drive Disc.",
+      "desc2": "A tuning device containing special Ether matter that improves accuracy and precision when Drive Tuning. When a Drive Disc is complete, the Ether matter stored within will remain deep in the disc.",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EquipChoose.png"
+    }
+  }
+}

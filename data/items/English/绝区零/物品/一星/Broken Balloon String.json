@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4200405",
+    "name": "Broken Balloon String",
+    "rarity": "一星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialDropC_1.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovMaterialDropC_1.webp",
+        "localPath": "gallery/zzz/BangkovMaterialDropC_1.webp",
+        "sha256": "3a9f1edec510ae59fbb0e73f600c3116f518e22d1de756341c6eac6a09b67dbc",
+        "etag": "\"dld8rfpksykn-6gu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpksykn-6gu\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8382|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8382,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialDropC_1.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovMaterialDropC_1.webp",
+        "localPath": "gallery/zzz/BangkovMaterialDropC_1.webp",
+        "sha256": "3a9f1edec510ae59fbb0e73f600c3116f518e22d1de756341c6eac6a09b67dbc",
+        "etag": "\"dld8rfpksykn-6gu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpksykn-6gu\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8382|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8382,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialDropC_1.png",
+      "rank": 1,
+      "class": 120,
+      "name": "Broken Balloon String"
+    },
+    "detail": {
+      "id": 4200405,
+      "name": "Broken Balloon String",
+      "desc": "<color=#FFFFFF>Can be exchanged for Marcel Coins.</color>\nA broken string left behind by a colorful balloon.",
+      "desc2": "BKItem_4200405_Story",
+      "class": {
+        "120": null
+      },
+      "rarity": 1,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialDropC_1.png"
+    }
+  }
+}

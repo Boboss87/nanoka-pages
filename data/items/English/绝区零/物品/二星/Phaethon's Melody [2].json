@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "33022",
+    "name": "Phaethon's Melody [2]",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitSavior_B.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitSavior_B.webp",
+        "localPath": "gallery/zzz/ItemSuitSavior_B.webp",
+        "sha256": "3ce7288b908d9005cc02e1b0e1d8aec1b9a08aa3fe99e7ae45098a610150153b",
+        "etag": "\"dld8rgeukehc-7gu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgeukehc-7gu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9678|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9678,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitSavior_B.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitSavior_B.webp",
+        "localPath": "gallery/zzz/ItemSuitSavior_B.webp",
+        "sha256": "3ce7288b908d9005cc02e1b0e1d8aec1b9a08aa3fe99e7ae45098a610150153b",
+        "etag": "\"dld8rgeukehc-7gu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgeukehc-7gu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9678|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9678,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitSavior_B.png",
+      "rank": 2,
+      "class": 7,
+      "name": "Phaethon's Melody [2]"
+    },
+    "detail": {
+      "id": 33022,
+      "name": "Phaethon's Melody [2]",
+      "desc": "Equip to increase Agents' combat capabilities",
+      "desc2": "Green eyes shooting out a laser beam,\nWith a whoosh, the whole building starts to steam.\nBlack and white ears wiggle and sway,\nHearing mice move in the Hollows, making their way.",
+      "class": {
+        "7": "DISK"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitSavior_B.png"
+    }
+  }
+}

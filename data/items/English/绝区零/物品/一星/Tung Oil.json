@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4151017",
+    "name": "Tung Oil",
+    "rarity": "一星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianRemedyMaterial03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianRemedyMaterial03.webp",
+        "localPath": "gallery/zzz/SuibianRemedyMaterial03.webp",
+        "sha256": "fb6a94293f33559ce5128ff1e643727f7177bbcc9eb71ca142ccd2d8e5a7d695",
+        "etag": "\"dld8rgoh33mh-5xg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoh33mh-5xg\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7684|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7684,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianRemedyMaterial03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianRemedyMaterial03.webp",
+        "localPath": "gallery/zzz/SuibianRemedyMaterial03.webp",
+        "sha256": "fb6a94293f33559ce5128ff1e643727f7177bbcc9eb71ca142ccd2d8e5a7d695",
+        "etag": "\"dld8rgoh33mh-5xg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoh33mh-5xg\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7684|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7684,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianRemedyMaterial03.png",
+      "rank": 1,
+      "class": 90,
+      "name": "Tung Oil"
+    },
+    "detail": {
+      "id": 4151017,
+      "name": "Tung Oil",
+      "desc": "Natural materials needed for crafting the Dongyao Pain Relief Patch.",
+      "desc2": "A natural plant oil extracted from tung tree seeds that's waterproof and rot-resistant.",
+      "class": {
+        "90": "Resource"
+      },
+      "rarity": 1,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianRemedyMaterial03.png"
+    }
+  }
+}

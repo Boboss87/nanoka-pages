@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1319903",
+    "name": "Geppetto - Melee Thrust",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGeppetto03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardGeppetto03.webp",
+        "localPath": "gallery/zzz/CardGeppetto03.webp",
+        "sha256": "915aa1acc2e187ffac6a27abe9cad4d81ab0e9af634bf4f4af02f413402748d0",
+        "etag": "\"dld8rfqo3m7i-d8y\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqo3m7i-d8y\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17170|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17170,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGeppetto03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardGeppetto03.webp",
+        "localPath": "gallery/zzz/CardGeppetto03.webp",
+        "sha256": "915aa1acc2e187ffac6a27abe9cad4d81ab0e9af634bf4f4af02f413402748d0",
+        "etag": "\"dld8rfqo3m7i-d8y\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqo3m7i-d8y\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17170|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17170,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGeppetto03.png",
+      "rank": 3,
+      "class": 31,
+      "name": "Geppetto - Melee Thrust"
+    },
+    "detail": {
+      "id": 1319903,
+      "name": "Geppetto - Melee Thrust",
+      "desc": "Increase DMG dealt to Geppetto by <color=#2BAD00>20%</color> and reduce DMG received from Geppetto by <color=#2BAD00>20%</color>.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGeppetto03.png"
+    }
+  }
+}

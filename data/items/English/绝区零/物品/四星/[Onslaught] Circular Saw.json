@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1011402",
+    "name": "[Onslaught] Circular Saw",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardUtensil13.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardUtensil13.webp",
+        "localPath": "gallery/zzz/CardUtensil13.webp",
+        "sha256": "09bfd355f014ce6155de674c84f70942542c5dd37fe1002625411a7ab3588ecb",
+        "etag": "\"dld8rfr8cdnn-cx2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr8cdnn-cx2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16742|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16742,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardUtensil13.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardUtensil13.webp",
+        "localPath": "gallery/zzz/CardUtensil13.webp",
+        "sha256": "09bfd355f014ce6155de674c84f70942542c5dd37fe1002625411a7ab3588ecb",
+        "etag": "\"dld8rfr8cdnn-cx2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr8cdnn-cx2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16742|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16742,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardUtensil13.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Onslaught] Circular Saw"
+    },
+    "detail": {
+      "id": 1011402,
+      "name": "[Onslaught] Circular Saw",
+      "desc": "<color=#F0D12B>Assault</color> can <color=#2BAD00>execute</color> Normal/Elite/Boss enemies with less than <color=#2BAD00>70%</color>/<color=#2BAD00>20%</color>/<color=#2BAD00>10%</color> HP.",
+      "desc2": "When this wickedly sharp blade starts to spin, it emits an ear-splitting noise as if it's shrieking, \"Stay away!\"",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardUtensil13.png"
+    }
+  }
+}

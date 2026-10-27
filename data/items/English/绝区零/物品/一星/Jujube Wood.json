@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4151025",
+    "name": "Jujube Wood",
+    "rarity": "一星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianTastesMaterial03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianTastesMaterial03.webp",
+        "localPath": "gallery/zzz/SuibianTastesMaterial03.webp",
+        "sha256": "d4e713b63add142c59391a33b74f2a5fdaaa2e0b1345b8cea4ceee38571acc80",
+        "etag": "\"dld8rgoh33mh-4xs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoh33mh-4xs\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6400|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6400,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianTastesMaterial03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianTastesMaterial03.webp",
+        "localPath": "gallery/zzz/SuibianTastesMaterial03.webp",
+        "sha256": "d4e713b63add142c59391a33b74f2a5fdaaa2e0b1345b8cea4ceee38571acc80",
+        "etag": "\"dld8rgoh33mh-4xs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoh33mh-4xs\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6400|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6400,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianTastesMaterial03.png",
+      "rank": 1,
+      "class": 90,
+      "name": "Jujube Wood"
+    },
+    "detail": {
+      "id": 4151025,
+      "name": "Jujube Wood",
+      "desc": "Materials needed for crafting the Tianqing Pestle.",
+      "desc2": "Jujube wood.",
+      "class": {
+        "90": "Resource"
+      },
+      "rarity": 1,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianTastesMaterial03.png"
+    }
+  }
+}

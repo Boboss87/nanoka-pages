@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3600034",
+    "name": "Yesterday Once More",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Snapshot.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Snapshot.webp",
+        "localPath": "gallery/zzz/Snapshot.webp",
+        "sha256": "a0bda6c035a5d8f30f57c4ce0b65189f1dbc990ffcddcb63db1e953432a71de7",
+        "etag": "\"dld8rgodihu8-6ku\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgodihu8-6ku\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8526|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8526,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Snapshot.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Snapshot.webp",
+        "localPath": "gallery/zzz/Snapshot.webp",
+        "sha256": "a0bda6c035a5d8f30f57c4ce0b65189f1dbc990ffcddcb63db1e953432a71de7",
+        "etag": "\"dld8rgodihu8-6ku\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgodihu8-6ku\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8526|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8526,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Snapshot.png",
+      "rank": 4,
+      "class": 68,
+      "name": "Yesterday Once More"
+    },
+    "detail": {
+      "id": 3600034,
+      "name": "Yesterday Once More",
+      "desc": "A memorable moment worth commemorating. Can be used to decorate your room.",
+      "desc2": "You happened to catch a glimpse of this photo and said \"cute\" — next thing you knew, Norma was so pleased with herself that she printed a copy for you too. This is the first photo of Norma and Victor together, snapped by Velina on a whim. When this photo was taken, Norma asked Velina: why do we always meet new friends, only to say goodbye to them? You asked Velina how she answered back then, but she turned the question right back around on you. So, if it were you answering — you might tell young Norma: that's not goodbye. It's a new beginning. Because everyone here is something special, deserving of an even brighter future. That's exactly why you can send each other off to new tomorrows with full hearts and nothing but hope.",
+      "class": {
+        "68": "PHOTOWALL ITEM"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Snapshot.png"
+    }
+  }
+}

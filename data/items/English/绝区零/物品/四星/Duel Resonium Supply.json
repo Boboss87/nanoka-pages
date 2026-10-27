@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1090006",
+    "name": "Duel Resonium Supply",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardLootBoxBlunt.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardLootBoxBlunt.webp",
+        "localPath": "gallery/zzz/CardLootBoxBlunt.webp",
+        "sha256": "c79ce88e349f140baa34153d72e202e4710f0786131beb2ee2523e50eb08380c",
+        "etag": "\"dld8rfqro7zr-cb4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqro7zr-cb4\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15952|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15952,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardLootBoxBlunt.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardLootBoxBlunt.webp",
+        "localPath": "gallery/zzz/CardLootBoxBlunt.webp",
+        "sha256": "c79ce88e349f140baa34153d72e202e4710f0786131beb2ee2523e50eb08380c",
+        "etag": "\"dld8rfqro7zr-cb4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqro7zr-cb4\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15952|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15952,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardLootBoxBlunt.png",
+      "rank": 4,
+      "class": 38,
+      "name": "Duel Resonium Supply"
+    },
+    "detail": {
+      "id": 1090006,
+      "name": "Duel Resonium Supply",
+      "desc": "Contains 3 random Catalyzed [Duel] Resonia",
+      "desc2": "Resonium supplies specially distributed by the Defense Force to squads carrying out blitz operations. Please don't blame the logistics personnel who packed the supplies for having poor eyesight. He was just a bit rushed... Perhaps it will bring a surprise?",
+      "class": {
+        "38": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardLootBoxBlunt.png"
+    }
+  }
+}

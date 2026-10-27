@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1359026",
+    "name": "\"Ehn-ne\" Roaring Waves Pendant",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconPendantPiece12.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconPendantPiece12.webp",
+        "localPath": "gallery/zzz/IconPendantPiece12.webp",
+        "sha256": "0724517773e962f68d818e4e810ee0570ff1484089e56391d3eaf71f17bd3c30",
+        "etag": "\"dld8rg7r54us-8bm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7r54us-8bm\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10786|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10786,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconPendantPiece12.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconPendantPiece12.webp",
+        "localPath": "gallery/zzz/IconPendantPiece12.webp",
+        "sha256": "0724517773e962f68d818e4e810ee0570ff1484089e56391d3eaf71f17bd3c30",
+        "etag": "\"dld8rg7r54us-8bm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7r54us-8bm\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10786|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10786,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconPendantPiece12.png",
+      "rank": 4,
+      "class": 110,
+      "name": "\"Ehn-ne\" Roaring Waves Pendant"
+    },
+    "detail": {
+      "id": 1359026,
+      "name": "\"Ehn-ne\" Roaring Waves Pendant",
+      "desc": "\"New Eridu City Fund: Premium Plan\" commemorative pendant. Once obtained, it can be equipped and displayed in the Function Menu.",
+      "desc2": "\"Ehn-ne ehn-ne!\" Small in stature, huge in sound!\n! Crank up a blazing wall of sound and let your passion fill the air!",
+      "class": {
+        "110": "PENDANT"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconPendantPiece12.png"
+    }
+  }
+}

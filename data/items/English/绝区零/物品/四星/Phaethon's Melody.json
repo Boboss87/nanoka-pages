@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "833040",
+    "name": "Phaethon's Melody",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitSavior_S.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitSavior_S.webp",
+        "localPath": "gallery/zzz/ItemSuitSavior_S.webp",
+        "sha256": "8817e40f7f2f2916605420eb9a03759e7025edd417ca4263a1002f52d35d1ef7",
+        "etag": "\"dld8rgeukehc-7iy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgeukehc-7iy\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9754|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9754,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitSavior_S.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitSavior_S.webp",
+        "localPath": "gallery/zzz/ItemSuitSavior_S.webp",
+        "sha256": "8817e40f7f2f2916605420eb9a03759e7025edd417ca4263a1002f52d35d1ef7",
+        "etag": "\"dld8rgeukehc-7iy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgeukehc-7iy\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9754|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9754,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitSavior_S.png",
+      "rank": 4,
+      "class": 28,
+      "name": "Phaethon's Melody"
+    },
+    "detail": {
+      "id": 833040,
+      "name": "Phaethon's Melody",
+      "desc": "",
+      "desc2": "A peculiar Drive Disc created by fanatical followers of Phaethon. The eccentric singer repeats an odd melody with a strange voice, striving to spread the legendary deeds of \"Lord Phaethon.\"",
+      "class": {
+        "28": "DISK"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitSavior_S.png"
+    }
+  }
+}

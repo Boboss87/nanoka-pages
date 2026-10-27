@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3000001",
+    "name": "Weaver Calendar Gift Box",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MonthCard.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/MonthCard.webp",
+        "localPath": "gallery/zzz/MonthCard.webp",
+        "sha256": "acc9968f01f71b70f7bd683f07ccb3ae963a6149efd5620257cef1a9c3329af3",
+        "etag": "\"dld8rgntv60t-7bs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgntv60t-7bs\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9496|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9496,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MonthCard.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/MonthCard.webp",
+        "localPath": "gallery/zzz/MonthCard.webp",
+        "sha256": "acc9968f01f71b70f7bd683f07ccb3ae963a6149efd5620257cef1a9c3329af3",
+        "etag": "\"dld8rgntv60t-7bs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgntv60t-7bs\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9496|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9496,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MonthCard.png",
+      "rank": 4,
+      "class": 61,
+      "name": "Weaver Calendar Gift Box"
+    },
+    "detail": {
+      "id": 3000001,
+      "name": "Weaver Calendar Gift Box",
+      "desc": "Use to extend your Inter-Knot Membership by 30 days.",
+      "desc2": "The 'Weaver' membership welcome gift and benefits voucher, also a popular gift among Proxies; It is advisable to verify the trustworthiness of the giver or recipient for privacy purposes.",
+      "class": {
+        "61": "IK MEMBERSHIP"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MonthCard.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "802",
+    "name": "Item_RoarinStore_Name_802",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/RoarinStore/UnPacker/RoarinStoreCard02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RoarinStoreCard02.webp",
+        "localPath": "gallery/zzz/RoarinStoreCard02.webp",
+        "sha256": "359354009c42d6303a559c7e13407cbc252ce470db912a2dad40cb2a3e2fb913",
+        "etag": "\"dld8rgo85l5u-18hy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo85l5u-18hy\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=57670|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 57670,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/RoarinStore/UnPacker/RoarinStoreCard02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RoarinStoreCard02.webp",
+        "localPath": "gallery/zzz/RoarinStoreCard02.webp",
+        "sha256": "359354009c42d6303a559c7e13407cbc252ce470db912a2dad40cb2a3e2fb913",
+        "etag": "\"dld8rgo85l5u-18hy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo85l5u-18hy\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=57670|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 57670,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/RoarinStore/UnPacker/RoarinStoreCard02.png",
+      "rank": 4,
+      "class": 142,
+      "name": "Item_RoarinStore_Name_802"
+    },
+    "detail": {
+      "id": 802,
+      "name": "Item_RoarinStore_Name_802",
+      "desc": "Item_RoarinStore_Desc_802",
+      "desc2": "Item_RoarinStore_Story_802",
+      "class": {
+        "142": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/RoarinStore/UnPacker/RoarinStoreCard02.png"
+    }
+  }
+}

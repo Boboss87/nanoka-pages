@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1310204",
+    "name": "[Dexterity] Smart Buffer",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardZone04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardZone04.webp",
+        "localPath": "gallery/zzz/CardZone04.webp",
+        "sha256": "6636acef5b82da29dfedf44225fb42c89f641e1d9a7bdf0160cba4f82b5dbb4a",
+        "etag": "\"dld8rfr9j8x2-d7y\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr9j8x2-d7y\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17134|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17134,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardZone04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardZone04.webp",
+        "localPath": "gallery/zzz/CardZone04.webp",
+        "sha256": "6636acef5b82da29dfedf44225fb42c89f641e1d9a7bdf0160cba4f82b5dbb4a",
+        "etag": "\"dld8rfr9j8x2-d7y\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr9j8x2-d7y\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17134|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17134,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardZone04.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[Dexterity] Smart Buffer"
+    },
+    "detail": {
+      "id": 1310204,
+      "name": "[Dexterity] Smart Buffer",
+      "desc": "When an <color=#FFFFFF>EX Special Attack</color> hits an enemy, the Agent <color=#2BAD00>gains a shield equal to 5% of their Max HP</color> for 10s. While the shield is active, the Agent <color=#2BAD00>deals 10% more DMG</color>.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardZone04.png"
+    }
+  }
+}

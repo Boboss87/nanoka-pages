@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "453",
+    "name": "\"Gilded Fortune\" Series Bangboo Badge",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BlindBoxJackPot_Common.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BlindBoxJackPot_Common.webp",
+        "localPath": "gallery/zzz/BlindBoxJackPot_Common.webp",
+        "sha256": "d093d2a06ba6ce2819c4699151e44e172a6e92a51a6a39ad20d873907eed6438",
+        "etag": "\"dld8rfpoyzzm-6i0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpoyzzm-6i0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8424|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8424,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BlindBoxJackPot_Common.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BlindBoxJackPot_Common.webp",
+        "localPath": "gallery/zzz/BlindBoxJackPot_Common.webp",
+        "sha256": "d093d2a06ba6ce2819c4699151e44e172a6e92a51a6a39ad20d873907eed6438",
+        "etag": "\"dld8rfpoyzzm-6i0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpoyzzm-6i0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8424|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8424,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BlindBoxJackPot_Common.png",
+      "rank": 4,
+      "class": 1,
+      "name": "\"Gilded Fortune\" Series Bangboo Badge"
+    },
+    "detail": {
+      "id": 453,
+      "name": "\"Gilded Fortune\" Series Bangboo Badge",
+      "desc": "Event-exclusive Bangboo badges for \"Gilded Surprise, Wonderful Boo-ns,\" featuring both the \"Lucky\" and \"Gilded\" series. These badges were a total hit thanks to their festive vibes.",
+      "desc2": "No one knows what surprise awaits until the box is opened. Heart pounding with anticipation and festive dreams, step forward and embrace the golden glow of good fortune!",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BlindBoxJackPot_Common.png"
+    }
+  }
+}

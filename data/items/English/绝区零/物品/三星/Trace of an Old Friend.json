@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1339807",
+    "name": "Trace of an Old Friend",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact038.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Artifact038.webp",
+        "localPath": "gallery/zzz/Artifact038.webp",
+        "sha256": "ff8021980c855a648bf0ec9747e0c9b17e097a6a51b61d8bf19e72711f9ebac9",
+        "etag": "\"dld8rfnz1udt-7sq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnz1udt-7sq\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10106|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10106,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact038.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Artifact038.webp",
+        "localPath": "gallery/zzz/Artifact038.webp",
+        "sha256": "ff8021980c855a648bf0ec9747e0c9b17e097a6a51b61d8bf19e72711f9ebac9",
+        "etag": "\"dld8rfnz1udt-7sq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnz1udt-7sq\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10106|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10106,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact038.png",
+      "rank": 3,
+      "class": 81,
+      "name": "Trace of an Old Friend"
+    },
+    "detail": {
+      "id": 1339807,
+      "name": "Trace of an Old Friend",
+      "desc": "Each time you enter a non-combat area, gain <color=#2BAD00>200</color> Gear Coins.",
+      "desc2": "",
+      "class": {
+        "81": "HOLLOW ONLY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Artifact038.png"
+    }
+  }
+}

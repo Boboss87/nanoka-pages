@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4311000",
+    "name": "Minor Trauma Medicine",
+    "rarity": "一星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Consumables_001.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Consumables_001.webp",
+        "localPath": "gallery/zzz/Zenkov_Consumables_001.webp",
+        "sha256": "dd089ac06e0fd7519d7f1d3a7c33d728e7a6145bb671dc9f9dc16b4eb25dd789",
+        "etag": "\"dld8rgr4ckk2-5va\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr4ckk2-5va\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7606|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7606,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Consumables_001.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Consumables_001.webp",
+        "localPath": "gallery/zzz/Zenkov_Consumables_001.webp",
+        "sha256": "dd089ac06e0fd7519d7f1d3a7c33d728e7a6145bb671dc9f9dc16b4eb25dd789",
+        "etag": "\"dld8rgr4ckk2-5va\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr4ckk2-5va\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7606|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7606,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Consumables_001.png",
+      "rank": 1,
+      "class": 131,
+      "name": "Minor Trauma Medicine"
+    },
+    "detail": {
+      "id": 4311000,
+      "name": "Minor Trauma Medicine",
+      "desc": "When used, this item restores <color=#2BAD00>15%</color> of the current Agent's Max HP over <color=#2BAD00>20</color>s. Taking a hit interrupts the effect. Reusing this item resets its HP recovery duration.",
+      "desc2": "",
+      "class": {
+        "131": "LABYRINTH"
+      },
+      "rarity": 1,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Consumables_001.png"
+    }
+  }
+}

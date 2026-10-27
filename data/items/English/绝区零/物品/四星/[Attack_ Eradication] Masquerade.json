@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1360102",
+    "name": "[Attack: Eradication] Masquerade",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic072.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic072.webp",
+        "localPath": "gallery/zzz/Relic072.webp",
+        "sha256": "72420c41d72b5889911167e916b39c5edfad82cd4efb0e110957fcb3af695dcd",
+        "etag": "\"dld8rgo3zjqv-3lu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo3zjqv-3lu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4674|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4674,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic072.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic072.webp",
+        "localPath": "gallery/zzz/Relic072.webp",
+        "sha256": "72420c41d72b5889911167e916b39c5edfad82cd4efb0e110957fcb3af695dcd",
+        "etag": "\"dld8rgo3zjqv-3lu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo3zjqv-3lu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4674|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4674,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic072.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Attack: Eradication] Masquerade"
+    },
+    "detail": {
+      "id": 1360102,
+      "name": "[Attack: Eradication] Masquerade",
+      "desc": "<color=#FFFFFF>Auxiliary Assist</color>: Hugo accumulates Energy over time. With enough Energy, press Auxiliary Assist to summon Hugo to launch an <color=#FFFFFF>Auxiliary Assist</color> attack on enemies. This skill always CRITs, and when a heavy attack from this skill hits an enemy, it <color=#FFFFFF>triggers the Totalize effect</color>, dealing <color=#2BAD00>DMG equal to 100%/20%/10% of the target's Max HP</color> to normal enemies/Elite enemies/Boss enemies respectively. When Hugo's <color=#FFFFFF>Auxiliary Assist</color> hits a Stunned enemy, it ends the enemy's Stunned state and deals <color=#2BAD00>additional DMG equal to a percentage of Max HP</color> to Elite enemies/Boss enemies based on remaining Daze duration, up to an additional 20%/10%.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic072.png"
+    }
+  }
+}

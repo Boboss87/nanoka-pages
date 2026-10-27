@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1312301",
+    "name": "Evelyn - Sheathed Blade",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardEvelyn01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardEvelyn01.webp",
+        "localPath": "gallery/zzz/CardEvelyn01.webp",
+        "sha256": "ca88f8e04605b563aecc31fdf5a9d3c0be1ac57653704a5e778b46ff0ffe7b01",
+        "etag": "\"dld8rfqmbbbd-blu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqmbbbd-blu\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15042|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15042,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardEvelyn01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardEvelyn01.webp",
+        "localPath": "gallery/zzz/CardEvelyn01.webp",
+        "sha256": "ca88f8e04605b563aecc31fdf5a9d3c0be1ac57653704a5e778b46ff0ffe7b01",
+        "etag": "\"dld8rfqmbbbd-blu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqmbbbd-blu\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15042|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15042,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardEvelyn01.png",
+      "rank": 3,
+      "class": 80,
+      "name": "Evelyn - Sheathed Blade"
+    },
+    "detail": {
+      "id": 1312301,
+      "name": "Evelyn - Sheathed Blade",
+      "desc": "When activating a <color=#FFFFFF>Chain Attack</color>, Evelyn gains the <color=#FFFFFF>Swift Blade</color> effect, increasing <color=#FFFFFF>Chain Attack</color> <color=#2BAD00>DMG by 20%</color>. This effect can stack up to 3 times and lasts for the entire combat.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardEvelyn01.png"
+    }
+  }
+}

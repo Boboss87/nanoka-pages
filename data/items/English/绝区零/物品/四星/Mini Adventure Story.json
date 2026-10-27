@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3300004",
+    "name": "Mini Adventure Story",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard07.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard07.webp",
+        "localPath": "gallery/zzz/Callingcard07.webp",
+        "sha256": "acd7972e6cb953b4b6f645f8cc3d4586d3b05d76fc45f13069685e708f662d62",
+        "etag": "\"dld8rfppkfmc-87a\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfppkfmc-87a\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10630|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10630,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard07.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard07.webp",
+        "localPath": "gallery/zzz/Callingcard07.webp",
+        "sha256": "acd7972e6cb953b4b6f645f8cc3d4586d3b05d76fc45f13069685e708f662d62",
+        "etag": "\"dld8rfppkfmc-87a\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfppkfmc-87a\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10630|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10630,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard07.png",
+      "rank": 4,
+      "class": 65,
+      "name": "Mini Adventure Story"
+    },
+    "detail": {
+      "id": 3300004,
+      "name": "Mini Adventure Story",
+      "desc": "A commemorative namecard for the New Eridu City Fund: Premium Plan.",
+      "desc2": "A commemorative namecard of the movie \"7710 and Its Cat.\"\nWatchers who wish to break the fourth wall obtained a story of regrets. Life and movies were always as separate as night and day... right?",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard07.png"
+    }
+  }
+}

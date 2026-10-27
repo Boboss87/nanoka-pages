@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1340010",
+    "name": "Z-Merits",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AbyssShopCoin.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AbyssShopCoin.webp",
+        "localPath": "gallery/zzz/AbyssShopCoin.webp",
+        "sha256": "dd87a97c8068afd2416cab526156100f8b596a9146ab46a184a9e8e2e16c4600",
+        "etag": "\"dld8rfnuvsyu-6nq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnuvsyu-6nq\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8630|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8630,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AbyssShopCoin.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AbyssShopCoin.webp",
+        "localPath": "gallery/zzz/AbyssShopCoin.webp",
+        "sha256": "dd87a97c8068afd2416cab526156100f8b596a9146ab46a184a9e8e2e16c4600",
+        "etag": "\"dld8rfnuvsyu-6nq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnuvsyu-6nq\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8630|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8630,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AbyssShopCoin.png",
+      "rank": 4,
+      "class": 83,
+      "name": "Z-Merits"
+    },
+    "detail": {
+      "id": 1340010,
+      "name": "Z-Merits",
+      "desc": "Get <color=#FFAF2C>225</color> Z-Merits. When another Agent in your squad has <color=#FFAF2C>Potential Catalyst</color>, there's a small chance to gain Agent Exclusive Gear.",
+      "desc2": "",
+      "class": {
+        "83": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AbyssShopCoin.png"
+    }
+  }
+}

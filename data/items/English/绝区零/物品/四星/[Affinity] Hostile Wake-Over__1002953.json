@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1002953",
+    "name": "[Affinity] Hostile Wake-Over",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1191.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1191.webp",
+        "localPath": "gallery/zzz/CardDailyUse1191.webp",
+        "sha256": "f2bfff7ed53d9f8e27862ab610309cd199ce7158ea87045918e71b51009088a6",
+        "etag": "\"dld8rfqeko45-bbg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqeko45-bbg\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14668|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14668,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1191.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1191.webp",
+        "localPath": "gallery/zzz/CardDailyUse1191.webp",
+        "sha256": "f2bfff7ed53d9f8e27862ab610309cd199ce7158ea87045918e71b51009088a6",
+        "etag": "\"dld8rfqeko45-bbg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqeko45-bbg\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14668|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14668,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1191.png",
+      "rank": 4,
+      "class": 20,
+      "name": "[Affinity] Hostile Wake-Over"
+    },
+    "detail": {
+      "id": 1002953,
+      "name": "[Affinity] Hostile Wake-Over",
+      "desc": "In specific areas of Hollow Zero, there's a chance to trigger special events for agents in the squad, activating specific Mindscapes for the Agent for the current round.",
+      "desc2": "The bad news is that Ellen did not get a good night's sleep. The good news is that she's now refreshed and eager to clear any obstacles for the next night's quality sleep.",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1191.png"
+    }
+  }
+}

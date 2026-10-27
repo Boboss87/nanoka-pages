@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4161007",
+    "name": "Boo to the Rescue - Style C",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RABMaunufactureItem3.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RABMaunufactureItem3.webp",
+        "localPath": "gallery/zzz/RABMaunufactureItem3.webp",
+        "sha256": "085a5e1a35ba768b75a20155886d71fa3c5b6aaee1ecf44b4dba9ba42e2d73da",
+        "etag": "\"dld8rgnymn2h-7g4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnymn2h-7g4\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9652|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9652,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RABMaunufactureItem3.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RABMaunufactureItem3.webp",
+        "localPath": "gallery/zzz/RABMaunufactureItem3.webp",
+        "sha256": "085a5e1a35ba768b75a20155886d71fa3c5b6aaee1ecf44b4dba9ba42e2d73da",
+        "etag": "\"dld8rgnymn2h-7g4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnymn2h-7g4\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9652|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9652,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RABMaunufactureItem3.png",
+      "rank": 4,
+      "class": 113,
+      "name": "Boo to the Rescue - Style C"
+    },
+    "detail": {
+      "id": 4161007,
+      "name": "Boo to the Rescue - Style C",
+      "desc": "Can be used to load a random Collaboorator in the load terminal's Final Protocol",
+      "desc2": "Norma specially designed the \"Collaboorator\" data loading code, which can download partial Bangboo data from the Marcel Group as a \"Collaboorator\" to enter a volunteer Bangboo's data space and boost its computing power.\n\"Ehn-ne! Ehn-ne... ehn-ne-nhe! (A request... A request just came in! Oh, good thing I'm a data model, wait... Doesn't that actually make me better suited for the job?)\"",
+      "class": {
+        "113": "BANGBOO ITEM"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RABMaunufactureItem3.png"
+    }
+  }
+}

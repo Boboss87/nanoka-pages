@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "120",
+    "name": "\"Inspiration\" Small Pack",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/FashionStoreToken.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/FashionStoreToken.webp",
+        "localPath": "gallery/zzz/FashionStoreToken.webp",
+        "sha256": "483104f099f2104ba41c659d1e8f5f6e38abe0cc39b7a1329b7939e92bc035ba",
+        "etag": "\"dld8rg73brme-7ei\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg73brme-7ei\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9594|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9594,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/FashionStoreToken.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/FashionStoreToken.webp",
+        "localPath": "gallery/zzz/FashionStoreToken.webp",
+        "sha256": "483104f099f2104ba41c659d1e8f5f6e38abe0cc39b7a1329b7939e92bc035ba",
+        "etag": "\"dld8rg73brme-7ei\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg73brme-7ei\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9594|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9594,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/FashionStoreToken.png",
+      "rank": 3,
+      "class": 1,
+      "name": "\"Inspiration\" Small Pack"
+    },
+    "detail": {
+      "id": 120,
+      "name": "\"Inspiration\" Small Pack",
+      "desc": "Can be exchanged for decorations at the Sān-Z STUDIO.",
+      "desc2": "Yi's Studio doesn't charge Dennies. If you want to take his creations, you'll need to offer something interesting in return... like a small pinch of \"inspiration\" picked up from life?",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/FashionStoreToken.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "301003",
+    "name": "W-Engine Energy Module",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponExp03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/WeaponExp03.webp",
+        "localPath": "gallery/zzz/WeaponExp03.webp",
+        "sha256": "b7ac76213bff224c54c6c02d4c73cec1773d067d7e9692d51853af9de88ce953",
+        "etag": "\"dld8rgovyye8-7lg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgovyye8-7lg\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9844|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9844,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponExp03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/WeaponExp03.webp",
+        "localPath": "gallery/zzz/WeaponExp03.webp",
+        "sha256": "b7ac76213bff224c54c6c02d4c73cec1773d067d7e9692d51853af9de88ce953",
+        "etag": "\"dld8rgovyye8-7lg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgovyye8-7lg\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9844|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9844,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponExp03.png",
+      "rank": 3,
+      "class": 13,
+      "name": "W-Engine Energy Module"
+    },
+    "detail": {
+      "id": 301003,
+      "name": "W-Engine Energy Module",
+      "desc": "Provides 3,000 EXP for a W-Engine.",
+      "desc2": "A high-efficiency energy module made of various Etheric matter, providing stable and long-lasting energy for all models of W-Engines.",
+      "class": {
+        "13": "W-ENGINE EXP"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/WeaponExp03.png"
+    }
+  }
+}

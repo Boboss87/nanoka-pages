@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "100944",
+    "name": "Resonating Core",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EquipChoose02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/EquipChoose02.webp",
+        "localPath": "gallery/zzz/EquipChoose02.webp",
+        "sha256": "e98d06ed45d279703ed9c1541310709b45bcbe73ab8c8df35f90da036b254c7f",
+        "etag": "\"dld8rfrgoghk-7sk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrgoghk-7sk\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10100|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10100,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EquipChoose02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/EquipChoose02.webp",
+        "localPath": "gallery/zzz/EquipChoose02.webp",
+        "sha256": "e98d06ed45d279703ed9c1541310709b45bcbe73ab8c8df35f90da036b254c7f",
+        "etag": "\"dld8rfrgoghk-7sk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrgoghk-7sk\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10100|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10100,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EquipChoose02.png",
+      "rank": 4,
+      "class": 10,
+      "name": "Resonating Core"
+    },
+    "detail": {
+      "id": 100944,
+      "name": "Resonating Core",
+      "desc": "When performing Advanced Tuning in the music store, you can select the sub-stat for the Drive Disc.",
+      "desc2": "A Tuning assist device containing special Ether that forms precise resonance with Drive Discs to enhance tuning accuracy. Highly praised among both Hollow Investigators and Proxies.",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EquipChoose02.png"
+    }
+  }
+}

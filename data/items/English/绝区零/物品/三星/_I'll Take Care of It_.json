@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3321191",
+    "name": "\"I'll Take Care of It\"",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "\"I'll Take Care of It\""
+    },
+    "detail": {
+      "id": 3321191,
+      "name": "\"I'll Take Care of It\"",
+      "desc": "Get by unlocking Ellen's Mindscape: The Feast Begins",
+      "desc2": "A card with Ellen's personal photo printed on it.\n\"Tsk, that sounds like a real pain...\"\n\"What am I to do with you... As a friend, I'll take care of that thing you mentioned. But in exchange, you'll help me out at the next parent-teacher meeting... Okay?\"",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4360024",
+    "name": "Boonip Ornament",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_027.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_027.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_027.webp",
+        "sha256": "33406f292effe312c9030b8d71eef702abb20e11f2f7bed1e62a0ca3e729aefc",
+        "etag": "\"dld8rgr2k9ny-5ry\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr2k9ny-5ry\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7486|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7486,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_027.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_027.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_027.webp",
+        "sha256": "33406f292effe312c9030b8d71eef702abb20e11f2f7bed1e62a0ca3e729aefc",
+        "etag": "\"dld8rgr2k9ny-5ry\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr2k9ny-5ry\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7486|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7486,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_027.png",
+      "rank": 4,
+      "class": 130,
+      "name": "Boonip Ornament"
+    },
+    "detail": {
+      "id": 4360024,
+      "name": "Boonip Ornament",
+      "desc": "A Bangboo figurine from Sān-Z STUDIO. What can this little Boonip do for you?",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_027.png"
+    }
+  }
+}

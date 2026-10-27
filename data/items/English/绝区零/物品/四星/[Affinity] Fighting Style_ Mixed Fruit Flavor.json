@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000959",
+    "name": "[Affinity] Fighting Style: Mixed Fruit Flavor",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1161.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1161.webp",
+        "localPath": "gallery/zzz/CardDailyUse1161.webp",
+        "sha256": "58305968c08d1546c6d7b05b130d4a886dc10bd68801f2ba94874d1c21d6f2ea",
+        "etag": "\"dld8rfqeko45-buw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqeko45-buw\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15368|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15368,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1161.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1161.webp",
+        "localPath": "gallery/zzz/CardDailyUse1161.webp",
+        "sha256": "58305968c08d1546c6d7b05b130d4a886dc10bd68801f2ba94874d1c21d6f2ea",
+        "etag": "\"dld8rfqeko45-buw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqeko45-buw\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15368|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15368,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1161.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Affinity] Fighting Style: Mixed Fruit Flavor"
+    },
+    "detail": {
+      "id": 1000959,
+      "name": "[Affinity] Fighting Style: Mixed Fruit Flavor",
+      "desc": "Lighter has evoked the Mindscape <color=#FFAF2C>The Champion</color>.\nThe Champion：Among the debuffs imposed by <color=#FFFFFF>Core Passive: Accelerant</color>, the <color=#FFFFFF>Collapse</color> effect increases Stun duration by 5s, while further reducing <color=#98EFF0>Ice RES</color> and <color=#FF5521>Fire RES</color> by 10%. The more powerful Finishing Move that follows when Lighter's <color=#FFFFFF>Morale</color> is completely exhausted during a startup light punch or jab combo deals 30% increased DMG.",
+      "desc2": "Lighter's fighting style is more elusive than ever: rapid hooks, fierce jabs, brutal straight punches, and... is that a subtle mixed fruit aroma?",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1161.png"
+    }
+  }
+}

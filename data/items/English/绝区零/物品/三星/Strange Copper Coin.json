@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "304065",
+    "name": "Strange Copper Coin",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianPawnCoin.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianPawnCoin.webp",
+        "localPath": "gallery/zzz/SuibianPawnCoin.webp",
+        "sha256": "b3dcde768bc81ed9bd66e9848bd297b6012a9f7608b7438ed16b45d9e7926f18",
+        "etag": "\"dld8rgofw8d2-7fc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgofw8d2-7fc\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9624|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9624,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianPawnCoin.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianPawnCoin.webp",
+        "localPath": "gallery/zzz/SuibianPawnCoin.webp",
+        "sha256": "b3dcde768bc81ed9bd66e9848bd297b6012a9f7608b7438ed16b45d9e7926f18",
+        "etag": "\"dld8rgofw8d2-7fc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgofw8d2-7fc\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9624|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9624,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianPawnCoin.png",
+      "rank": 3,
+      "class": 20,
+      "name": "Strange Copper Coin"
+    },
+    "detail": {
+      "id": 304065,
+      "name": "Strange Copper Coin",
+      "desc": "Looks pretty weird, but weird in a good way",
+      "desc2": "A strange copper coin Sweety received from a customer, engraved with patterns she's never seen before. Maybe Master Vince at Devon Pawnshop would know what it is.",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianPawnCoin.png"
+    }
+  }
+}

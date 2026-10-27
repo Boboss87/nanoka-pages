@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000951",
+    "name": "[Affinity] Frosty Eviction",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1141.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1141.webp",
+        "localPath": "gallery/zzz/CardDailyUse1141.webp",
+        "sha256": "40eec36b59e8d198957a350b047994e96870adf0c43712788e6a22083329f9fd",
+        "etag": "\"dld8rfqeko45-b5m\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqeko45-b5m\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14458|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14458,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1141.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1141.webp",
+        "localPath": "gallery/zzz/CardDailyUse1141.webp",
+        "sha256": "40eec36b59e8d198957a350b047994e96870adf0c43712788e6a22083329f9fd",
+        "etag": "\"dld8rfqeko45-b5m\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqeko45-b5m\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14458|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14458,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1141.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Affinity] Frosty Eviction"
+    },
+    "detail": {
+      "id": 1000951,
+      "name": "[Affinity] Frosty Eviction",
+      "desc": "Lycaon has evoked the Mindscape: <color=#FFAF2C>[Full Moon Momentum]</color>. After launching a Dash Attack or Dodge Counter, your character can <color=#2BAD00>immediately follow up with</color> certain attacks near the end of the Basic Attack combo.\nFull Moon Momentum: When Lycaon's <color=#FFFFFF>EX Special Attack: Thrill of the Hunt</color> hits an enemy, the attack's Daze increases by 12%. This effect can trigger once every 8s. When he charges his <color=#FFFFFF>EX Special Attack: Thrill of the Hunt</color> to completion, this buff will increase by an additional 10%.",
+      "desc2": "Lycaon is as elegant as always, but he has a particularly relentless look in his eye. Any uninvited guest would be met with a cold kick out the front door before they got the chance to say a thing.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1141.png"
+    }
+  }
+}

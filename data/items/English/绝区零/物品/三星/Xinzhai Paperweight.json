@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4150011",
+    "name": "Xinzhai Paperweight",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianWayseekProduct02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianWayseekProduct02.webp",
+        "localPath": "gallery/zzz/SuibianWayseekProduct02.webp",
+        "sha256": "94db9eaaaacc7581f3c38c2251b0492f375302198ed4193ddea92c8f6700d759",
+        "etag": "\"dld8rgomg0av-6ey\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgomg0av-6ey\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8314|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8314,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianWayseekProduct02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianWayseekProduct02.webp",
+        "localPath": "gallery/zzz/SuibianWayseekProduct02.webp",
+        "sha256": "94db9eaaaacc7581f3c38c2251b0492f375302198ed4193ddea92c8f6700d759",
+        "etag": "\"dld8rgomg0av-6ey\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgomg0av-6ey\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8314|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8314,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianWayseekProduct02.png",
+      "rank": 3,
+      "class": 89,
+      "name": "Xinzhai Paperweight"
+    },
+    "detail": {
+      "id": 4150011,
+      "name": "Xinzhai Paperweight",
+      "desc": "Training supplies crafted and sold at Suibian Temple.",
+      "desc2": "A white jade paperweight, delicately carved to symbolize: \"Ink draws fate, the brush shapes the world.\"",
+      "class": {
+        "89": "Product"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianWayseekProduct02.png"
+    }
+  }
+}

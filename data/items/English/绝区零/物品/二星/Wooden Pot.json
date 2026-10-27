@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1351022",
+    "name": "Wooden Pot",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver1_7/Flower/UnPacker/SLot4_3.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SLot4_3.webp",
+        "localPath": "gallery/zzz/SLot4_3.webp",
+        "sha256": "cb1a3a081c9154936375471ae909c5e4148332951edfa70992bf5e0b8823f9a5",
+        "etag": "\"dld8rgocbmkt-6pm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgocbmkt-6pm\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8698|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8698,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver1_7/Flower/UnPacker/SLot4_3.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SLot4_3.webp",
+        "localPath": "gallery/zzz/SLot4_3.webp",
+        "sha256": "cb1a3a081c9154936375471ae909c5e4148332951edfa70992bf5e0b8823f9a5",
+        "etag": "\"dld8rgocbmkt-6pm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgocbmkt-6pm\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8698|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8698,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver1_7/Flower/UnPacker/SLot4_3.png",
+      "rank": 2,
+      "class": 93,
+      "name": "Wooden Pot"
+    },
+    "detail": {
+      "id": 1351022,
+      "name": "Wooden Pot",
+      "desc": "The warm wooden base feels like the embrace of the earth.",
+      "desc2": "",
+      "class": {
+        "93": "DEW"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver1_7/Flower/UnPacker/SLot4_3.png"
+    }
+  }
+}

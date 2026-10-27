@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4326015",
+    "name": "[Cissia] Ouroboros Loop - Lv.50",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_013.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_013.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_013.webp",
+        "sha256": "199cf77e63d38e14560cd3e8d73b55911d45b12273b624a031b98dedcc9d5ae9",
+        "etag": "\"dld8rgregya5-7m4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgregya5-7m4\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9868|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9868,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_013.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponAvatar_013.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponAvatar_013.webp",
+        "sha256": "199cf77e63d38e14560cd3e8d73b55911d45b12273b624a031b98dedcc9d5ae9",
+        "etag": "\"dld8rgregya5-7m4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgregya5-7m4\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9868|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9868,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_013.png",
+      "rank": 4,
+      "class": 132,
+      "name": "[Cissia] Ouroboros Loop - Lv.50"
+    },
+    "detail": {
+      "id": 4326015,
+      "name": "[Cissia] Ouroboros Loop - Lv.50",
+      "desc": "Cissia's exclusive Tactical Prism.\nWhen using Etheric Phantom to enter Stealth, Stealth duration is extended by 3s.\nAfter using <color=#FFFFFF>EX Special Attack</color>, gains the <color=#FFFFFF>Viper Strike</color> effect: When any Non-<color=#FFFFFF>Corrode Bone</color> attack hits an enemy, it <color=#2BAD00>triggers a free special <color=#FFFFFF>Corrode Bone</color></color> that cannot inflict Daze. This effect can be triggered once every 1s and lasts for 6s.",
+      "desc2": "",
+      "class": {
+        "132": "LABYRINTH"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponAvatar_013.png"
+    }
+  }
+}

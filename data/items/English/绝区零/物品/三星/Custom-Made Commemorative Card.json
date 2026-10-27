@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "2090029",
+    "name": "Custom-Made Commemorative Card",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/PlayerBirthdayCake_Mark_3rd.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/PlayerBirthdayCake_Mark_3rd.webp",
+        "localPath": "gallery/zzz/PlayerBirthdayCake_Mark_3rd.webp",
+        "sha256": "cf037f5d866e1e61869259ea516fd38798c1c3bcaf0b04e1629d8f360efd4d68",
+        "etag": "\"dld8rgnvngwx-8po\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnvngwx-8po\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11292|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11292,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/PlayerBirthdayCake_Mark_3rd.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/PlayerBirthdayCake_Mark_3rd.webp",
+        "localPath": "gallery/zzz/PlayerBirthdayCake_Mark_3rd.webp",
+        "sha256": "cf037f5d866e1e61869259ea516fd38798c1c3bcaf0b04e1629d8f360efd4d68",
+        "etag": "\"dld8rgnvngwx-8po\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnvngwx-8po\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11292|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11292,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/PlayerBirthdayCake_Mark_3rd.png",
+      "rank": 3,
+      "class": 20,
+      "name": "Custom-Made Commemorative Card"
+    },
+    "detail": {
+      "id": 2090029,
+      "name": "Custom-Made Commemorative Card",
+      "desc": "A commemorative card from Aurelia Academy's birthday gift box. It has some value as a collectible.",
+      "desc2": "A commemorative birthday card included with the gift boxes prepared by Aurelia Academy for its students, illustrated according to each person's preferences.\nEven after a long time, the floral fragrance lingering on the card remains rich and vivid. Hopefully you'll leave behind memories in Roscaelifer that are just as enduring.",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/PlayerBirthdayCake_Mark_3rd.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1341016",
+    "name": "Lucy",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1151.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1151.webp",
+        "localPath": "gallery/zzz/CardDailyUse1151.webp",
+        "sha256": "9fb61619d1a1865643bdcbb6daec02f1036bb1094b03c4ab5c367df56d389d02",
+        "etag": "\"dld8rfqeko45-c8a\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqeko45-c8a\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15850|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15850,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1151.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1151.webp",
+        "localPath": "gallery/zzz/CardDailyUse1151.webp",
+        "sha256": "9fb61619d1a1865643bdcbb6daec02f1036bb1094b03c4ab5c367df56d389d02",
+        "etag": "\"dld8rfqeko45-c8a\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqeko45-c8a\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15850|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15850,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1151.png",
+      "rank": 4,
+      "class": 83,
+      "name": "Lucy"
+    },
+    "detail": {
+      "id": 1341016,
+      "name": "Lucy",
+      "desc": "Use Ether Dewdrops on Lucy",
+      "desc2": "",
+      "class": {
+        "83": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1151.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3202007",
+    "name": "Endless Last Stand - Impasse",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile2007.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemProfile2007.webp",
+        "localPath": "gallery/zzz/ItemProfile2007.webp",
+        "sha256": "059c3fc14eb89cbbc5501fdb7f599ef3c0105a7d968c209f6d54ed9bdff745df",
+        "etag": "\"dld8rgeinpv5-7me\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgeinpv5-7me\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9878|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9878,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile2007.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemProfile2007.webp",
+        "localPath": "gallery/zzz/ItemProfile2007.webp",
+        "sha256": "059c3fc14eb89cbbc5501fdb7f599ef3c0105a7d968c209f6d54ed9bdff745df",
+        "etag": "\"dld8rgeinpv5-7me\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgeinpv5-7me\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9878|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9878,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile2007.png",
+      "rank": 3,
+      "class": 64,
+      "name": "Endless Last Stand - Impasse"
+    },
+    "detail": {
+      "id": 3202007,
+      "name": "Endless Last Stand - Impasse",
+      "desc": "Commemorative avatar for specific floors in the \"Battle Trial: The Last Stand.\"",
+      "desc2": "At the journey's end, a spark remains; A blade cuts through, and a new world gains.",
+      "class": {
+        "64": "PROFILE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile2007.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "503",
+    "name": "Backup Battery Charge",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BackUp_Energy.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BackUp_Energy.webp",
+        "localPath": "gallery/zzz/BackUp_Energy.webp",
+        "sha256": "b6c88c97b37e0497beab94da8c8799d58523e703d983dd7a62c526c688c9e900",
+        "etag": "\"dld8rfop8y51-6ma\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfop8y51-6ma\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8578|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8578,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BackUp_Energy.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BackUp_Energy.webp",
+        "localPath": "gallery/zzz/BackUp_Energy.webp",
+        "sha256": "b6c88c97b37e0497beab94da8c8799d58523e703d983dd7a62c526c688c9e900",
+        "etag": "\"dld8rfop8y51-6ma\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfop8y51-6ma\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8578|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8578,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BackUp_Energy.png",
+      "rank": 3,
+      "class": 36,
+      "name": "Backup Battery Charge"
+    },
+    "detail": {
+      "id": 503,
+      "name": "Backup Battery Charge",
+      "desc": "Once Battery Charge reaches 240, recover 1 Backup Battery Charge every 18 minutes. You can have up to 2,400 Backup Battery Charge.\nConsume Backup Battery Charge to gain an equal amount of Battery Charge.",
+      "desc2": "Battery Charge stored in a backup battery, ready for use whenever needed.\nIf Ether technology can be applied to produce batteries, their efficiency might be further improved. Luckily, this backup battery has a large capacity, turning Battery Charge into a valuable long-term asset.",
+      "class": {
+        "36": "ENERGY ITEM"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BackUp_Energy.png"
+    }
+  }
+}

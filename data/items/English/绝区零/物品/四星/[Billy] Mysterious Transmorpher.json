@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1320603",
+    "name": "[Billy] Mysterious Transmorpher",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic020.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic020.webp",
+        "localPath": "gallery/zzz/Relic020.webp",
+        "sha256": "12a99ae3627459562ea06c0bd8f0d3a74be6dacad292c8f82f0eb578bb7ddbda",
+        "etag": "\"dld8rgnztibw-3ae\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnztibw-3ae\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4262|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4262,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic020.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic020.webp",
+        "localPath": "gallery/zzz/Relic020.webp",
+        "sha256": "12a99ae3627459562ea06c0bd8f0d3a74be6dacad292c8f82f0eb578bb7ddbda",
+        "etag": "\"dld8rgnztibw-3ae\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnztibw-3ae\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4262|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4262,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic020.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Billy] Mysterious Transmorpher"
+    },
+    "detail": {
+      "id": 1320603,
+      "name": "[Billy] Mysterious Transmorpher",
+      "desc": "When Billy enters <color=#FFFFFF>Crouching Shot</color> during his Basic Attack, he triggers <color=#FFFFFF>Core Passive: Steady Shot</color>. After maintaining the buff for 1.5 seconds, he enters the <color=#FFFFFF>Starlight Descent</color> state, during which his attacks <color=#2BAD00>ignore 50%</color> of the target's <color=#F0D12B>Physical RES</color>. Additionally, he <color=#2BAD00>continuously generates Decibels</color>, <color=#2BAD00>starting at 20 points/second and gradually increasing to 50 points/second</color>, reaching the maximum after 3 seconds. This effect lasts until he is knocked back or launched.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic020.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "136",
+    "name": "Commemorative Ticket Stub",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ActivityFishIcon.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivityFishIcon.webp",
+        "localPath": "gallery/zzz/ActivityFishIcon.webp",
+        "sha256": "f5083650c0631ced35c685dfece497cb89b504702bad1292cdd9d46d893fee28",
+        "etag": "\"dld8rfnwo3uy-7bc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnwo3uy-7bc\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9480|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9480,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ActivityFishIcon.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivityFishIcon.webp",
+        "localPath": "gallery/zzz/ActivityFishIcon.webp",
+        "sha256": "f5083650c0631ced35c685dfece497cb89b504702bad1292cdd9d46d893fee28",
+        "etag": "\"dld8rfnwo3uy-7bc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnwo3uy-7bc\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9480|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9480,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ActivityFishIcon.png",
+      "rank": 4,
+      "class": 1,
+      "name": "Commemorative Ticket Stub"
+    },
+    "detail": {
+      "id": 136,
+      "name": "Commemorative Ticket Stub",
+      "desc": "\"Filmgoer Thank-You Gift\" event item. During the event, obtain through purchasing Monochrome, New Eridu City Fund, select Bundles, Inter-Knot Membership, etc.",
+      "desc2": "A gleaming, golden ticket stub — and a token of time itself. With our eager excitement, we traded for a dream worth cherishing; and as the lights flickered and flowed, we walked into a life that never belonged to us.",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ActivityFishIcon.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1310902",
+    "name": "[General] Energy Restorer MKI",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard53.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard53.webp",
+        "localPath": "gallery/zzz/CardChessboard53.webp",
+        "sha256": "6cb92a09087865f40dc5ebcfbfb57796642ac990844949843db390bcb86921fa",
+        "etag": "\"dld8rfqb02bw-9i2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqb02bw-9i2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=12314|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12314,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard53.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard53.webp",
+        "localPath": "gallery/zzz/CardChessboard53.webp",
+        "sha256": "6cb92a09087865f40dc5ebcfbfb57796642ac990844949843db390bcb86921fa",
+        "etag": "\"dld8rfqb02bw-9i2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqb02bw-9i2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=12314|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12314,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard53.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[General] Energy Restorer MKI"
+    },
+    "detail": {
+      "id": 1310902,
+      "name": "[General] Energy Restorer MKI",
+      "desc": "When triggering <color=#FFFFFF>Chain Attack</color>, Agents <color=#2BAD00>recover 5 Energy</color>.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard53.png"
+    }
+  }
+}

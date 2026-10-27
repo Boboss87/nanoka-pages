@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000979",
+    "name": "[Affinity] Perfect Symmetry",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1401.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1401.webp",
+        "localPath": "gallery/zzz/CardDailyUse1401.webp",
+        "sha256": "0eff2b1be912d0ebb50819d0562829101e6946781665a4606442c3e1bc2201ff",
+        "etag": "\"dld8rfqgcz0a-d3k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqgcz0a-d3k\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16976|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16976,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1401.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1401.webp",
+        "localPath": "gallery/zzz/CardDailyUse1401.webp",
+        "sha256": "0eff2b1be912d0ebb50819d0562829101e6946781665a4606442c3e1bc2201ff",
+        "etag": "\"dld8rfqgcz0a-d3k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqgcz0a-d3k\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16976|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16976,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1401.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Affinity] Perfect Symmetry"
+    },
+    "detail": {
+      "id": 1000979,
+      "name": "[Affinity] Perfect Symmetry",
+      "desc": "Alice has evoked the Mindscape: <color=#FFAF2C>[Sage at the Sword's Tip]</color>.\n[Sage at the Sword's Tip]: When <color=#FFFFFF>Ultimate: Starfall Finale</color>'s Finishing Move hits an enemy, it triggers <color=#F0D12B>Polarity Assault</color>. All squad members' <color=#F0D12B>Assault</color> DMG increases by 15%. <color=#FFFFFF>Disorder</color> DMG against enemies suffering from <color=#F0D12B>Physical Anomaly</color> increases by 15%. Upon entering the battlefield, Alice immediately gains 1,000 Decibels. Triggers once per 180s in Investigation Zone mode.",
+      "desc2": "After all sorts of tweaking and adjusting, Eous is finally perfectly symmetrical, and Alice finally feels a deep sense of relief she's never felt before! As for the tweaking process... Well, some details are better left unsaid.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1401.png"
+    }
+  }
+}

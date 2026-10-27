@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "32521",
+    "name": "Polar Metal [1]",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitPolarMetal_B.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitPolarMetal_B.webp",
+        "localPath": "gallery/zzz/ItemSuitPolarMetal_B.webp",
+        "sha256": "627c092287a588a9766b573d4c1af7cb6b36cf5237f9e5548683c86aaf9ea87c",
+        "etag": "\"dld8rges6nyi-7b0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rges6nyi-7b0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9468|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9468,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitPolarMetal_B.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitPolarMetal_B.webp",
+        "localPath": "gallery/zzz/ItemSuitPolarMetal_B.webp",
+        "sha256": "627c092287a588a9766b573d4c1af7cb6b36cf5237f9e5548683c86aaf9ea87c",
+        "etag": "\"dld8rges6nyi-7b0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rges6nyi-7b0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9468|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9468,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitPolarMetal_B.png",
+      "rank": 2,
+      "class": 7,
+      "name": "Polar Metal [1]"
+    },
+    "detail": {
+      "id": 32521,
+      "name": "Polar Metal [1]",
+      "desc": "Equip to increase Agents' combat capabilities",
+      "desc2": "This Drive Disc contains track one from Polar Metal. The melody that emanates with the rotation of the W-Engine is cold but profound.",
+      "class": {
+        "7": "DISK"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitPolarMetal_B.png"
+    }
+  }
+}

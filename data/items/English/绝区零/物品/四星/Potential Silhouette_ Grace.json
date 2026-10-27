@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "20118",
+    "name": "Potential Silhouette: Grace",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconRoleAwaken_1181.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRoleAwaken_1181.webp",
+        "localPath": "gallery/zzz/IconRoleAwaken_1181.webp",
+        "sha256": "bf4c672836b8ca106c83ca3ddd671b554c325a27e8d90f37e71cebeca9151291",
+        "etag": "\"dld8rgas3lap-7i4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgas3lap-7i4\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9724|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9724,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconRoleAwaken_1181.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRoleAwaken_1181.webp",
+        "localPath": "gallery/zzz/IconRoleAwaken_1181.webp",
+        "sha256": "bf4c672836b8ca106c83ca3ddd671b554c325a27e8d90f37e71cebeca9151291",
+        "etag": "\"dld8rgas3lap-7i4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgas3lap-7i4\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9724|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9724,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconRoleAwaken_1181.png",
+      "rank": 4,
+      "class": 6,
+      "name": "Potential Silhouette: Grace"
+    },
+    "detail": {
+      "id": 20118,
+      "name": "Potential Silhouette: Grace",
+      "desc": "Used to awaken Grace's potential. Can be exchanged in the Potential Archive store.",
+      "desc2": "A sharp, clean silhouette capturing an Agent's potential \"ideal self.\"\n\nWearing gloves smudged with engine oil and holding her ever-present wrench, the \"Iron Witch\" stays devoted to creating her mechanical potions, unwavering as ever.",
+      "class": {
+        "6": "AGENT SILHOUETTE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconRoleAwaken_1181.png"
+    }
+  }
+}

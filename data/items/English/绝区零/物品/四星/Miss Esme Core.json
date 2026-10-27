@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "540180",
+    "name": "Miss Esme Core",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece34.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconBangbooPiece34.webp",
+        "localPath": "gallery/zzz/IconBangbooPiece34.webp",
+        "sha256": "3178b3b1632723f41770016b2f8a17c21a9c77d6e793a30abe56b4a69cbcef1e",
+        "etag": "\"dld8rg7dg5cg-8r8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7dg5cg-8r8\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11348|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11348,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece34.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconBangbooPiece34.webp",
+        "localPath": "gallery/zzz/IconBangbooPiece34.webp",
+        "sha256": "3178b3b1632723f41770016b2f8a17c21a9c77d6e793a30abe56b4a69cbcef1e",
+        "etag": "\"dld8rg7dg5cg-8r8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7dg5cg-8r8\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11348|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11348,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece34.png",
+      "rank": 4,
+      "class": 9,
+      "name": "Miss Esme Core"
+    },
+    "detail": {
+      "id": 540180,
+      "name": "Miss Esme Core",
+      "desc": "Obtain this Bangboo model or authorization to perform the Bangboo's core update.",
+      "desc2": "In the name of Starshine, I shall alter the course of destiny!",
+      "class": {
+        "9": "BANGBOO CORE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece34.png"
+    }
+  }
+}

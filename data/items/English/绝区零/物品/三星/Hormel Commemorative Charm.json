@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "2090021",
+    "name": "Hormel Commemorative Charm",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/HormelTest_Mark.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/HormelTest_Mark.webp",
+        "localPath": "gallery/zzz/HormelTest_Mark.webp",
+        "sha256": "bac1396e550bcc66f88f5e9b3ef4b6277ae7a3e99b3d59670270f079fee72278",
+        "etag": "\"dld8rg78ooas-9wu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg78ooas-9wu\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=12846|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12846,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/HormelTest_Mark.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/HormelTest_Mark.webp",
+        "localPath": "gallery/zzz/HormelTest_Mark.webp",
+        "sha256": "bac1396e550bcc66f88f5e9b3ef4b6277ae7a3e99b3d59670270f079fee72278",
+        "etag": "\"dld8rg78ooas-9wu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg78ooas-9wu\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=12846|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12846,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/HormelTest_Mark.png",
+      "rank": 3,
+      "class": 20,
+      "name": "Hormel Commemorative Charm"
+    },
+    "detail": {
+      "id": 2090021,
+      "name": "Hormel Commemorative Charm",
+      "desc": "Hormel collaboration event commemorative reward.",
+      "desc2": "Savor the lingering aroma anytime, anywhere!\nA commemorative charm included inside the packaging. It's utterly scentless, yet somehow it looks delicious.\nA small memory surfaces — the fresh fragrance, satisfied taste buds, and the Senior Sister who almost stuffed the charm into her mouth thinking it was beef jerky.",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/HormelTest_Mark.png"
+    }
+  }
+}

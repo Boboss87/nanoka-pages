@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "2090022",
+    "name": "Delulu Fan Gift",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AppStore2-1.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AppStore2-1.webp",
+        "localPath": "gallery/zzz/AppStore2-1.webp",
+        "sha256": "d7a46bdd0d05fb8551dfac3bbcba5c2ea4d78667e70c626046f70f9971822cf1",
+        "etag": "\"dld8rfnx9jho-6oi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnx9jho-6oi\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8658|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8658,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AppStore2-1.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AppStore2-1.webp",
+        "localPath": "gallery/zzz/AppStore2-1.webp",
+        "sha256": "d7a46bdd0d05fb8551dfac3bbcba5c2ea4d78667e70c626046f70f9971822cf1",
+        "etag": "\"dld8rfnx9jho-6oi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnx9jho-6oi\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8658|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8658,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AppStore2-1.png",
+      "rank": 3,
+      "class": 51,
+      "name": "Delulu Fan Gift"
+    },
+    "detail": {
+      "id": 2090022,
+      "name": "Delulu Fan Gift",
+      "desc": "A fan gift personally designed by the Angels of Delusion. Use it to gain 60 Battery Charge.",
+      "desc2": "At the bottom of the gift box, there's a handwritten message from all three members of the Angels of Delusion: \"To our dearest Delulu, may you always have the courage to dream big, no matter where life takes you!\"",
+      "class": {
+        "51": "GIFT"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AppStore2-1.png"
+    }
+  }
+}

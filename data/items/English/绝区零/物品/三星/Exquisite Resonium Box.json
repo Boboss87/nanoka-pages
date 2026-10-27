@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "207011",
+    "name": "Exquisite Resonium Box",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/ItemIcon/UnPacker/IconBlindBox02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconBlindBox02.webp",
+        "localPath": "gallery/zzz/IconBlindBox02.webp",
+        "sha256": "cb585510f6d5818db6f52bc29d41e6ec2c4e07baa7e9870ff599b965ef70f3ff",
+        "etag": "\"dld8rg7en0lv-7e6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7en0lv-7e6\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9582|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9582,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/ItemIcon/UnPacker/IconBlindBox02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconBlindBox02.webp",
+        "localPath": "gallery/zzz/IconBlindBox02.webp",
+        "sha256": "cb585510f6d5818db6f52bc29d41e6ec2c4e07baa7e9870ff599b965ef70f3ff",
+        "etag": "\"dld8rg7en0lv-7e6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7en0lv-7e6\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9582|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9582,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/ItemIcon/UnPacker/IconBlindBox02.png",
+      "rank": 3,
+      "class": 11,
+      "name": "Exquisite Resonium Box"
+    },
+    "detail": {
+      "id": 207011,
+      "name": "Exquisite Resonium Box",
+      "desc": "Get <color=#2BAD00>a random</color> A-Rank Resonium and have a 10% chance to get an additional A-Rank Resonium.",
+      "desc2": "It's not a Resonia from a Bangboo merchant, but was picked up during exploration of a Hollow.\nBangboo merchants perform a simple appraisal before packaging them into different boxes based on their quality.",
+      "class": {
+        "11": "BATTLE RESOURCE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/ItemIcon/UnPacker/IconBlindBox02.png"
+    }
+  }
+}

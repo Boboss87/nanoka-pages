@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3201012",
+    "name": "Sweet Dreams in the Breeze",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1012.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemProfile1012.webp",
+        "localPath": "gallery/zzz/ItemProfile1012.webp",
+        "sha256": "340221de67803127a76bbe894a6f488d273e7a7e6f724a143940c5219ff47c6e",
+        "etag": "\"dld8rgehgulq-7xy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgehgulq-7xy\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10294|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10294,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1012.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemProfile1012.webp",
+        "localPath": "gallery/zzz/ItemProfile1012.webp",
+        "sha256": "340221de67803127a76bbe894a6f488d273e7a7e6f724a143940c5219ff47c6e",
+        "etag": "\"dld8rgehgulq-7xy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgehgulq-7xy\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10294|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10294,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1012.png",
+      "rank": 4,
+      "class": 64,
+      "name": "Sweet Dreams in the Breeze"
+    },
+    "detail": {
+      "id": 3201012,
+      "name": "Sweet Dreams in the Breeze",
+      "desc": "A commemorative avatar for the New Eridu City Fund: Premium Plan.",
+      "desc2": "\"That Bangboo... will it be able to find its way home?\"\n\"...I'm so sleepy. How about we finish the story after we wake up?\"\n\"Don't forget...\"",
+      "class": {
+        "64": "PROFILE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1012.png"
+    }
+  }
+}

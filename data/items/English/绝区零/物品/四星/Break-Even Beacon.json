@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4311022",
+    "name": "Break-Even Beacon",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Consumables_010.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Consumables_010.webp",
+        "localPath": "gallery/zzz/Zenkov_Consumables_010.webp",
+        "sha256": "ee998bf67d1119f81751fc02b80b06e0e18be06d56f39a1465758226933c626d",
+        "etag": "\"dld8rgr4y06s-7gc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr4y06s-7gc\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9660|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9660,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Consumables_010.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Consumables_010.webp",
+        "localPath": "gallery/zzz/Zenkov_Consumables_010.webp",
+        "sha256": "ee998bf67d1119f81751fc02b80b06e0e18be06d56f39a1465758226933c626d",
+        "etag": "\"dld8rgr4y06s-7gc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr4y06s-7gc\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9660|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9660,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Consumables_010.png",
+      "rank": 4,
+      "class": 131,
+      "name": "Break-Even Beacon"
+    },
+    "detail": {
+      "id": 4311022,
+      "name": "Break-Even Beacon",
+      "desc": "ZKItem_4311022_Desc",
+      "desc2": "",
+      "class": {
+        "131": "LABYRINTH"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Consumables_010.png"
+    }
+  }
+}

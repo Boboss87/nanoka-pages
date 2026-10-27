@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1053005",
+    "name": "[Ally] Paperboo",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooPaperboo.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBangbooPaperboo.webp",
+        "localPath": "gallery/zzz/CardBangbooPaperboo.webp",
+        "sha256": "c82724d6528f71611f76da568a4ed32e23c6e4379869979858a794786c9e798a",
+        "etag": "\"dld8rfq2nzhy-bme\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq2nzhy-bme\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15062|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15062,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooPaperboo.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBangbooPaperboo.webp",
+        "localPath": "gallery/zzz/CardBangbooPaperboo.webp",
+        "sha256": "c82724d6528f71611f76da568a4ed32e23c6e4379869979858a794786c9e798a",
+        "etag": "\"dld8rfq2nzhy-bme\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq2nzhy-bme\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15062|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15062,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooPaperboo.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Ally] Paperboo"
+    },
+    "detail": {
+      "id": 1053005,
+      "name": "[Ally] Paperboo",
+      "desc": "All squad members' DEF increases by <color=#2BAD00>10%</color>.\nActive Skill: Uses a cardboard box to camouflage itself, inducing a taunt effect: While camouflaged, being attacked by enemies or reaching the camouflage time limit will trigger an explosion, dealing <color=#F0D12B>Physical DMG</color> in an area.",
+      "desc2": "Small but functional, it's a great help to Proxies in the Hollows.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooPaperboo.png"
+    }
+  }
+}

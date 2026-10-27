@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1310701",
+    "name": "[Ellen] Blizzard Trim",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardEllen01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardEllen01.webp",
+        "localPath": "gallery/zzz/CardEllen01.webp",
+        "sha256": "d0ab746ca703eda09901e8dfe9673f3bb09a169c5e3cebf1c2fed679c0e5c27e",
+        "etag": "\"dld8rfqlpvoo-bnw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqlpvoo-bnw\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15116|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15116,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardEllen01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardEllen01.webp",
+        "localPath": "gallery/zzz/CardEllen01.webp",
+        "sha256": "d0ab746ca703eda09901e8dfe9673f3bb09a169c5e3cebf1c2fed679c0e5c27e",
+        "etag": "\"dld8rfqlpvoo-bnw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqlpvoo-bnw\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15116|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15116,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardEllen01.png",
+      "rank": 3,
+      "class": 80,
+      "name": "[Ellen] Blizzard Trim"
+    },
+    "detail": {
+      "id": 1310701,
+      "name": "[Ellen] Blizzard Trim",
+      "desc": "With<color=#FFFFFF>Flash Freeze Charge</color>, the third move of <color=#FFFFFF>Basic Attack: Flash Freeze Trimming</color> replaces <color=#FFFFFF>Dash Attack: Cold Snap</color>. During this skill , gain a <color=#2BAD00>shield equal to 20% of Max HP</color>. While Ellen has this shield, her <color=#2BAD00>Anti-Interrupt Level increases</color>, and <color=#2BAD00>DMG taken is reduced by 60%</color>. Activating <color=#FFFFFF>Dodge Counter: Reef Rock</color> grants Ellen 1 <color=#FFFFFF>Flash Freeze Charge</color>.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardEllen01.png"
+    }
+  }
+}

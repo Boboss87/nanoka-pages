@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1370402",
+    "name": "[Support: Saturation] Nutritional Can Food",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardSupseriesS202.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardSupseriesS202.webp",
+        "localPath": "gallery/zzz/CardSupseriesS202.webp",
+        "sha256": "1057a2b90d50715520c8559592b11604705d73faa3fdca5edf24ee77a94961a4",
+        "etag": "\"dld8rfr2zgz9-cgo\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr2zgz9-cgo\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16152|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16152,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardSupseriesS202.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardSupseriesS202.webp",
+        "localPath": "gallery/zzz/CardSupseriesS202.webp",
+        "sha256": "1057a2b90d50715520c8559592b11604705d73faa3fdca5edf24ee77a94961a4",
+        "etag": "\"dld8rfr2zgz9-cgo\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr2zgz9-cgo\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16152|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16152,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardSupseriesS202.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Support: Saturation] Nutritional Can Food"
+    },
+    "detail": {
+      "id": 1370402,
+      "name": "[Support: Saturation] Nutritional Can Food",
+      "desc": "Upon launching an <color=#FFFFFF>EX Special Attack</color>, the Agent deals <color=#2BAD00>5% more DMG</color> for 10s, stacking up to 5 times. Repeated triggers reset the duration.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardSupseriesS202.png"
+    }
+  }
+}

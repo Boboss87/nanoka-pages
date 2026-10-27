@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3300019",
+    "name": "The Truth of the World!",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard44.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard44.webp",
+        "localPath": "gallery/zzz/Callingcard44.webp",
+        "sha256": "43ccbafc4f71e02ec9014422ea576bdaa5455049eb86c89ec9ce4a6fa92ee162",
+        "etag": "\"dld8rfpry656-8by\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpry656-8by\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10798|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10798,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard44.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard44.webp",
+        "localPath": "gallery/zzz/Callingcard44.webp",
+        "sha256": "43ccbafc4f71e02ec9014422ea576bdaa5455049eb86c89ec9ce4a6fa92ee162",
+        "etag": "\"dld8rfpry656-8by\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpry656-8by\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10798|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10798,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard44.png",
+      "rank": 4,
+      "class": 65,
+      "name": "The Truth of the World!"
+    },
+    "detail": {
+      "id": 3300019,
+      "name": "The Truth of the World!",
+      "desc": "A commemorative namecard for the New Eridu City Fund: Growth Plan.",
+      "desc2": "Amid the overwhelming chaos of scattered clues, we are both the truth behind it all and each other's solution.\n\n\"Belle... those really just look like normal dog paw prints...\"\n\"—Wise! A true master detective pays attention to every detail!\"\n\"Pays attention to detail? So you can chase after them and make me ask the owner, 'Can I pet your dog?'\"\n\"...That's just an older brother's job!\"",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard44.png"
+    }
+  }
+}

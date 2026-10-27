@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "5251",
+    "name": "Agent Focus: Qingyi",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece29.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece29.webp",
+        "localPath": "gallery/zzz/IconRolePiece29.webp",
+        "sha256": "34d656b1e69c99e1f72bce0ad8841c65472af55a6e97e098e657cef8c55474ca",
+        "etag": "\"dld8rgde66yv-7xq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgde66yv-7xq\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10286|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10286,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece29.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece29.webp",
+        "localPath": "gallery/zzz/IconRolePiece29.webp",
+        "sha256": "34d656b1e69c99e1f72bce0ad8841c65472af55a6e97e098e657cef8c55474ca",
+        "etag": "\"dld8rgde66yv-7xq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgde66yv-7xq\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10286|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10286,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece29.png",
+      "rank": 4,
+      "class": 4,
+      "name": "Agent Focus: Qingyi"
+    },
+    "detail": {
+      "id": 5251,
+      "name": "Agent Focus: Qingyi",
+      "desc": "Used to unlock Agent's Mindscape Cinema",
+      "desc2": "Snapshots from Qingyi's daily life and from in combat, recording important moments before and after she became an Agent. These images also provide insights into her fighting style and favorite weapons, helping to better understand her strengths.\n\nAre these all everyday photos of Qingyi? Oh, what's this folder? \"Automaton_final_design_final_Final_FINAL3.0\"?!",
+      "class": {
+        "4": "AGENT ARCHIVE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece29.png"
+    }
+  }
+}

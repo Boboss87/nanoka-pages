@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "54002",
+    "name": "Safety",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece10.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconBangbooPiece10.webp",
+        "localPath": "gallery/zzz/IconBangbooPiece10.webp",
+        "sha256": "c5f8fde73421c5b1717e205a2f39e8130185457008d8a9d2b672177aa1c5c5a2",
+        "etag": "\"dld8rg7agz6w-8em\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7agz6w-8em\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10894|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10894,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece10.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconBangbooPiece10.webp",
+        "localPath": "gallery/zzz/IconBangbooPiece10.webp",
+        "sha256": "c5f8fde73421c5b1717e205a2f39e8130185457008d8a9d2b672177aa1c5c5a2",
+        "etag": "\"dld8rg7agz6w-8em\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7agz6w-8em\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10894|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10894,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece10.png",
+      "rank": 4,
+      "class": 8,
+      "name": "Safety"
+    },
+    "detail": {
+      "id": 54002,
+      "name": "Safety",
+      "desc": "Obtain this Bangboo model or authorization to perform the Bangboo's core update.",
+      "desc2": "Safety first, ehn-na second.",
+      "class": {
+        "8": "BANGBOO"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece10.png"
+    }
+  }
+}

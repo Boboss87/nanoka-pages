@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3114411",
+    "name": "White Heart Silhouette",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_WhiteHeartSilhouette.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Skin_WhiteHeartSilhouette.webp",
+        "localPath": "gallery/zzz/Skin_WhiteHeartSilhouette.webp",
+        "sha256": "658daf3a52192e92f1a27ed71af30a34b1f59688d85505d322b5b7f469a9a23b",
+        "etag": "\"dld8rgodihu8-7ry\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgodihu8-7ry\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10078|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10078,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_WhiteHeartSilhouette.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Skin_WhiteHeartSilhouette.webp",
+        "localPath": "gallery/zzz/Skin_WhiteHeartSilhouette.webp",
+        "sha256": "658daf3a52192e92f1a27ed71af30a34b1f59688d85505d322b5b7f469a9a23b",
+        "etag": "\"dld8rgodihu8-7ry\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgodihu8-7ry\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10078|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10078,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_WhiteHeartSilhouette.png",
+      "rank": 3,
+      "class": 63,
+      "name": "White Heart Silhouette"
+    },
+    "detail": {
+      "id": 3114411,
+      "name": "White Heart Silhouette",
+      "desc": "Komano Manato's Outfit.",
+      "desc2": "A young Manato made a solitary vow to himself — and from his deep reverie, a lone pale shadow was born.\nMimicking his attire enhances Manato's already exceedingly intimidating presence.",
+      "class": {
+        "63": "DRESS"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Skin_WhiteHeartSilhouette.png"
+    }
+  }
+}

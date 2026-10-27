@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3300013",
+    "name": "Upon a Pillow of Clouds",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard27.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard27.webp",
+        "localPath": "gallery/zzz/Callingcard27.webp",
+        "sha256": "136da155367653a396ec9656ef2f5d6d609aa04044a0ff896cb7e09799e47e04",
+        "etag": "\"dld8rfpqravr-8am\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpqravr-8am\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10750|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10750,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard27.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard27.webp",
+        "localPath": "gallery/zzz/Callingcard27.webp",
+        "sha256": "136da155367653a396ec9656ef2f5d6d609aa04044a0ff896cb7e09799e47e04",
+        "etag": "\"dld8rfpqravr-8am\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpqravr-8am\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10750|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10750,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard27.png",
+      "rank": 4,
+      "class": 65,
+      "name": "Upon a Pillow of Clouds"
+    },
+    "detail": {
+      "id": 3300013,
+      "name": "Upon a Pillow of Clouds",
+      "desc": "A commemorative namecard for the New Eridu City Fund: Premium Plan.",
+      "desc2": "No Knock Knock alerts from my phone, no Agents politely or urgently knocking on my door, no emergency evacuation notices from PubSec echoing through the streets, even Fairy's processing sounds are as soft and airy as the wind passing through the clouds...\nFinally, time to rest.",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard27.png"
+    }
+  }
+}

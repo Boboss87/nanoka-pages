@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3301011",
+    "name": "Delicious Light",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CallingcardActivityCollaboration02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CallingcardActivityCollaboration02.webp",
+        "localPath": "gallery/zzz/CallingcardActivityCollaboration02.webp",
+        "sha256": "db1dc6b9da75574f7f781efdae940da21e246a307df7c1698aec8231cc310a09",
+        "etag": "\"dld8rfpw47k5-7l0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpw47k5-7l0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9828|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9828,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CallingcardActivityCollaboration02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CallingcardActivityCollaboration02.webp",
+        "localPath": "gallery/zzz/CallingcardActivityCollaboration02.webp",
+        "sha256": "db1dc6b9da75574f7f781efdae940da21e246a307df7c1698aec8231cc310a09",
+        "etag": "\"dld8rfpw47k5-7l0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpw47k5-7l0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9828|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9828,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CallingcardActivityCollaboration02.png",
+      "rank": 4,
+      "class": 65,
+      "name": "Delicious Light"
+    },
+    "detail": {
+      "id": 3301011,
+      "name": "Delicious Light",
+      "desc": "A namecard reward for the limited-time collab event \"Operation Yum.\"\nLimited-time reward.",
+      "desc2": "Is there perhaps a world made from the ground up with simple, classic, and delicious food?\nAnd at the center of this world, the us of the past, without worries or troubles.",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CallingcardActivityCollaboration02.png"
+    }
+  }
+}

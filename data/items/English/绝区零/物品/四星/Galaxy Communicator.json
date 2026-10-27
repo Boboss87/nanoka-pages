@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1343020",
+    "name": "Galaxy Communicator",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardTech02.webp",
+        "localPath": "gallery/zzz/CardTech02.webp",
+        "sha256": "6e152a863f95fad1f1b887b916c0bb9a1377fcc1e2872c358343427fcaa696f5",
+        "etag": "\"dld8rfr2zgz9-dmm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr2zgz9-dmm\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17662|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17662,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardTech02.webp",
+        "localPath": "gallery/zzz/CardTech02.webp",
+        "sha256": "6e152a863f95fad1f1b887b916c0bb9a1377fcc1e2872c358343427fcaa696f5",
+        "etag": "\"dld8rfr2zgz9-dmm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr2zgz9-dmm\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17662|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17662,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech02.png",
+      "rank": 4,
+      "class": 86,
+      "name": "Galaxy Communicator"
+    },
+    "detail": {
+      "id": 1343020,
+      "name": "Galaxy Communicator",
+      "desc": "When \"Dreamland Equipment\" Fireworks Dual Box critical hits, \"Dreamland Equipment\" Fireworks Dual Box and \"Dreamland Equipment\" Glimmering Whiskers deal <color=#FFAF2C>5% increased DMG per Rank</color> and gain <color=#FFAF2C>3% CRIT Rate per Rank</color> for 15s, stacking up to 10 times.\nRepeated triggers reset the duration.",
+      "desc2": "",
+      "class": {
+        "86": "BANGBOO RESONIUM"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech02.png"
+    }
+  }
+}

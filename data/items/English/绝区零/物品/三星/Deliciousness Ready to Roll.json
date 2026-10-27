@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3301020",
+    "name": "Deliciousness Ready to Roll",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CallingcardActivityCollaboration04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CallingcardActivityCollaboration04.webp",
+        "localPath": "gallery/zzz/CallingcardActivityCollaboration04.webp",
+        "sha256": "3e3d44969ad60739bbc78f647ec03f143c16eaf804636b1513531753a191d72b",
+        "etag": "\"dld8rfpw47k5-864\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpw47k5-864\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10588|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10588,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CallingcardActivityCollaboration04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CallingcardActivityCollaboration04.webp",
+        "localPath": "gallery/zzz/CallingcardActivityCollaboration04.webp",
+        "sha256": "3e3d44969ad60739bbc78f647ec03f143c16eaf804636b1513531753a191d72b",
+        "etag": "\"dld8rfpw47k5-864\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpw47k5-864\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10588|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10588,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CallingcardActivityCollaboration04.png",
+      "rank": 3,
+      "class": 65,
+      "name": "Deliciousness Ready to Roll"
+    },
+    "detail": {
+      "id": 3301020,
+      "name": "Deliciousness Ready to Roll",
+      "desc": "Commemorative namecard for the collaboration with Hormel.",
+      "desc2": "Clear skies and bright sunshine put everyone in a good mood. It's the perfect time for a little outdoor escapade.\nGrab a couple of friends and share some tasty, easygoing moments together.\nTake off on a spontaneous outing — deliciousness is ready to roll!",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CallingcardActivityCollaboration04.png"
+    }
+  }
+}

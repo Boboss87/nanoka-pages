@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4340209",
+    "name": "Lumina Central, 1F Lounge",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Key_023.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Key_023.webp",
+        "localPath": "gallery/zzz/Zenkov_Key_023.webp",
+        "sha256": "bd21d172bbbff53448ecb0700ddd2030ec8ebc0b3cde57a5cc46324150b2979f",
+        "etag": "\"dld8rgr7x6cc-6bs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr7x6cc-6bs\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8200|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8200,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Key_023.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Key_023.webp",
+        "localPath": "gallery/zzz/Zenkov_Key_023.webp",
+        "sha256": "bd21d172bbbff53448ecb0700ddd2030ec8ebc0b3cde57a5cc46324150b2979f",
+        "etag": "\"dld8rgr7x6cc-6bs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr7x6cc-6bs\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8200|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8200,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Key_023.png",
+      "rank": 4,
+      "class": 130,
+      "name": "Lumina Central, 1F Lounge"
+    },
+    "detail": {
+      "id": 4340209,
+      "name": "Lumina Central, 1F Lounge",
+      "desc": "After use, unlocks the door to the lounge on the first floor of Lumina Central, granting access to a large amount of supplies.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Key_023.png"
+    }
+  }
+}

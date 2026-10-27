@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "100236",
+    "name": "Arbiter Certification Seal",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AvatarRankRuin03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AvatarRankRuin03.webp",
+        "localPath": "gallery/zzz/AvatarRankRuin03.webp",
+        "sha256": "1943b90d44e07b856aef0e372a81394cc7f82dd03db09ca0886cc56ce76c1515",
+        "etag": "\"dld8rfo08pn8-7h2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfo08pn8-7h2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9686|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9686,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AvatarRankRuin03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AvatarRankRuin03.webp",
+        "localPath": "gallery/zzz/AvatarRankRuin03.webp",
+        "sha256": "1943b90d44e07b856aef0e372a81394cc7f82dd03db09ca0886cc56ce76c1515",
+        "etag": "\"dld8rfo08pn8-7h2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfo08pn8-7h2\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9686|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9686,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AvatarRankRuin03.png",
+      "rank": 3,
+      "class": 10,
+      "name": "Arbiter Certification Seal"
+    },
+    "detail": {
+      "id": 100236,
+      "name": "Arbiter Certification Seal",
+      "desc": "Increases the Agent level cap for Rupture-specialty Agents to 60.",
+      "desc2": "A certification seal granted solely to the most outstanding in the field of Rupture tactics. The seal itself also contains a small amount of benign Ether inside which can be useful when improving an Agent's combat abilities.",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AvatarRankRuin03.png"
+    }
+  }
+}

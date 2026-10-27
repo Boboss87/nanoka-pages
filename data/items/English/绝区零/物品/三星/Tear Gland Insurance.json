@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3321511",
+    "name": "Tear Gland Insurance",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "Tear Gland Insurance"
+    },
+    "detail": {
+      "id": 3321511,
+      "name": "Tear Gland Insurance",
+      "desc": "Get by unlocking Nangong Yu's Mindscape: An Angel's Delusion",
+      "desc2": "A card with Nangong Yu's personal photo printed on it.\nIt has a distinct texture and gives off the faintest spicy scent that leaves the tip of your nose feeling warm.\n\"When tears need permission, this is the only switch.\"\n\"The real me, saved just for you.\"",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

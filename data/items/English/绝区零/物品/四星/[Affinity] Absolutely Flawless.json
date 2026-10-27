@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000946",
+    "name": "[Affinity] Absolutely Flawless",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1041.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1041.webp",
+        "localPath": "gallery/zzz/CardDailyUse1041.webp",
+        "sha256": "fbe6da1e9c8ac46da951f96252a20a5d8c433146331bc75f9d350bd508e3277a",
+        "etag": "\"dld8rfqcsd81-c1o\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqcsd81-c1o\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15612|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15612,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1041.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1041.webp",
+        "localPath": "gallery/zzz/CardDailyUse1041.webp",
+        "sha256": "fbe6da1e9c8ac46da951f96252a20a5d8c433146331bc75f9d350bd508e3277a",
+        "etag": "\"dld8rfqcsd81-c1o\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqcsd81-c1o\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15612|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15612,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1041.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Affinity] Absolutely Flawless"
+    },
+    "detail": {
+      "id": 1000946,
+      "name": "[Affinity] Absolutely Flawless",
+      "desc": "Soldier 11 has evoked the Mindscape: <color=#FFAF2C>[Indulgent Blaze]</color>. After launching a Dash Attack or Dodge Counter, your character can <color=#2BAD00>immediately follow up with</color> certain attacks near the end of the Basic Attack combo.\nIndulgent Blaze: If <color=#FFFFFF>Fire Suppression</color> is triggered during the 1st, 2nd, or 3rd hit of Soldier 11's <color=#FFFFFF>Basic Attack</color> or a <color=#FFFFFF>Dash Attack</color>, Anti-Interrupt Level increases and DMG received is reduced by 18% during skill activation.\nIf <color=#FFFFFF>Fire Suppression</color> is triggered during the 4th hit of her <color=#FFFFFF>Basic Attack</color>, she becomes invulnerable during skill activation.",
+      "desc2": "Soldier 11 is fully prepared, and in better shape than she's ever been.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1041.png"
+    }
+  }
+}

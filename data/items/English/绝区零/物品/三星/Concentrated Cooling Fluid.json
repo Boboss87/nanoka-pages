@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "102030",
+    "name": "Concentrated Cooling Fluid",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BangbooBreakthrough03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangbooBreakthrough03.webp",
+        "localPath": "gallery/zzz/BangbooBreakthrough03.webp",
+        "sha256": "1f92a8b0414ca7bf7284480173514713bf01aa5903b81c3898d15557e258f688",
+        "etag": "\"dld8rfop8y51-6dg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfop8y51-6dg\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8260|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8260,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BangbooBreakthrough03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangbooBreakthrough03.webp",
+        "localPath": "gallery/zzz/BangbooBreakthrough03.webp",
+        "sha256": "1f92a8b0414ca7bf7284480173514713bf01aa5903b81c3898d15557e258f688",
+        "etag": "\"dld8rfop8y51-6dg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfop8y51-6dg\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8260|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8260,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BangbooBreakthrough03.png",
+      "rank": 3,
+      "class": 10,
+      "name": "Concentrated Cooling Fluid"
+    },
+    "detail": {
+      "id": 102030,
+      "name": "Concentrated Cooling Fluid",
+      "desc": "Increases a Bangboo's level cap to 60.",
+      "desc2": "Highly concentrated Bangboo coolant, containing inert Ether substances. It enables Bangboo to keep their core components cool even under high-power operation.",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BangbooBreakthrough03.png"
+    }
+  }
+}

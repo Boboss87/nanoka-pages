@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "111",
+    "name": "Encrypted Master Tape",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/GachaTicket2.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/GachaTicket2.webp",
+        "localPath": "gallery/zzz/GachaTicket2.webp",
+        "sha256": "930959217f37372f65b3bc04255de3b36d1707389f23a7b7f859fa7dd4a14397",
+        "etag": "\"dld8rg7542ii-91s\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7542ii-91s\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11728|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11728,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/GachaTicket2.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/GachaTicket2.webp",
+        "localPath": "gallery/zzz/GachaTicket2.webp",
+        "sha256": "930959217f37372f65b3bc04255de3b36d1707389f23a7b7f859fa7dd4a14397",
+        "etag": "\"dld8rg7542ii-91s\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7542ii-91s\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11728|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11728,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/GachaTicket2.png",
+      "rank": 4,
+      "class": 1,
+      "name": "Encrypted Master Tape"
+    },
+    "detail": {
+      "id": 111,
+      "name": "Encrypted Master Tape",
+      "desc": "Required item for Signal Searches on Exclusive and W-Engine Channels.",
+      "desc2": "This medium can be used to convert band signals of specific frequency into visual information, providing an increased level of encrypted security.",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/GachaTicket2.png"
+    }
+  }
+}

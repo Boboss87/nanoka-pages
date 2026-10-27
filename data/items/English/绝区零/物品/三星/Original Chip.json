@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "104003",
+    "name": "Original Chip",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Item_SpecialMaterial_Skill.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Item_SpecialMaterial_Skill.webp",
+        "localPath": "gallery/zzz/Item_SpecialMaterial_Skill.webp",
+        "sha256": "ac07c6d8c4dc77805e690078fa4835cfb2765ac8e84d631e7131761faf166fc1",
+        "etag": "\"dld8rgf146f5-6pm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgf146f5-6pm\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8698|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8698,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Item_SpecialMaterial_Skill.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Item_SpecialMaterial_Skill.webp",
+        "localPath": "gallery/zzz/Item_SpecialMaterial_Skill.webp",
+        "sha256": "ac07c6d8c4dc77805e690078fa4835cfb2765ac8e84d631e7131761faf166fc1",
+        "etag": "\"dld8rgf146f5-6pm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgf146f5-6pm\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8698|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8698,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Item_SpecialMaterial_Skill.png",
+      "rank": 3,
+      "class": 71,
+      "name": "Original Chip"
+    },
+    "detail": {
+      "id": 104003,
+      "name": "Original Chip",
+      "desc": "<color=#FFAF2C>[Universal Skill Level-Up Item]</color>Can be used in place of Tactical Chips when you don't have enough. A different number of Original Chips must be used to substitute different rarities of Tactical Chips.",
+      "desc2": "An original chip, unmarred by time or sedimentation. Its immense memory bank awaits training data to be uploaded so Agents can use it to hone their skills.",
+      "class": {
+        "71": "RESOURCE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Item_SpecialMaterial_Skill.png"
+    }
+  }
+}

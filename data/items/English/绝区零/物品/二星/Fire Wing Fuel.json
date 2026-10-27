@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1352011",
+    "name": "Fire Wing Fuel",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_0/MechBoo/UnPacker/MechBooModuleIcon18.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/MechBooModuleIcon18.webp",
+        "localPath": "gallery/zzz/MechBooModuleIcon18.webp",
+        "sha256": "10fe9dc6e1126b9af8b6d20d221e7166433c62d484a8dd0fab22c0d145d19a51",
+        "etag": "\"dld8rgfcffen-4q4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgfcffen-4q4\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6124|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6124,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_0/MechBoo/UnPacker/MechBooModuleIcon18.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/MechBooModuleIcon18.webp",
+        "localPath": "gallery/zzz/MechBooModuleIcon18.webp",
+        "sha256": "10fe9dc6e1126b9af8b6d20d221e7166433c62d484a8dd0fab22c0d145d19a51",
+        "etag": "\"dld8rgfcffen-4q4\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgfcffen-4q4\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6124|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6124,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_0/MechBoo/UnPacker/MechBooModuleIcon18.png",
+      "rank": 2,
+      "class": 94,
+      "name": "Fire Wing Fuel"
+    },
+    "detail": {
+      "id": 1352011,
+      "name": "Fire Wing Fuel",
+      "desc": "增加气槽最大值（暂未生效）",
+      "desc2": "",
+      "class": {
+        "94": null
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_0/MechBoo/UnPacker/MechBooModuleIcon18.png"
+    }
+  }
+}

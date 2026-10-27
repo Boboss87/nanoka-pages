@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4151005",
+    "name": "Rare Earth",
+    "rarity": "一星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianTastesMaterial01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianTastesMaterial01.webp",
+        "localPath": "gallery/zzz/SuibianTastesMaterial01.webp",
+        "sha256": "d312409eaf9557e686d7d618c6a7a1f599106c02d2e297e9b86464246d6eba97",
+        "etag": "\"dld8rgoh33mh-46w\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoh33mh-46w\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5432|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5432,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianTastesMaterial01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianTastesMaterial01.webp",
+        "localPath": "gallery/zzz/SuibianTastesMaterial01.webp",
+        "sha256": "d312409eaf9557e686d7d618c6a7a1f599106c02d2e297e9b86464246d6eba97",
+        "etag": "\"dld8rgoh33mh-46w\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoh33mh-46w\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5432|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5432,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianTastesMaterial01.png",
+      "rank": 1,
+      "class": 90,
+      "name": "Rare Earth"
+    },
+    "detail": {
+      "id": 4151005,
+      "name": "Rare Earth",
+      "desc": "Materials needed for crafting the Luminous Steamer.",
+      "desc2": "Special elements that require complex extraction processes and can significantly alter material properties with minimal additions.",
+      "class": {
+        "90": "Resource"
+      },
+      "rarity": 1,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianTastesMaterial01.png"
+    }
+  }
+}

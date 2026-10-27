@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "5391",
+    "name": "Agent Focus: Ju Fufu",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece43.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece43.webp",
+        "localPath": "gallery/zzz/IconRolePiece43.webp",
+        "sha256": "5df3d6467225687f2b31e6c44b1202bdd7582a170c098f9ca44785ad2df206bd",
+        "etag": "\"dld8rgdermlk-8qq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgdermlk-8qq\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11330|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11330,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece43.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece43.webp",
+        "localPath": "gallery/zzz/IconRolePiece43.webp",
+        "sha256": "5df3d6467225687f2b31e6c44b1202bdd7582a170c098f9ca44785ad2df206bd",
+        "etag": "\"dld8rgdermlk-8qq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgdermlk-8qq\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11330|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11330,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece43.png",
+      "rank": 4,
+      "class": 4,
+      "name": "Agent Focus: Ju Fufu"
+    },
+    "detail": {
+      "id": 5391,
+      "name": "Agent Focus: Ju Fufu",
+      "desc": "Used to unlock Agent's Mindscape Cinema",
+      "desc2": "Snapshots from Ju Fufu's daily life and from in combat, recording important moments before and after she became an Agent.\nThese images also provide insights into her fighting style and favorite weapons, helping to better understand her strengths.\n\nFilled with Fufu's self-drawn images — ink drawings of the Master Tiger, Tiger Swordsmen, Tiger Heroes, Tiger Strongmen... all of them featuring fierce tigers with powerful, muscular physiques.",
+      "class": {
+        "4": "AGENT ARCHIVE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece43.png"
+    }
+  }
+}

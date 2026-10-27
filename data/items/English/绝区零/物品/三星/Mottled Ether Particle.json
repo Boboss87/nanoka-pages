@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "150105",
+    "name": "Mottled Ether Particle",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AbyssRelicUnlockCoin.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AbyssRelicUnlockCoin.webp",
+        "localPath": "gallery/zzz/AbyssRelicUnlockCoin.webp",
+        "sha256": "6589a51e35cac3075dc8d34a99e4a8f2dfd97610c741f76114e2e3416fac3fa0",
+        "etag": "\"dld8rfnuvsyu-57q\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnuvsyu-57q\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=6758|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6758,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AbyssRelicUnlockCoin.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AbyssRelicUnlockCoin.webp",
+        "localPath": "gallery/zzz/AbyssRelicUnlockCoin.webp",
+        "sha256": "6589a51e35cac3075dc8d34a99e4a8f2dfd97610c741f76114e2e3416fac3fa0",
+        "etag": "\"dld8rfnuvsyu-57q\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnuvsyu-57q\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=6758|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6758,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AbyssRelicUnlockCoin.png",
+      "rank": 3,
+      "class": 10,
+      "name": "Mottled Ether Particle"
+    },
+    "detail": {
+      "id": 150105,
+      "name": "Mottled Ether Particle",
+      "desc": "Ether Particles collected after fighting strong enemies in Hollow Zero can be used to unlock Gear or Tactical Prism Programs.",
+      "desc2": "The Ether Particles collected in the Hollows contain sufficiently powerful energy. After processing, they can be transformed into drive energy for various Gear.",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AbyssRelicUnlockCoin.png"
+    }
+  }
+}

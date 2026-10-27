@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1320701",
+    "name": "{AWAKEN_1191#[Ellen] Blade of Frost: Advanced}{NOAWAKEN_1191#[Ellen] Blade of Frost}",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic001.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic001.webp",
+        "localPath": "gallery/zzz/Relic001.webp",
+        "sha256": "2689639f675609f1814827121dbc8d8c86a45e8c164a24a63bca2172bcba4d46",
+        "etag": "\"dld8rgnz82p6-3b6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnz82p6-3b6\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4290|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4290,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic001.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic001.webp",
+        "localPath": "gallery/zzz/Relic001.webp",
+        "sha256": "2689639f675609f1814827121dbc8d8c86a45e8c164a24a63bca2172bcba4d46",
+        "etag": "\"dld8rgnz82p6-3b6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnz82p6-3b6\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4290|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4290,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic001.png",
+      "rank": 4,
+      "class": 80,
+      "name": "{AWAKEN_1191#[Ellen] Blade of Frost: Advanced}{NOAWAKEN_1191#[Ellen] Blade of Frost}"
+    },
+    "detail": {
+      "id": 1320701,
+      "name": "{AWAKEN_1191#[Ellen] Blade of Frost: Advanced}{NOAWAKEN_1191#[Ellen] Blade of Frost}",
+      "desc": "{AWAKEN_1191#<color=#FFFFFF>Icy Blade</color> will also automatically activate after the third hit of <color=#FFFFFF>Basic Attack: Saw Teeth Trimming</color> or a <color=#FFFFFF>Quick Assist</color>, dealing multiple hits of <color=#98EFF0>Ice DMG</color> to enemies in a large area ahead. <color=#FFFFFF>Icy Blade</color> <color=#2BAD00>reduces DEF by 30%</color> for 15s upon hit. When the additional <color=#FFFFFF>Icy Blade</color> is triggered, the skill's <color=#2BAD00>CRIT DMG increases by 25%</color>, stacking up to 3 times and lasting 15s. Repeated triggers reset the duration.}{NOAWAKEN_1191#The 3rd hit of <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>EX Special Attack: Sharknami</color>, <color=#FFFFFF>Dodge Counter: Reef Rock</color>, <color=#FFFFFF>Quick Assist</color>, and <color=#FFFFFF>Assist Follow-Up</color> <color=#2BAD00>trigger an additional Icy Blade</color>, dealing <color=#98EFF0>Ice DMG</color> to <color=#2BAD00>enemies in a large area in front</color> and <color=#2BAD00>reducing their DEF by 30%</color>. When the additional <color=#FFFFFF>Icy Blade</color> is triggered, the skill's <color=#2BAD00>CRIT DMG increases by 25%</color>, stacking up to 3 times and lasting 15s. Repeated triggers reset the duration. Additional <color=#FFFFFF>Icy Blades</color> don't affect the original skill's alts.}",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic001.png"
+    }
+  }
+}

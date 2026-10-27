@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "5481",
+    "name": "Agent Focus: Dialyn",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece54_New.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece54_New.webp",
+        "localPath": "gallery/zzz/IconRolePiece54_New.webp",
+        "sha256": "4e5387b5951edcd3e290b84f3a1a11a2c2c7099dfedafb1489af0211fc9192d8",
+        "etag": "\"dld8rgdfd28a-8hk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgdfd28a-8hk\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11000|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11000,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece54_New.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece54_New.webp",
+        "localPath": "gallery/zzz/IconRolePiece54_New.webp",
+        "sha256": "4e5387b5951edcd3e290b84f3a1a11a2c2c7099dfedafb1489af0211fc9192d8",
+        "etag": "\"dld8rgdfd28a-8hk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgdfd28a-8hk\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11000|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11000,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece54_New.png",
+      "rank": 4,
+      "class": 4,
+      "name": "Agent Focus: Dialyn"
+    },
+    "detail": {
+      "id": 5481,
+      "name": "Agent Focus: Dialyn",
+      "desc": "Used to unlock Agent's Mindscape Cinema",
+      "desc2": "Snapshots from Dialyn's daily life and from in combat, recording important moments before and after she became an Agent. These images also provide insights into her fighting style and favorite weapons, helping to better understand her strengths.\n\nA journal plastered with Dialyn's photo stickers. In one of the prints, she's holding up her fingers to spell out her phone number.",
+      "class": {
+        "4": "AGENT ARCHIVE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece54_New.png"
+    }
+  }
+}

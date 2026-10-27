@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4200404",
+    "name": "Anomalous Energy Shard",
+    "rarity": "一星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialDropC_2.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovMaterialDropC_2.webp",
+        "localPath": "gallery/zzz/BangkovMaterialDropC_2.webp",
+        "sha256": "297492dc1367d8eca9667f2e01bb9a3d1008aececcc34f96948f5a2e8ed4b154",
+        "etag": "\"dld8rfpml9gs-42s\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpml9gs-42s\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=5284|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5284,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialDropC_2.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovMaterialDropC_2.webp",
+        "localPath": "gallery/zzz/BangkovMaterialDropC_2.webp",
+        "sha256": "297492dc1367d8eca9667f2e01bb9a3d1008aececcc34f96948f5a2e8ed4b154",
+        "etag": "\"dld8rfpml9gs-42s\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpml9gs-42s\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=5284|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5284,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialDropC_2.png",
+      "rank": 1,
+      "class": 120,
+      "name": "Anomalous Energy Shard"
+    },
+    "detail": {
+      "id": 4200404,
+      "name": "Anomalous Energy Shard",
+      "desc": "<color=#FFFFFF>Can be exchanged for Marcel Coins.</color>\nEnergy Shards that fuel enemy actions.",
+      "desc2": "BKItem_4200404_Story",
+      "class": {
+        "120": null
+      },
+      "rarity": 1,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovMaterialDropC_2.png"
+    }
+  }
+}

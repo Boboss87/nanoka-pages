@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "304016",
+    "name": "Seafish Canned Cat Food",
+    "rarity": "一星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CannedCatFood02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CannedCatFood02.webp",
+        "localPath": "gallery/zzz/CannedCatFood02.webp",
+        "sha256": "02e30da14e2004fac8d63820fae441e5f1f59a026e4cf3f08a51777b3745af57",
+        "etag": "\"dld8rfpwpn6v-8jk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpwpn6v-8jk\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=11072|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11072,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CannedCatFood02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CannedCatFood02.webp",
+        "localPath": "gallery/zzz/CannedCatFood02.webp",
+        "sha256": "02e30da14e2004fac8d63820fae441e5f1f59a026e4cf3f08a51777b3745af57",
+        "etag": "\"dld8rfpwpn6v-8jk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpwpn6v-8jk\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=11072|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11072,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CannedCatFood02.png",
+      "rank": 1,
+      "class": 20,
+      "name": "Seafish Canned Cat Food"
+    },
+    "detail": {
+      "id": 304016,
+      "name": "Seafish Canned Cat Food",
+      "desc": "An item bought from the 141 Convenience Store. Inky on Sixth Street seems to favor this flavor of canned food.",
+      "desc2": "Ocean Leap Canned Cat Food: Eight different rare sea food ingredients, cooked to perfection with perfect proportions. Our motto is, \"The cats eat better than you!\"",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 1,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CannedCatFood02.png"
+    }
+  }
+}

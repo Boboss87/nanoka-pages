@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "13009",
+    "name": "Electro-Lip Gloss",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_Common_09.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_A_Common_09.webp",
+        "localPath": "gallery/zzz/Weapon_A_Common_09.webp",
+        "sha256": "c169cebe3852fee62f0cb9b7fbb02f7d30ed3c0c7cb69f0bc57e7f54f7d75fa8",
+        "etag": "\"dld8rgp4wguw-mfe\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgp4wguw-mfe\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=29066|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 29066,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_Common_09.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_A_Common_09.webp",
+        "localPath": "gallery/zzz/Weapon_A_Common_09.webp",
+        "sha256": "c169cebe3852fee62f0cb9b7fbb02f7d30ed3c0c7cb69f0bc57e7f54f7d75fa8",
+        "etag": "\"dld8rgp4wguw-mfe\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgp4wguw-mfe\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=29066|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 29066,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_Common_09.png",
+      "rank": 3,
+      "class": 5,
+      "name": "Electro-Lip Gloss"
+    },
+    "detail": {
+      "id": 13009,
+      "name": "Electro-Lip Gloss",
+      "desc": "Equip to increase Anomaly Agents' combat capabilities",
+      "desc2": "This damage-type W-Engine boasts a built-in current transformer, and automatically attracts electrically sensitive objects around the operator and deals additional damage to them.",
+      "class": {
+        "5": "W-ENGINE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_Common_09.png"
+    }
+  }
+}

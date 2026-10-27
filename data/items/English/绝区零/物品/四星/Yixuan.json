@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1371",
+    "name": "Yixuan",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece44.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece44.webp",
+        "localPath": "gallery/zzz/IconRolePiece44.webp",
+        "sha256": "f9fbfb16e1f6cf237a2225c0677dcbeeb29548cc86e70ad9b063c6d7a07550da",
+        "etag": "\"dld8rgdermlk-8oo\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgdermlk-8oo\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11256|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11256,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece44.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece44.webp",
+        "localPath": "gallery/zzz/IconRolePiece44.webp",
+        "sha256": "f9fbfb16e1f6cf237a2225c0677dcbeeb29548cc86e70ad9b063c6d7a07550da",
+        "etag": "\"dld8rgdermlk-8oo\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgdermlk-8oo\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11256|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11256,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece44.png",
+      "rank": 4,
+      "class": 3,
+      "name": "Yixuan"
+    },
+    "detail": {
+      "id": 1371,
+      "name": "Yixuan",
+      "desc": "Use it to obtain the Agent or unlock the Agent's Mindscapes.",
+      "desc2": "Snapshots from Yixuan's daily life and from in combat, recording important moments before and after she became an Agent.\nThese images also provide insights into her fighting style and favorite weapons, helping to better understand her strengths.\n\nThe notes contain many complex and obscure talismans and magical techniques, which appear to have been significantly simplified from the predecessor's work... Though the writing is casual, it's become more refined and effective.",
+      "class": {
+        "3": "AGENT"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece44.png"
+    }
+  }
+}

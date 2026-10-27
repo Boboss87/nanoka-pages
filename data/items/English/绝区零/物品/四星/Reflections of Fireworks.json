@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3201006",
+    "name": "Reflections of Fireworks",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1006.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemProfile1006.webp",
+        "localPath": "gallery/zzz/ItemProfile1006.webp",
+        "sha256": "6acc23a065517b379e7544f2a9794254178b07e7974e6a6d2a12cc4aaeb5f0ed",
+        "etag": "\"dld8rgehgulq-7va\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgehgulq-7va\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10198|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10198,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1006.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemProfile1006.webp",
+        "localPath": "gallery/zzz/ItemProfile1006.webp",
+        "sha256": "6acc23a065517b379e7544f2a9794254178b07e7974e6a6d2a12cc4aaeb5f0ed",
+        "etag": "\"dld8rgehgulq-7va\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgehgulq-7va\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10198|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10198,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1006.png",
+      "rank": 4,
+      "class": 64,
+      "name": "Reflections of Fireworks"
+    },
+    "detail": {
+      "id": 3201006,
+      "name": "Reflections of Fireworks",
+      "desc": "A commemorative avatar for the New Eridu City Fund: Premium Plan.",
+      "desc2": "Through the distance, with eyes that see through the Hollow, at this moment, only the brilliant fireworks are reflected.\nLeaving behind Commissions, forgetting the Ethereals, shaking off the apocalypse — at the moment the year changes, only you and I remain.",
+      "class": {
+        "64": "PROFILE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile1006.png"
+    }
+  }
+}

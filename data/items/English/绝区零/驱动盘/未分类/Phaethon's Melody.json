@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "equipment",
+    "pageFolder": "驱动盘",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/equipment.json",
+    "sourcePath": "3.3.12+19634983/equipment.json",
+    "sourceLocale": null,
+    "localeMode": "embedded",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/equipment/33000.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "33000",
+    "name": "Phaethon's Melody",
+    "rarity": "未分类",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitSavior.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitSavior.webp",
+        "localPath": "gallery/zzz/SuitSavior.webp",
+        "sha256": "614c6978362bd5c8449353ae9e8f0842abc9d74f83f2b7f2c27504dca8305b57",
+        "etag": "\"dld8rgootqtp-5tm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgootqtp-5tm\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7546|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7546,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitSavior.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitSavior.webp",
+        "localPath": "gallery/zzz/SuitSavior.webp",
+        "sha256": "614c6978362bd5c8449353ae9e8f0842abc9d74f83f2b7f2c27504dca8305b57",
+        "etag": "\"dld8rgootqtp-5tm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgootqtp-5tm\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7546|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7546,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon2",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitSavior.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitSavior.webp",
+        "localPath": "gallery/zzz/SuitSavior.webp",
+        "sha256": "614c6978362bd5c8449353ae9e8f0842abc9d74f83f2b7f2c27504dca8305b57",
+        "etag": "\"dld8rgootqtp-5tm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgootqtp-5tm\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7546|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7546,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitSavior.png",
+      "en": {
+        "name": "Phaethon's Melody",
+        "desc2": "Anomaly Mastery +8%.",
+        "desc4": "When any squad member uses an <color=#FFFFFF>EX Special Attack</color>, the equipper's Anomaly Proficiency increases by 45 for 8s. If the character using the <color=#FFFFFF>EX Special Attack</color> is not the equipper, the equipper's <color=#FE437E>Ether DMG</color> is increased by 25%."
+      },
+      "ko": {
+        "name": "파에톤의 노래",
+        "desc2": "이상 장악력+8%",
+        "desc4": "파티 내 임의의 캐릭터가 <color=#FFFFFF>[강화 특수 스킬]</color> 시전 시, 착용자의 이상 마스터리가 45pt 증가한다. 지속 시간: 8초. 만약 <color=#FFFFFF>[강화 특수 스킬]</color>을 시전한 캐릭터가 착용자 본인이 아닐 경우, 착용자가 주는 <color=#FE437E>에테르 피해</color>가 25% 증가한다."
+      },
+      "zh": {
+        "name": "法厄同之歌",
+        "desc2": "异常掌控+8%。",
+        "desc4": "队伍中任意角色发动<color=#FFFFFF>[强化特殊技]</color>时，装备者的异常精通提升45点，持续8秒；如果发动<color=#FFFFFF>[强化特殊技]</color>的角色不是装备者本人时，装备者造成的<color=#FE437E>以太伤害</color>提升25%。"
+      },
+      "ja": {
+        "name": "「パエトーン」の歌",
+        "desc2": "異常掌握+8%",
+        "desc4": "任意のメンバーが<color=#FFFFFF>『強化特殊スキル』</color>を発動した時、装備者の異常マスタリー+45Pt、継続時間8秒。<color=#FFFFFF>『強化特殊スキル』</color>を発動したエージェントが装備者本人でない場合、装備者による<color=#FE437E>エーテル属性ダメージ</color>+25%。"
+      }
+    },
+    "detail": {
+      "id": 33000,
+      "name": "Phaethon's Melody",
+      "desc2": "Anomaly Mastery +8%.",
+      "desc4": "When any squad member uses an <color=#FFFFFF>EX Special Attack</color>, the equipper's Anomaly Proficiency increases by 45 for 8s. If the character using the <color=#FFFFFF>EX Special Attack</color> is not the equipper, the equipper's <color=#FE437E>Ether DMG</color> is increased by 25%.",
+      "story": "A peculiar Drive Disc created by fanatical followers of Phaethon. The eccentric singer repeats an odd melody with a strange voice, striving to spread the legendary deeds of \"Lord Phaethon.\"",
+      "icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitSavior.png",
+      "icon2": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitSavior.png"
+    }
+  }
+}

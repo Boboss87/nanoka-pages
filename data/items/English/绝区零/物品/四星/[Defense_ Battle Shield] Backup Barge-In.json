@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1360110",
+    "name": "[Defense: Battle Shield] Backup Barge-In",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic069.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic069.webp",
+        "localPath": "gallery/zzz/Relic069.webp",
+        "sha256": "e4c1d03211832c961d8b33c640b2e057de450aa290b0303e42b7bcfb7e6b1b41",
+        "etag": "\"dld8rgo3zjqv-3uw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo3zjqv-3uw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5000|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5000,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic069.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic069.webp",
+        "localPath": "gallery/zzz/Relic069.webp",
+        "sha256": "e4c1d03211832c961d8b33c640b2e057de450aa290b0303e42b7bcfb7e6b1b41",
+        "etag": "\"dld8rgo3zjqv-3uw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo3zjqv-3uw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5000|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5000,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic069.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Defense: Battle Shield] Backup Barge-In"
+    },
+    "detail": {
+      "id": 1360110,
+      "name": "[Defense: Battle Shield] Backup Barge-In",
+      "desc": "<color=#FFFFFF>Auxiliary Assist</color>: Caesar accumulates Energy over time, starting with 75 Charge. With enough Energy, press Auxiliary Assist to summon Caesar to unleash an <color=#FFFFFF>Auxiliary Assist</color> attack on enemies and grant all Agents 6,000 points of <color=#FFFFFF>Radiant Aegis</color> Shield. While an Agent has <color=#FFFFFF>Radiant Aegis</color>, they have unlimited <color=#FFFFFF>Assist Points</color> <color=#2BAD00>, their DMG dealt increases by 35%, and DMG taken in a single instance cannot exceed the Shield amount</color>.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic069.png"
+    }
+  }
+}

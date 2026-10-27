@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "304062",
+    "name": "Skyletter",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianTemple_Skyletter_01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianTemple_Skyletter_01.webp",
+        "localPath": "gallery/zzz/SuibianTemple_Skyletter_01.webp",
+        "sha256": "96c1e57c556a946e26bf970dd91999f79f0f99befc141911ccd0eb994e107158",
+        "etag": "\"dld8rgoluko6-5d2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoluko6-5d2\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6950|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6950,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianTemple_Skyletter_01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianTemple_Skyletter_01.webp",
+        "localPath": "gallery/zzz/SuibianTemple_Skyletter_01.webp",
+        "sha256": "96c1e57c556a946e26bf970dd91999f79f0f99befc141911ccd0eb994e107158",
+        "etag": "\"dld8rgoluko6-5d2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoluko6-5d2\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6950|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6950,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianTemple_Skyletter_01.png",
+      "rank": 2,
+      "class": 20,
+      "name": "Skyletter"
+    },
+    "detail": {
+      "id": 304062,
+      "name": "Skyletter",
+      "desc": "Prayers to Take Flight",
+      "desc2": "A skyletter crafted by Yixuan and distributed to the mystics of Suibian Temple. On the night of the Tidefaire, these paper birds will flutter their delicate wings, carrying the blessings and hopes of the Waifei Peninsula's people to the Hollow. After a perilous night, through storms and surging waves, where will these birds finally come to rest?",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianTemple_Skyletter_01.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4150065",
+    "name": "[Refined] Resonance Anchor",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianProspectingProduct05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianProspectingProduct05.webp",
+        "localPath": "gallery/zzz/SuibianProspectingProduct05.webp",
+        "sha256": "1d825c4e522b7a9c74cc974132980d20976fb79670d9a51330c1f0171e4663bd",
+        "etag": "\"dld8rgoh33mh-67g\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoh33mh-67g\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8044|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8044,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianProspectingProduct05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianProspectingProduct05.webp",
+        "localPath": "gallery/zzz/SuibianProspectingProduct05.webp",
+        "sha256": "1d825c4e522b7a9c74cc974132980d20976fb79670d9a51330c1f0171e4663bd",
+        "etag": "\"dld8rgoh33mh-67g\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoh33mh-67g\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8044|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8044,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianProspectingProduct05.png",
+      "rank": 4,
+      "class": 89,
+      "name": "[Refined] Resonance Anchor"
+    },
+    "detail": {
+      "id": 4150065,
+      "name": "[Refined] Resonance Anchor",
+      "desc": "Suibian Temple's custom-built Hollow exploration device.",
+      "desc2": "A portable device enhanced by Yunkui Summit that uses resonant frequencies to anchor space and share positioning data.",
+      "class": {
+        "89": "Product"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianProspectingProduct05.png"
+    }
+  }
+}

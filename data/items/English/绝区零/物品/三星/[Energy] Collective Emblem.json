@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000212",
+    "name": "[Energy] Collective Emblem",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardEDrink00.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardEDrink00.webp",
+        "localPath": "gallery/zzz/CardEDrink00.webp",
+        "sha256": "eb3f332bf8e2ae073f447214d3c5d0416b7f73b099c531771e4e703927bd23e0",
+        "etag": "\"dld8rfqjxksj-dfa\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqjxksj-dfa\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17398|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17398,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardEDrink00.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardEDrink00.webp",
+        "localPath": "gallery/zzz/CardEDrink00.webp",
+        "sha256": "eb3f332bf8e2ae073f447214d3c5d0416b7f73b099c531771e4e703927bd23e0",
+        "etag": "\"dld8rfqjxksj-dfa\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqjxksj-dfa\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17398|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17398,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardEDrink00.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Energy] Collective Emblem"
+    },
+    "detail": {
+      "id": 1000212,
+      "name": "[Energy] Collective Emblem",
+      "desc": "Increases the chance for [Energy] Resonia to appear.",
+      "desc2": "Kindred spirits gather, and emblems fall into groups.\nEnergy! Activity! Huge Excitement!",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardEDrink00.png"
+    }
+  }
+}

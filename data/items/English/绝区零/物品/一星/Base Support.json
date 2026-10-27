@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4300101",
+    "name": "Base Support",
+    "rarity": "一星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Material_001.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Material_001.webp",
+        "localPath": "gallery/zzz/Zenkov_Material_001.webp",
+        "sha256": "fc174b4dc7b91d4197b48f12d9e751ea3316e76b65f58e2ce3bb5ab3c7af5a60",
+        "etag": "\"dld8rgr7x6cc-56k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr7x6cc-56k\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6716|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6716,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Material_001.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Material_001.webp",
+        "localPath": "gallery/zzz/Zenkov_Material_001.webp",
+        "sha256": "fc174b4dc7b91d4197b48f12d9e751ea3316e76b65f58e2ce3bb5ab3c7af5a60",
+        "etag": "\"dld8rgr7x6cc-56k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr7x6cc-56k\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6716|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6716,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Material_001.png",
+      "rank": 1,
+      "class": 130,
+      "name": "Base Support"
+    },
+    "detail": {
+      "id": 4300101,
+      "name": "Base Support",
+      "desc": "Used for hub and facility upgrades, blueprint research, and squad equipment crafting.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 1,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Material_001.png"
+    }
+  }
+}

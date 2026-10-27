@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4360104",
+    "name": "Porcelume Plate Decor: Upright and Principled",
+    "rarity": "五星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 5,
+      "class": 130,
+      "name": "Porcelume Plate Decor: Upright and Principled"
+    },
+    "detail": {
+      "id": 4360104,
+      "name": "Porcelume Plate Decor: Upright and Principled",
+      "desc": "A Porcelume plate fired from Lumite ore with refined fire essence, a Waifei Peninsula cultural specialty certified by Buyan. They say that keeping one of these plates at home lends a touch of noble grace to the words and manners of everyone under that roof.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": ""
+    }
+  }
+}

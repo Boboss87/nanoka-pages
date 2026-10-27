@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4370003",
+    "name": "Swimming Crab",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver3_1/SummerTideTreasure/UnPacker/Drop/SummerTideTreasure_DroopItemIcon_03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SummerTideTreasure_DroopItemIcon_03.webp",
+        "localPath": "gallery/zzz/SummerTideTreasure_DroopItemIcon_03.webp",
+        "sha256": "b4baaf5cf6963e2d546bb0f12468c4e3efcbfb58e14c0617a8fdf51007b663ad",
+        "etag": "\"dld8rgoqm1pu-bh0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoqm1pu-bh0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=14868|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14868,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver3_1/SummerTideTreasure/UnPacker/Drop/SummerTideTreasure_DroopItemIcon_03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SummerTideTreasure_DroopItemIcon_03.webp",
+        "localPath": "gallery/zzz/SummerTideTreasure_DroopItemIcon_03.webp",
+        "sha256": "b4baaf5cf6963e2d546bb0f12468c4e3efcbfb58e14c0617a8fdf51007b663ad",
+        "etag": "\"dld8rgoqm1pu-bh0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoqm1pu-bh0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=14868|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14868,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver3_1/SummerTideTreasure/UnPacker/Drop/SummerTideTreasure_DroopItemIcon_03.png",
+      "rank": 4,
+      "class": 137,
+      "name": "Swimming Crab"
+    },
+    "detail": {
+      "id": 4370003,
+      "name": "Swimming Crab",
+      "desc": "They crawl fast, but there's always someone a cut above them.",
+      "desc2": "BKItem_4370003_Story",
+      "class": {
+        "137": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver3_1/SummerTideTreasure/UnPacker/Drop/SummerTideTreasure_DroopItemIcon_03.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "412011102",
+    "name": "Azure Crane",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Chest_Badge_01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Wise_Chest_Badge_01.webp",
+        "localPath": "gallery/zzz/icon_Wise_Chest_Badge_01.webp",
+        "sha256": "03417bd92c188e30e838416e30eb3b2bb6a1d66d20664638080ea0e6aa9be436",
+        "etag": "\"dld8rgrlm5uo-b7u\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrlm5uo-b7u\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=14538|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14538,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Chest_Badge_01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Wise_Chest_Badge_01.webp",
+        "localPath": "gallery/zzz/icon_Wise_Chest_Badge_01.webp",
+        "sha256": "03417bd92c188e30e838416e30eb3b2bb6a1d66d20664638080ea0e6aa9be436",
+        "etag": "\"dld8rgrlm5uo-b7u\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrlm5uo-b7u\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=14538|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14538,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Chest_Badge_01.png",
+      "rank": 3,
+      "class": 95,
+      "name": "Azure Crane"
+    },
+    "detail": {
+      "id": 412011102,
+      "name": "Azure Crane",
+      "desc": "A Proxy accessory that can be worn with some of Wise's Proxy outfits.",
+      "desc2": "The streets filled with warmth, through spring and autumn together under the roof.\nFailume Heights community welcomes you.",
+      "class": {
+        "95": "OUTFIT ACCESSORIES"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Chest_Badge_01.png"
+    }
+  }
+}

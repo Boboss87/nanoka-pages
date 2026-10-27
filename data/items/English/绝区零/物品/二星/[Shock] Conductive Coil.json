@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000508",
+    "name": "[Shock] Conductive Coil",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardElectro06.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardElectro06.webp",
+        "localPath": "gallery/zzz/CardElectro06.webp",
+        "sha256": "afb8a875a1debac5f7525999e125d0849a6891bc9906dc96dd4d7c88d7b27ebf",
+        "etag": "\"dld8rfql4g1y-e5y\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfql4g1y-e5y\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=18358|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 18358,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardElectro06.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardElectro06.webp",
+        "localPath": "gallery/zzz/CardElectro06.webp",
+        "sha256": "afb8a875a1debac5f7525999e125d0849a6891bc9906dc96dd4d7c88d7b27ebf",
+        "etag": "\"dld8rfql4g1y-e5y\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfql4g1y-e5y\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=18358|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 18358,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardElectro06.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[Shock] Conductive Coil"
+    },
+    "detail": {
+      "id": 1000508,
+      "name": "[Shock] Conductive Coil",
+      "desc": "Dealing <color=#2EB6FF>Electric DMG</color> grants all squad members 1 stacks of Zap. This effect can trigger once every <color=#2BAD00>3</color>s.",
+      "desc2": "A crude method: wrapping the weapon to increase its conductivity.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardElectro06.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4360004",
+    "name": "Circuit Core",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_004.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_004.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_004.webp",
+        "sha256": "31c1299b380388be7636da0ffc26621b91606c567db5485bbc8025ff0f64716e",
+        "etag": "\"dld8rgr0ryrt-72i\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr0ryrt-72i\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9162|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9162,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_004.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_004.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_004.webp",
+        "sha256": "31c1299b380388be7636da0ffc26621b91606c567db5485bbc8025ff0f64716e",
+        "etag": "\"dld8rgr0ryrt-72i\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr0ryrt-72i\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9162|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9162,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_004.png",
+      "rank": 3,
+      "class": 130,
+      "name": "Circuit Core"
+    },
+    "detail": {
+      "id": 4360004,
+      "name": "Circuit Core",
+      "desc": "A circuit core produced by the Marcel Group and widely used in Bangboo manufacturing and other devices. Tiny, yet surprisingly durable!",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_004.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3700001",
+    "name": "Graffiti Mark: Final Act",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/PhotoSticker.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/PhotoSticker.webp",
+        "localPath": "gallery/zzz/PhotoSticker.webp",
+        "sha256": "3d99af2206793124b4234fe27e884416e4b7f1a126a29c850d1f4355f5f1caf4",
+        "etag": "\"dld8rgnuglni-79c\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnuglni-79c\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9408|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9408,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/PhotoSticker.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/PhotoSticker.webp",
+        "localPath": "gallery/zzz/PhotoSticker.webp",
+        "sha256": "3d99af2206793124b4234fe27e884416e4b7f1a126a29c850d1f4355f5f1caf4",
+        "etag": "\"dld8rgnuglni-79c\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnuglni-79c\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9408|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9408,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/PhotoSticker.png",
+      "rank": 4,
+      "class": 138,
+      "name": "Graffiti Mark: Final Act"
+    },
+    "detail": {
+      "id": 3700001,
+      "name": "Graffiti Mark: Final Act",
+      "desc": "Used for taking photos. Can be exchanged in the \"Association Supplies - Exclusive Showcase\" shop.",
+      "desc2": "Your style, your way!",
+      "class": {
+        "138": "FLAIR"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/PhotoSticker.png"
+    }
+  }
+}

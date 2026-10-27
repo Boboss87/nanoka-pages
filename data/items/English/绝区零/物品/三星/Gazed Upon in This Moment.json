@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3202009",
+    "name": "Gazed Upon in This Moment",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile2009.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemProfile2009.webp",
+        "localPath": "gallery/zzz/ItemProfile2009.webp",
+        "sha256": "5fd2ce20bf4ecbc0759eba94f937eb52daa7c9fbf931c1c7e3e2c15068618863",
+        "etag": "\"dld8rgeinpv5-8ee\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgeinpv5-8ee\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10886|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10886,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile2009.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemProfile2009.webp",
+        "localPath": "gallery/zzz/ItemProfile2009.webp",
+        "sha256": "5fd2ce20bf4ecbc0759eba94f937eb52daa7c9fbf931c1c7e3e2c15068618863",
+        "etag": "\"dld8rgeinpv5-8ee\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgeinpv5-8ee\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10886|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10886,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile2009.png",
+      "rank": 3,
+      "class": 64,
+      "name": "Gazed Upon in This Moment"
+    },
+    "detail": {
+      "id": 3202009,
+      "name": "Gazed Upon in This Moment",
+      "desc": "An avatar reward for the limited-time event \"Festival Channel.\"\nLimited-time reward.",
+      "desc2": "Before you realize it, a gaze has been watching you for quite a while now — wait, just one gaze... that's actually pretty rare?\n\"Objection. This eye is merely a visual representation of program execution. During this time, I haven't just been watching — every line of code of New Eridu's most powerful AI assistant has been running for Master.\"",
+      "class": {
+        "64": "PROFILE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfile2009.png"
+    }
+  }
+}

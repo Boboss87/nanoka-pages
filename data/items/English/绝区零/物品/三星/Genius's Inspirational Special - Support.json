@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4161016",
+    "name": "Genius's Inspirational Special - Support",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RABFactorItemSupportA.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RABFactorItemSupportA.webp",
+        "localPath": "gallery/zzz/RABFactorItemSupportA.webp",
+        "sha256": "731ae5b3d4412492c874d29b47ae8a22967f432cf9cd1f68329009c011741547",
+        "etag": "\"dld8rgny17fr-6fs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgny17fr-6fs\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8344|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8344,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RABFactorItemSupportA.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RABFactorItemSupportA.webp",
+        "localPath": "gallery/zzz/RABFactorItemSupportA.webp",
+        "sha256": "731ae5b3d4412492c874d29b47ae8a22967f432cf9cd1f68329009c011741547",
+        "etag": "\"dld8rgny17fr-6fs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgny17fr-6fs\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8344|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8344,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RABFactorItemSupportA.png",
+      "rank": 3,
+      "class": 113,
+      "name": "Genius's Inspirational Special - Support"
+    },
+    "detail": {
+      "id": 4161016,
+      "name": "Genius's Inspirational Special - Support",
+      "desc": "A special item used to reconstruct Support Bangboo Modules. Can refresh 1 advanced quality support module for a Collaboorator.",
+      "desc2": "A cyber beverage exclusively for Collaboorators, meticulously \"mixed\" by Norma using code.\n\"Ehn-ne-ehn-ne? (Is this what a true support master looks like?!)\" — A certain Collaboorator who sampled the drink immediately leaned back in awe.",
+      "class": {
+        "113": "BANGBOO ITEM"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RABFactorItemSupportA.png"
+    }
+  }
+}

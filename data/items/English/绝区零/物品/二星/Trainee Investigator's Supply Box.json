@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000004",
+    "name": "Trainee Investigator's Supply Box",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EventIconPreciousB.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/EventIconPreciousB.webp",
+        "localPath": "gallery/zzz/EventIconPreciousB.webp",
+        "sha256": "3afe334be1a7002e766864151b55d5ea35525df012e245862b6cd69d81ee3b05",
+        "etag": "\"dld8rfrigrdp-7ta\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrigrdp-7ta\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10126|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10126,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EventIconPreciousB.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/EventIconPreciousB.webp",
+        "localPath": "gallery/zzz/EventIconPreciousB.webp",
+        "sha256": "3afe334be1a7002e766864151b55d5ea35525df012e245862b6cd69d81ee3b05",
+        "etag": "\"dld8rfrigrdp-7ta\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrigrdp-7ta\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10126|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10126,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EventIconPreciousB.png",
+      "rank": 2,
+      "class": 29,
+      "name": "Trainee Investigator's Supply Box"
+    },
+    "detail": {
+      "id": 1000004,
+      "name": "Trainee Investigator's Supply Box",
+      "desc": "Supply box contains Trainee Investigator Logs, W-Engine Batteries, and Dennies.",
+      "desc2": "The accomplishments of our predecessors will serve as a ladder, or more specifically, a portable ladder stored in a chest.",
+      "class": {
+        "29": "INFO"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EventIconPreciousB.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1001047",
+    "name": "[Bundle Code] Lone Woof Bandana",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard41.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard41.webp",
+        "localPath": "gallery/zzz/CardChessboard41.webp",
+        "sha256": "d5f58e7c6bf4bf35b4283a26b2866b0d167ac3886ac39af19dc3bb36fccaa992",
+        "etag": "\"dld8rfqaemp6-a9i\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqaemp6-a9i\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=13302|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13302,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard41.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard41.webp",
+        "localPath": "gallery/zzz/CardChessboard41.webp",
+        "sha256": "d5f58e7c6bf4bf35b4283a26b2866b0d167ac3886ac39af19dc3bb36fccaa992",
+        "etag": "\"dld8rfqaemp6-a9i\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqaemp6-a9i\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=13302|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13302,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard41.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Bundle Code] Lone Woof Bandana"
+    },
+    "detail": {
+      "id": 1001047,
+      "name": "[Bundle Code] Lone Woof Bandana",
+      "desc": "Gives the selected Bangboo a new skill: <color=#2BAD00>When this Bangboo is the only surviving Bangboo, its HP and ATK are increased fivefold</color>.",
+      "desc2": "A gift pack for returning players, which not only grants a new skill upon use but also adds a title that looks like a typo in front of the username: Lone Lee Hero.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard41.png"
+    }
+  }
+}

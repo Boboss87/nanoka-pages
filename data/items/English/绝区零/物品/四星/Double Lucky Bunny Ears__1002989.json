@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1002989",
+    "name": "Double Lucky Bunny Ears",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1341.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1341.webp",
+        "localPath": "gallery/zzz/CardDailyUse1341.webp",
+        "sha256": "4d45e4ff0405b1edc818ae38e09fccf8b61f4b521ab2376fd9822c53e004ad67",
+        "etag": "\"dld8rfqfrjdk-clm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqfrjdk-clm\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16330|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16330,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1341.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1341.webp",
+        "localPath": "gallery/zzz/CardDailyUse1341.webp",
+        "sha256": "4d45e4ff0405b1edc818ae38e09fccf8b61f4b521ab2376fd9822c53e004ad67",
+        "etag": "\"dld8rfqfrjdk-clm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqfrjdk-clm\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16330|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16330,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1341.png",
+      "rank": 4,
+      "class": 20,
+      "name": "Double Lucky Bunny Ears"
+    },
+    "detail": {
+      "id": 1002989,
+      "name": "Double Lucky Bunny Ears",
+      "desc": "In specific areas of Hollow Zero, there's a chance to trigger special events for agents in the squad, activating specific Mindscapes for the Agent for the current round.",
+      "desc2": "Xiao'Zhao says clean bunny ears bring luck to everyone, so with me and Xiao'Zhao together, we've got two pairs: that's double the luck!",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1341.png"
+    }
+  }
+}

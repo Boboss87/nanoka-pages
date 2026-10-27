@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "150101",
+    "name": "Withered Crystal: Heaven's Azure",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AbyssWitheredMaterial03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AbyssWitheredMaterial03.webp",
+        "localPath": "gallery/zzz/AbyssWitheredMaterial03.webp",
+        "sha256": "e0fa6fdf83ac59a5dee901cfcf1578071a5da52a7cc4d729bb612001230b0a92",
+        "etag": "\"dld8rfnuvsyu-6s0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnuvsyu-6s0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8784|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8784,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AbyssWitheredMaterial03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AbyssWitheredMaterial03.webp",
+        "localPath": "gallery/zzz/AbyssWitheredMaterial03.webp",
+        "sha256": "e0fa6fdf83ac59a5dee901cfcf1578071a5da52a7cc4d729bb612001230b0a92",
+        "etag": "\"dld8rfnuvsyu-6s0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnuvsyu-6s0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8784|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8784,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AbyssWitheredMaterial03.png",
+      "rank": 2,
+      "class": 10,
+      "name": "Withered Crystal: Heaven's Azure"
+    },
+    "detail": {
+      "id": 150101,
+      "name": "Withered Crystal: Heaven's Azure",
+      "desc": "A sample used for researching Combat Configuration by the Institute. Root metabolites precipitated from diseased, withered Ethereal bodies that possess special Ether activity.",
+      "desc2": "The flowers bloom at the expense of the withering bodies. And the fruit that buds from the push and pull of this growth and decay, is what this crystal is.",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AbyssWitheredMaterial03.png"
+    }
+  }
+}

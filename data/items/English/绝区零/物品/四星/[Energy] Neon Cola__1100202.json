@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1100202",
+    "name": "[Energy] Neon Cola",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardEDrink04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardEDrink04.webp",
+        "localPath": "gallery/zzz/CardEDrink04.webp",
+        "sha256": "5345ceea2831498eb1e46b2387ac3ad7fe8867f8851ae61f916783900796edb5",
+        "etag": "\"dld8rfqjxksj-cks\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqjxksj-cks\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16300|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16300,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardEDrink04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardEDrink04.webp",
+        "localPath": "gallery/zzz/CardEDrink04.webp",
+        "sha256": "5345ceea2831498eb1e46b2387ac3ad7fe8867f8851ae61f916783900796edb5",
+        "etag": "\"dld8rfqjxksj-cks\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqjxksj-cks\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16300|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16300,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardEDrink04.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Energy] Neon Cola"
+    },
+    "detail": {
+      "id": 1100202,
+      "name": "[Energy] Neon Cola",
+      "desc": "Upon entering the battlefield, generates <color=#2BAD00>100%</color> Energy for 1 random Agent and increases all squad members' DMG by <color=#2BAD00>10%</color>.",
+      "desc2": "The champion beverage consumer for five years in a row. Sugar-free and healthy drinks only. Even the color of the drinks is white.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardEDrink04.png"
+    }
+  }
+}

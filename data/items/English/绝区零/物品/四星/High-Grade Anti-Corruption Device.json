@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4331504",
+    "name": "High-Grade Anti-Corruption Device",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_EquipErosion_004.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_EquipErosion_004.webp",
+        "localPath": "gallery/zzz/Zenkov_EquipErosion_004.webp",
+        "sha256": "6713a91fcbde4bd7111cfa89062377e06b36b7c7ce6bca3d9329a8eda8ec43a9",
+        "etag": "\"dld8rgr5jfti-5ky\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr5jfti-5ky\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7234|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7234,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_EquipErosion_004.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_EquipErosion_004.webp",
+        "localPath": "gallery/zzz/Zenkov_EquipErosion_004.webp",
+        "sha256": "6713a91fcbde4bd7111cfa89062377e06b36b7c7ce6bca3d9329a8eda8ec43a9",
+        "etag": "\"dld8rgr5jfti-5ky\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr5jfti-5ky\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7234|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7234,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_EquipErosion_004.png",
+      "rank": 4,
+      "class": 133,
+      "name": "High-Grade Anti-Corruption Device"
+    },
+    "detail": {
+      "id": 4331504,
+      "name": "High-Grade Anti-Corruption Device",
+      "desc": "When equipped, this item reduces Corruption gained by the squad by <color=#2BAD00>55%</color> and DMG taken by Agents by <color=#2BAD00>45%</color>.",
+      "desc2": "",
+      "class": {
+        "133": "LABYRINTH"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_EquipErosion_004.png"
+    }
+  }
+}

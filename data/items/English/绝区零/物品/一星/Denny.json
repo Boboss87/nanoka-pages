@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "201401",
+    "name": "Denny",
+    "rarity": "一星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconCoin.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconCoin.webp",
+        "localPath": "gallery/zzz/IconCoin.webp",
+        "sha256": "3d1dd6fcc8df140dff112a4a68ea9af5cfde86371fd5a9ab9469ec52cc4e8cee",
+        "etag": "\"dld8rg7jzxa9-7is\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7jzxa9-7is\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9748|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9748,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconCoin.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconCoin.webp",
+        "localPath": "gallery/zzz/IconCoin.webp",
+        "sha256": "3d1dd6fcc8df140dff112a4a68ea9af5cfde86371fd5a9ab9469ec52cc4e8cee",
+        "etag": "\"dld8rg7jzxa9-7is\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7jzxa9-7is\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9748|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9748,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconCoin.png",
+      "rank": 1,
+      "class": 11,
+      "name": "Denny"
+    },
+    "detail": {
+      "id": 201401,
+      "name": "Denny",
+      "desc": "",
+      "desc2": "",
+      "class": {
+        "11": "BATTLE RESOURCE"
+      },
+      "rarity": 1,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconCoin.png"
+    }
+  }
+}

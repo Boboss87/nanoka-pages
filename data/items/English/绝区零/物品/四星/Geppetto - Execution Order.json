@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1319905",
+    "name": "Geppetto - Execution Order",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGeppetto05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardGeppetto05.webp",
+        "localPath": "gallery/zzz/CardGeppetto05.webp",
+        "sha256": "db440b2a404b13702b7381394dba122c6596f03b2f680b023b066c29dd386ab2",
+        "etag": "\"dld8rfqo3m7i-d6k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqo3m7i-d6k\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17084|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17084,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGeppetto05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardGeppetto05.webp",
+        "localPath": "gallery/zzz/CardGeppetto05.webp",
+        "sha256": "db440b2a404b13702b7381394dba122c6596f03b2f680b023b066c29dd386ab2",
+        "etag": "\"dld8rfqo3m7i-d6k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqo3m7i-d6k\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17084|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17084,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGeppetto05.png",
+      "rank": 4,
+      "class": 31,
+      "name": "Geppetto - Execution Order"
+    },
+    "detail": {
+      "id": 1319905,
+      "name": "Geppetto - Execution Order",
+      "desc": "When Suspended is removed, all squad members gain <color=#2BAD00>300</color> Decibels, and the next <color=#FFFFFF>Ultimate</color> DMG of each Agent is increased by <color=#2BAD00>30%</color>, stacking up to 3 times.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGeppetto05.png"
+    }
+  }
+}

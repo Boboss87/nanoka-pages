@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4223003",
+    "name": "Worn Motley Backpack",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovEquipBag_2.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovEquipBag_2.webp",
+        "localPath": "gallery/zzz/BangkovEquipBag_2.webp",
+        "sha256": "1b3cf1be11879b039c79da9ab893d9a9cdf90b6159bf7ec99adb73ed81f7fcd8",
+        "etag": "\"dld8rfpif81t-5au\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpif81t-5au\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=6870|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6870,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovEquipBag_2.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovEquipBag_2.webp",
+        "localPath": "gallery/zzz/BangkovEquipBag_2.webp",
+        "sha256": "1b3cf1be11879b039c79da9ab893d9a9cdf90b6159bf7ec99adb73ed81f7fcd8",
+        "etag": "\"dld8rfpif81t-5au\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpif81t-5au\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=6870|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6870,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovEquipBag_2.png",
+      "rank": 3,
+      "class": 122,
+      "name": "Worn Motley Backpack"
+    },
+    "detail": {
+      "id": 4223003,
+      "name": "Worn Motley Backpack",
+      "desc": "A multi-functional backpack made exclusively for Bangboo, crafted from cloth and leather.",
+      "desc2": "BKItem_4223003_Story",
+      "class": {
+        "122": null
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovEquipBag_2.png"
+    }
+  }
+}

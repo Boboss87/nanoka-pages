@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3321611",
+    "name": "Sweet Thank-You Gift",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "Sweet Thank-You Gift"
+    },
+    "detail": {
+      "id": 3321611,
+      "name": "Sweet Thank-You Gift",
+      "desc": "Get by unlocking Claret's Mindscape: Warm Night's Dream",
+      "desc2": "A namecard featuring a personal photo of Claret.\n\"Maintaining that Etheric Other of yours really is a pain... Huh? I never said I wouldn't help. I did promise you, after all.\"\n\"All right, all right. If you insist on thanking me, then... come with me to a dessert shop.\"",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

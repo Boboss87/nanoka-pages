@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1044008",
+    "name": "[Deployed] Plugboo",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooPlugboo.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBangbooPlugboo.webp",
+        "localPath": "gallery/zzz/CardBangbooPlugboo.webp",
+        "sha256": "4aa0b83c0a9313c354db7aafb5cffa8abaa2eb58cd72db4199a510552ccb7209",
+        "etag": "\"dld8rfq39f4o-c4m\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq39f4o-c4m\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15718|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15718,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooPlugboo.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBangbooPlugboo.webp",
+        "localPath": "gallery/zzz/CardBangbooPlugboo.webp",
+        "sha256": "4aa0b83c0a9313c354db7aafb5cffa8abaa2eb58cd72db4199a510552ccb7209",
+        "etag": "\"dld8rfq39f4o-c4m\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq39f4o-c4m\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15718|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15718,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooPlugboo.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Deployed] Plugboo"
+    },
+    "detail": {
+      "id": 1044008,
+      "name": "[Deployed] Plugboo",
+      "desc": "Active Skill: Unleashes an EM cannon attack on the enemy, dealing <color=#2EB6FF>Electric DMG</color> and accumulating <color=#2EB6FF>Electric Anomaly Buildup</color>.",
+      "desc2": "<color=#FFFFFF>Bangboo Chain Attack: Unleash a strong electric attack on all nearby enemies in a large area, dealing <color=#2EB6FF>Electric DMG</color> and inflicting massive <color=#2EB6FF>Electric Anomaly Buildup</color>.</color>",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooPlugboo.png"
+    }
+  }
+}

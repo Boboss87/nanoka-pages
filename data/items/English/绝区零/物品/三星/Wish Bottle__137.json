@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "137",
+    "name": "Wish Bottle",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EmptyWishBottle.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/EmptyWishBottle.webp",
+        "localPath": "gallery/zzz/EmptyWishBottle.webp",
+        "sha256": "481a02951fc7327e120a1d9397ba2afe1e4313e314427c11eb7cf0765eca6b57",
+        "etag": "\"dld8rfrg30uv-62k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrg30uv-62k\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7868|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7868,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EmptyWishBottle.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/EmptyWishBottle.webp",
+        "localPath": "gallery/zzz/EmptyWishBottle.webp",
+        "sha256": "481a02951fc7327e120a1d9397ba2afe1e4313e314427c11eb7cf0765eca6b57",
+        "etag": "\"dld8rfrg30uv-62k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrg30uv-62k\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7868|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7868,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EmptyWishBottle.png",
+      "rank": 3,
+      "class": 1,
+      "name": "Wish Bottle"
+    },
+    "detail": {
+      "id": 137,
+      "name": "Wish Bottle",
+      "desc": "Obtained upon first daily login or after consuming any Battery Charge. Can be used in the \"Wish Filing Station\" event.",
+      "desc2": "The Cunning Hares, known for their cost-cutting efficiency, somehow got their hands on these surprisingly sturdy bottles from who knows where. Wishes sealed inside could wander the seas for a very, very long time without being worn away by time.",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EmptyWishBottle.png"
+    }
+  }
+}

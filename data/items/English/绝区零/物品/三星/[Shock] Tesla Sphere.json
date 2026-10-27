@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000504",
+    "name": "[Shock] Tesla Sphere",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardElectro08.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardElectro08.webp",
+        "localPath": "gallery/zzz/CardElectro08.webp",
+        "sha256": "260dfaee823077e4c6a08716fcebf7329ddeb4873239cd29adcde21afc49f00b",
+        "etag": "\"dld8rfqlpvoo-dvm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqlpvoo-dvm\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17986|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17986,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardElectro08.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardElectro08.webp",
+        "localPath": "gallery/zzz/CardElectro08.webp",
+        "sha256": "260dfaee823077e4c6a08716fcebf7329ddeb4873239cd29adcde21afc49f00b",
+        "etag": "\"dld8rfqlpvoo-dvm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqlpvoo-dvm\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17986|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17986,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardElectro08.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Shock] Tesla Sphere"
+    },
+    "detail": {
+      "id": 1000504,
+      "name": "[Shock] Tesla Sphere",
+      "desc": "Agents generate <color=#2BAD00>5%</color> Decibels upon hitting a <color=#2EB6FF>Shocked</color> enemy. This effect can trigger once every 10s.",
+      "desc2": "Look cool when the power is on or use it for divination when the power is off (and still look cool).",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardElectro08.png"
+    }
+  }
+}

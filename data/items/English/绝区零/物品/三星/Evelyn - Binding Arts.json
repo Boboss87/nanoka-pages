@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1312302",
+    "name": "Evelyn - Binding Arts",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardEvelyn02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardEvelyn02.webp",
+        "localPath": "gallery/zzz/CardEvelyn02.webp",
+        "sha256": "023089654bdfed8f89465c7627845e8c6fbd1e5f276acad52bcab3d16edce0f3",
+        "etag": "\"dld8rfqmbbbd-bza\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqmbbbd-bza\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15526|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15526,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardEvelyn02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardEvelyn02.webp",
+        "localPath": "gallery/zzz/CardEvelyn02.webp",
+        "sha256": "023089654bdfed8f89465c7627845e8c6fbd1e5f276acad52bcab3d16edce0f3",
+        "etag": "\"dld8rfqmbbbd-bza\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqmbbbd-bza\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15526|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15526,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardEvelyn02.png",
+      "rank": 3,
+      "class": 80,
+      "name": "Evelyn - Binding Arts"
+    },
+    "detail": {
+      "id": 1312302,
+      "name": "Evelyn - Binding Arts",
+      "desc": "When Evelyn enters <color=#FFFFFF>Binding Seal</color>, her <color=#2BAD00>ATK increases by 20%</color>, while the target enemy's <color=#2BAD00>ATK decreases by 20%</color>. After exiting <color=#FFFFFF>Binding Seal</color>, Evelyn retains her buff for 10s. Upon exiting <color=#FFFFFF>Binding Seal</color>, she detonates the target enemy, <color=#2BAD00>dealing additional</color> <color=#FF5521>Fire DMG</color>.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardEvelyn02.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3202020",
+    "name": "...",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfileHardCoreBoss002.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemProfileHardCoreBoss002.webp",
+        "localPath": "gallery/zzz/ItemProfileHardCoreBoss002.webp",
+        "sha256": "c5b7a7ea033106c3b6d8667de365856565236e4e8d2cc8b18e9d84e8cf37bb97",
+        "etag": "\"dm16zg12ni69-7kk\"",
+        "lastModified": "Sat, 10 Oct 2026 13:28:19 GMT",
+        "remoteKey": "etag=\"dm16zg12ni69-7kk\"|lastModified=Sat, 10 Oct 2026 13:28:19 GMT|bytes=9812|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9812,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfileHardCoreBoss002.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemProfileHardCoreBoss002.webp",
+        "localPath": "gallery/zzz/ItemProfileHardCoreBoss002.webp",
+        "sha256": "c5b7a7ea033106c3b6d8667de365856565236e4e8d2cc8b18e9d84e8cf37bb97",
+        "etag": "\"dm16zg12ni69-7kk\"",
+        "lastModified": "Sat, 10 Oct 2026 13:28:19 GMT",
+        "remoteKey": "etag=\"dm16zg12ni69-7kk\"|lastModified=Sat, 10 Oct 2026 13:28:19 GMT|bytes=9812|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9812,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfileHardCoreBoss002.png",
+      "rank": 3,
+      "class": 64,
+      "name": "..."
+    },
+    "detail": {
+      "id": 3202020,
+      "name": "...",
+      "desc": "...",
+      "desc2": "...",
+      "class": {
+        "64": "PROFILE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ItemProfileHardCoreBoss002.png"
+    }
+  }
+}

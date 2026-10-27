@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1001405",
+    "name": "[Onslaught] Lightweight Wrench",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardUtensil05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardUtensil05.webp",
+        "localPath": "gallery/zzz/CardUtensil05.webp",
+        "sha256": "fdd06b8493bcb14fbb62daa66dd70f614b2e8990159ee3490c145b6aeadce0dc",
+        "etag": "\"dld8rfr75ie8-c7e\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr75ie8-c7e\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15818|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15818,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardUtensil05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardUtensil05.webp",
+        "localPath": "gallery/zzz/CardUtensil05.webp",
+        "sha256": "fdd06b8493bcb14fbb62daa66dd70f614b2e8990159ee3490c145b6aeadce0dc",
+        "etag": "\"dld8rfr75ie8-c7e\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr75ie8-c7e\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15818|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15818,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardUtensil05.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Onslaught] Lightweight Wrench"
+    },
+    "detail": {
+      "id": 1001405,
+      "name": "[Onslaught] Lightweight Wrench",
+      "desc": "Triggering <color=#F0D12B>Assault</color> increases the Agent's CRIT DMG by <color=#2BAD00>8%</color>, stacking up to 3 times.",
+      "desc2": "These little, lightweight tools are also used as a juggling prop or makeshift throwing weapons.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardUtensil05.png"
+    }
+  }
+}

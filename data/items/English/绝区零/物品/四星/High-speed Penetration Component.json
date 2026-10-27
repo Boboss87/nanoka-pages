@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "230013",
+    "name": "High-speed Penetration Component",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconGarage/UnPacker/TransformRegion01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/TransformRegion01.webp",
+        "localPath": "gallery/zzz/TransformRegion01.webp",
+        "sha256": "cf56402569741627a3140d24901cffaf9b8923affc8161d3d55d018890be5000",
+        "etag": "\"dld8rgotl7ve-72m\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgotl7ve-72m\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9166|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9166,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconGarage/UnPacker/TransformRegion01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/TransformRegion01.webp",
+        "localPath": "gallery/zzz/TransformRegion01.webp",
+        "sha256": "cf56402569741627a3140d24901cffaf9b8923affc8161d3d55d018890be5000",
+        "etag": "\"dld8rgotl7ve-72m\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgotl7ve-72m\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9166|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9166,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconGarage/UnPacker/TransformRegion01.png",
+      "rank": 4,
+      "class": 16,
+      "name": "High-speed Penetration Component"
+    },
+    "detail": {
+      "id": 230013,
+      "name": "High-speed Penetration Component",
+      "desc": "Increases Combat Bangboo PEN Ratio by 45%.",
+      "desc2": "A component installed on a Bangboo's hand that spins at high speed to increase penetrative force against a target, even if onlookers might only see a Bangboo vigorously swinging its little hands.",
+      "class": {
+        "16": "BANGBOO PLUGIN"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconGarage/UnPacker/TransformRegion01.png"
+    }
+  }
+}

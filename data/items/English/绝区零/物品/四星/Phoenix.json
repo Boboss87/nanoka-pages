@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1641",
+    "name": "Phoenix",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece1641.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece1641.webp",
+        "localPath": "gallery/zzz/IconRolePiece1641.webp",
+        "sha256": "a24ef9bc0f5f43dca9854caa12dbd066c009279e779a498c50284cb1f68848cd",
+        "etag": "\"dld8rgdczbpg-8o0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgdczbpg-8o0\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11232|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11232,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece1641.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece1641.webp",
+        "localPath": "gallery/zzz/IconRolePiece1641.webp",
+        "sha256": "a24ef9bc0f5f43dca9854caa12dbd066c009279e779a498c50284cb1f68848cd",
+        "etag": "\"dld8rgdczbpg-8o0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgdczbpg-8o0\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11232|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11232,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece1641.png",
+      "rank": 4,
+      "class": 3,
+      "name": "Phoenix"
+    },
+    "detail": {
+      "id": 1641,
+      "name": "Phoenix",
+      "desc": "Use it to obtain the Agent or unlock the Agent's Mindscapes.",
+      "desc2": "Focus shots of Phoenix captured in daily life and in combat, chronicling the key moments before and after she became an Agent.\nThese Focus shots also offer glimpses into things like her combat style and weapon of choice, helping you better understand this Agent's specialties.\n\nA highlight reel of all sorts of bizarre adventures. She's always covered in cuts and bruises, and couldn't care less — as if the only thing worth looking forward to is the next challenge.",
+      "class": {
+        "3": "AGENT"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece1641.png"
+    }
+  }
+}

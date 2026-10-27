@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3321371",
+    "name": "\"Clarity of Mind\"",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "\"Clarity of Mind\""
+    },
+    "detail": {
+      "id": 3321371,
+      "name": "\"Clarity of Mind\"",
+      "desc": "Get by unlocking Yixuan's Mindscape: Swift Yet Still",
+      "desc2": "A namecard featuring a private photo of Yixuan.\n\"A mystic must safeguard a pure mind, free from distractions at all times.\"\n\"That should be simple enough for you... but if you don't yet know how, I'm happy to teach you.\"\n\"As your Shifu, tell me what you wish to learn, and I'll teach you without reservation.\"",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

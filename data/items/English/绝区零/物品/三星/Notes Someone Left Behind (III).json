@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4000053",
+    "name": "Notes Someone Left Behind (III)",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RallyLetter01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RallyLetter01.webp",
+        "localPath": "gallery/zzz/RallyLetter01.webp",
+        "sha256": "4137ba73dd1d7c37362f40d130ab31e3beab7ca284193c7722d570f6f9791c90",
+        "etag": "\"dld8rgnymn2h-65y\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnymn2h-65y\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7990|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7990,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RallyLetter01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RallyLetter01.webp",
+        "localPath": "gallery/zzz/RallyLetter01.webp",
+        "sha256": "4137ba73dd1d7c37362f40d130ab31e3beab7ca284193c7722d570f6f9791c90",
+        "etag": "\"dld8rgnymn2h-65y\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnymn2h-65y\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7990|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7990,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RallyLetter01.png",
+      "rank": 3,
+      "class": 72,
+      "name": "Notes Someone Left Behind (III)"
+    },
+    "detail": {
+      "id": 4000053,
+      "name": "Notes Someone Left Behind (III)",
+      "desc": "\"Poto Poto!\" Nursery Rhyme",
+      "desc2": "\"Poto Poto!\" Nursery Rhyme",
+      "class": {
+        "72": "MESSAGE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RallyLetter01.png"
+    }
+  }
+}

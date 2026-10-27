@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1002404",
+    "name": "[Tenacity] Cut-Resistant Gloves",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTenacity04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardTenacity04.webp",
+        "localPath": "gallery/zzz/CardTenacity04.webp",
+        "sha256": "a3ce5d18cee19dba44a57f5b4365855402abf40f9ca809591ccf236e6a738b45",
+        "etag": "\"dld8rfr4rrve-d9c\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr4rrve-d9c\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17184|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17184,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTenacity04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardTenacity04.webp",
+        "localPath": "gallery/zzz/CardTenacity04.webp",
+        "sha256": "a3ce5d18cee19dba44a57f5b4365855402abf40f9ca809591ccf236e6a738b45",
+        "etag": "\"dld8rfr4rrve-d9c\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr4rrve-d9c\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17184|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17184,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTenacity04.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Tenacity] Cut-Resistant Gloves"
+    },
+    "detail": {
+      "id": 1002404,
+      "name": "[Tenacity] Cut-Resistant Gloves",
+      "desc": "Triggering Perfect Assist or gaining a Shield increases the Agent's DMG by <color=#2BAD00>15%</color> for 20s.",
+      "desc2": "Only the hardest gloves can handle the sharpest blades.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTenacity04.png"
+    }
+  }
+}

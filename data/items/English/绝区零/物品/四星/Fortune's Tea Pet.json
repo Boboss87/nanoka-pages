@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "304066",
+    "name": "Fortune's Tea Pet",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/WhitfieldTreasureCarItem.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/WhitfieldTreasureCarItem.webp",
+        "localPath": "gallery/zzz/WhitfieldTreasureCarItem.webp",
+        "sha256": "9c21c7abf626963d9e6c1cca5d8390266127cfdae62b8a4dfee7e5917e255a99",
+        "etag": "\"dld8rgr06j54-6ce\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr06j54-6ce\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8222|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8222,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/WhitfieldTreasureCarItem.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/WhitfieldTreasureCarItem.webp",
+        "localPath": "gallery/zzz/WhitfieldTreasureCarItem.webp",
+        "sha256": "9c21c7abf626963d9e6c1cca5d8390266127cfdae62b8a4dfee7e5917e255a99",
+        "etag": "\"dld8rgr06j54-6ce\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr06j54-6ce\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8222|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8222,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/WhitfieldTreasureCarItem.png",
+      "rank": 4,
+      "class": 20,
+      "name": "Fortune's Tea Pet"
+    },
+    "detail": {
+      "id": 304066,
+      "name": "Fortune's Tea Pet",
+      "desc": "Obtained from Mini Cargo Truck in Failume Heights. Used to submit a Yum Cha Sin order commission.",
+      "desc2": "\"Hold onto your 'Fortune's Tea Pet' and sip some tea - it'll bring you luck in everything you do!\"\nOnce a best-selling tea pet set in the Waifei Peninsula, it gained widespread popularity for its adorable design and meaningful symbolism. After the manufacturing company's unfortunate closure following the fall of the old capital, these sets became increasingly rare. Today, a small number of enthusiasts still collect them.",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/WhitfieldTreasureCarItem.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3200000",
+    "name": "Avatar 1",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/TestItemIcon.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/TestItemIcon.webp",
+        "localPath": "gallery/zzz/TestItemIcon.webp",
+        "sha256": "d93f8635d5dc3a8d0f816e1a96054011a22d09541373562b064cf970dbadc96a",
+        "etag": "\"dld8rgorswz9-1vi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgorswz9-1vi\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=2430|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 2430,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/TestItemIcon.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/TestItemIcon.webp",
+        "localPath": "gallery/zzz/TestItemIcon.webp",
+        "sha256": "d93f8635d5dc3a8d0f816e1a96054011a22d09541373562b064cf970dbadc96a",
+        "etag": "\"dld8rgorswz9-1vi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgorswz9-1vi\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=2430|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 2430,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/TestItemIcon.png",
+      "rank": 3,
+      "class": 64,
+      "name": "Avatar 1"
+    },
+    "detail": {
+      "id": 3200000,
+      "name": "Avatar 1",
+      "desc": "Test",
+      "desc2": "Test",
+      "class": {
+        "64": "PROFILE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/TestItemIcon.png"
+    }
+  }
+}

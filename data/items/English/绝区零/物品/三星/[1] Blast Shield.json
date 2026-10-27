@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1357516",
+    "name": "[1] Blast Shield",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardArmor04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardArmor04.webp",
+        "localPath": "gallery/zzz/CardArmor04.webp",
+        "sha256": "6e3fe8256db9cd7ec9e55d0c0ce8837a9f51060f208735683e7832b503c803d5",
+        "etag": "\"dld8rfpxwiga-bcc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpxwiga-bcc\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14700|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14700,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardArmor04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardArmor04.webp",
+        "localPath": "gallery/zzz/CardArmor04.webp",
+        "sha256": "6e3fe8256db9cd7ec9e55d0c0ce8837a9f51060f208735683e7832b503c803d5",
+        "etag": "\"dld8rfpxwiga-bcc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpxwiga-bcc\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14700|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14700,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardArmor04.png",
+      "rank": 3,
+      "class": 106,
+      "name": "[1] Blast Shield"
+    },
+    "detail": {
+      "id": 1357516,
+      "name": "[1] Blast Shield",
+      "desc": "<color=#FFAF2C>DMG taken</color> is reduced by 15%.",
+      "desc2": "",
+      "class": {
+        "106": "TAROT CARD"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardArmor04.png"
+    }
+  }
+}

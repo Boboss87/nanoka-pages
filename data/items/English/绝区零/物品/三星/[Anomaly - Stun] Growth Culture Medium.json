@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1310303",
+    "name": "[Anomaly - Stun] Growth Culture Medium",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardAnomaly03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardAnomaly03.webp",
+        "localPath": "gallery/zzz/CardAnomaly03.webp",
+        "sha256": "ecb0bc633c7d168a3258f3b0a5d8ec469c9b39a40a81f186b22ceb3fc04aaaef",
+        "etag": "\"dld8rfpxb2tk-aj0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpxb2tk-aj0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=13644|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13644,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardAnomaly03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardAnomaly03.webp",
+        "localPath": "gallery/zzz/CardAnomaly03.webp",
+        "sha256": "ecb0bc633c7d168a3258f3b0a5d8ec469c9b39a40a81f186b22ceb3fc04aaaef",
+        "etag": "\"dld8rfpxb2tk-aj0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpxb2tk-aj0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=13644|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13644,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardAnomaly03.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Anomaly - Stun] Growth Culture Medium"
+    },
+    "detail": {
+      "id": 1310303,
+      "name": "[Anomaly - Stun] Growth Culture Medium",
+      "desc": "When an enemy is hit, <color=#2BAD00>Daze is increased by 15%</color> and <color=#2BAD00>Anomaly Buildup is increased by 15%</color>.",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardAnomaly03.png"
+    }
+  }
+}

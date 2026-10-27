@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3000103",
+    "name": "City Fund Experience",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BPExp.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BPExp.webp",
+        "localPath": "gallery/zzz/BPExp.webp",
+        "sha256": "a0e35f3561820a6f03516aa9cb5659f3a36ff9a45f079cdde4a634c6d555077f",
+        "etag": "\"dld8rfop8y51-6oi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfop8y51-6oi\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8658|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8658,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BPExp.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BPExp.webp",
+        "localPath": "gallery/zzz/BPExp.webp",
+        "sha256": "a0e35f3561820a6f03516aa9cb5659f3a36ff9a45f079cdde4a634c6d555077f",
+        "etag": "\"dld8rfop8y51-6oi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfop8y51-6oi\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8658|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8658,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BPExp.png",
+      "rank": 3,
+      "class": 62,
+      "name": "City Fund Experience"
+    },
+    "detail": {
+      "id": 3000103,
+      "name": "City Fund Experience",
+      "desc": "Your City Fund will level up once you have accumulated enough EXP.",
+      "desc2": "The New Eridu City Fund organizers believe every citizen's actions play a role in making New Eridu better. Among them, many emphasize the importance of precise quantitative standards.",
+      "class": {
+        "62": "N.E.C.F."
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BPExp.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3000100",
+    "name": "\"Growth Plan\" Silver Piggy Bank",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BPAdvance.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BPAdvance.webp",
+        "localPath": "gallery/zzz/BPAdvance.webp",
+        "sha256": "a5d993791b7a682db75fa78c9538332b03f26dac086e0d385a6e18cdcdff5542",
+        "etag": "\"dld8rfoloccs-7au\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfoloccs-7au\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9462|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9462,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BPAdvance.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BPAdvance.webp",
+        "localPath": "gallery/zzz/BPAdvance.webp",
+        "sha256": "a5d993791b7a682db75fa78c9538332b03f26dac086e0d385a6e18cdcdff5542",
+        "etag": "\"dld8rfoloccs-7au\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfoloccs-7au\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9462|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9462,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BPAdvance.png",
+      "rank": 4,
+      "class": 62,
+      "name": "\"Growth Plan\" Silver Piggy Bank"
+    },
+    "detail": {
+      "id": 3000100,
+      "name": "\"Growth Plan\" Silver Piggy Bank",
+      "desc": "Use to unlock this period's New Eridu City Fund: Growth Plan",
+      "desc2": "A special piggy bank for the New Eridu City Fund, holding valuable rewards. Obtaining all the \"coins\" within requires more effort than merely opening an ordinary piggy bank, however.",
+      "class": {
+        "62": "N.E.C.F."
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/BPAdvance.png"
+    }
+  }
+}

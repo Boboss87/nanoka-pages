@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000967",
+    "name": "[Affinity] Haiku Swordplay",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1091.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1091.webp",
+        "localPath": "gallery/zzz/CardDailyUse1091.webp",
+        "sha256": "577d132c647b87a4a01bc6414a927400652d51ef48d0f59050c021ac7c3b6cd3",
+        "etag": "\"dld8rfqeko45-axy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqeko45-axy\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14182|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14182,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1091.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1091.webp",
+        "localPath": "gallery/zzz/CardDailyUse1091.webp",
+        "sha256": "577d132c647b87a4a01bc6414a927400652d51ef48d0f59050c021ac7c3b6cd3",
+        "etag": "\"dld8rfqeko45-axy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqeko45-axy\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14182|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14182,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1091.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Affinity] Haiku Swordplay"
+    },
+    "detail": {
+      "id": 1000967,
+      "name": "[Affinity] Haiku Swordplay",
+      "desc": "Hoshimi Miyabi has evoked the Mindscape: <color=#FFAF2C>[Breath Technique]</color>. After launching a Dash Attack or Dodge Counter, your character can <color=#2BAD00>immediately follow up with</color> certain attacks near the end of the Basic Attack combo.\n[Breath Technique]: <color=#FFFFFF>Basic Attack: Kazahana</color> and <color=#FFFFFF>Dodge Counter</color> DMG increases by 30%. Hoshimi Miyabi gains 1 point of <color=#FFFFFF>Fallen Frost</color> when the final move of the 5th hit of <color=#FFFFFF>Basic Attack: Kazahana</color> hits an enemy. Upon entering the battlefield, Hoshimi Miyabi immediately obtains 6 points of <color=#FFFFFF>Fallen Frost</color> and her CRIT Rate increases by 15%.",
+      "desc2": "Hoshimi Miyabi has begun a new round of training. The focus of her training this time is \"reciting haikus while slashing away at enemies.\" Gotta admit it's quite the sight and her swordsmanship is impeccable. Could the haikus really be making her stronger...?",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1091.png"
+    }
+  }
+}

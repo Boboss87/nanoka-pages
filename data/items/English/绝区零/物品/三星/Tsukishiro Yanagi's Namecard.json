@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3311221",
+    "name": "Tsukishiro Yanagi's Namecard",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "Tsukishiro Yanagi's Namecard"
+    },
+    "detail": {
+      "id": 3311221,
+      "name": "Tsukishiro Yanagi's Namecard",
+      "desc": "Get by unlocking Tsukishiro Yanagi's Mindscape: Tsukishiro Style Management",
+      "desc2": "A card with the image of HSO Section 6's Deputy Chief printed on it.\nA valuable card that's considered a token of Section 6's friendship and commitment to the members of the HSO. Apart from contact information, it also carefully lists various means of seeking assistance in emergencies.",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

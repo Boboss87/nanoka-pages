@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "426",
+    "name": "Visitor Traffic",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Popularity.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Popularity.webp",
+        "localPath": "gallery/zzz/Popularity.webp",
+        "sha256": "e026b238b39537859af92aa7474ae4dd2bc4fc1c1fec104a8a6afa220106820b",
+        "etag": "\"dld8rgnw8wjn-4s8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnw8wjn-4s8\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6200|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6200,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Popularity.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Popularity.webp",
+        "localPath": "gallery/zzz/Popularity.webp",
+        "sha256": "e026b238b39537859af92aa7474ae4dd2bc4fc1c1fec104a8a6afa220106820b",
+        "etag": "\"dld8rgnw8wjn-4s8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnw8wjn-4s8\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6200|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6200,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Popularity.png",
+      "rank": 3,
+      "class": 1,
+      "name": "Visitor Traffic"
+    },
+    "detail": {
+      "id": 426,
+      "name": "Visitor Traffic",
+      "desc": "A ticket with Fantasy Resort guest information on it.",
+      "desc2": "On one hand, the staff can offer personalized service to each guest using the information above. On the other hand, the growing number of tickets is also a sign of the resort's rising popularity.",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Popularity.png"
+    }
+  }
+}

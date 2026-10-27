@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1101107",
+    "name": "[Freeze] Ice Cube Tray",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardFrozen11.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardFrozen11.webp",
+        "localPath": "gallery/zzz/CardFrozen11.webp",
+        "sha256": "f401aeedf8bd32e6776a1979c0f8954bf9829453c47ece8c7cdb33d1f6df35e8",
+        "etag": "\"dld8rfqo3m7i-aoy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqo3m7i-aoy\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=13858|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13858,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardFrozen11.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardFrozen11.webp",
+        "localPath": "gallery/zzz/CardFrozen11.webp",
+        "sha256": "f401aeedf8bd32e6776a1979c0f8954bf9829453c47ece8c7cdb33d1f6df35e8",
+        "etag": "\"dld8rfqo3m7i-aoy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqo3m7i-aoy\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=13858|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13858,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardFrozen11.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Freeze] Ice Cube Tray"
+    },
+    "detail": {
+      "id": 1101107,
+      "name": "[Freeze] Ice Cube Tray",
+      "desc": "When an Ultimate hits an enemy and deals <color=#98EFF0>Ice DMG</color>, the Agent gains <color=#2BAD00>48</color> stacks of Ice Mark.",
+      "desc2": "A simple and easy-to-use hockey mold. The biggest challenge is how to get the puck out of the mold.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardFrozen11.png"
+    }
+  }
+}

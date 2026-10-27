@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "equipment",
+    "pageFolder": "驱动盘",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/equipment.json",
+    "sourcePath": "3.3.12+19634983/equipment.json",
+    "sourceLocale": null,
+    "localeMode": "embedded",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/equipment/33200.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "33200",
+    "name": "King of the Summit",
+    "rarity": "未分类",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitKingoftheSummit.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitKingoftheSummit.webp",
+        "localPath": "gallery/zzz/SuitKingoftheSummit.webp",
+        "sha256": "252724b8b12b994f24f1278516c8a8fb5a7efbfcc8265a526dbba8befd4d3aa8",
+        "etag": "\"dld8rgon1fxl-9do\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgon1fxl-9do\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=12156|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12156,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitKingoftheSummit.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitKingoftheSummit.webp",
+        "localPath": "gallery/zzz/SuitKingoftheSummit.webp",
+        "sha256": "252724b8b12b994f24f1278516c8a8fb5a7efbfcc8265a526dbba8befd4d3aa8",
+        "etag": "\"dld8rgon1fxl-9do\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgon1fxl-9do\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=12156|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12156,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon2",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitKingoftheSummit.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuitKingoftheSummit.webp",
+        "localPath": "gallery/zzz/SuitKingoftheSummit.webp",
+        "sha256": "252724b8b12b994f24f1278516c8a8fb5a7efbfcc8265a526dbba8befd4d3aa8",
+        "etag": "\"dld8rgon1fxl-9do\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgon1fxl-9do\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=12156|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12156,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitKingoftheSummit.png",
+      "en": {
+        "name": "King of the Summit",
+        "desc2": "Increases Daze of attacks by 6%",
+        "desc4": "When the equipper is a Stun character and uses an <color=#FFFFFF>EX Special Attack</color> or <color=#FFFFFF>Chain Attack</color>, increases CRIT DMG of all squad members by 15%, and when the equipper's CRIT Rate is more than or equal to 50%, further increases CRIT DMG by 15%, lasting 15s. Repeated triggers reset the duration. Passive effects of the same name do not stack."
+      },
+      "ko": {
+        "name": "산림의 왕",
+        "desc2": "공격으로 주는 그로기 수치+6%",
+        "desc4": "착용자가 [격파] 캐릭터일 때 <color=#FFFFFF>[강화 특수 스킬]</color> 혹은 <color=#FFFFFF>[콤보 스킬]</color>을 시전하면 파티 내 모든 캐릭터의 치명타 피해가 15% 증가하고, 착용자의 치명타 확률이 50% 이상일 시 치명타 피해가 추가로 15% 증가한다. 지속 시간: 15초, 중복 발동 시 지속 시간이 갱신되며 이름이 같은 패시브 효과끼리 중첩되지 않는다."
+      },
+      "zh": {
+        "name": "山大王",
+        "desc2": "攻击造成的失衡值提升6%",
+        "desc4": "装备者为[击破]角色时，发动<color=#FFFFFF>[强化特殊技]</color>或<color=#FFFFFF>[连携技]</color>会使全队角色暴击伤害提升15%，装备者的暴击率大于等于50%时暴击伤害额外提升15%，持续15秒，重复触发时刷新持续时间，同名被动效果之间不可叠加。"
+      },
+      "ja": {
+        "name": "大山を統べる者",
+        "desc2": "攻撃の与えるブレイク値+6%",
+        "desc4": "装備者が[撃破]メンバーの場合、<color=#FFFFFF>『強化特殊スキル』</color>または<color=#FFFFFF>『連携スキル』</color>発動時、メンバー全員の会心ダメージ+15%。装備者の会心率が50%以上の場合、会心ダメージがさらに+15%、継続時間15秒、重複して発動すると継続時間が更新される。同じパッシブ効果は重ね掛け不可。"
+      }
+    },
+    "detail": {
+      "id": 33200,
+      "name": "King of the Summit",
+      "desc2": "Increases Daze of attacks by 6%",
+      "desc4": "When the equipper is a Stun character and uses an <color=#FFFFFF>EX Special Attack</color> or <color=#FFFFFF>Chain Attack</color>, increases CRIT DMG of all squad members by 15%, and when the equipper's CRIT Rate is more than or equal to 50%, further increases CRIT DMG by 15%, lasting 15s. Repeated triggers reset the duration. Passive effects of the same name do not stack.",
+      "story": "This collaboration theme between sports brand True Martial and Yunkui Summit was reportedly composed by a renowned direct disciple of Yunkui Summit, depicting the legend of an awe-inspiring King of the Summit.",
+      "icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitKingoftheSummit.png",
+      "icon2": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitKingoftheSummit.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "104002",
+    "name": "Master Component",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Item_SpecialMaterial_Weapon.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Item_SpecialMaterial_Weapon.webp",
+        "localPath": "gallery/zzz/Item_SpecialMaterial_Weapon.webp",
+        "sha256": "5cd5a7de3025b27f204cb54c4f97664aec3e2f60feeebd33d8b863a27ff6d6e7",
+        "etag": "\"dld8rgf146f5-6xo\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgf146f5-6xo\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8988|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8988,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Item_SpecialMaterial_Weapon.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Item_SpecialMaterial_Weapon.webp",
+        "localPath": "gallery/zzz/Item_SpecialMaterial_Weapon.webp",
+        "sha256": "5cd5a7de3025b27f204cb54c4f97664aec3e2f60feeebd33d8b863a27ff6d6e7",
+        "etag": "\"dld8rgf146f5-6xo\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgf146f5-6xo\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8988|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8988,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Item_SpecialMaterial_Weapon.png",
+      "rank": 3,
+      "class": 71,
+      "name": "Master Component"
+    },
+    "detail": {
+      "id": 104002,
+      "name": "Master Component",
+      "desc": "<color=#FFAF2C>[Universal W-Engine Breakthrough Item]</color>Can be used in place of W-Engine Components when you don't have enough. A different number of Master Components must be used to substitute different rarities of W-Engine Components.",
+      "desc2": "A mysterious legend known among W-Engine enthusiasts. This item may look like nothing special, but it'll add the finishing touch to your sound quality.",
+      "class": {
+        "71": "RESOURCE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Item_SpecialMaterial_Weapon.png"
+    }
+  }
+}

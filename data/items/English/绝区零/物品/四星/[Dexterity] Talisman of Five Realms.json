@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1320201",
+    "name": "[Dexterity] Talisman of Five Realms",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic003.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic003.webp",
+        "localPath": "gallery/zzz/Relic003.webp",
+        "sha256": "8cc7f9a914467513347b1537f8cd162e98fcddd02f0325daba9202a0a62cc589",
+        "etag": "\"dld8rgnz82p6-35u\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnz82p6-35u\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4098|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4098,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic003.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic003.webp",
+        "localPath": "gallery/zzz/Relic003.webp",
+        "sha256": "8cc7f9a914467513347b1537f8cd162e98fcddd02f0325daba9202a0a62cc589",
+        "etag": "\"dld8rgnz82p6-35u\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnz82p6-35u\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4098|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4098,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic003.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Dexterity] Talisman of Five Realms"
+    },
+    "detail": {
+      "id": 1320201,
+      "name": "[Dexterity] Talisman of Five Realms",
+      "desc": "When triggering <color=#FFFFFF>Perfect Dodge</color>, all squad members <color=#2BAD00>gain 1 Dexterity Count</color>, stacking up to 3 times. With 3 <color=#FFFFFF>Dexterity Count</color>, consume all stacks to <color=#2BAD00>enter Dexterity State</color>, lasting 9s. While in <color=#FFFFFF>Dexterity State</color>, all squad members' <color=#2BAD00>ATK is increased by 60%</color>. When an attack hits an enemy, it inflicts <color=#FFFFFF>Dexterity Curse</color> on the target. <color=#FFFFFF>Dexterity Curse</color> is calculated when exiting <color=#FFFFFF>Dexterity State</color>, dealing <color=#2BAD00>additional DMG equal to 10% of DMG accumulated</color> during <color=#FFFFFF>Dexterity Curse</color> to enemies.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic003.png"
+    }
+  }
+}

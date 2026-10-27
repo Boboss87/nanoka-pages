@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1001801",
+    "name": "[Artifice] Sensory Poker",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSample04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardSample04.webp",
+        "localPath": "gallery/zzz/CardSample04.webp",
+        "sha256": "9e2ad1b0b92ea64883f2af5466daa8e51ff24e0267b6d5e8ae35d5f46ad1ff99",
+        "etag": "\"dld8rfqytfka-b46\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqytfka-b46\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14406|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14406,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSample04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardSample04.webp",
+        "localPath": "gallery/zzz/CardSample04.webp",
+        "sha256": "9e2ad1b0b92ea64883f2af5466daa8e51ff24e0267b6d5e8ae35d5f46ad1ff99",
+        "etag": "\"dld8rfqytfka-b46\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqytfka-b46\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=14406|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 14406,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSample04.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Artifice] Sensory Poker"
+    },
+    "detail": {
+      "id": 1001801,
+      "name": "[Artifice] Sensory Poker",
+      "desc": "For {CReplaceCardParam:ProgressLeft,1,2} combats, <color=#CF4029>lose all Energy and Decibels</color> upon being hit by an enemy attack.\nOnce reconstructed, Agents will instead generate Energy and Decibels <color=#2BAD00>25%</color> faster.",
+      "desc2": "Not only does he know which card you chose, he also knows that your awe and praise are insincere.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSample04.png"
+    }
+  }
+}

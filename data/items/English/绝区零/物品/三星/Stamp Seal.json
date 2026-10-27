@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "139",
+    "name": "Stamp Seal",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ActivityDailyCheckHIAToken.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivityDailyCheckHIAToken.webp",
+        "localPath": "gallery/zzz/ActivityDailyCheckHIAToken.webp",
+        "sha256": "9259bc33e36b48311f927c5e80c09bceb4e63009cd2f1c6de11e82a564e41afe",
+        "etag": "\"dld8rfnwo3uy-842\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnwo3uy-842\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10514|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10514,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ActivityDailyCheckHIAToken.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ActivityDailyCheckHIAToken.webp",
+        "localPath": "gallery/zzz/ActivityDailyCheckHIAToken.webp",
+        "sha256": "9259bc33e36b48311f927c5e80c09bceb4e63009cd2f1c6de11e82a564e41afe",
+        "etag": "\"dld8rfnwo3uy-842\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfnwo3uy-842\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10514|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10514,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ActivityDailyCheckHIAToken.png",
+      "rank": 3,
+      "class": 1,
+      "name": "Stamp Seal"
+    },
+    "detail": {
+      "id": 139,
+      "name": "Stamp Seal",
+      "desc": "A special item custom-made by the HIA Club for this event. Can be exchanged for a card flip opportunity.",
+      "desc2": "Collect enough stamps and you can claim a prize — though your drawer's already packed with \"souvenirs\" from way too many of these expired events. But this time... maybe you'll actually be able to cash in for something?",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/ActivityDailyCheckHIAToken.png"
+    }
+  }
+}

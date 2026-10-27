@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1521",
+    "name": "Cissia",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece60.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece60.webp",
+        "localPath": "gallery/zzz/IconRolePiece60.webp",
+        "sha256": "27640ed6ac7481055e8c6cb9c38804f92b54b3621770e8064e5ad8f4f18df6ce",
+        "etag": "\"dld8rgdfd28a-92g\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgdfd28a-92g\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11752|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11752,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece60.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece60.webp",
+        "localPath": "gallery/zzz/IconRolePiece60.webp",
+        "sha256": "27640ed6ac7481055e8c6cb9c38804f92b54b3621770e8064e5ad8f4f18df6ce",
+        "etag": "\"dld8rgdfd28a-92g\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgdfd28a-92g\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11752|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11752,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece60.png",
+      "rank": 4,
+      "class": 3,
+      "name": "Cissia"
+    },
+    "detail": {
+      "id": 1521,
+      "name": "Cissia",
+      "desc": "Use it to obtain the Agent or unlock the Agent's Mindscapes.",
+      "desc2": "Snapshots from Cissia's daily life and from in combat, recording important moments before and after she became an Agent. These images also provide insights into her fighting style and favorite weapons, helping to better understand her strengths.\n\nCissia's activity report starts off shakily, following the proper format to log mission details, but gradually devolves into a scouting log of free food sample stands at Lumina Square.",
+      "class": {
+        "3": "AGENT"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece60.png"
+    }
+  }
+}

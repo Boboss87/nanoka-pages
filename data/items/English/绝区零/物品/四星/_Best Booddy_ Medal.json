@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4161008",
+    "name": "\"Best Booddy\" Medal",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RABTowerMedal.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RABTowerMedal.webp",
+        "localPath": "gallery/zzz/RABTowerMedal.webp",
+        "sha256": "0454b3a0008579e58e7bb78fe35bd0feb44dfd2c01d00d53236b23bd37b1dc67",
+        "etag": "\"dld8rgnymn2h-8gg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnymn2h-8gg\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10960|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10960,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RABTowerMedal.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RABTowerMedal.webp",
+        "localPath": "gallery/zzz/RABTowerMedal.webp",
+        "sha256": "0454b3a0008579e58e7bb78fe35bd0feb44dfd2c01d00d53236b23bd37b1dc67",
+        "etag": "\"dld8rgnymn2h-8gg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnymn2h-8gg\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10960|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10960,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RABTowerMedal.png",
+      "rank": 4,
+      "class": 113,
+      "name": "\"Best Booddy\" Medal"
+    },
+    "detail": {
+      "id": 4161008,
+      "name": "\"Best Booddy\" Medal",
+      "desc": "Reward certificate obtained by completing Data Domain Training stages.",
+      "desc2": "Norma presented a shiny virtual medal to the \"Collaboorator\" who pushed through rigorous training in the data space, praising them for defeating countless code errors, boosting computing capacity, and making remarkable contributions to repairing the Central Computing Hub!\n\"En-nha na!（Thanks, everyone! I'm gonna become the greatest Collaboorator!）\"",
+      "class": {
+        "113": "BANGBOO ITEM"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/RABTowerMedal.png"
+    }
+  }
+}

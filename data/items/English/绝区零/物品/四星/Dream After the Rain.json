@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3300008",
+    "name": "Dream After the Rain",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard16.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard16.webp",
+        "localPath": "gallery/zzz/Callingcard16.webp",
+        "sha256": "157ee373770a143c42f3012b131fbeb59c98bacaa5c73498f2190b06a4b009e1",
+        "etag": "\"dld8rfpq5v92-83q\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpq5v92-83q\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10502|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10502,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard16.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard16.webp",
+        "localPath": "gallery/zzz/Callingcard16.webp",
+        "sha256": "157ee373770a143c42f3012b131fbeb59c98bacaa5c73498f2190b06a4b009e1",
+        "etag": "\"dld8rfpq5v92-83q\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpq5v92-83q\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=10502|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10502,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard16.png",
+      "rank": 4,
+      "class": 65,
+      "name": "Dream After the Rain"
+    },
+    "detail": {
+      "id": 3300008,
+      "name": "Dream After the Rain",
+      "desc": "A commemorative namecard for the New Eridu City Fund: Premium Plan.",
+      "desc2": "If the remainder of my life were to be nothing but repeating lines I've already recorded, at least I could still say \"I love you\" over and over.\nThe day we reunited after the disaster was too sudden... But when the rain clears and spring arrives, flowers will bloom, ready to be handed to my \"beloved.\"",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard16.png"
+    }
+  }
+}

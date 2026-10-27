@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1343006",
+    "name": "Silenced Pistol",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGun05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardGun05.webp",
+        "localPath": "gallery/zzz/CardGun05.webp",
+        "sha256": "de02a8205ad570e4c4cbb48a49d0fe192136b0d46b074bad7b954b6db83a5160",
+        "etag": "\"dld8rfqop1u8-c4g\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqop1u8-c4g\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15712|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15712,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGun05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardGun05.webp",
+        "localPath": "gallery/zzz/CardGun05.webp",
+        "sha256": "de02a8205ad570e4c4cbb48a49d0fe192136b0d46b074bad7b954b6db83a5160",
+        "etag": "\"dld8rfqop1u8-c4g\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqop1u8-c4g\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15712|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15712,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGun05.png",
+      "rank": 2,
+      "class": 86,
+      "name": "Silenced Pistol"
+    },
+    "detail": {
+      "id": 1343006,
+      "name": "Silenced Pistol",
+      "desc": "When inflicting an Attribute Anomaly on an enemy, \"Dreamland Equipment\" Meteor Blazing Gun's <color=#FFAF2C>DMG is increased by 13% per Rank</color> for 10s.\nrepeated triggers reset the duration.",
+      "desc2": "",
+      "class": {
+        "86": "BANGBOO RESONIUM"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGun05.png"
+    }
+  }
+}

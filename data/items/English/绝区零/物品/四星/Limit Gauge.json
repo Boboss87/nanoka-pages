@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4360007",
+    "name": "Limit Gauge",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_007.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_007.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_007.webp",
+        "sha256": "1a379dde18dfeec8cf617df55abfb793e1efd19b7e9128169b4f968cd96438b5",
+        "etag": "\"dld8rgr1deej-75s\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr1deej-75s\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9280|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9280,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_007.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_007.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_007.webp",
+        "sha256": "1a379dde18dfeec8cf617df55abfb793e1efd19b7e9128169b4f968cd96438b5",
+        "etag": "\"dld8rgr1deej-75s\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr1deej-75s\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9280|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9280,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_007.png",
+      "rank": 4,
+      "class": 130,
+      "name": "Limit Gauge"
+    },
+    "detail": {
+      "id": 4360007,
+      "name": "Limit Gauge",
+      "desc": "HIA's Zenless Limit Meter is an essential device for monitoring Hollow activity. Hollows may have limits, but an investigator's journey never ends!",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_007.png"
+    }
+  }
+}

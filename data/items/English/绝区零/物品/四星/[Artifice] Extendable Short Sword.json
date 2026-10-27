@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1001809",
+    "name": "[Artifice] Extendable Short Sword",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSample09.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardSample09.webp",
+        "localPath": "gallery/zzz/CardSample09.webp",
+        "sha256": "ed2e49b833fc112738d4121520ab5706d38554450b38a8ad718dca5a60d77abb",
+        "etag": "\"dld8rfqytfka-aes\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqytfka-aes\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=13492|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13492,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSample09.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardSample09.webp",
+        "localPath": "gallery/zzz/CardSample09.webp",
+        "sha256": "ed2e49b833fc112738d4121520ab5706d38554450b38a8ad718dca5a60d77abb",
+        "etag": "\"dld8rfqytfka-aes\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqytfka-aes\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=13492|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13492,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSample09.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Artifice] Extendable Short Sword"
+    },
+    "detail": {
+      "id": 1001809,
+      "name": "[Artifice] Extendable Short Sword",
+      "desc": "Chain attacks deal <color=#2BAD00>considerably more DMG </color>, but the damage taken by your allies is also <color=#2BAD00>greatly increased</color>.",
+      "desc2": "When the expansion button is functioning properly, it's a great magic prop for intimidating people. But when the button malfunctions... well, that's even more intimidating.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardSample09.png"
+    }
+  }
+}

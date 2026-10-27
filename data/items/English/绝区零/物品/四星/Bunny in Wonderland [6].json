@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "33746",
+    "name": "Bunny in Wonderland [6]",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitBunnyinWonderland_S.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitBunnyinWonderland_S.webp",
+        "localPath": "gallery/zzz/ItemSuitBunnyinWonderland_S.webp",
+        "sha256": "b43049a6e01c2e5a568d748f9cb1e6e8b2539e4df1a921c0b1fa1de17c5d8e2c",
+        "etag": "\"dld8rgelmw0p-7gi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgelmw0p-7gi\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9666|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9666,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitBunnyinWonderland_S.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitBunnyinWonderland_S.webp",
+        "localPath": "gallery/zzz/ItemSuitBunnyinWonderland_S.webp",
+        "sha256": "b43049a6e01c2e5a568d748f9cb1e6e8b2539e4df1a921c0b1fa1de17c5d8e2c",
+        "etag": "\"dld8rgelmw0p-7gi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgelmw0p-7gi\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9666|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9666,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitBunnyinWonderland_S.png",
+      "rank": 4,
+      "class": 7,
+      "name": "Bunny in Wonderland [6]"
+    },
+    "detail": {
+      "id": 33746,
+      "name": "Bunny in Wonderland [6]",
+      "desc": "Equip to increase Agents' combat capabilities",
+      "desc2": "When waking, the world tilts slightly\nSpring melts the lingering snow upon the lashes\nLaughter rides the wind, setting tree shadows swaying\nLife, is it only a folding of dreams?",
+      "class": {
+        "7": "DISK"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitBunnyinWonderland_S.png"
+    }
+  }
+}

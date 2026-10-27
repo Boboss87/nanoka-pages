@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "13010",
+    "name": "Bunny Band",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_Common_10.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_A_Common_10.webp",
+        "localPath": "gallery/zzz/Weapon_A_Common_10.webp",
+        "sha256": "706376719f2c428d5433df9f737ae836847ba7a3b9069d94e5fcfdc57aa64010",
+        "etag": "\"dld8rgp5hwhl-v4k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgp5hwhl-v4k\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=40340|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 40340,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_Common_10.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_A_Common_10.webp",
+        "localPath": "gallery/zzz/Weapon_A_Common_10.webp",
+        "sha256": "706376719f2c428d5433df9f737ae836847ba7a3b9069d94e5fcfdc57aa64010",
+        "etag": "\"dld8rgp5hwhl-v4k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgp5hwhl-v4k\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=40340|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 40340,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_Common_10.png",
+      "rank": 3,
+      "class": 5,
+      "name": "Bunny Band"
+    },
+    "detail": {
+      "id": 13010,
+      "name": "Bunny Band",
+      "desc": "Equip to increase Defense Agents' combat capabilities",
+      "desc2": "A special W-Engine decorated with a fluffy bunny. However, it is just an imitation of the real animal.",
+      "class": {
+        "5": "W-ENGINE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_Common_10.png"
+    }
+  }
+}

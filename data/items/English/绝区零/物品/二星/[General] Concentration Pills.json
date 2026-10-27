@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000604",
+    "name": "[General] Concentration Pills",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMedical05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardMedical05.webp",
+        "localPath": "gallery/zzz/CardMedical05.webp",
+        "sha256": "47b6b96fc1d70ba894897bf4b28f7ddd86e325b5f470d4663efb91c6a2e35be9",
+        "etag": "\"dld8rfqvu9eq-dao\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqvu9eq-dao\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17232|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17232,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMedical05.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardMedical05.webp",
+        "localPath": "gallery/zzz/CardMedical05.webp",
+        "sha256": "47b6b96fc1d70ba894897bf4b28f7ddd86e325b5f470d4663efb91c6a2e35be9",
+        "etag": "\"dld8rfqvu9eq-dao\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqvu9eq-dao\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17232|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17232,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMedical05.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[General] Concentration Pills"
+    },
+    "detail": {
+      "id": 1000604,
+      "name": "[General] Concentration Pills",
+      "desc": "For every 10% of HP lost, the Agent generates <color=#2BAD00>7%</color> Energy.",
+      "desc2": "Totally safe and has no side effects. You can eat it like candy.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMedical05.png"
+    }
+  }
+}

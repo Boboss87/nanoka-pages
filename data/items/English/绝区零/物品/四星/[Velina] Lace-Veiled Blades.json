@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1350261",
+    "name": "[Velina] Lace-Veiled Blades",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic100.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic100.webp",
+        "localPath": "gallery/zzz/Relic100.webp",
+        "sha256": "0f8c935de4eb880a3a7ab2867f85399924ebe16fbba47ce1500f97129787fd2a",
+        "etag": "\"dld8rgo56f0a-3yg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo56f0a-3yg\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5128|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5128,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic100.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic100.webp",
+        "localPath": "gallery/zzz/Relic100.webp",
+        "sha256": "0f8c935de4eb880a3a7ab2867f85399924ebe16fbba47ce1500f97129787fd2a",
+        "etag": "\"dld8rgo56f0a-3yg\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo56f0a-3yg\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5128|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5128,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic100.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Velina] Lace-Veiled Blades"
+    },
+    "detail": {
+      "id": 1350261,
+      "name": "[Velina] Lace-Veiled Blades",
+      "desc": "When Velina inflicts <color=#A6C5FD>Windswept</color> on an enemy, the whole squad's <color=#2BAD00>Attribute Anomaly DMG increases by 30%</color> for 30s. Repeated triggers reset the duration. Additionally, <color=#FFFFFF>Sweeping Cyclone</color> <color=#2BAD00>lasts 3s longer</color> and <color=#2BAD00>deals 20% more Daze</color>.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic100.png"
+    }
+  }
+}

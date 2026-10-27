@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000412",
+    "name": "[Shield] Collective Emblem",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardArmor00.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardArmor00.webp",
+        "localPath": "gallery/zzz/CardArmor00.webp",
+        "sha256": "9dfd223e211d19db6ca0530c9e30852986d9c857074f5e6b146111f833535fc7",
+        "etag": "\"dld8rfpxwiga-bug\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpxwiga-bug\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15352|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15352,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardArmor00.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardArmor00.webp",
+        "localPath": "gallery/zzz/CardArmor00.webp",
+        "sha256": "9dfd223e211d19db6ca0530c9e30852986d9c857074f5e6b146111f833535fc7",
+        "etag": "\"dld8rfpxwiga-bug\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpxwiga-bug\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15352|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15352,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardArmor00.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Shield] Collective Emblem"
+    },
+    "detail": {
+      "id": 1000412,
+      "name": "[Shield] Collective Emblem",
+      "desc": "Increases the chance for [Shield] Resonia to appear.",
+      "desc2": "Kindred spirits gather, and emblems fall into groups.\nPile on the thickest armor... what was next again?",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardArmor00.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4101101",
+    "name": "[Craft] Penguinboo Type I",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooPenguinboo.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBangbooPenguinboo.webp",
+        "localPath": "gallery/zzz/CardBangbooPenguinboo.webp",
+        "sha256": "a51a75dfcb8a236323e80f3975f0ee1ca7c32fdb1aaefde2a6d834ea2beede9f",
+        "etag": "\"dld8rfq39f4o-bmy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq39f4o-bmy\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15082|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15082,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooPenguinboo.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardBangbooPenguinboo.webp",
+        "localPath": "gallery/zzz/CardBangbooPenguinboo.webp",
+        "sha256": "a51a75dfcb8a236323e80f3975f0ee1ca7c32fdb1aaefde2a6d834ea2beede9f",
+        "etag": "\"dld8rfq39f4o-bmy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq39f4o-bmy\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15082|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15082,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooPenguinboo.png",
+      "rank": 3,
+      "class": 88,
+      "name": "[Craft] Penguinboo Type I"
+    },
+    "detail": {
+      "id": 4101101,
+      "name": "[Craft] Penguinboo Type I",
+      "desc": "Bangboo who can help craft, sell, or be dispatched on adventures at Suibian Temple.",
+      "desc2": "",
+      "class": {
+        "88": "Deployed Bangboo"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardBangbooPenguinboo.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "13115",
+    "name": "Kaboom the Cannon",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_1151.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_A_1151.webp",
+        "localPath": "gallery/zzz/Weapon_A_1151.webp",
+        "sha256": "421bb99f3f92d5c9497a3f2910bf3fb34f6ba590cae5b7d87e1fc83cf0da4d95",
+        "etag": "\"dld8rgp1xapc-xsm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgp1xapc-xsm\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=43798|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 43798,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_1151.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_A_1151.webp",
+        "localPath": "gallery/zzz/Weapon_A_1151.webp",
+        "sha256": "421bb99f3f92d5c9497a3f2910bf3fb34f6ba590cae5b7d87e1fc83cf0da4d95",
+        "etag": "\"dld8rgp1xapc-xsm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgp1xapc-xsm\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=43798|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 43798,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_1151.png",
+      "rank": 3,
+      "class": 5,
+      "name": "Kaboom the Cannon"
+    },
+    "detail": {
+      "id": 13115,
+      "name": "Kaboom the Cannon",
+      "desc": "Equip to increase Support Agents' combat capabilities",
+      "desc2": "A support W-Engine propelled by jets that is both mobile and impactful, it can traverse the entire battlefield providing combat buffs.",
+      "class": {
+        "5": "W-ENGINE"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_1151.png"
+    }
+  }
+}

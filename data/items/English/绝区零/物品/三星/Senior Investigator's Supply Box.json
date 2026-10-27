@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000005",
+    "name": "Senior Investigator's Supply Box",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EventIconPreciousA.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/EventIconPreciousA.webp",
+        "localPath": "gallery/zzz/EventIconPreciousA.webp",
+        "sha256": "ba03306f64fc44506c3b900f9569272f6fec6887906d7bfd391feb88d31729e9",
+        "etag": "\"dld8rfrigrdp-7gc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrigrdp-7gc\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9660|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9660,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EventIconPreciousA.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/EventIconPreciousA.webp",
+        "localPath": "gallery/zzz/EventIconPreciousA.webp",
+        "sha256": "ba03306f64fc44506c3b900f9569272f6fec6887906d7bfd391feb88d31729e9",
+        "etag": "\"dld8rfrigrdp-7gc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrigrdp-7gc\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9660|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9660,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EventIconPreciousA.png",
+      "rank": 3,
+      "class": 29,
+      "name": "Senior Investigator's Supply Box"
+    },
+    "detail": {
+      "id": 1000005,
+      "name": "Senior Investigator's Supply Box",
+      "desc": "Supply box contains Trainee Investigator Logs, W-Engine Batteries, and Dennies.",
+      "desc2": "A smart mind is an investigator's most powerful weapon, and the materials in this chest provide efficient ways to use this weapon.",
+      "class": {
+        "29": "INFO"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EventIconPreciousA.png"
+    }
+  }
+}

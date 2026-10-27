@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "418",
+    "name": "Supply Voucher",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MiniscapeShopCoin.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/MiniscapeShopCoin.webp",
+        "localPath": "gallery/zzz/MiniscapeShopCoin.webp",
+        "sha256": "c2e4e6fceea572920d4f14686f1df1fe3e708d4baa1225c84579fa52da0de623",
+        "etag": "\"dld8rgkvag3q-7i6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgkvag3q-7i6\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9726|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9726,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MiniscapeShopCoin.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/MiniscapeShopCoin.webp",
+        "localPath": "gallery/zzz/MiniscapeShopCoin.webp",
+        "sha256": "c2e4e6fceea572920d4f14686f1df1fe3e708d4baa1225c84579fa52da0de623",
+        "etag": "\"dld8rgkvag3q-7i6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgkvag3q-7i6\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9726|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9726,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MiniscapeShopCoin.png",
+      "rank": 3,
+      "class": 1,
+      "name": "Supply Voucher"
+    },
+    "detail": {
+      "id": 418,
+      "name": "Supply Voucher",
+      "desc": "For redeeming rewards in Combat Supply.",
+      "desc2": "Even if the Void Hunter herself shows up, as long as New Eridu isn't on the verge of destruction, no extra supplies can be taken from Logistics without a Supply Voucher.",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/MiniscapeShopCoin.png"
+    }
+  }
+}

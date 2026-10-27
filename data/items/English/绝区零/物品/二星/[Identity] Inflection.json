@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "12014",
+    "name": "[Identity] Inflection",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_B_Common_14.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_B_Common_14.webp",
+        "localPath": "gallery/zzz/Weapon_B_Common_14.webp",
+        "sha256": "0a9b1a03e249a40aaab871aac39776bd3d479290cdd7771fe014084e0472e03e",
+        "etag": "\"dld8rgpdtzbj-qb0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgpdtzbj-qb0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=34092|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 34092,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_B_Common_14.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Weapon_B_Common_14.webp",
+        "localPath": "gallery/zzz/Weapon_B_Common_14.webp",
+        "sha256": "0a9b1a03e249a40aaab871aac39776bd3d479290cdd7771fe014084e0472e03e",
+        "etag": "\"dld8rgpdtzbj-qb0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgpdtzbj-qb0\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=34092|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 34092,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_B_Common_14.png",
+      "rank": 2,
+      "class": 5,
+      "name": "[Identity] Inflection"
+    },
+    "detail": {
+      "id": 12014,
+      "name": "[Identity] Inflection",
+      "desc": "Equip to increase Defense Agents' combat capabilities",
+      "desc2": "A functional W-Engine that specializes in energy conversion. It can analyze combat environments and generate special sounds to disrupt the enemy's offense.",
+      "class": {
+        "5": "W-ENGINE"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_B_Common_14.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1310702",
+    "name": "[Ellen] Everwinter Windtrace",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardEllen02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardEllen02.webp",
+        "localPath": "gallery/zzz/CardEllen02.webp",
+        "sha256": "a12168d0dead5bf75dd61e99add85cbe1c33d0f1e64e48b4e4cd638319a0fa0d",
+        "etag": "\"dld8rfqmbbbd-brm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqmbbbd-brm\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15250|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15250,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardEllen02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardEllen02.webp",
+        "localPath": "gallery/zzz/CardEllen02.webp",
+        "sha256": "a12168d0dead5bf75dd61e99add85cbe1c33d0f1e64e48b4e4cd638319a0fa0d",
+        "etag": "\"dld8rfqmbbbd-brm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqmbbbd-brm\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15250|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15250,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardEllen02.png",
+      "rank": 3,
+      "class": 80,
+      "name": "[Ellen] Everwinter Windtrace"
+    },
+    "detail": {
+      "id": 1310702,
+      "name": "[Ellen] Everwinter Windtrace",
+      "desc": "When activating <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>, Ellen <color=#2BAD00>leaves behind a patch of Icy Mist</color> on the ground, dealing <color=#98EFF0>Ice DMG over time</color> to enemies and reducing their <color=#98EFF0>Ice RES</color> by 30% for 10 seconds. When Ellen attacks an enemy within the <color=#FFFFFF>Icy Mist</color>, the <color=#FFFFFF>Icy Mist</color> will trigger an extra instance of DMG.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardEllen02.png"
+    }
+  }
+}

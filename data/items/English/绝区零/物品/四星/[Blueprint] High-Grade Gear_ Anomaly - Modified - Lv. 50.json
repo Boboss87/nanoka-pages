@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4350228",
+    "name": "[Blueprint] High-Grade Gear: Anomaly - Modified - Lv. 50",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponS_004_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponS_004_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponS_004_Blueprint.webp",
+        "sha256": "dbe4250b1d35113dd880d58bfe87a62f03e88c19a8f3ddfd11ebcb5ea1c68985",
+        "etag": "\"dld8rgrguosz-83k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrguosz-83k\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10496|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10496,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponS_004_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_WeaponS_004_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_WeaponS_004_Blueprint.webp",
+        "sha256": "dbe4250b1d35113dd880d58bfe87a62f03e88c19a8f3ddfd11ebcb5ea1c68985",
+        "etag": "\"dld8rgrguosz-83k\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrguosz-83k\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10496|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10496,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponS_004_Blueprint.png",
+      "rank": 4,
+      "class": 130,
+      "name": "[Blueprint] High-Grade Gear: Anomaly - Modified - Lv. 50"
+    },
+    "detail": {
+      "id": 4350228,
+      "name": "[Blueprint] High-Grade Gear: Anomaly - Modified - Lv. 50",
+      "desc": "Use this Blueprint at the Smart Workshop to unlock the recipe for this item. Purchased from Boojee's Store - Permanent Store - Blueprint Direct Sale.\n\nItem Effect: Increases Anomaly Proficiency by <color=#2BAD00>30</color>. When an Agent deals Attribute Anomaly or Disorder DMG, all squad members' Attribute Anomaly and Disorder DMG ignore <color=#2BAD00>5%</color> All-Attribute RES for <color=#2BAD00>10</color>s. Stacks up to <color=#2BAD00>3</color> times. Repeated triggers reset the duration.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_WeaponS_004_Blueprint.png"
+    }
+  }
+}

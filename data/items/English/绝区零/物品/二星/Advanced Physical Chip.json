@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "100120",
+    "name": "Advanced Physical Chip",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AvatarSkillPhys02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AvatarSkillPhys02.webp",
+        "localPath": "gallery/zzz/AvatarSkillPhys02.webp",
+        "sha256": "ec32d5806ede767f3d8858f6b51e91f0235032dbb6395a4c89394454f4f59b12",
+        "etag": "\"dld8rfo1fkwn-648\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfo1fkwn-648\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7928|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7928,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AvatarSkillPhys02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AvatarSkillPhys02.webp",
+        "localPath": "gallery/zzz/AvatarSkillPhys02.webp",
+        "sha256": "ec32d5806ede767f3d8858f6b51e91f0235032dbb6395a4c89394454f4f59b12",
+        "etag": "\"dld8rfo1fkwn-648\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfo1fkwn-648\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7928|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7928,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AvatarSkillPhys02.png",
+      "rank": 2,
+      "class": 10,
+      "name": "Advanced Physical Chip"
+    },
+    "detail": {
+      "id": 100120,
+      "name": "Advanced Physical Chip",
+      "desc": "Upgrades a Physical Agent's skills.",
+      "desc2": "A simulation chip designed to enhance the effectiveness of the user's Physical attacks. With consistent practice, one can improve their proficiency in relevant tactics even outside the Hollows.",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AvatarSkillPhys02.png"
+    }
+  }
+}

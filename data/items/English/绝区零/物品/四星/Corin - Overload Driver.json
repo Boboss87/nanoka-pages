@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1322502",
+    "name": "Corin - Overload Driver",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic030.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic030.webp",
+        "localPath": "gallery/zzz/Relic030.webp",
+        "sha256": "9351aa3ec1ccb9612f2fb2e4678784370d21cc8b456dea4ccaf313d14471489a",
+        "etag": "\"dld8rgo0exym-3xs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo0exym-3xs\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5104|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5104,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.desc.IconMap.Icon_SpecialReady",
+        "kind": "icon_map",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "<IconMap:Icon_SpecialReady>",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRoleSkillKeySpecialV2.webp",
+        "localPath": "gallery/zzz/IconRoleSkillKeySpecialV2.webp",
+        "sha256": "d8a0a8bdfabce404b4a482d0b1053d9c54d1cc1c523c620202333906a026a1d0",
+        "etag": "\"dld8rge5k5zj-1iy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rge5k5zj-1iy\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=1978|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 1978,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic030.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic030.webp",
+        "localPath": "gallery/zzz/Relic030.webp",
+        "sha256": "9351aa3ec1ccb9612f2fb2e4678784370d21cc8b456dea4ccaf313d14471489a",
+        "etag": "\"dld8rgo0exym-3xs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo0exym-3xs\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5104|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5104,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic030.png",
+      "rank": 4,
+      "class": 80,
+      "name": "Corin - Overload Driver"
+    },
+    "detail": {
+      "id": 1322502,
+      "name": "Corin - Overload Driver",
+      "desc": "During <color=#FFFFFF>EX Special Attack</color>, holding <color=#FFFFFF>Special Attack</color> <IconMap:Icon_SpecialReady> to continuously slash enemies for over 0.5 seconds will trigger the <color=#FFFFFF>Overclock State</color>, <color=#2BAD00>continuously gathering enemies</color>. When the attack hits enemies 10 times, it will trigger <color=#FFFFFF>Overclock Overload</color>, <color=#2BAD00>additionally dealing one instance of</color> <color=#ELEMENT_PHYSiCS>Physical DMG</color> <color=#2BAD00>equivalent to 400% of Corin's ATK</color>.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic030.png"
+    }
+  }
+}

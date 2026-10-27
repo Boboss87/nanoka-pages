@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "201507",
+    "name": "Item_ResourceItem_01_name",
+    "rarity": "一星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/ItemIcon/Recovery.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Recovery.webp",
+        "localPath": "gallery/zzz/Recovery.webp",
+        "sha256": "04cfd12b4277e76ac3dd2392c63540cfb58a7f7fe8e23b8d838fa2b1d7046e4d",
+        "etag": "\"dld8rgnz82p6-e8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnz82p6-e8\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=512|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 512,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/ItemIcon/Recovery.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Recovery.webp",
+        "localPath": "gallery/zzz/Recovery.webp",
+        "sha256": "04cfd12b4277e76ac3dd2392c63540cfb58a7f7fe8e23b8d838fa2b1d7046e4d",
+        "etag": "\"dld8rgnz82p6-e8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgnz82p6-e8\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=512|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 512,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/ItemIcon/Recovery.png",
+      "rank": 1,
+      "class": 11,
+      "name": "Item_ResourceItem_01_name"
+    },
+    "detail": {
+      "id": 201507,
+      "name": "Item_ResourceItem_01_name",
+      "desc": "",
+      "desc2": "",
+      "class": {
+        "11": "BATTLE RESOURCE"
+      },
+      "rarity": 1,
+      "icon_path": "Assets/NapResources/UI/Sprite/ItemIcon/Recovery.png"
+    }
+  }
+}

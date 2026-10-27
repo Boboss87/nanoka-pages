@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3321051",
+    "name": "One of a Kind",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "One of a Kind"
+    },
+    "detail": {
+      "id": 3321051,
+      "name": "One of a Kind",
+      "desc": "Get by unlocking Yidhari's Mindscape: At Last, a Peaceful Dream",
+      "desc2": "A card with Yidhari's personal photo printed on it.\n\"From the moment I saw your eyes in that illusion, I understood...\"\n\"After that, I no longer feared my mind would be consumed by the void, nor that I would be lost to the abyss.\"\n\"Because within the illusion, I found the one and only reality I could look to.\"",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1342101",
+    "name": "Distant Rustic",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/RiduBoo/RiduBooItemIcon/UnPacker/RidubooPart_010_Head.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RidubooPart_010_Head.webp",
+        "localPath": "gallery/zzz/RidubooPart_010_Head.webp",
+        "sha256": "2d40b9ff25b78045f1678a5322d498a6ff68992e6a786d41aa5b7c433a858bf4",
+        "etag": "\"dld8rgo6ypwf-5p6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo6ypwf-5p6\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7386|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7386,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/RiduBoo/RiduBooItemIcon/UnPacker/RidubooPart_010_Head.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/RidubooPart_010_Head.webp",
+        "localPath": "gallery/zzz/RidubooPart_010_Head.webp",
+        "sha256": "2d40b9ff25b78045f1678a5322d498a6ff68992e6a786d41aa5b7c433a858bf4",
+        "etag": "\"dld8rgo6ypwf-5p6\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo6ypwf-5p6\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7386|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7386,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/RiduBoo/RiduBooItemIcon/UnPacker/RidubooPart_010_Head.png",
+      "rank": 3,
+      "class": 84,
+      "name": "Distant Rustic"
+    },
+    "detail": {
+      "id": 1342101,
+      "name": "Distant Rustic",
+      "desc": "\"Eous, Eous, what happens if you don't have ears?\"\n\"Ehn-na? (Can't wear glasses?)\"\n\"...Is that how Bangboo wear glasses!?\"",
+      "desc2": "",
+      "class": {
+        "84": "BANGBOO EXTRAS"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/RiduBoo/RiduBooItemIcon/UnPacker/RidubooPart_010_Head.png"
+    }
+  }
+}

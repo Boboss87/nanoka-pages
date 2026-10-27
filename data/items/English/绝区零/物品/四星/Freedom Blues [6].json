@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "31346",
+    "name": "Freedom Blues [6]",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitFreedomBlues_S.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitFreedomBlues_S.webp",
+        "localPath": "gallery/zzz/ItemSuitFreedomBlues_S.webp",
+        "sha256": "848a3974abfd90ee936f6afde628debdb78788c9ef97ac0e48d4d4f9029e680a",
+        "etag": "\"dld8rgepsxfo-75e\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgepsxfo-75e\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9266|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9266,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitFreedomBlues_S.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ItemSuitFreedomBlues_S.webp",
+        "localPath": "gallery/zzz/ItemSuitFreedomBlues_S.webp",
+        "sha256": "848a3974abfd90ee936f6afde628debdb78788c9ef97ac0e48d4d4f9029e680a",
+        "etag": "\"dld8rgepsxfo-75e\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgepsxfo-75e\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9266|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9266,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitFreedomBlues_S.png",
+      "rank": 4,
+      "class": 7,
+      "name": "Freedom Blues [6]"
+    },
+    "detail": {
+      "id": 31346,
+      "name": "Freedom Blues [6]",
+      "desc": "Equip to increase Agents' combat capabilities",
+      "desc2": "This Drive Disc contains track six from Freedom Blues. The melody that emanates with the rotation of the W-Engine is free and easygoing.",
+      "class": {
+        "7": "DISK"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitFreedomBlues_S.png"
+    }
+  }
+}

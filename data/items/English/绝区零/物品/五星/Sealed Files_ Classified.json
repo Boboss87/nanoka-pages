@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4360068",
+    "name": "Sealed Files: Classified",
+    "rarity": "五星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_081.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_081.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_081.webp",
+        "sha256": "ad39754ed9f56a844740e1e1bacb82bd3b64d6bab8b0fcee9c3032b9a3e8fb42",
+        "etag": "\"dld8rgr3r4xd-726\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr3r4xd-726\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9150|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9150,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_081.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_081.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_081.webp",
+        "sha256": "ad39754ed9f56a844740e1e1bacb82bd3b64d6bab8b0fcee9c3032b9a3e8fb42",
+        "etag": "\"dld8rgr3r4xd-726\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr3r4xd-726\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9150|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9150,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_081.png",
+      "rank": 5,
+      "class": 130,
+      "name": "Sealed Files: Classified"
+    },
+    "detail": {
+      "id": 4360068,
+      "name": "Sealed Files: Classified",
+      "desc": "Sealed files from the TOPS research institute. Every record inside has been encrypted, making them difficult to crack. Whatever's in here must be seriously dangerous.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_081.png"
+    }
+  }
+}

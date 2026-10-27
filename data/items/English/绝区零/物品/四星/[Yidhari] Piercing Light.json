@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1350151",
+    "name": "[Yidhari] Piercing Light",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic050.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic050.webp",
+        "localPath": "gallery/zzz/Relic050.webp",
+        "sha256": "dfc75641f967d49e1fab3746acbea7ace4bde95fe2be5943c6726828f544e5d2",
+        "etag": "\"dld8rgo2sohg-3wk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo2sohg-3wk\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5060|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5060,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic050.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic050.webp",
+        "localPath": "gallery/zzz/Relic050.webp",
+        "sha256": "dfc75641f967d49e1fab3746acbea7ace4bde95fe2be5943c6726828f544e5d2",
+        "etag": "\"dld8rgo2sohg-3wk\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo2sohg-3wk\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5060|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5060,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic050.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Yidhari] Piercing Light"
+    },
+    "detail": {
+      "id": 1350151,
+      "name": "[Yidhari] Piercing Light",
+      "desc": "When Yidhari performs a 3-stage charged attack with <color=#FFFFFF>Basic Attack: Frostbite Embrace</color>, she gains <color=#FFFFFF>Temporary Shield</color> each time she hits an enemy during the spinning horizontal attack. When Yidhari performs the final downward smash of this <color=#FFFFFF>Basic Attack: Frostbite Embrace</color> sequence, or when she performs an ALT <color=#FFFFFF>EX Special Attack: Glacial Crush</color> during the charged attack ALT, all <color=#FFFFFF>Temporary Shield</color> will be consumed to <color=#2BAD00>increase the attack's DMG by up to 240%</color> based on the amount of <color=#FFFFFF>Temporary Shield</color> consumed. The Temporary Shield <color=#2BAD00>caps at 80% of Yidhari's Max HP.</color> All <color=#FFFFFF>Temporary Shield</color> will be reset if the spinning horizontal attack is interrupted.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic050.png"
+    }
+  }
+}

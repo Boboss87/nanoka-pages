@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1101907",
+    "name": "[Ether] Invalid Adapter",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech10.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardTech10.webp",
+        "localPath": "gallery/zzz/CardTech10.webp",
+        "sha256": "2ed3d9e56478a010158992153db20875493f23a4052336b2f1007e6fd0db20e3",
+        "etag": "\"dld8rfr46c8o-drs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr46c8o-drs\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17848|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17848,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech10.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardTech10.webp",
+        "localPath": "gallery/zzz/CardTech10.webp",
+        "sha256": "2ed3d9e56478a010158992153db20875493f23a4052336b2f1007e6fd0db20e3",
+        "etag": "\"dld8rfr46c8o-drs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr46c8o-drs\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17848|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17848,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech10.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Ether] Invalid Adapter"
+    },
+    "detail": {
+      "id": 1101907,
+      "name": "[Ether] Invalid Adapter",
+      "desc": "Each Standard [Ether] Resonium owned increases Agent <color=#FE437E>Ether Anomaly Buildup Rate</color> by <color=#2BAD00>6%</color>, up to a maximum increase of <color=#2BAD00>48%</color>.",
+      "desc2": "Much like a mobile phone data cable, it connects multiple Bangboo for data connection. However, it also shares another trait with data cables: it's prone to breaking.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardTech10.png"
+    }
+  }
+}

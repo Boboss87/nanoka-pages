@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4362001",
+    "name": "ZKItem_4362001_Name",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Box_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Box_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_Box_Blueprint.webp",
+        "sha256": "24c831cbd0b5361f76045e2d15d296ab4e402c853bcf4e83d29fb604c261bd88",
+        "etag": "\"dld8rgr06j54-7rc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr06j54-7rc\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10056|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10056,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Box_Blueprint.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Box_Blueprint.webp",
+        "localPath": "gallery/zzz/Zenkov_Box_Blueprint.webp",
+        "sha256": "24c831cbd0b5361f76045e2d15d296ab4e402c853bcf4e83d29fb604c261bd88",
+        "etag": "\"dld8rgr06j54-7rc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr06j54-7rc\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=10056|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10056,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Box_Blueprint.png",
+      "rank": 4,
+      "class": 130,
+      "name": "ZKItem_4362001_Name"
+    },
+    "detail": {
+      "id": 4362001,
+      "name": "ZKItem_4362001_Name",
+      "desc": "ZKItem_4362001_Desc",
+      "desc2": "BKItem_4362001_Story",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Box_Blueprint.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4231001",
+    "name": "Bangboo Fun Watch",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovItemDigitalWatch_1.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovItemDigitalWatch_1.webp",
+        "localPath": "gallery/zzz/BangkovItemDigitalWatch_1.webp",
+        "sha256": "3a8ac700ded218659984b0ce24ab25a3a3d936b2146c439df8aa4d3a6c2efdae",
+        "etag": "\"dld8rfpjm3b8-6na\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpjm3b8-6na\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8614|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8614,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovItemDigitalWatch_1.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovItemDigitalWatch_1.webp",
+        "localPath": "gallery/zzz/BangkovItemDigitalWatch_1.webp",
+        "sha256": "3a8ac700ded218659984b0ce24ab25a3a3d936b2146c439df8aa4d3a6c2efdae",
+        "etag": "\"dld8rfpjm3b8-6na\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpjm3b8-6na\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8614|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8614,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovItemDigitalWatch_1.png",
+      "rank": 4,
+      "class": 123,
+      "name": "Bangboo Fun Watch"
+    },
+    "detail": {
+      "id": 4231001,
+      "name": "Bangboo Fun Watch",
+      "desc": "An electric watch for Bangboo. Can be bought at the store.",
+      "desc2": "BKItem_4231001_Story",
+      "class": {
+        "123": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovItemDigitalWatch_1.png"
+    }
+  }
+}

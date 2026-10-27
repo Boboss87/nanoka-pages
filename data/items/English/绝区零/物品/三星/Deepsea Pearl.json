@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "412021116",
+    "name": "Deepsea Pearl",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Belle_Head_Hat_02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Belle_Head_Hat_02.webp",
+        "localPath": "gallery/zzz/icon_Belle_Head_Hat_02.webp",
+        "sha256": "4321204356fd8aeb1a09c75783164d7dd157e46bb9659f81319bc81f57bcc8a7",
+        "etag": "\"dld8rgrl0q7y-7lu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrl0q7y-7lu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9858|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9858,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Belle_Head_Hat_02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Belle_Head_Hat_02.webp",
+        "localPath": "gallery/zzz/icon_Belle_Head_Hat_02.webp",
+        "sha256": "4321204356fd8aeb1a09c75783164d7dd157e46bb9659f81319bc81f57bcc8a7",
+        "etag": "\"dld8rgrl0q7y-7lu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrl0q7y-7lu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9858|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9858,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Belle_Head_Hat_02.png",
+      "rank": 3,
+      "class": 95,
+      "name": "Deepsea Pearl"
+    },
+    "detail": {
+      "id": 412021116,
+      "name": "Deepsea Pearl",
+      "desc": "A Proxy accessory that can be worn with some of Belle's Proxy outfits.",
+      "desc2": "A rounded hat with a playful rolled edge. Less exhaustion, more sweetness.",
+      "class": {
+        "95": "OUTFIT ACCESSORIES"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Belle_Head_Hat_02.png"
+    }
+  }
+}

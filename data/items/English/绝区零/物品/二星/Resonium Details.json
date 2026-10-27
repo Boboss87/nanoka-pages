@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000002",
+    "name": "Resonium Details",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CardUnlock.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardUnlock.webp",
+        "localPath": "gallery/zzz/CardUnlock.webp",
+        "sha256": "1f071d2c52bfa783c8b6e2cd4e43c0cee9e473a173c8a81f46348a15cda03b9b",
+        "etag": "\"dld8rfr6k2ri-6dm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr6k2ri-6dm\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8266|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8266,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CardUnlock.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardUnlock.webp",
+        "localPath": "gallery/zzz/CardUnlock.webp",
+        "sha256": "1f071d2c52bfa783c8b6e2cd4e43c0cee9e473a173c8a81f46348a15cda03b9b",
+        "etag": "\"dld8rfr6k2ri-6dm\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr6k2ri-6dm\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=8266|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8266,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CardUnlock.png",
+      "rank": 2,
+      "class": 29,
+      "name": "Resonium Details"
+    },
+    "detail": {
+      "id": 1000002,
+      "name": "Resonium Details",
+      "desc": "New Resonium unlocked: You may now find this Resonium while exploring Hollows.",
+      "desc2": "Resonium information stored in the Association's archives. Let's store it in our Bangboo database. The more Resonium data, the better.",
+      "class": {
+        "29": "INFO"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/CardUnlock.png"
+    }
+  }
+}

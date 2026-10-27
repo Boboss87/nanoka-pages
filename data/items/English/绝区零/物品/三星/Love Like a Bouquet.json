@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3321331",
+    "name": "Love Like a Bouquet",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "Love Like a Bouquet"
+    },
+    "detail": {
+      "id": 3321331,
+      "name": "Love Like a Bouquet",
+      "desc": "Get by unlocking Vivian's Mindscape: \"Vivian\"",
+      "desc2": "A namecard featuring a private photo of Vivian.\n\"How should I describe you...? You are like the mist at midnight, the wind on a clear day, the shimmering light on water, like... everything I adore.\"\n\"I cherish this moment... because, right now, in your eyes, there is only me.\"",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

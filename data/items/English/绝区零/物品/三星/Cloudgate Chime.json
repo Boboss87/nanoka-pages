@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4150025",
+    "name": "Cloudgate Chime",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianFestivalProduct02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianFestivalProduct02.webp",
+        "localPath": "gallery/zzz/SuibianFestivalProduct02.webp",
+        "sha256": "dfdde5723d61c1079f4135977e89c899b6b5e2c2a284db24c92a9ef4fc3dca39",
+        "etag": "\"dld8rgofw8d2-6gu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgofw8d2-6gu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8382|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8382,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianFestivalProduct02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianFestivalProduct02.webp",
+        "localPath": "gallery/zzz/SuibianFestivalProduct02.webp",
+        "sha256": "dfdde5723d61c1079f4135977e89c899b6b5e2c2a284db24c92a9ef4fc3dca39",
+        "etag": "\"dld8rgofw8d2-6gu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgofw8d2-6gu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8382|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8382,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianFestivalProduct02.png",
+      "rank": 3,
+      "class": 89,
+      "name": "Cloudgate Chime"
+    },
+    "detail": {
+      "id": 4150025,
+      "name": "Cloudgate Chime",
+      "desc": "Festival supplies crafted and sold at Suibian Temple.",
+      "desc2": "At dusk, a child always sneaks a tap — elders say it's the sound of time flowing gently over Suibian Temple's steps.",
+      "class": {
+        "89": "Product"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianFestivalProduct02.png"
+    }
+  }
+}

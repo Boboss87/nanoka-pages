@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "110002",
+    "name": "Living Drive",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "ExBigBoss002",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ExBigBoss002.webp",
+        "localPath": "gallery/zzz/ExBigBoss002.webp",
+        "sha256": "9c726ca483e9a50dee59817f5a730e5c7448a082d8b38922ff9e0c4ae9328306",
+        "etag": "\"dld8rfs6a4m3-kfxc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfs6a4m3-kfxc\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=953760|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 953760,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "ExBigBoss002",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ExBigBoss002.webp",
+        "localPath": "gallery/zzz/ExBigBoss002.webp",
+        "sha256": "9c726ca483e9a50dee59817f5a730e5c7448a082d8b38922ff9e0c4ae9328306",
+        "etag": "\"dld8rfs6a4m3-kfxc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfs6a4m3-kfxc\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=953760|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 953760,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "ExBigBoss002",
+      "rank": 4,
+      "class": 10,
+      "name": "Living Drive",
+      "boss": true
+    },
+    "detail": {
+      "id": 110002,
+      "name": "Living Drive",
+      "desc": "An important item required to upgrade your Agent's advanced Core Skills.",
+      "desc2": "A rare form of Etheric coagulum retrieved from the Unknown Corruption Complex. It looks just like a normal joint, but keeps writhing around as though alive — like it's trying to power some colossus in a wild dance.",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 4,
+      "icon_path": "ExBigBoss002",
+      "boss": true
+    }
+  }
+}

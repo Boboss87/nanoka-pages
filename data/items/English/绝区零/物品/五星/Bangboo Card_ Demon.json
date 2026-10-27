@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4360119",
+    "name": "Bangboo Card: Demon",
+    "rarity": "五星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_073.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_073.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_073.webp",
+        "sha256": "c1da9cf8068d7e27536a654be5a10efcc622f82dd7c58963fbdf7ee9a912aba8",
+        "etag": "\"dm16zg138xt1-8ae\"",
+        "lastModified": "Sat, 10 Oct 2026 13:28:19 GMT",
+        "remoteKey": "etag=\"dm16zg138xt1-8ae\"|lastModified=Sat, 10 Oct 2026 13:28:19 GMT|bytes=10742|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10742,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_073.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Collection_073.webp",
+        "localPath": "gallery/zzz/Zenkov_Collection_073.webp",
+        "sha256": "c1da9cf8068d7e27536a654be5a10efcc622f82dd7c58963fbdf7ee9a912aba8",
+        "etag": "\"dm16zg138xt1-8ae\"",
+        "lastModified": "Sat, 10 Oct 2026 13:28:19 GMT",
+        "remoteKey": "etag=\"dm16zg138xt1-8ae\"|lastModified=Sat, 10 Oct 2026 13:28:19 GMT|bytes=10742|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10742,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_073.png",
+      "rank": 5,
+      "class": 130,
+      "name": "Bangboo Card: Demon"
+    },
+    "detail": {
+      "id": 4360119,
+      "name": "Bangboo Card: Demon",
+      "desc": "A special card that can only be reconstructed by triggering a crafting reaction with Mimic Substances. Its golden face traces out Devilboo's tantalizing curves. Deal 'em out~ Bangboo boards a plane, coordinates: west of the Enigma of the Labyrinth.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Collection_073.png"
+    }
+  }
+}

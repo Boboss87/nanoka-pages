@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1102111",
+    "name": "[Synergy] Happy Merry-Go-Round",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardToy11.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardToy11.webp",
+        "localPath": "gallery/zzz/CardToy11.webp",
+        "sha256": "6d4353806335ef361c7a8afa87b038359c53e8c294a221afd3e47407bbb022d6",
+        "etag": "\"dld8rfr6k2ri-cly\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr6k2ri-cly\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16342|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16342,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardToy11.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardToy11.webp",
+        "localPath": "gallery/zzz/CardToy11.webp",
+        "sha256": "6d4353806335ef361c7a8afa87b038359c53e8c294a221afd3e47407bbb022d6",
+        "etag": "\"dld8rfr6k2ri-cly\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr6k2ri-cly\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16342|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16342,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardToy11.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[Synergy] Happy Merry-Go-Round"
+    },
+    "detail": {
+      "id": 1102111,
+      "name": "[Synergy] Happy Merry-Go-Round",
+      "desc": "Bangboo PEN Ratio increases by <color=#2BAD00>15%</color>.",
+      "desc2": "This toy is designed for three cats to play together. The ideal scenario is one cat monopolizing all three balls, while the worst-case scenario is none of the cats showing any interest.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardToy11.png"
+    }
+  }
+}

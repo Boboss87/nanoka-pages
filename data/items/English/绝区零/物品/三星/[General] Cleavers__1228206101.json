@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1228206101",
+    "name": "[General] Cleavers",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard31.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard31.webp",
+        "localPath": "gallery/zzz/CardChessboard31.webp",
+        "sha256": "06ac5fc5a0c311b4a071eec11da83b7149388367f7336902ba1e62126ca2c74e",
+        "etag": "\"dld8rfq9t72h-8n0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq9t72h-8n0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=11196|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11196,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard31.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard31.webp",
+        "localPath": "gallery/zzz/CardChessboard31.webp",
+        "sha256": "06ac5fc5a0c311b4a071eec11da83b7149388367f7336902ba1e62126ca2c74e",
+        "etag": "\"dld8rfq9t72h-8n0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq9t72h-8n0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=11196|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11196,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard31.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[General] Cleavers"
+    },
+    "detail": {
+      "id": 1228206101,
+      "name": "[General] Cleavers",
+      "desc": "When attacking, 20% chance to <color=#FFAF2C>turn enemies into Ether crystals</color> (no EXP provided)",
+      "desc2": "",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard31.png"
+    }
+  }
+}

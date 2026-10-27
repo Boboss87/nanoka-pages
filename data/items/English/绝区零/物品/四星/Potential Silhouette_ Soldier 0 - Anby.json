@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "20138",
+    "name": "Potential Silhouette: Soldier 0 - Anby",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconRoleAwaken_1381.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRoleAwaken_1381.webp",
+        "localPath": "gallery/zzz/IconRoleAwaken_1381.webp",
+        "sha256": "0d487d73d3fdc45b8e9e5de1323a9587ef0e8d478d22afb68158639c806ab582",
+        "etag": "\"dld8rgasp0xf-7oq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgasp0xf-7oq\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9962|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9962,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconRoleAwaken_1381.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRoleAwaken_1381.webp",
+        "localPath": "gallery/zzz/IconRoleAwaken_1381.webp",
+        "sha256": "0d487d73d3fdc45b8e9e5de1323a9587ef0e8d478d22afb68158639c806ab582",
+        "etag": "\"dld8rgasp0xf-7oq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgasp0xf-7oq\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9962|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9962,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconRoleAwaken_1381.png",
+      "rank": 4,
+      "class": 6,
+      "name": "Potential Silhouette: Soldier 0 - Anby"
+    },
+    "detail": {
+      "id": 20138,
+      "name": "Potential Silhouette: Soldier 0 - Anby",
+      "desc": "Used to awaken Soldier 0 - Anby's potential. Can be exchanged in the Potential Archive store.",
+      "desc2": "A sharp, clean silhouette capturing an Agent's potential \"ideal self.\"\n\nShe made peace with her past and promised herself a future — now she's strong enough to down ten steaming-hot burgers in one go.",
+      "class": {
+        "6": "AGENT SILHOUETTE"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconRoleAwaken_1381.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "100122",
+    "name": "Advanced Freeze Chip",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AvatarSkillIce02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AvatarSkillIce02.webp",
+        "localPath": "gallery/zzz/AvatarSkillIce02.webp",
+        "sha256": "c0c4719f69d1efe2a38bec0b9bb964f1f294092e5a0fa539fe86b7b5aaab1d81",
+        "etag": "\"dld8rfo1fkwn-5wy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfo1fkwn-5wy\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7666|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7666,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AvatarSkillIce02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AvatarSkillIce02.webp",
+        "localPath": "gallery/zzz/AvatarSkillIce02.webp",
+        "sha256": "c0c4719f69d1efe2a38bec0b9bb964f1f294092e5a0fa539fe86b7b5aaab1d81",
+        "etag": "\"dld8rfo1fkwn-5wy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfo1fkwn-5wy\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7666|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7666,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AvatarSkillIce02.png",
+      "rank": 2,
+      "class": 10,
+      "name": "Advanced Freeze Chip"
+    },
+    "detail": {
+      "id": 100122,
+      "name": "Advanced Freeze Chip",
+      "desc": "Upgrades an Ice Agent's skills.",
+      "desc2": "A simulation chip designed to enhance the effectiveness of the user's Ice attacks. With consistent practice, one can improve their proficiency in relevant tactics even outside the Hollows.",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AvatarSkillIce02.png"
+    }
+  }
+}

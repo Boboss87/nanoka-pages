@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "412021305",
+    "name": "Mischief Bear",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Belle_Chest_WaistOrnament_Default.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Belle_Chest_WaistOrnament_Default.webp",
+        "localPath": "gallery/zzz/icon_Belle_Chest_WaistOrnament_Default.webp",
+        "sha256": "5ca0965a7825e6978d6d51c532f3dd552df7cee7beb0c5079a09b7296e931693",
+        "etag": "\"dld8rgrjtuyj-9dc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrjtuyj-9dc\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=12144|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12144,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Belle_Chest_WaistOrnament_Default.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Belle_Chest_WaistOrnament_Default.webp",
+        "localPath": "gallery/zzz/icon_Belle_Chest_WaistOrnament_Default.webp",
+        "sha256": "5ca0965a7825e6978d6d51c532f3dd552df7cee7beb0c5079a09b7296e931693",
+        "etag": "\"dld8rgrjtuyj-9dc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrjtuyj-9dc\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=12144|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 12144,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Belle_Chest_WaistOrnament_Default.png",
+      "rank": 3,
+      "class": 95,
+      "name": "Mischief Bear"
+    },
+    "detail": {
+      "id": 412021305,
+      "name": "Mischief Bear",
+      "desc": "A Proxy accessory that can be worn with some of Belle's Proxy outfits.",
+      "desc2": "After losing an eye, Mischief Bear doesn't dare pull pranks anymore.",
+      "class": {
+        "95": "OUTFIT ACCESSORIES"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Belle_Chest_WaistOrnament_Default.png"
+    }
+  }
+}

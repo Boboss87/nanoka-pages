@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4223004",
+    "name": "Fruit & Veggie Fun Backpack",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovEquipBag_4.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovEquipBag_4.webp",
+        "localPath": "gallery/zzz/BangkovEquipBag_4.webp",
+        "sha256": "eb6cc8f8f93a5532fbc4505584b3d5e745a66d5265f7c1e5d9ea37d5b5134453",
+        "etag": "\"dld8rfpj0noj-5se\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpj0noj-5se\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7502|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7502,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovEquipBag_4.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/BangkovEquipBag_4.webp",
+        "localPath": "gallery/zzz/BangkovEquipBag_4.webp",
+        "sha256": "eb6cc8f8f93a5532fbc4505584b3d5e745a66d5265f7c1e5d9ea37d5b5134453",
+        "etag": "\"dld8rfpj0noj-5se\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpj0noj-5se\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=7502|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7502,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovEquipBag_4.png",
+      "rank": 2,
+      "class": 122,
+      "name": "Fruit & Veggie Fun Backpack"
+    },
+    "detail": {
+      "id": 4223004,
+      "name": "Fruit & Veggie Fun Backpack",
+      "desc": "A backpack sold at the Bootopia souvenir shop, with a cute, childlike style.",
+      "desc2": "BKItem_4223004_Story",
+      "class": {
+        "122": null
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Activity/Ver2_8/Bangkov/UnPacker/ItemIcon/BangkovEquipBag_4.png"
+    }
+  }
+}

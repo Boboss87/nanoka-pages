@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1011102",
+    "name": "[Freeze] Ice Flask",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardFrozen13.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardFrozen13.webp",
+        "localPath": "gallery/zzz/CardFrozen13.webp",
+        "sha256": "1b246890c28a785a22c486c0ac4182b3bcf54cae1995c3e2c46fe0630dac8c04",
+        "etag": "\"dld8rfqo3m7i-cb0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqo3m7i-cb0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15948|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15948,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardFrozen13.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardFrozen13.webp",
+        "localPath": "gallery/zzz/CardFrozen13.webp",
+        "sha256": "1b246890c28a785a22c486c0ac4182b3bcf54cae1995c3e2c46fe0630dac8c04",
+        "etag": "\"dld8rfqo3m7i-cb0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqo3m7i-cb0\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15948|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15948,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardFrozen13.png",
+      "rank": 4,
+      "class": 31,
+      "name": "[Freeze] Ice Flask"
+    },
+    "detail": {
+      "id": 1011102,
+      "name": "[Freeze] Ice Flask",
+      "desc": "Triggering Ice Mark <color=#2BAD00>no longer consumes stacks</color>.",
+      "desc2": "A small bottle made of a special material, emitting a slight chill even when it's empty.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardFrozen13.png"
+    }
+  }
+}

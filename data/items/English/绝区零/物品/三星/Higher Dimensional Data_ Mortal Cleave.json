@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "110509",
+    "name": "Higher Dimensional Data: Mortal Cleave",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "ExSmallBoss009",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ExSmallBoss009.webp",
+        "localPath": "gallery/zzz/ExSmallBoss009.webp",
+        "sha256": "4e2be9efca9a817ae1a24729efb4f307b89a4e16858a017c72c69bd909bab4b7",
+        "etag": "\"dld8rg2n5yxg-kj9a\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg2n5yxg-kj9a\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=958078|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 958078,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "ExSmallBoss009",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/ExSmallBoss009.webp",
+        "localPath": "gallery/zzz/ExSmallBoss009.webp",
+        "sha256": "4e2be9efca9a817ae1a24729efb4f307b89a4e16858a017c72c69bd909bab4b7",
+        "etag": "\"dld8rg2n5yxg-kj9a\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg2n5yxg-kj9a\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=958078|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 958078,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "ExSmallBoss009",
+      "rank": 3,
+      "class": 10,
+      "name": "Higher Dimensional Data: Mortal Cleave",
+      "boss": true
+    },
+    "detail": {
+      "id": 110509,
+      "name": "Higher Dimensional Data: Mortal Cleave",
+      "desc": "An item required to increase your Agent's Core Skill level.",
+      "desc2": "A data model built on the combat records of numerous investigators versus Autonomous Tactical Unit - Lumberjack, including their most profound impressions and evaluations of it. It's enough data to see it \"born and alive\" inside a VR system.",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 3,
+      "icon_path": "ExSmallBoss009",
+      "boss": true
+    }
+  }
+}

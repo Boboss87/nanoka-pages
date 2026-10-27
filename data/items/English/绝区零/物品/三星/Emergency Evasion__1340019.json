@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1340019",
+    "name": "Emergency Evasion",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardLootBoxAdversity.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardLootBoxAdversity.webp",
+        "localPath": "gallery/zzz/CardLootBoxAdversity.webp",
+        "sha256": "9d22b66e045f8731b4fabd66d4d1a3785e78c48709b3f84a3dad6b6b818e8007",
+        "etag": "\"dld8rfqro7zr-c02\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqro7zr-c02\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15554|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15554,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardLootBoxAdversity.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardLootBoxAdversity.webp",
+        "localPath": "gallery/zzz/CardLootBoxAdversity.webp",
+        "sha256": "9d22b66e045f8731b4fabd66d4d1a3785e78c48709b3f84a3dad6b6b818e8007",
+        "etag": "\"dld8rfqro7zr-c02\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqro7zr-c02\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15554|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15554,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardLootBoxAdversity.png",
+      "rank": 3,
+      "class": 83,
+      "name": "Emergency Evasion"
+    },
+    "detail": {
+      "id": 1340019,
+      "name": "Emergency Evasion",
+      "desc": "Obtain <color=#2BAD00>1</color> random Adversity Resonium and leave.",
+      "desc2": "",
+      "class": {
+        "83": null
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/CardLootBoxAdversity.png"
+    }
+  }
+}

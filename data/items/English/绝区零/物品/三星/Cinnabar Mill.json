@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4150019",
+    "name": "Cinnabar Mill",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianTastesProduct04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianTastesProduct04.webp",
+        "localPath": "gallery/zzz/SuibianTastesProduct04.webp",
+        "sha256": "4d387e10e6b1c89540102502a32d20f5705e22162634c93cbed7f1ca501319f8",
+        "etag": "\"dld8rgoh33mh-6du\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoh33mh-6du\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8274|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8274,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianTastesProduct04.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianTastesProduct04.webp",
+        "localPath": "gallery/zzz/SuibianTastesProduct04.webp",
+        "sha256": "4d387e10e6b1c89540102502a32d20f5705e22162634c93cbed7f1ca501319f8",
+        "etag": "\"dld8rgoh33mh-6du\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoh33mh-6du\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8274|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8274,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianTastesProduct04.png",
+      "rank": 3,
+      "class": 89,
+      "name": "Cinnabar Mill"
+    },
+    "detail": {
+      "id": 4150019,
+      "name": "Cinnabar Mill",
+      "desc": "Medical supplies crafted and sold at Suibian Temple.",
+      "desc2": "A cinnabar-hued mortar, expertly cast and stained with dark herbal traces that shimmer gold under dim light.",
+      "class": {
+        "89": "Product"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianTastesProduct04.png"
+    }
+  }
+}

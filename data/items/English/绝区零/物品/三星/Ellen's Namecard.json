@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3311191",
+    "name": "Ellen's Namecard",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "Ellen's Namecard"
+    },
+    "detail": {
+      "id": 3311191,
+      "name": "Ellen's Namecard",
+      "desc": "Get by unlocking Ellen's Mindscape: Overtime-Intolerant",
+      "desc2": "A card with an apathetic Victoria Housekeeping maid printed on it.\nThese namecards had to be \"carefully\" prepared under the watchful gaze of the head maid and a professional attendant. Besides handing these out to clients, some have also been given to classmates stuck in the same group project.",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

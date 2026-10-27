@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1111",
+    "name": "Anton",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece15.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece15.webp",
+        "localPath": "gallery/zzz/IconRolePiece15.webp",
+        "sha256": "7c1d343daa38542f5c0b8594c3fe443d155838ea79bb18b104d99e82cb2510cc",
+        "etag": "\"dld8rgdczbpg-8ce\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgdczbpg-8ce\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10814|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10814,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece15.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece15.webp",
+        "localPath": "gallery/zzz/IconRolePiece15.webp",
+        "sha256": "7c1d343daa38542f5c0b8594c3fe443d155838ea79bb18b104d99e82cb2510cc",
+        "etag": "\"dld8rgdczbpg-8ce\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgdczbpg-8ce\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10814|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10814,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece15.png",
+      "rank": 3,
+      "class": 3,
+      "name": "Anton"
+    },
+    "detail": {
+      "id": 1111,
+      "name": "Anton",
+      "desc": "Use it to obtain the Agent or unlock the Agent's Mindscapes.",
+      "desc2": "Snapshots from Anton's daily life and from in combat, recording important moments before and after he became an Agent.\nThese images also provide insights into his fighting style and favorite weapons, helping to better understand his strengths.\n\nSo that's how Anton's bro is put together... Finally, I've seen it all!",
+      "class": {
+        "3": "AGENT"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece15.png"
+    }
+  }
+}

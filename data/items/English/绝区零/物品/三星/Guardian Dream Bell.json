@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1343023",
+    "name": "Guardian Dream Bell",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardToy01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardToy01.webp",
+        "localPath": "gallery/zzz/CardToy01.webp",
+        "sha256": "1c8b42e34aa005d70f3bcb4f5839ada3d5c7e6760eea16add6741524997f7d56",
+        "etag": "\"dld8rfr5d7i3-cxs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr5d7i3-cxs\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16768|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16768,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardToy01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardToy01.webp",
+        "localPath": "gallery/zzz/CardToy01.webp",
+        "sha256": "1c8b42e34aa005d70f3bcb4f5839ada3d5c7e6760eea16add6741524997f7d56",
+        "etag": "\"dld8rfr5d7i3-cxs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfr5d7i3-cxs\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16768|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16768,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardToy01.png",
+      "rank": 3,
+      "class": 86,
+      "name": "Guardian Dream Bell"
+    },
+    "detail": {
+      "id": 1343023,
+      "name": "Guardian Dream Bell",
+      "desc": "The Weaken status effect's <color=#FFAF2C>duration increases by 1s per Rank</color>, and the <color=#FFAF2C>DMG boost effect increases by 2% per Rank</color>. When triggering an Anomaly or Stunning an enemy, Enhanced Energy Beam's duration <color=#FFAF2C>increases by 0.34s per Rank</color>.\nWhen enemies suffer an Attribute Anomaly or are Stunned, Tully will use Enhanced Energy Beam.",
+      "desc2": "",
+      "class": {
+        "86": "BANGBOO RESONIUM"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardToy01.png"
+    }
+  }
+}

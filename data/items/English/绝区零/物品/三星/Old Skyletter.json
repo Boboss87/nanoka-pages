@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "304061",
+    "name": "Old Skyletter",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianTemple_Skyletter_03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianTemple_Skyletter_03.webp",
+        "localPath": "gallery/zzz/SuibianTemple_Skyletter_03.webp",
+        "sha256": "d0c4f1a832e014a7b9e6f6899ea9f473196af35f6ccda6459d27dbe4d608d74c",
+        "etag": "\"dld8rgoluko6-4vw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoluko6-4vw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6332|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6332,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianTemple_Skyletter_03.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SuibianTemple_Skyletter_03.webp",
+        "localPath": "gallery/zzz/SuibianTemple_Skyletter_03.webp",
+        "sha256": "d0c4f1a832e014a7b9e6f6899ea9f473196af35f6ccda6459d27dbe4d608d74c",
+        "etag": "\"dld8rgoluko6-4vw\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgoluko6-4vw\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=6332|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 6332,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianTemple_Skyletter_03.png",
+      "rank": 3,
+      "class": 20,
+      "name": "Old Skyletter"
+    },
+    "detail": {
+      "id": 304061,
+      "name": "Old Skyletter",
+      "desc": "Prayers That Failed to Take Flight",
+      "desc2": "The skyletter preserved by Mr. Mo has straight and clean creases, as if freshly folded. Yet upon closer inspection of the paper's color, one can still see traces left by the passage of time. The skyletter's owner must have taken great care in preserving it.",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/SuibianTemple/UnPacker/SuibianTemple_Skyletter_03.png"
+    }
+  }
+}

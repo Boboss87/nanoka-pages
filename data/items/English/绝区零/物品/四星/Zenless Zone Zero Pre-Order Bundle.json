@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "2000014",
+    "name": "Zenless Zone Zero Pre-Order Bundle",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/SonyPreorderBundle.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SonyPreorderBundle.webp",
+        "localPath": "gallery/zzz/SonyPreorderBundle.webp",
+        "sha256": "3ff78ff5dc4addbfd7de9679c62cc808c7c62230e638631b310c71d97bbe5c2f",
+        "etag": "\"dld8rgodihu8-8pu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgodihu8-8pu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11298|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11298,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/SonyPreorderBundle.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/SonyPreorderBundle.webp",
+        "localPath": "gallery/zzz/SonyPreorderBundle.webp",
+        "sha256": "3ff78ff5dc4addbfd7de9679c62cc808c7c62230e638631b310c71d97bbe5c2f",
+        "etag": "\"dld8rgodihu8-8pu\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgodihu8-8pu\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11298|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11298,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/SonyPreorderBundle.png",
+      "rank": 4,
+      "class": 51,
+      "name": "Zenless Zone Zero Pre-Order Bundle"
+    },
+    "detail": {
+      "id": 2000014,
+      "name": "Zenless Zone Zero Pre-Order Bundle",
+      "desc": "Use to obtain:\nMaster Tape ×2, Senior Investigator Log ×20, Official Investigator Log ×80, W-Engine Energy Module ×10, W-Engine Power Supply ×40, Denny ×150,000",
+      "desc2": "",
+      "class": {
+        "51": "GIFT"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/SonyPreorderBundle.png"
+    }
+  }
+}

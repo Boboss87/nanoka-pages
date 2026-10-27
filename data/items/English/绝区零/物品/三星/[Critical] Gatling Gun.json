@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000305",
+    "name": "[Critical] Gatling Gun",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGun07.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardGun07.webp",
+        "localPath": "gallery/zzz/CardGun07.webp",
+        "sha256": "ccf4fab1f52bcc8742eec27c2525973c8650d812b66a198f128bb0f1a6befe1d",
+        "etag": "\"dld8rfqqhcqc-cfq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqqhcqc-cfq\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16118|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16118,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGun07.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardGun07.webp",
+        "localPath": "gallery/zzz/CardGun07.webp",
+        "sha256": "ccf4fab1f52bcc8742eec27c2525973c8650d812b66a198f128bb0f1a6befe1d",
+        "etag": "\"dld8rfqqhcqc-cfq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqqhcqc-cfq\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16118|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16118,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGun07.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Critical] Gatling Gun"
+    },
+    "detail": {
+      "id": 1000305,
+      "name": "[Critical] Gatling Gun",
+      "desc": "Triggering Perfect Dodge grants all squad members 1 stack of Insight. This effect can trigger once every <color=#2BAD00>8</color>s.",
+      "desc2": "Once you pull the trigger, you'll never want to let go. Offense is the best defense, so a constant attack is the ultimate defense!",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardGun07.png"
+    }
+  }
+}

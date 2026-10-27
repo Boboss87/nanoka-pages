@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3301013",
+    "name": "Rhythm Raver",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard25.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard25.webp",
+        "localPath": "gallery/zzz/Callingcard25.webp",
+        "sha256": "b2532dcc652eafaa269cda12bac8127bfe5dabd5d14876fd826a1d7900e73e74",
+        "etag": "\"dld8rfpqravr-78o\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpqravr-78o\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9384|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9384,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard25.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Callingcard25.webp",
+        "localPath": "gallery/zzz/Callingcard25.webp",
+        "sha256": "b2532dcc652eafaa269cda12bac8127bfe5dabd5d14876fd826a1d7900e73e74",
+        "etag": "\"dld8rfpqravr-78o\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfpqravr-78o\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9384|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9384,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard25.png",
+      "rank": 3,
+      "class": 65,
+      "name": "Rhythm Raver"
+    },
+    "detail": {
+      "id": 3301013,
+      "name": "Rhythm Raver",
+      "desc": "A namecard reward for the limited-time event \"Rhythm Rave.\"\nLimited-time reward.",
+      "desc2": "Ladies and gentlemen, welcome to the rave~\nWe irresponsibly promise to help you leave all your daily woes behind and let your true self run wild! Feel free to share your deepest thoughts with our staff — even if you're a Bangboo complaining about your owner. We promise to forget it immediately.",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/Callingcard25.png"
+    }
+  }
+}

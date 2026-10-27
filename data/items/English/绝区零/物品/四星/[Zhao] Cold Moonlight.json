@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1350191",
+    "name": "[Zhao] Cold Moonlight",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic067.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic067.webp",
+        "localPath": "gallery/zzz/Relic067.webp",
+        "sha256": "6319a5e3c95c01598efb0ee0e645abbb3fd4c07a6560dd0d87cb59ab179e94ec",
+        "etag": "\"dld8rgo3zjqv-3oc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo3zjqv-3oc\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4764|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4764,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic067.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic067.webp",
+        "localPath": "gallery/zzz/Relic067.webp",
+        "sha256": "6319a5e3c95c01598efb0ee0e645abbb3fd4c07a6560dd0d87cb59ab179e94ec",
+        "etag": "\"dld8rgo3zjqv-3oc\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo3zjqv-3oc\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4764|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4764,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic067.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Zhao] Cold Moonlight"
+    },
+    "detail": {
+      "id": 1350191,
+      "name": "[Zhao] Cold Moonlight",
+      "desc": "Zhao's <color=#2BAD00>Impact increases by 2</color> for every 1,000 initial max HP she has. All squad members' Ultimates and EX Special Attacks deal <color=#2BAD00>12% increased Daze</color>.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic067.png"
+    }
+  }
+}

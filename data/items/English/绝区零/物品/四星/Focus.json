@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "304055",
+    "name": "Focus",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/CampIdle/UnPacker/IconFocus.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconFocus.webp",
+        "localPath": "gallery/zzz/IconFocus.webp",
+        "sha256": "c1510aabe9389a25122cc3331ee8cd70df0e67b59c6c6f4ca87168341a73e2d8",
+        "etag": "\"dld8rg7mdnt4-6ha\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7mdnt4-6ha\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=8398|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8398,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/CampIdle/UnPacker/IconFocus.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconFocus.webp",
+        "localPath": "gallery/zzz/IconFocus.webp",
+        "sha256": "c1510aabe9389a25122cc3331ee8cd70df0e67b59c6c6f4ca87168341a73e2d8",
+        "etag": "\"dld8rg7mdnt4-6ha\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7mdnt4-6ha\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=8398|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8398,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/CampIdle/UnPacker/IconFocus.png",
+      "rank": 4,
+      "class": 20,
+      "name": "Focus"
+    },
+    "detail": {
+      "id": 304055,
+      "name": "Focus",
+      "desc": "Unlocking course nodes requires consuming specific Focus points. When your focus points decrease to a level where you cannot unlock or participate in the next course, please take time to rest and recover. Focus points are restored by 150 points daily at 4:00 AM, with a maximum capacity of 500 Focus points.",
+      "desc2": "Over time, your mind will gradually become clearer.",
+      "class": {
+        "20": "COMMISSION ITEM"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/CampIdle/UnPacker/IconFocus.png"
+    }
+  }
+}

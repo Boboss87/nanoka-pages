@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1357552",
+    "name": "[3] Porcelume Protective Equipment",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CoopCard25.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CoopCard25.webp",
+        "localPath": "gallery/zzz/CoopCard25.webp",
+        "sha256": "07fab5e33b76b83bef77a6ce38a23f521322e445f4cad80e87b91df377e57bf5",
+        "etag": "\"dld8rfrfhl85-cc8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrfhl85-cc8\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15992|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15992,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CoopCard25.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CoopCard25.webp",
+        "localPath": "gallery/zzz/CoopCard25.webp",
+        "sha256": "07fab5e33b76b83bef77a6ce38a23f521322e445f4cad80e87b91df377e57bf5",
+        "etag": "\"dld8rfrfhl85-cc8\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfrfhl85-cc8\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=15992|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 15992,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CoopCard25.png",
+      "rank": 4,
+      "class": 106,
+      "name": "[3] Porcelume Protective Equipment"
+    },
+    "detail": {
+      "id": 1357552,
+      "name": "[3] Porcelume Protective Equipment",
+      "desc": "<color=#FFAF2C>Lightning</color> deals <color=#FFAF2C>reduced DMG</color> to Agents and negates interrupt effects. After triggering <color=#FFAF2C>Lightning Counter</color>, gains a <color=#FFAF2C>shield</color> that lasts 15s and increases Anti-Interrupt Level, can be triggered once every 15s.\n<color=#FFAF2C>Meteor</color> deals <color=#FFAF2C>reduced DMG</color> to Agents and negates interrupt effects. After triggering <color=#FFAF2C>Blaze</color>, gains a <color=#FFAF2C>shield</color> that lasts 15s and increases Anti-Interrupt Level, can be triggered once every 15s.\n<color=#FFAF2C>Miasma accumulation speed</color> is greatly reduced. When Miasma Quelling is triggered, <color=#FFAF2C>continuously restore HP</color>.",
+      "desc2": "",
+      "class": {
+        "106": "TAROT CARD"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CoopCard25.png"
+    }
+  }
+}

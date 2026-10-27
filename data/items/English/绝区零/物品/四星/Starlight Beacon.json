@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000995",
+    "name": "Starlight Beacon",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1531.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1531.webp",
+        "localPath": "gallery/zzz/CardDailyUse1531.webp",
+        "sha256": "7becda3da6b282b97720b34907543f112b2d90c9040eb3af89917d2e7521294b",
+        "etag": "\"dld8rfqhju9p-ccy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqhju9p-ccy\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16018|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16018,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1531.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardDailyUse1531.webp",
+        "localPath": "gallery/zzz/CardDailyUse1531.webp",
+        "sha256": "7becda3da6b282b97720b34907543f112b2d90c9040eb3af89917d2e7521294b",
+        "etag": "\"dld8rfqhju9p-ccy\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqhju9p-ccy\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=16018|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 16018,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1531.png",
+      "rank": 4,
+      "class": 31,
+      "name": "Starlight Beacon"
+    },
+    "detail": {
+      "id": 1000995,
+      "name": "Starlight Beacon",
+      "desc": "Starlight - Billy has evoked the Mindscape: <color=#FFAF2C>[Wasteland Automaton]</color>.\nWasteland Automaton：Increases the DMG dealt by <color=#FFFFFF>Basic Attack: Full-Throttle Starlight</color>, <color=#FFFFFF>EX Special Attack: Cool Wheelie</color>, and <color=#FFFFFF>Ultimate: Starlight Knight Flying Kick</color> by 50%. Activating <color=#FFFFFF>EX Special Attack: Rocking Footwork</color>, <color=#FFFFFF>EX Special Attack: High-Traction Wheels</color>, or hitting a Stunned enemy with <color=#FFFFFF>Special Attack: Drive Suppression</color> grants the <color=#FFFFFF>Turbocharged</color> effect: <color=#FFFFFF>Special Attack: Drive Suppression</color> consumes this effect to immediately follow up with <color=#FFFFFF>EX Special Attack: Cool Wheelie</color>, and increases that instance's CRIT DMG by 50%. Only 1 stack of <color=#FFFFFF>Turbocharged</color> can be held.",
+      "desc2": "The starlight that guides hope may not exist, but there will always be someone who becomes the beacon leading people toward hope.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardDailyUse1531.png"
+    }
+  }
+}

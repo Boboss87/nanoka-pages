@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "100215",
+    "name": "Basic Defense Certification Seal",
+    "rarity": "一星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AvatarRankShield01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AvatarRankShield01.webp",
+        "localPath": "gallery/zzz/AvatarRankShield01.webp",
+        "sha256": "b20ba13db64786771f852011bcb677c43b560a1928dc2b17c0e6fd1a8c4b69f5",
+        "etag": "\"dld8rfo0u59x-71c\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfo0u59x-71c\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9120|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9120,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AvatarRankShield01.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/AvatarRankShield01.webp",
+        "localPath": "gallery/zzz/AvatarRankShield01.webp",
+        "sha256": "b20ba13db64786771f852011bcb677c43b560a1928dc2b17c0e6fd1a8c4b69f5",
+        "etag": "\"dld8rfo0u59x-71c\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfo0u59x-71c\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=9120|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9120,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AvatarRankShield01.png",
+      "rank": 1,
+      "class": 10,
+      "name": "Basic Defense Certification Seal"
+    },
+    "detail": {
+      "id": 100215,
+      "name": "Basic Defense Certification Seal",
+      "desc": "Increases the Agent level cap for Defense-specialty Agents to 20.",
+      "desc2": "Often awarded to Agents who excel at using Defense tactics. Besides attesting to their ability, the seal itself also contains a little benign Ether inside which can be useful when improving an Agent's combat abilities.",
+      "class": {
+        "10": "RESOURCE"
+      },
+      "rarity": 1,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/AvatarRankShield01.png"
+    }
+  }
+}

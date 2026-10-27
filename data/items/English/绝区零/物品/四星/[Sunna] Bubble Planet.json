@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1350211",
+    "name": "[Sunna] Bubble Planet",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic077.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic077.webp",
+        "localPath": "gallery/zzz/Relic077.webp",
+        "sha256": "12292628a184f86c28a0c3e2de3867cc0010d6dee30d9316f87f3768369e9748",
+        "etag": "\"dld8rgo3zjqv-3im\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo3zjqv-3im\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4558|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4558,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic077.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic077.webp",
+        "localPath": "gallery/zzz/Relic077.webp",
+        "sha256": "12292628a184f86c28a0c3e2de3867cc0010d6dee30d9316f87f3768369e9748",
+        "etag": "\"dld8rgo3zjqv-3im\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo3zjqv-3im\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=4558|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 4558,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic077.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Sunna] Bubble Planet"
+    },
+    "detail": {
+      "id": 1350211,
+      "name": "[Sunna] Bubble Planet",
+      "desc": "<color=#2BAD00>Deal 50% more DMG</color> with EX Special Attack: Bubblegum Barrage, EX Special Attack: Special Photography Technique, Chain Attack: Don't Mess With the Cat, and Ultimate: Smash It All!. Bubblegum's Basic Attack: Naughty Cat Spotted is changed to Basic Attack: Bubblegum Barrage. DMG dealt is <color=#2BAD00>regarded as <color=#FFFFFF>EX Special Attack</color> DMG</color>.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic077.png"
+    }
+  }
+}

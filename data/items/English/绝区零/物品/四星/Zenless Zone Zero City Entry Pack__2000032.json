@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "2000032",
+    "name": "Zenless Zone Zero City Entry Pack",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/XboxOnlyBundle.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/XboxOnlyBundle.webp",
+        "localPath": "gallery/zzz/XboxOnlyBundle.webp",
+        "sha256": "fcce05b7724ec9d833f23ed1e6eb5b4f388b12835d0d77a85aa1e1a4262577ac",
+        "etag": "\"dld8rgr06j54-6y2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr06j54-6y2\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9002|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9002,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/XboxOnlyBundle.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/XboxOnlyBundle.webp",
+        "localPath": "gallery/zzz/XboxOnlyBundle.webp",
+        "sha256": "fcce05b7724ec9d833f23ed1e6eb5b4f388b12835d0d77a85aa1e1a4262577ac",
+        "etag": "\"dld8rgr06j54-6y2\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr06j54-6y2\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9002|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9002,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/XboxOnlyBundle.png",
+      "rank": 4,
+      "class": 51,
+      "name": "Zenless Zone Zero City Entry Pack"
+    },
+    "detail": {
+      "id": 2000032,
+      "name": "Zenless Zone Zero City Entry Pack",
+      "desc": "Use to obtain:\nMaster Tape ×2, Official Investigator Log ×80, W-Engine Power Supply ×40, Denny ×150,000",
+      "desc2": "",
+      "class": {
+        "51": "GIFT"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/XboxOnlyBundle.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1341052",
+    "name": "Wrong answer",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/ItemIconSmall/UnPacker/IconFund.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconFund.webp",
+        "localPath": "gallery/zzz/IconFund.webp",
+        "sha256": "baa5ecf6311e258752aba055e786f92e175eef4dd4bb420e8518ad9bd7e82f12",
+        "etag": "\"dld8rg7mdnt4-8iq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7mdnt4-8iq\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11042|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11042,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/ItemIconSmall/UnPacker/IconFund.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconFund.webp",
+        "localPath": "gallery/zzz/IconFund.webp",
+        "sha256": "baa5ecf6311e258752aba055e786f92e175eef4dd4bb420e8518ad9bd7e82f12",
+        "etag": "\"dld8rg7mdnt4-8iq\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7mdnt4-8iq\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=11042|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11042,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/ItemIconSmall/UnPacker/IconFund.png",
+      "rank": 4,
+      "class": 83,
+      "name": "Wrong answer"
+    },
+    "detail": {
+      "id": 1341052,
+      "name": "Wrong answer",
+      "desc": "Hmph, I guess only those of us who've always stayed by Chief Miyabi's side truly understand her...\n(<color=#CF4029>Wrong Answer</color>, obtained <color=#FFAF2C>500</color> Gear Coins)",
+      "desc2": "",
+      "class": {
+        "83": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/ItemIconSmall/UnPacker/IconFund.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "54008",
+    "name": "Plugboo",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece21.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconBangbooPiece21.webp",
+        "localPath": "gallery/zzz/IconBangbooPiece21.webp",
+        "sha256": "5b87aee23fd00bbdf87ca04027e6a2f59b4b613c09f0b174d9c251fadbf6c441",
+        "etag": "\"dld8rg7c9a31-82s\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7c9a31-82s\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10468|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10468,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece21.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconBangbooPiece21.webp",
+        "localPath": "gallery/zzz/IconBangbooPiece21.webp",
+        "sha256": "5b87aee23fd00bbdf87ca04027e6a2f59b4b613c09f0b174d9c251fadbf6c441",
+        "etag": "\"dld8rg7c9a31-82s\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7c9a31-82s\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10468|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10468,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece21.png",
+      "rank": 4,
+      "class": 8,
+      "name": "Plugboo"
+    },
+    "detail": {
+      "id": 54008,
+      "name": "Plugboo",
+      "desc": "Obtain this Bangboo model or authorization to perform the Bangboo's core update.",
+      "desc2": "\"Beeeeep... beep... beep beep.\"",
+      "class": {
+        "8": "BANGBOO"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBangbooPiece/UnPacker/IconBangbooPiece21.png"
+    }
+  }
+}

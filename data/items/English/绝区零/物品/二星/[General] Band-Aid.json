@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1000603",
+    "name": "[General] Band-Aid",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMedical11.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardMedical11.webp",
+        "localPath": "gallery/zzz/CardMedical11.webp",
+        "sha256": "7d3e0ece860c7d624ae486372459ae302fa737f272e64015acac93dce5a1df8e",
+        "etag": "\"dld8rfqvu9eq-dgs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqvu9eq-dgs\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17452|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17452,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMedical11.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardMedical11.webp",
+        "localPath": "gallery/zzz/CardMedical11.webp",
+        "sha256": "7d3e0ece860c7d624ae486372459ae302fa737f272e64015acac93dce5a1df8e",
+        "etag": "\"dld8rfqvu9eq-dgs\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfqvu9eq-dgs\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=17452|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 17452,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMedical11.png",
+      "rank": 2,
+      "class": 31,
+      "name": "[General] Band-Aid"
+    },
+    "detail": {
+      "id": 1000603,
+      "name": "[General] Band-Aid",
+      "desc": "For every 10% of HP missing, the Agent takes <color=#2BAD00>1.2%</color> less DMG.",
+      "desc2": "A band-aid with ointment that can stop bleeding and cause a wound to close quickly.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardMedical11.png"
+    }
+  }
+}

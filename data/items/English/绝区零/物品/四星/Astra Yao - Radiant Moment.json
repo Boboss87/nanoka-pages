@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1322201",
+    "name": "Astra Yao - Radiant Moment",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic023.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic023.webp",
+        "localPath": "gallery/zzz/Relic023.webp",
+        "sha256": "52f6fea7841516b00b48f8f3603ea87852ce084ec193ee475618c7cef5685a31",
+        "etag": "\"dld8rgo0exym-2pa\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo0exym-2pa\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=3502|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 3502,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.desc.IconMap.Icon_Normal",
+        "kind": "icon_map",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "<IconMap:Icon_Normal>",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Icon_Normal.webp",
+        "localPath": "gallery/zzz/Icon_Normal.webp",
+        "sha256": "4f7078ee9d3a5e61be8ce9d3fd3f68b91de0880ba80ee43ea51b64394c158602",
+        "etag": "\"dld8rgefojpl-10m\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgefojpl-10m\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=1318|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 1318,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic023.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic023.webp",
+        "localPath": "gallery/zzz/Relic023.webp",
+        "sha256": "52f6fea7841516b00b48f8f3603ea87852ce084ec193ee475618c7cef5685a31",
+        "etag": "\"dld8rgo0exym-2pa\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo0exym-2pa\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=3502|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 3502,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic023.png",
+      "rank": 4,
+      "class": 80,
+      "name": "Astra Yao - Radiant Moment"
+    },
+    "detail": {
+      "id": 1322201,
+      "name": "Astra Yao - Radiant Moment",
+      "desc": "For every 25 Energy consumed, Astra Yao gains 1 stack of <color=#FFFFFF>Starlight</color>, up to 3 stacks. During <color=#FFFFFF>Idyllic Cadenza</color>, hold <IconMap:Icon_Normal> to unleash <color=#FFFFFF>Basic Attack: Radiant Moment</color>, continuously channeling an energy beam to attack enemies. Upon activating this skill, <color=#FFFFFF>Starlight</color> will be consumed, with each stack of <color=#FFFFFF>Starlight</color> <color=#2BAD00>extending the skill duration by 1s</color>. During this skill, <color=#2BAD00>Anti-Interrupt Level is increased</color>, and <color=#2BAD00>DMG taken is further reduced by 20%</color>. When the skill hits enemies, <color=#2BAD00>target's DEF is reduced by 40%</color>. After gaining 3 stacks of <color=#FFFFFF>Starlight</color>, switching back to Astra Yao will automatically trigger <color=#FFFFFF>Basic Attack: Radiant Moment</color>.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic023.png"
+    }
+  }
+}

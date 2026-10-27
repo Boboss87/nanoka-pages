@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "122",
+    "name": "Duel Arena Token",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/LighterActivityToken.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/LighterActivityToken.webp",
+        "localPath": "gallery/zzz/LighterActivityToken.webp",
+        "sha256": "cbff09c41a7367e1a58a79c1827949a39d8b11f2729649a439e51f58f802ddd7",
+        "etag": "\"dld8rgf1pm1v-8vi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgf1pm1v-8vi\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11502|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11502,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/LighterActivityToken.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/LighterActivityToken.webp",
+        "localPath": "gallery/zzz/LighterActivityToken.webp",
+        "sha256": "cbff09c41a7367e1a58a79c1827949a39d8b11f2729649a439e51f58f802ddd7",
+        "etag": "\"dld8rgf1pm1v-8vi\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgf1pm1v-8vi\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=11502|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 11502,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/LighterActivityToken.png",
+      "rank": 3,
+      "class": 1,
+      "name": "Duel Arena Token"
+    },
+    "detail": {
+      "id": 122,
+      "name": "Duel Arena Token",
+      "desc": "Obtain from the limited-time event \"The Champion.\"\nUsed to redeem special rewards in the event.",
+      "desc2": "Under the victor's crown lie endless scars.",
+      "class": {
+        "1": "CURRENCY"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/LighterActivityToken.png"
+    }
+  }
+}

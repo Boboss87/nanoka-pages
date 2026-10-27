@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "4340302",
+    "name": "Lumina Central, Top-Floor Conference Room",
+    "rarity": "五星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Key_024.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Key_024.webp",
+        "localPath": "gallery/zzz/Zenkov_Key_024.webp",
+        "sha256": "408f21edd3b2cfa5afc6d12a45076c888a18337be23584b5bd08a4781490d436",
+        "etag": "\"dld8rgr7x6cc-6de\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr7x6cc-6de\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8258|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8258,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Key_024.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Zenkov_Key_024.webp",
+        "localPath": "gallery/zzz/Zenkov_Key_024.webp",
+        "sha256": "408f21edd3b2cfa5afc6d12a45076c888a18337be23584b5bd08a4781490d436",
+        "etag": "\"dld8rgr7x6cc-6de\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgr7x6cc-6de\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=8258|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8258,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Key_024.png",
+      "rank": 5,
+      "class": 130,
+      "name": "Lumina Central, Top-Floor Conference Room"
+    },
+    "detail": {
+      "id": 4340302,
+      "name": "Lumina Central, Top-Floor Conference Room",
+      "desc": "After use, unlocks the door to the top-floor conference room at Lumina Central, granting access to a large amount of supplies.",
+      "desc2": "",
+      "class": {
+        "130": "LABYRINTH"
+      },
+      "rarity": 5,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Zenkov/UnPacker/ItemIcon/Zenkov_Key_024.png"
+    }
+  }
+}

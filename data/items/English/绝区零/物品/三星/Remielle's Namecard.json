@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3311581",
+    "name": "Remielle's Namecard",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "Remielle's Namecard"
+    },
+    "detail": {
+      "id": 3311581,
+      "name": "Remielle's Namecard",
+      "desc": "Get by unlocking Remielle's Mindscape: The Garden of Diverging Time",
+      "desc2": "A card with one of the first-generation Void Hunters, who is also a former Lieutenant Colonel of the Guard of Staves, printed on it.\nIts vintage typography and layout make it look like a prop misplaced from the set of an old film.\nThe number printed on the card is no longer in service, and the listed address also disappeared long ago. Just as its owner says, it serves no practical purpose. Yet this slender slip of paper carries the weight of an entire era.",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

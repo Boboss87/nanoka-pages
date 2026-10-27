@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1281",
+    "name": "Piper",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece28.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece28.webp",
+        "localPath": "gallery/zzz/IconRolePiece28.webp",
+        "sha256": "0be7212330811a2b93494e5e651e96afcf1108a71c8913cb036cc8ebdef497aa",
+        "etag": "\"dld8rgde66yv-88w\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgde66yv-88w\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10688|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10688,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece28.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconRolePiece28.webp",
+        "localPath": "gallery/zzz/IconRolePiece28.webp",
+        "sha256": "0be7212330811a2b93494e5e651e96afcf1108a71c8913cb036cc8ebdef497aa",
+        "etag": "\"dld8rgde66yv-88w\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rgde66yv-88w\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=10688|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 10688,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece28.png",
+      "rank": 3,
+      "class": 3,
+      "name": "Piper"
+    },
+    "detail": {
+      "id": 1281,
+      "name": "Piper",
+      "desc": "Use it to obtain the Agent or unlock the Agent's Mindscapes.",
+      "desc2": "Snapshots from Piper's daily life and from in combat, recording important moments before and after she became an Agent.\nThese images also provide insights into her fighting style and favorite weapons, helping to better understand her strengths.\n\nWhat a cool truck driver! Hmm... Checking the photos... \"This footage was shot under controlled circumstances in line with all local regulations.\"",
+      "class": {
+        "3": "AGENT"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconRolePiece/UnPacker/IconRolePiece28.png"
+    }
+  }
+}

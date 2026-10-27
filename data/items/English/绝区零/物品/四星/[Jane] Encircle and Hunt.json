@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1350042",
+    "name": "[Jane] Encircle and Hunt",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic027.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic027.webp",
+        "localPath": "gallery/zzz/Relic027.webp",
+        "sha256": "a1a092835c975a7d783c52d4c1a96d9f093094aabb9ab83f3f73d845d6022095",
+        "etag": "\"dld8rgo0exym-3ww\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo0exym-3ww\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5072|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5072,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic027.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/Relic027.webp",
+        "localPath": "gallery/zzz/Relic027.webp",
+        "sha256": "a1a092835c975a7d783c52d4c1a96d9f093094aabb9ab83f3f73d845d6022095",
+        "etag": "\"dld8rgo0exym-3ww\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgo0exym-3ww\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=5072|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 5072,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic027.png",
+      "rank": 4,
+      "class": 80,
+      "name": "[Jane] Encircle and Hunt"
+    },
+    "detail": {
+      "id": 1350042,
+      "name": "[Jane] Encircle and Hunt",
+      "desc": "{AWAKEN_1261#<color=#FFFFFF>EX Special Attack: Aerial Sweep</color> is upgraded to <color=#FFFFFF>EX Special Attack: Aerial Sweep - Onslaught</color>, with its DMG Multiplier and Anomaly Buildup greatly increased}{NOAWAKEN_1261#<color=#FFFFFF>EX Special Attack: Aerial Sweep</color> is upgraded to <color=#FFFFFF>EX Special Attack: Aerial Sweep - Onslaught</color>}. Hitting an enemy with this attack inflicts <color=#FFFFFF>Wound</color> on the target. While in this state, the target takes <color=#F0D12B>Physical DMG</color> equal to 60% of Jian's ATK and accumulates <color=#F0D12B>Physical Anomaly Buildup</color> once per second for 15s. Repeated triggers refresh the duration.",
+      "desc2": "",
+      "class": {
+        "80": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/AbyssS2/Relic027.png"
+    }
+  }
+}

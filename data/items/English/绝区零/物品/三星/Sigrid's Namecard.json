@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "3311591",
+    "name": "Sigrid's Namecard",
+    "rarity": "三星",
+    "images": []
+  },
+  "content": {
+    "list": {
+      "icon": "",
+      "rank": 3,
+      "class": 65,
+      "name": "Sigrid's Namecard"
+    },
+    "detail": {
+      "id": 3311591,
+      "name": "Sigrid's Namecard",
+      "desc": "Get by unlocking Sigrid's Mindscape: Protector of Miracles",
+      "desc2": "A card with Sigrid, Deputy Director of the Airspace Patrol Department, printed on it.\nThe Airspace Patrol Department's namecards are simple yet dignified, much like the way its officers conduct themselves. Sigrid's portrait is rendered in meticulous detail, down to every strand of hair.",
+      "class": {
+        "65": "CALLING CARD"
+      },
+      "rarity": 3,
+      "icon_path": ""
+    }
+  }
+}

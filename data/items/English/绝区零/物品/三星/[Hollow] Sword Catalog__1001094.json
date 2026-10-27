@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1001094",
+    "name": "[Hollow] Sword Catalog",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard15.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard15.webp",
+        "localPath": "gallery/zzz/CardChessboard15.webp",
+        "sha256": "b413718e2cf531b20137028d08f27dc1ebbb2f59c70f1cb01f1b1005c348615a",
+        "etag": "\"dld8rfq97rfr-aam\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq97rfr-aam\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=13342|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13342,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard15.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/CardChessboard15.webp",
+        "localPath": "gallery/zzz/CardChessboard15.webp",
+        "sha256": "b413718e2cf531b20137028d08f27dc1ebbb2f59c70f1cb01f1b1005c348615a",
+        "etag": "\"dld8rfq97rfr-aam\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:55 GMT",
+        "remoteKey": "etag=\"dld8rfq97rfr-aam\"|lastModified=Sat, 12 Sep 2026 09:47:55 GMT|bytes=13342|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 13342,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard15.png",
+      "rank": 3,
+      "class": 31,
+      "name": "[Hollow] Sword Catalog"
+    },
+    "detail": {
+      "id": 1001094,
+      "name": "[Hollow] Sword Catalog",
+      "desc": "Protagonist gains <color=#2BAD00>20%</color> Lifesteal, <color=#CF4029>but current HP becomes 2</color>.",
+      "desc2": "A photo album filled with famous swords. The name of each sword's owner is written thoughtfully on the back of each photo.",
+      "class": {
+        "31": "MEDAL"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconCard/UnPacker/CardChessboard15.png"
+    }
+  }
+}

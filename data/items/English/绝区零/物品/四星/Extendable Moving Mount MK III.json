@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "230011",
+    "name": "Extendable Moving Mount MK III",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconGarage/UnPacker/TransformSlots08.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/TransformSlots08.webp",
+        "localPath": "gallery/zzz/TransformSlots08.webp",
+        "sha256": "421d52152374941d3d57ef75e1db9fe48247ccfa26f4dfd58b80c36202e55f5a",
+        "etag": "\"dld8rgous34t-746\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgous34t-746\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9222|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9222,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconGarage/UnPacker/TransformSlots08.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/TransformSlots08.webp",
+        "localPath": "gallery/zzz/TransformSlots08.webp",
+        "sha256": "421d52152374941d3d57ef75e1db9fe48247ccfa26f4dfd58b80c36202e55f5a",
+        "etag": "\"dld8rgous34t-746\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgous34t-746\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=9222|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9222,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconGarage/UnPacker/TransformSlots08.png",
+      "rank": 4,
+      "class": 16,
+      "name": "Extendable Moving Mount MK III"
+    },
+    "detail": {
+      "id": 230011,
+      "name": "Extendable Moving Mount MK III",
+      "desc": "Increases Combat Bangboo HP by 60%.",
+      "desc2": "With this, a Bangboo can perform more difficult maneuvers.",
+      "class": {
+        "16": "BANGBOO PLUGIN"
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconGarage/UnPacker/TransformSlots08.png"
+    }
+  }
+}

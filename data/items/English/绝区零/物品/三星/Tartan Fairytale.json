@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "412011320",
+    "name": "Tartan Fairytale",
+    "rarity": "三星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Chest_Neckwear_02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Wise_Chest_Neckwear_02.webp",
+        "localPath": "gallery/zzz/icon_Wise_Chest_Neckwear_02.webp",
+        "sha256": "2373a427639bc7f58693299d4efec6f83cace1d580621f5964e6a7f29d8301a9",
+        "etag": "\"dld8rgrm7lhd-5pa\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrm7lhd-5pa\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7390|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7390,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Chest_Neckwear_02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/icon_Wise_Chest_Neckwear_02.webp",
+        "localPath": "gallery/zzz/icon_Wise_Chest_Neckwear_02.webp",
+        "sha256": "2373a427639bc7f58693299d4efec6f83cace1d580621f5964e6a7f29d8301a9",
+        "etag": "\"dld8rgrm7lhd-5pa\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:57 GMT",
+        "remoteKey": "etag=\"dld8rgrm7lhd-5pa\"|lastModified=Sat, 12 Sep 2026 09:47:57 GMT|bytes=7390|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 7390,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Chest_Neckwear_02.png",
+      "rank": 3,
+      "class": 95,
+      "name": "Tartan Fairytale"
+    },
+    "detail": {
+      "id": 412011320,
+      "name": "Tartan Fairytale",
+      "desc": "A Proxy accessory that can be worn with some of Wise's Proxy outfits.",
+      "desc2": "No matter how busy life gets, don't forget to treat yourself to a warm scarf.\n\"Wise, this scarf is a present for you!\" \"Uhh Belle... looks like we had the same idea.\"",
+      "class": {
+        "95": "OUTFIT ACCESSORIES"
+      },
+      "rarity": 3,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/PlayerAccessory/UnPacker/icon_Wise_Chest_Neckwear_02.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "305003",
+    "name": "Bag of Cash",
+    "rarity": "二星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0002.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconQuestItem_Abyss_0002.webp",
+        "localPath": "gallery/zzz/IconQuestItem_Abyss_0002.webp",
+        "sha256": "cd521d5cf795a92a44329e66c2a2eee99ea5e5438127cfebf0dd35601f6b5bf3",
+        "etag": "\"dld8rg7rqkhi-7a0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7rqkhi-7a0\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9432|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9432,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0002.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconQuestItem_Abyss_0002.webp",
+        "localPath": "gallery/zzz/IconQuestItem_Abyss_0002.webp",
+        "sha256": "cd521d5cf795a92a44329e66c2a2eee99ea5e5438127cfebf0dd35601f6b5bf3",
+        "etag": "\"dld8rg7rqkhi-7a0\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7rqkhi-7a0\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=9432|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 9432,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0002.png",
+      "rank": 2,
+      "class": 22,
+      "name": "Bag of Cash"
+    },
+    "detail": {
+      "id": 305003,
+      "name": "Bag of Cash",
+      "desc": "A worn-out travel bag.",
+      "desc2": "A travel bag with dark red and black scuff marks on the side.\nUnzipping it reveals it to be stuffed full of banknotes.",
+      "class": {
+        "22": "CLUE ITEM"
+      },
+      "rarity": 2,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/IconHollowClueItem/UnPacker/IconQuestItem_Abyss_0002.png"
+    }
+  }
+}

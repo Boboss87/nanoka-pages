@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "gameId": "zzz",
+    "gameName": "Zenless Zone Zero",
+    "gameFolder": "绝区零",
+    "locale": "en",
+    "localeFolder": "English",
+    "localeLabel": "English",
+    "pageId": "item",
+    "pageFolder": "物品",
+    "sourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item.json",
+    "sourcePath": "3.3.12+19634983/en/item.json",
+    "sourceLocale": "en",
+    "localeMode": "path",
+    "detailSourceUrl": "https://static.nanoka.cc/zzz/3.3.12+19634983/en/item_all.json",
+    "hasDetail": true,
+    "version": "3.3.12+19634983",
+    "recordId": "1343502",
+    "name": "Seafall Comet",
+    "rarity": "四星",
+    "images": [
+      {
+        "fieldPath": "icon",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconEndlessSummerSurfboard02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconEndlessSummerSurfboard02.webp",
+        "localPath": "gallery/zzz/IconEndlessSummerSurfboard02.webp",
+        "sha256": "da027b4181b8f8ca67df25fd3fea8c3f0d4375a41417c040797e8468062426c0",
+        "etag": "\"dld8rg7mdnt4-6ao\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7mdnt4-6ao\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=8160|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8160,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      },
+      {
+        "fieldPath": "detail.icon_path",
+        "kind": "field",
+        "status": "downloaded",
+        "placeholder": false,
+        "originalValue": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconEndlessSummerSurfboard02.png",
+        "remoteUrl": "https://static.nanoka.cc/assets/zzz/IconEndlessSummerSurfboard02.webp",
+        "localPath": "gallery/zzz/IconEndlessSummerSurfboard02.webp",
+        "sha256": "da027b4181b8f8ca67df25fd3fea8c3f0d4375a41417c040797e8468062426c0",
+        "etag": "\"dld8rg7mdnt4-6ao\"",
+        "lastModified": "Sat, 12 Sep 2026 09:47:56 GMT",
+        "remoteKey": "etag=\"dld8rg7mdnt4-6ao\"|lastModified=Sat, 12 Sep 2026 09:47:56 GMT|bytes=8160|type=image/webp",
+        "contentType": "image/webp",
+        "bytes": 8160,
+        "retryable": false,
+        "retryOnNextRun": false,
+        "placeholderReason": null,
+        "failedCandidateCount": 0,
+        "error": null
+      }
+    ]
+  },
+  "content": {
+    "list": {
+      "icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconEndlessSummerSurfboard02.png",
+      "rank": 4,
+      "class": 97,
+      "name": "Seafall Comet"
+    },
+    "detail": {
+      "id": 1343502,
+      "name": "Seafall Comet",
+      "desc": "Built for higher speeds with its <color=#FA7000>built-in power recovery</color> capabilities.\nTop Speed (km/h): 198\nCruise Speed (km/h): 104",
+      "desc2": "",
+      "class": {
+        "97": null
+      },
+      "rarity": 4,
+      "icon_path": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/IconEndlessSummerSurfboard02.png"
+    }
+  }
+}
